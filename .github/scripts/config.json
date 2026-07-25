@@ -1,0 +1,70 @@
+{
+  "repo": "Open-Tech-Internships-2027",
+  "owner": "dreamworkhq",
+  "title": "Open Tech Internships 2027",
+  "tagline": "Verified-open US software, data, security, product, and design internships linked directly to company career pages, updated daily.",
+  "description": "Verified-open US tech internships linked directly to company career pages, updated daily.",
+  "homepage": "",
+  "topics": [
+    "internships",
+    "internship",
+    "jobs",
+    "job-search",
+    "software-engineering",
+    "summer-internship",
+    "summer-2027",
+    "jobboard",
+    "careers",
+    "tech-jobs",
+    "university",
+    "students",
+    "computer-science",
+    "hiring",
+    "internships-2027",
+    "swe-internships"
+  ],
+  "keywords": "verified-open US technology internships in software engineering, data science, security, product, and design",
+  "sources": [
+    {
+      "seniorityExact": "INTERN",
+      "function": "Engineering",
+      "countryExact": "US"
+    },
+    {
+      "seniorityExact": "INTERN",
+      "function": "Data Science",
+      "countryExact": "US"
+    },
+    {
+      "seniorityExact": "INTERN",
+      "function": "Security",
+      "countryExact": "US"
+    },
+    {
+      "seniorityExact": "INTERN",
+      "function": "Product",
+      "countryExact": "US"
+    },
+    {
+      "seniorityExact": "INTERN",
+      "function": "Design",
+      "countryExact": "US"
+    }
+  ],
+  "usOnly": true,
+  "titleInclude": "\\b(?:intern|internships?|co-?op)\\b",
+  "titleIncludeAll": [
+    "\\b(software|developer|computer|information technology|\\bit\\b|data|analytics?|machine learning|\\bml\\b|artificial intelligence|\\bai\\b|cyber|security|product|design|\\bux\\b|\\bui\\b|front[- ]?end|back[- ]?end|full[- ]?stack|web|mobile|android|\\bios\\b|cloud|devops|site reliability|\\bsre\\b|platform|infrastructure|embedded|firmware|hardware|robotics|automation|\\bqa\\b|test automation|solutions engineer)\\b"
+  ],
+  "titleExclude": "senior|staff|principal|director|\\bvp\\b|international\\b",
+  "minRows": 100,
+  "minUpstreamCoverageRatio": 0.4,
+  "minDirectLinkCoverageRatio": 0.95,
+  "maxPagesPerSource": 45,
+  "groupBy": "functionPrimary",
+  "showAiColumn": false,
+  "mode": "inventory",
+  "international": false,
+  "presentation": "community",
+  "linkMode": "source"
+}

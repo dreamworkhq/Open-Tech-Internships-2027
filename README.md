@@ -1,0 +1,362 @@
+# Open Tech Internships 2027
+
+Verified-open US software, data, security, product, and design internships linked directly to company career pages, updated daily.
+
+**314 open internships** · **89 companies** · **8 added in the last 24 hours** · Updated **2026-07-25**
+
+Indexed from company career pages and maintained by [Dreamwork](https://github.com/dreamworkhq).
+
+- [Engineering](#engineering-269) · 269 roles
+- [Security](#security-18) · 18 roles
+- [Data Science](#data-science-15) · 15 roles
+- [Product](#product-7) · 7 roles
+- [Design](#design-5) · 5 roles
+
+<!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
+
+### Engineering (269)
+
+| Company | Role | Location | Pay | Added |
+| --- | --- | --- | --- | --- |
+| **BMW AG** | [Intern, IT Data &amp; AI Engineering - Fall 2026](https://career5.successfactors.eu/careers?company=bmwag&jobId=191548) | — (Hybrid) | $54K–$67K | 0d |
+| **Magna** | [R&D- Computer Vision Engineering Intern](https://magna.wd3.myworkdayjobs.com/Magna/job/Troy-Michigan-US/R-D--Computer-Vision-Engineering-Intern_R00253444-1) | Troy, Michigan, US |  | 0d |
+| **SAP** | [SAP Globalization iXp Intern - Software Developer](https://career5.successfactors.eu/careers?company=SAP&jobId=455665) | North America, USA, Palo Alto (Hybrid) |  | 0d |
+| **Bosch** | [Powertrain Controls Software Engineering Intern](https://jobs.smartrecruiters.com/BoschGroup/744000139639579-powertrain-controls-software-engineering-intern?oga=true) | Farmington Hills, MI, United States (Hybrid) |  | 0d |
+| **Western Digital** | [Fall 2026 Intern - Failure Analysis Automation Engineering](https://jobs.smartrecruiters.com/WesternDigital/744000139338269-fall-2026-intern-failure-analysis-automation-engineering?oga=true) | San Jose, CA, United States | $55K–$73K | 0d |
+| **Solar Turbines** | [2027 Internship: Gas Compressor Data Analyst](https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Internship--Gas-Compressor-Data-Analyst_R0000375786) | San Diego, California | $54K–$89K | 0d |
+| **Copart** | [Software Engineering Intern](https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR106129) | Dallas, TX - Headquarters |  | 1d |
+| **Tenstorrent** | [Software Engineering Intern, Power Modeling & AI Tools](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007) | Santa Clara, California, United States | $104K–$146K | 1d |
+| **Marmon** | [Data Engineering Intern OR Student Co-Op](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Milwaukee-WI/Data-Engineering-Intern-OR-Student-Co-Op_JR0000037453-1) | Milwaukee, WI | $56K | 1d |
+| **HP Inc.** | [Software Engineering Intern, Device Experiences](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Device-Experiences_3164166-1) | San Francisco, California, United States of… |  | 1d |
+| **First Solar (US)** | [Software Engineer Intern (1st Shift)](https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1025137) | Perrysburg, OH, United States | $46K–$52K | 1d |
+| **Moog** | [Intern, Software Engineering](https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Software-Engineering_R-26-18885-1) | Buffalo, NY | $52K–$64K | 2d |
+| **Tesla** | [Internship, Software Validation Engineer, Factory Firmware (Fall 2026)](https://www.tesla.com/careers/search/job/277658) | Austin, Texas |  | 2d |
+| **Rivian** | [UIUC Research Park Intern - Embedded Software](https://careers.rivian.com/jobs/32354?lang=en-us) | Champaign, Illinois, United States | $52K–$83K | 2d |
+| **Cotiviti** | [Intern - AI Engineer](https://careers-cotiviti.icims.com/jobs/19531/intern---ai-engineer/job) | Remote (Remote, US) | $67K–$83K | 3d |
+| **Google** | [Software Engineering Intern, BS, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/85564713261245126) | Mountain View, CA, USA, Atlanta, GA, USA, A… | $98K–$131K | 4d |
+| **Google** | [Software Engineering Intern, MS, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/95141459539174086) | Mountain View, CA, USA, Atlanta, GA, USA, A… | $98K–$131K | 4d |
+| **SAP** | [SAP iXp Intern - AI Engineer](https://career5.successfactors.eu/careers?company=SAP&jobId=457106) | North America, USA, Naperville (Hybrid) |  | 4d |
+| **Western Digital** | [Summer 2027 - Software Engineering Internship](https://jobs.smartrecruiters.com/WesternDigital/744000138727213-summer-2027-software-engineering-internship?oga=true) | San Jose, CA, United States | $72K–$96K | 4d |
+| **Aveva** | [Software Developer Intern- Drexel Co-op US](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Philadelphia-Pennsylvania-United-States-of-America/Software-Developer-Intern--Drexel-Co-op-US_R014478) | Philadelphia, Pennsylvania, United States o… (Hybrid) | $53K–$88K | 4d |
+| **GEHC External Site** | [Edison Engineering Development Program Intern – Software](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Intern---Software_R4043933-2) | Waukesha |  | 4d |
+| **GEHC External Site** | [Information Technology Development Program - Internship](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Information-Technology-Development-Program---Internship_R4043927-1) | Remote |  | 4d |
+| **GEHC External Site** | [Edison Engineering Development Program Internship - Hardware](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Internship---Hardware_R4043923-1) | Waukesha |  | 4d |
+| **Altera** | [AI Software Development Engineer - Intern](https://altera.wd1.myworkdayjobs.com/Altera/job/San-Jose-California-United-States/AI-Software-Development-Engineer---Intern_R02707) | San Jose, California, United States | $100K–$108K | 5d |
+| **Tesla** | [Internship, EMC Design Power Electronics, Energy Engineering (Fall 2026)](https://www.tesla.com/careers/search/job/277157) | Palo Alto, California | $42K–$104K | 6d |
+| **Western Digital** | [Fall 2026 PhD Intern - Hardware Development Engineering](https://jobs.smartrecruiters.com/WesternDigital/744000138191379-fall-2026-phd-intern-hardware-development-engineering?oga=true) | Fremont, CA, United States | $87K–$116K | 7d |
+| **Western Digital** | [Software Engineering Co-Op - Winter 2027](https://jobs.smartrecruiters.com/WesternDigital/744000138184309-software-engineering-co-op-winter-2027?oga=true) | Rochester, MN, United States | $48K–$63K | 7d |
+| **Cadence Design Systems** | [SSG Design Engineering Intern (Fall 2026)](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/SSG-Design-Engineering-Intern--Fall-2026-_R52641) | SAN JOSE | $73K–$129K | 7d |
+| **Tesla** | [Internship, Localization Specialist, IT Applications (Fall 2026)](https://www.tesla.com/careers/search/job/276308) | Fremont, California | $52K–$74K | 7d |
+| **Tesla** | [Internship, Software Engineer, Energy Engineering (Fall 2026)](https://www.tesla.com/careers/search/job/276987) | Palo Alto, California | $42K–$104K | 7d |
+| **Solar Turbines** | [2027 Gas Turbine Product Engineering Internship](https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027--Gas-Turbine-Product-Engineering-Internship_R0000382293) | San Diego, California | $54K–$89K | 7d |
+| **Tencent** | [Cloud Media Services Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Cloud-Media-Services-Intern_R107794) | US-Washington-Bellevue | $56K–$108K | 8d |
+| **Formlabs** | [Test Software - Manufacturing Intern (Fall 2026)](https://careers.formlabs.com/job/8065543/apply/?gh_jid=8065543) | Boston, MA | $96K–$114K | 9d |
+| **Akunacapital** | [Software Engineer Intern - C# .NET Desktop, Summer 2027](https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886) | Chicago, IL | $145K | 10d |
+| **Akunacapital** | [Platform Engineer Intern, Summer 2027](https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856) | Chicago, IL (Hybrid) | $145K | 10d |
+| **Akunacapital** | [Software Engineer Intern - Full Stack Web, Summer 2027](https://www.akunacapital.com/careers/job/8018893/?gh_jid=8018893) | Chicago, IL | $145K | 10d |
+| **Akunacapital** | [Software Engineer Intern - C++, Summer 2027](https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847) | Chicago, IL | $145K | 10d |
+| **Akunacapital** | [Hardware Engineer Intern, Summer 2027](https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880) | Chicago, IL | $145K | 10d |
+| **Akunacapital** | [Software Engineer Intern - Python, Summer 2027](https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853) | Chicago, IL | $145K | 10d |
+| **NXP Semiconductors** | [Digital Physical Design (P&R) Intern](https://nxp.wd3.myworkdayjobs.com/careers/job/Chandler-Office/Digital-Physical-Design--P-R--Intern_R-10064673) | Chandler (Office) |  | 10d |
+| **Midmark Corporation Opportuniti…** | [Firmware Engineering Co-op - Spring 2027](https://hcor.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4333) | Versailles, OH, United States |  | 12d |
+| **Ferrovial** | [Webber - Field Engineer Intern I - Infrastructure](https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site/job/Miami/Webber---Field-Engineer-Intern-I---Infrastructure_JR17075) | Miami |  | 12d |
+| **Ferrovial** | [Webber - Field Engineer Intern I - Infrastructure](https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site/job/Murfreesboro-TN/Webber---Field-Engineer-Intern-I---Infrastructure_JR16959) | Murfreesboro, TN |  | 12d |
+| **CityOfNewYork** | [DESIGN ENGINEER INTERN](https://jobs.smartrecruiters.com/CityOfNewYork/3743990014047106-design-engineer-intern?oga=true) | Queens, NY, United States | $60K–$72K | 12d |
+| **SAP** | [SAP SuccessFactors iXp Intern - AI Software Developer](https://career5.successfactors.eu/careers?company=SAP&jobId=456828) | North America, USA, San Ramon (Hybrid) |  | 13d |
+| **Tesla** | [Internship, Supercharger SIL Test Infrastructure Software Engineer, Ene…](https://www.tesla.com/careers/search/job/276333) | Palo Alto, California | $42K–$104K | 13d |
+| **Copart** | [QA Engineering Intern](https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/QA-Engineering-Intern_JR109671) | Dallas, TX - Headquarters |  | 13d |
+| **Palantir** | [Forward Deployed Infrastructure Engineer, Internship - US Government](https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b) | New York, NY (Hybrid) | $120K | 13d |
+| **Palantir** | [Forward Deployed Infrastructure Engineer, Internship - US Government](https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69) | Palo Alto, CA (Hybrid) | $120K | 13d |
+| **BorgWarner** | [Automation and Controls Engineering Co-Op](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Arden---North-Carolina---USA/Automation-and-Controls-Engineering-Co-Op_R2026-0976) | Arden - North Carolina - USA |  | 13d |
+| **Copart** | [DevOps Engineering Intern](https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/DevOps-Engineering-Intern_JR109490) | Dallas, TX - Headquarters |  | 15d |
+| **Fa Evmr Saasfaprod1** | [Software Quality Assurance Coop](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/37694) | United States | $47K–$98K | 16d |
+| **Howmet Aerospace** | [Co-Op - Electrical/Automation Engineering (Fall 2026)](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/118356) | Barberton, OH, United States |  | 16d |
+| **Nvidia** | [Performance Engineer Intern, Systems Software- Fall 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779) | US, MO, St. Louis | $42K–$148K | 17d |
+| **Tesla** | [Internship, AI Engineer, Tesla AI (Fall 2026)](https://www.tesla.com/careers/search/job/275331) | Palo Alto, California | $100K–$150K | 19d |
+| **Tesla** | [Internship, Distributed Systems Software Engineer, Energy Engineering (…](https://www.tesla.com/careers/search/job/275558) | Palo Alto, California | $42K–$104K | 19d |
+| **Tesla** | [Internship, Power Electronics Firmware Engineer, Energy Engineering (Fa…](https://www.tesla.com/careers/search/job/275689) | Palo Alto, California | $42K–$104K | 19d |
+| **Tesla** | [Internship, Software Engineer Diagnostics, Energy Engineering (Fall 202…](https://www.tesla.com/careers/search/job/275805) | Palo Alto, California | $42K–$104K | 19d |
+| **Fortinet** | [Software Development Intern - GenAI](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/22401) | Santa Clara, CA, United States | $73K–$94K | 20d |
+| **Caterpillar** | [2027 Engineering Corporate Intern Program - Product Development Track](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Corporate-Intern-Program-----Product-Development-Track_R0000380479) | 20 Locations | $52K–$89K | 22d |
+| **Amazon** | [Robotics - Hardware Development Engineer Co-op - 2026 (Robotics, Mechan…](https://www.amazon.jobs/en/jobs/10394153/robotics-hardware-development-engineer-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more) | US, MA, Westboro | $97K–$160K | 22d |
+| **Amazon** | [Robotics - Hardware Development Engineer Intern/Co-op - 2026 (Robotics,…](https://www.amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more) | US, MA, Westboro | $97K–$160K | 22d |
+| **Amazon** | [Robotics - Software Development Engineer Intern/Co-op - 2026](https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026) | US, MA, Westboro | $111K–$160K | 22d |
+| **Nelnet** | [Intern - AI Engineer](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---AI-Engineer_R22763) | Lincoln, NE | $44K–$52K | 23d |
+| **Palantir** | [Forward Deployed Software Engineer, Internship - Commercial](https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2) | Chicago, IL (Hybrid) | $120K | 23d |
+| **Tesla** | [Internship, Data Engineer, Applications Engineering (Fall 2026)](https://www.tesla.com/careers/search/job/272928) | Fremont, California | $67K–$94K | 23d |
+| **Tesla** | [Internship, Inline Metrology Systems Design/Engineer, Cell Engineering …](https://www.tesla.com/careers/search/job/275335) | Fremont, California | $42K–$104K | 23d |
+| **Tesla** | [Internship, ML Modeling Engineer, AI Hardware (Fall 2026)](https://www.tesla.com/careers/search/job/275316) | Palo Alto, California | $52K–$135K | 23d |
+| **Tesla** | [Internship, Systems Integration Engineer Low Voltage Power Management, …](https://www.tesla.com/careers/search/job/275207) | Palo Alto, California | $88K–$122K | 23d |
+| **Tesla** | [Internship, Machine Learning Engineer, Factory Software (Fall 2026)](https://www.tesla.com/careers/search/job/275380) | Fremont, California | $83K–$116K | 23d |
+| **Tesla** | [Internship, Mechanical Design Engineer, Energy Engineering (Fall 2026)](https://www.tesla.com/careers/search/job/272104) | Palo Alto, California | $42K–$104K | 23d |
+| **Tesla** | [Internship, RL Engineer, Tesla AI (Fall 2026)](https://www.tesla.com/careers/search/job/275494) | Palo Alto, California | $100K–$150K | 23d |
+| **Tesla** | [Internship, Software Engineer, Torque Path & Chassis Controls (Fall 202…](https://www.tesla.com/careers/search/job/274760) | Palo Alto, California | $88K–$122K | 23d |
+| **Palantir** | [Software Engineer, Internship](https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249) | Denver, CO (Hybrid) | $126K | 24d |
+| **Palantir** | [Software Engineer, Internship - Defense Tech](https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e) | New York, NY (Hybrid) | $126K | 24d |
+| **Palantir** | [Software Engineer, Internship - Production Infrastructure](https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116) | New York, NY (Hybrid) | $126K | 24d |
+| **Palantir** | [Software Engineer, Internship - Production Infrastructure](https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1) | Seattle, WA (Hybrid) | $126K | 24d |
+| **Palantir** | [Software Engineer, Internship - Infrastructure](https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4) | Palo Alto, CA (Hybrid) | $126K | 24d |
+| **Palantir** | [Software Engineer, Internship - Infrastructure](https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3) | New York, NY (Hybrid) | $126K | 24d |
+| **Palantir** | [Software Engineer, Internship - Defense Tech](https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d) | Palo Alto, CA (Hybrid) | $126K | 24d |
+| **Palantir** | [Software Engineer, Internship](https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d) | New York, NY (Hybrid) | $126K | 24d |
+| **Palantir** | [Software Engineer, Internship](https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c) | Palo Alto, CA (Hybrid) | $126K | 24d |
+| **Palantir** | [Privacy and Civil Liberties Software Engineer, Internship](https://jobs.lever.co/palantir/09846827-b931-4a9f-bd64-c3bb8860187b) | New York, NY (Hybrid) | $75K | 24d |
+| **Palantir** | [Forward Deployed Software Engineer, Internship - Commercial](https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6) | New York, NY (Hybrid) | $120K | 24d |
+| **Psu** | [Embedded Systems and Hardware Co-Op](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Warminster-PA/Embedded-Systems-and-Hardware-Co-Op_REQ_0000066566-2) | Warminster, PA (Hybrid) |  | 26d |
+| **Psu** | [Electronic Systems and Hardware Co-Op](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Warminster-PA/Electronic-Systems-and-Hardware-Co-Op_REQ_0000066567-1) | Warminster, PA (Hybrid) |  | 26d |
+| **Varda Space** | [Flight Software (C++) Internship - Summer 2026](https://job-boards.greenhouse.io/vardaspace/jobs/6824788003) | El Segundo, California, United States |  | 27d |
+| **Flyzipline** | [System Test Automation Intern (Fall 2026)](https://www.zipline.com/open-roles?gh_jid=7786445003) | South San Francisco, California, USA |  | 27d |
+| **Flyzipline** | [Software Engineer Intern (Fall 2026)](https://www.zipline.com/open-roles?gh_jid=7787509003) | South San Francisco, California, USA | $112K | 27d |
+| **Tesla** | [Internship, Product Engineer, Applications Engineering (Fall 2026)](https://www.tesla.com/careers/search/job/274754) | Fremont, California | $70K–$77K | 28d |
+| **Palantir** | [Year at Palantir - Forward Deployed Software Engineer, Internship - Com…](https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3) | Chicago, IL | $71K–$126K | 29d |
+| **Sonyglobal** | [Software Engineer Intern](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Software-Engineer-Intern_JR-119282) | San Diego (Hybrid) | $50K–$80K | 1mo |
+| **Formlabs** | [Manufacturing Test Software Intern (Fall 2026)](https://careers.formlabs.com/job/8021679/apply/?gh_jid=8021679) | Somerville, MA | $96K | 1mo |
+| **Figure** | [Firmware Intern \[Fall 2026\]](https://job-boards.greenhouse.io/figureai/jobs/4691070006) | San Jose, CA | $83K–$94K | 1mo |
+| **Intuitive** | [Computer Vision Engineering Intern - Fall 2026](https://jobs.smartrecruiters.com/Intuitive/744000133458290-computer-vision-engineering-intern-fall-2026?oga=true) | Sunnyvale, CA, United States | $152K–$171K | 1mo |
+| **Tesla** | [Internship, Electronic Design Engineer, Energy Engineering (Fall 2026)](https://www.tesla.com/careers/search/job/274258) | Palo Alto, California | $42K–$104K | 1mo |
+| **Formlabs** | [Hardware R&D Engineering Intern (Fall 2026)](https://careers.formlabs.com/job/7890746/apply/?gh_jid=7890746) | Somerville, MA | $82K–$101K | 1mo |
+| **Generac** | [Intern Firmware Engineering](https://generac.wd5.myworkdayjobs.com/External/job/Reno-NV---USA/Intern-Firmware-Engineering_JR14674) | Reno, NV - USA |  | 1mo |
+| **Marvell Technology** | [Digital Logic + Design Verification Graduate Co-Op Program (US - Fall 2…](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Santa-Clara-CA/Digital-Logic---Design-Verification-Graduate-Co-Op-Program--US---Fall-2026-_2602858-1) | Santa Clara, CA | $73K–$146K | 1mo |
+| **Quadric Dot I O Inc** | [AI Kernel Engineer Intern - Kernel Optimization](https://apply.workable.com/quadric-dot-i-o-inc/j/6BEF4752B5/) | Burlingame, California, United States | $94K–$125K | 1mo |
+| **Quadric Dot I O Inc** | [AI Inference Engineer Intern - Model Pruning](https://apply.workable.com/quadric-dot-i-o-inc/j/870833317E/) | Burlingame, California, United States | $94K–$125K | 1mo |
+| **Tesla** | [Internship, Electric Motor Mechanical Modeling Engineer, Motor Design (…](https://www.tesla.com/careers/search/job/274074) | Palo Alto, California | $42K–$114K | 1mo |
+| **Midmark Corporation Opportuniti…** | [IT Software Development Co-op - Spring 2027](https://hcor.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4332) | Versailles, OH, United States |  | 1mo |
+| **GE Aerospace** | [Embedded Systems Engineer Co-op (Bohemia, NY) – Spring 2027](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Bohemia/Embedded-Systems-Engineer-Co-op--Bohemia--NY----Spring-2027_R5035583-1) | Bohemia | $50K | 1mo |
+| **Tesla** | [Internship, Software Engineer Industrial Firmware, Energy Engineering (…](https://www.tesla.com/careers/search/job/273820) | Palo Alto, California | $42K–$104K | 1mo |
+| **Tesla** | [Internship, Embedded System Software Engineer, Energy Engineering (Fall…](https://www.tesla.com/careers/search/job/273822) | Palo Alto, California | $42K–$104K | 1mo |
+| **Tesla** | [Internship, Data Capture Application Engineer, Energy Engineering (Fall…](https://www.tesla.com/careers/search/job/273927) | Palo Alto, California | $42K–$104K | 1mo |
+| **Tesla** | [Internship, Software Validation Engineer, Steering, Chassis Systems (Fa…](https://www.tesla.com/careers/search/job/274045) | Palo Alto, California | $88K–$122K | 1mo |
+| **Tesla** | [Internship, Embedded Software Engineer, Steering, Chassis Systems (Fall…](https://www.tesla.com/careers/search/job/274047) | Palo Alto, California | $88K–$122K | 1mo |
+| **Palantir** | [Forward Deployed Software Engineer, Internship - US Government](https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f) | New York, NY (Hybrid) | $120K | 1mo |
+| **Ralliant** | [Software Engineering Intern (MECOP) – 2026](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8465) | Beaverton, OR, United States |  | 1mo |
+| **Tesla** | [Internship, Commercial UI Software Engineer, Energy Engineering (Fall 2…](https://www.tesla.com/careers/search/job/273723) | Palo Alto, California | $42K–$104K | 1mo |
+| **Tesla** | [Internship, Residential Energy Device Software Engineer, Energy Enginee…](https://www.tesla.com/careers/search/job/273810) | Palo Alto, California | $42K–$104K | 1mo |
+| **General Dynamics Mission Systems** | [Systems Engineering Co-op - Security Clearance Required](https://careers-gdms.icims.com/jobs/73074/systems-engineering-co-op---security-clearance-required/job) | Scottsdale, AZ, US (Hybrid) | $49K–$60K | 1mo |
+| **Astreya** | [AI Infrastructure DC Design Intern](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015747) | Remote (Remote, CA) | $33K–$52K | 1mo |
+| **Anduril** | [2027 Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007) | Atlanta, Georgia, United States; Boston, Ma… | $83K–$114K | 1mo |
+| **Tesla** | [Internship, Supercharger Product Support Engineering (Fall 2026)](https://www.tesla.com/careers/search/job/273531) | Palo Alto, California | $50K–$73K | 1mo |
+| **Flyzipline** | [Enterprise Systems Software Engineer Intern (Fall 2026)](https://www.zipline.com/open-roles?gh_jid=7767667003) | South San Francisco, California, USA | $112K | 1mo |
+| **Tesla** | [Internship, Embedded Software Engineer, Optimus (Fall 2026)](https://www.tesla.com/careers/search/job/273272) | Palo Alto, California | $42K–$125K | 1mo |
+| **Tenstorrent** | [CPU/AI Workload Analysis Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5158533007) | Santa Clara, California, United States |  | 1mo |
+| **Flyzipline** | [Embedded Software Engineer Intern (Fall 2026)](https://www.zipline.com/open-roles?gh_jid=7765240003) | South San Francisco, California, USA | $112K | 1mo |
+| **Peraton** | [Generative AI Engineering Intern (Graduate)](https://careers-peraton.icims.com/jobs/167460/generative-ai-engineering-intern-%28graduate%29/job) | US (Hybrid) | $73K | 1mo |
+| **Tesla** | [Internship, Software Machine Learning Engineer, Reliability Energy Engi…](https://www.tesla.com/careers/search/job/272619) | Palo Alto, California | $42K–$104K | 1mo |
+| **Tesla** | [Internship, Site Controller Software Engineer, Energy Engineering (Fall…](https://www.tesla.com/careers/search/job/272615) | Palo Alto, California | $42K–$104K | 1mo |
+| **Tesla** | [Internship, Reliability Electronics Design Engineer, Energy Engineering…](https://www.tesla.com/careers/search/job/272601) | Palo Alto, California | $42K–$104K | 1mo |
+| **Tesla** | [Internship, Software Engineer Opticaster, Energy Engineering (Fall 2026)](https://www.tesla.com/careers/search/job/272937) | Palo Alto, California | $42K–$104K | 1mo |
+| **Tesla** | [Internship, AI Hardware Silicon Validation Engineer, AI Hardware (Fall …](https://www.tesla.com/careers/search/job/272912) | Palo Alto, California | $42K–$114K | 1mo |
+| **Generac** | [Mechanical Design Engineering Intern](https://generac.wd5.myworkdayjobs.com/External/job/North-Billerica-MA---USA/Mechanical-Design-Engineering-Intern_JR14679) | North Billerica, MA - USA |  | 1mo |
+| **Rivianvw.Tech** | [Software Engineering Intern - Connected Systems (Fall 2026)](https://jobs.ashbyhq.com/rivianvw.tech/50e43cbe-01ea-4b8b-be4c-bb5f48a2be92) | Irvine, California | $79K–$106K | 1mo |
+| **Rivianvw.Tech** | [Software Engineering Intern - Applications (Fall 2026)](https://jobs.ashbyhq.com/rivianvw.tech/3f314ca7-978e-4ad6-b527-0487a9a9598c) | Irvine, California | $79K–$106K | 1mo |
+| **Rivianvw.Tech** | [Android Developer Intern (Fall 2026)](https://jobs.ashbyhq.com/rivianvw.tech/5633bb03-cc16-47fc-af02-db9dc355eddd) | Palo Alto, California | $94K–$106K | 1mo |
+| **NW** | [Software / Hardware Engineering - Intern](https://nwis.wd12.myworkdayjobs.com/NW/job/Annapolis-Junction-MD/Software---Hardware-Engineering---Intern_JR101733) | Annapolis Junction, MD |  | 1mo |
+| **Nvidia** | [DGX Cloud Kubernetes Runtime Intern - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/DGX-Cloud-Kubernetes-Runtime-Intern---Fall-2026_JR2009619) | US, CA, Santa Clara | $42K–$148K | 1mo |
+| **Rivianvw.Tech** | [Software Engineering Intern - Embedded Platforms (Fall 2026)](https://jobs.ashbyhq.com/rivianvw.tech/4dfbf1e6-3778-4101-8ac7-cd4015d47eff) | Palo Alto, California | $79K–$106K | 1mo |
+| **Rivianvw.Tech** | [Software Engineering Intern - Vehicle Controls (Fall 2026)](https://jobs.ashbyhq.com/rivianvw.tech/89feb2fe-c28c-4dad-846f-09594632ba55) | Irvine, California | $79K–$106K | 1mo |
+| **Rivianvw.Tech** | [Electromechanical Design Engineering Intern (Fall 2026)](https://jobs.ashbyhq.com/rivianvw.tech/14734be2-9c81-4aab-bfa6-7dbbe95c94a6) | Irvine, California | $69K–$106K | 1mo |
+| **LiveRamp** | [Co-Op, Software Engineer - Action Runtime](https://liveramp.wd5.myworkdayjobs.com/LiveRampCareers/job/San-Francisco/Co-Op--Software-Engineer---Conversions-API_JR012232-1) | San Francisco | $64K–$102K | 1mo |
+| **Tesla** | [Internship, AI Hardware Design Engineer, AI Hardware (Fall 2026)](https://www.tesla.com/careers/search/job/272462) | Palo Alto, California | $42K–$114K | 1mo |
+| **Tesla** | [Internship, Electrical Design Engineer, Tactile Sensing, Optimus (Fall …](https://www.tesla.com/careers/search/job/272581) | Palo Alto, California | $42K–$114K | 1mo |
+| **Tesla** | [Internship, Electromechanical Product Design Engineer, Optimus (Fall 20…](https://www.tesla.com/careers/search/job/272577) | Palo Alto, California | $42K–$114K | 1mo |
+| **Marvell Technology** | [Analog Design Intern - Master's Degree (Quarter Schools / Fall 2026 Sta…](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Westlake-Village-CA/Analog-Design-Intern---Master-s-Degree--Quarter-Schools---Fall-2026-Start-Dates-_2502475-1) | Westlake Village, CA | $81K–$158K | 1mo |
+| **Tesla** | [Internship, Mechanical Design Engineer, Residential Energy Engineering …](https://www.tesla.com/careers/search/job/272126) | Palo Alto, California | $42K–$104K | 1mo |
+| **Tesla** | [Internship, Software Engineer, AI Data Infrastructure (Fall 2026)](https://www.tesla.com/careers/search/job/269829) | Palo Alto, California |  | 1mo |
+| **Magna** | [Product Engineering Intern](https://magna.wd3.myworkdayjobs.com/Magna/job/Grand-Rapids-Michigan-US/Product-Engineering-Intern_R00243272) | Grand Rapids, Michigan, US |  | 1mo |
+| **Tesla** | [Internship, Mechanical Design, Robotaxi Service Tooling (Fall 2026)](https://www.tesla.com/careers/search/job/271865) | Fremont, California | $58K–$81K | 1mo |
+| **Tesla** | [Internship, Software Integration Engineer, Service Tooling (Fall 2026)](https://www.tesla.com/careers/search/job/271866) | Fremont, California | $65K–$105K | 1mo |
+| **Tesla** | [Internship, Robotics Audio DSP Engineer, Optimus (Fall 2026)](https://www.tesla.com/careers/search/job/272002) | Palo Alto, California | $42K–$114K | 1mo |
+| **Tesla** | [Internship, System Integration & Test Automation Engineer, Energy Engin…](https://www.tesla.com/careers/search/job/271839) | Palo Alto, California | $42K–$104K | 1mo |
+| **Cadence Design Systems** | [Intern-Software Engineering](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/HOME-MI/Intern-Software-Engineering_R53788) | Remote (HOME MI) |  | 1mo |
+| **Tesla** | [Internship, Electronic Design Engineer, Optimus (Fall 2026)](https://www.tesla.com/careers/search/job/271981) | Palo Alto, California | $42K–$114K | 1mo |
+| **Tesla** | [Internship, Robotics Modeling & Simulation Engineer, Optimus (Fall 2026)](https://www.tesla.com/careers/search/job/271979) | Palo Alto, California | $42K–$114K | 1mo |
+| **Brunswick** | [Computer Graphics Software Developer Intern](https://brunswick.wd1.myworkdayjobs.com/search/job/Champaign-IL/Computer-Graphics-Software-Developer-Intern_JR-050234) | Champaign, IL | $48K–$54K | 1mo |
+| **Navy Federal Credit Union** | [Intern - Year Round (Test Engineering and Automation)](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/30925) | Vienna, VA, United States (Hybrid) | $44K–$76K | 1mo |
+| **Kiongroup** | [AI Internships](https://kiongroup.wd3.myworkdayjobs.com/KIONGroup/job/Wauwatosa-WI-United-States/AI-Internships_JR-0088855-1) | Wauwatosa, WI, United States | $44K–$52K | 1mo |
+| **Tenstorrent** | [Machine Learning for Physical Design Intern - CPU/AI Hardware](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4968215007) | Santa Clara, California, United States (Hybrid) | $104K–$146K | 1mo |
+| **Tenstorrent** | [Software Intern - AI Compilers](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501189007) | Santa Clara, California, United States | $104K–$146K | 1mo |
+| **Tenstorrent** | [Data Movement Architecture Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4999339007) | Austin, Texas, United States; Fort Collins,… | $104K–$146K | 1mo |
+| **Tenstorrent** | [Machine Learning for Physical Design Intern - CPU/AI Hardware](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501164007) | Austin, Texas, United States | $104K–$146K | 1mo |
+| **Tenstorrent** | [Software Intern - AI Compilers](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4968219007) | Austin, Texas, United States (Hybrid) | $104K–$146K | 1mo |
+| **Tenstorrent** | [CPU Core Performance Verification Intern - CPU/AI Hardware](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501134007) | Austin, Texas, United States | $104K–$146K | 1mo |
+| **Tenstorrent** | [Design Verification Engineer, Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4873756007) | Boston, Massachusetts, United States (Hybrid) |  | 1mo |
+| **Tenstorrent** | [Physical Design Intern - CPU/AI Hardware](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4526301007) | Austin, Texas, United States; Santa Clara, … | $104K–$146K | 1mo |
+| **Tencent** | [Cloud Media Services Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Cloud-Media-Services-Intern_R106872) | US-California-Palo Alto | $56K–$108K | 1mo |
+| **Firstquality** | [INTERN OR CO-OP - Product Development Engineer](https://firstquality.wd5.myworkdayjobs.com/FIRSTQUALITY/job/US-SC-Anderson/INTERN-OR-CO-OP---Product-Development-Engineer_R9818) | US SC Anderson | $44K–$48K | 1mo |
+| **Black Box** | [AI Engineer Intern - USA](https://eoje.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/6315) | PLANO, TX, United States |  | 1mo |
+| **Plus** | [Computer Vision Engineer Intern](https://jobs.lever.co/plus-2/c143df6e-66c2-4498-b19b-8323f9954ca9) | Santa Clara, CA | $40K–$135K | 1mo |
+| **Netflix** | [Software Engineer PhD Intern, Streaming Algorithms (Summer 2026)](https://netflix.wd108.myworkdayjobs.com/Netflix/job/Los-Gatos/Software-Engineer-PhD-Intern--Streaming-Algorithms--Summer-2026-_JR37687) | Los Gatos | $52K–$229K | 1mo |
+| **Formlabs** | [Hardware Systems Integration Intern (Fall 2026)](https://careers.formlabs.com/job/7927471/apply/?gh_jid=7927471) | Somerville, MA |  | 1mo |
+| **Walterpmoore** | [Engineering Intern - Secure Design](https://careers-walterpmoore.icims.com/jobs/3587/engineering-intern---secure-design/job) | Washington, DC, US | $53K–$73K | 1mo |
+| **Black Box** | [AI Intern - Dallas, TX](https://eoje.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/5523) | PLANO, TX, United States |  | 1mo |
+| **Howmet Aerospace** | [Intern - Automation Engineer - Whitehall, MI (Summer 2026)](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/116700) | Whitehall, MI, United States |  | 1mo |
+| **Oracle** | [OCI Software Engineer Intern - OVIP](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/334333) | Austin, TX, United States | $62K | 1mo |
+| **Oracle** | [OCI Software Engineer Intern - OVIP](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/334325) | Seattle, WA, United States | $62K | 1mo |
+| **Oracle** | [ONA AI Agent Intern (Logistics Focus) - OVIP](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/334345) | Austin, TX, United States | $62K | 1mo |
+| **Applied Materials** | [2026 Summer Intern - Physics & AI modeling Engineering](https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/XMLNAME-2026-Summer-Intern---Physics---AI-modeling-Engineering_R2616095) | Santa Clara,CA |  | 1mo |
+| **Beyondsoft** | [Software Engineer Intern](https://careers-beyondsoft.icims.com/jobs/10912/software-engineer-intern/job) | Remote (United States (Remote), US) | $115K–$192K | 2mo |
+| **Biotechne** | [Hardware Engineering Intern](https://biotechne.wd5.myworkdayjobs.com/Biotechne/job/San-Jose-CA/Hardware-Engineering-Intern_JR101533) | San Jose, CA | $80K–$97K | 2mo |
+| **Plus** | [Machine Learning Engineer Intern](https://jobs.lever.co/plus-2/5d71c173-fef1-409f-b3f0-750e3b828266) | Santa Clara, CA | $40K–$135K | 2mo |
+| **Plus** | [Software Engineer Intern - Robotics](https://jobs.lever.co/plus-2/7a1afea9-b468-4b7c-a508-185e8e4032db) | Santa Clara, CA | $40K–$135K | 2mo |
+| **Plus** | [Machine Learning Engineer Intern - Planning](https://jobs.lever.co/plus-2/91a07eb1-2244-48bf-a65b-dc166a327ddc) | Santa Clara, CA | $40K–$135K | 2mo |
+| **Plus** | [Machine Learning Engineer Intern - Scenario Simulation](https://jobs.lever.co/plus-2/b4f750e7-0148-41f0-b2b1-ff054450a320) | Santa Clara, CA | $40K–$135K | 2mo |
+| **Plus** | [Software Engineer Intern- Runtime, Robotics](https://jobs.lever.co/plus-2/a3bcdba6-b0d0-46ba-9af3-a387926a6fb4) | Santa Clara, CA (Hybrid) | $40K–$135K | 2mo |
+| **Plus** | [Machine Learning Engineer Intern - Scenario Generation](https://jobs.lever.co/plus-2/1432ed29-d5e2-4348-acc4-9c42bf0897e2) | Santa Clara, CA | $40K–$135K | 2mo |
+| **Plus** | [Full Stack Engineer Intern](https://jobs.lever.co/plus-2/b69c9b6d-483f-41d4-b487-97c99332ca40) | Santa Clara, CA | $40K–$135K | 2mo |
+| **Plus** | [Robotics Systems Intern - Sensor Platform](https://jobs.lever.co/plus-2/c6560f15-5446-442a-878d-b7c72606149b) | Santa Clara, CA | $40K–$135K | 2mo |
+| **KLA** | [Software Engineering Intern](https://kla.wd1.myworkdayjobs.com/AnnArbor/job/Ann-Arbor-MI/Software-Engineering-Intern_2531653) | Ann Arbor, MI | $67K–$94K | 2mo |
+| **Beyond New Horizons** | [Computer Aided Design Drafter Co-op](https://careers-bnh.icims.com/jobs/23686/computer-aided-design-drafter-co-op/job) | Arnold AFB, TN, US | $42K–$56K | 2mo |
+| **MaxLinear** | [AI Intern](https://careersus-maxlinear.icims.com/jobs/3049/ai-intern/job) | Remote (Carlsbad, CA, US) | $52K–$83K | 2mo |
+| **Nvidia** | [PhD Software Engineering Intern, Decision Intelligence - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522) | US, CA, Santa Clara | $62K–$196K | 2mo |
+| **Neuralink** | [Software Engineer Intern, Robotics](https://boards.greenhouse.io/neuralink/jobs/5469305003?gh_jid=5469305003) | Austin, Texas, United States; South San Fra… | $73K | 2mo |
+| **Neuralink** | [Software Engineer Intern, BCI Applications](https://boards.greenhouse.io/neuralink/jobs/6594422003?gh_jid=6594422003) | South San Francisco, California, United Sta… | $73K | 2mo |
+| **Neuralink** | [Software Engineer Intern, Internal Apps](https://boards.greenhouse.io/neuralink/jobs/6083322003?gh_jid=6083322003) | Austin, Texas, United States; South San Fra… | $73K | 2mo |
+| **Neuralink** | [Software Engineer Intern, Infrastructure](https://boards.greenhouse.io/neuralink/jobs/5469298003?gh_jid=5469298003) | South San Francisco, California, United Sta… | $73K | 2mo |
+| **Neuralink** | [Software Engineer Intern, Implant](https://boards.greenhouse.io/neuralink/jobs/6569018003?gh_jid=6569018003) | Austin, Texas, United States; South San Fra… | $73K | 2mo |
+| **Neuralink** | [Analog and Mixed-Signal IC Design Engineer Intern](https://boards.greenhouse.io/neuralink/jobs/7565469003?gh_jid=7565469003) | South San Francisco, California, United Sta… | $73K | 2mo |
+| **Neuralink** | [Digital IC Design Engineer Intern](https://boards.greenhouse.io/neuralink/jobs/7090489003?gh_jid=7090489003) | South San Francisco, California, United Sta… | $73K | 2mo |
+| **Neuralink** | [Firmware Engineer Intern, Robotics and Surgery Engineering](https://boards.greenhouse.io/neuralink/jobs/6648992003?gh_jid=6648992003) | South San Francisco, California, United Sta… | $73K | 2mo |
+| **Neuralink** | [Mechanical Engineering Intern, Robotics](https://boards.greenhouse.io/neuralink/jobs/6514169003?gh_jid=6514169003) | South San Francisco, California, United Sta… | $73K | 2mo |
+| **Neuralink** | [Embedded Software Engineer Intern, Implant Embedded Systems](https://boards.greenhouse.io/neuralink/jobs/6283663003?gh_jid=6283663003) | Austin, Texas, United States; South San Fra… | $73K | 2mo |
+| **Neuralink** | [Machine Learning Engineer Intern](https://boards.greenhouse.io/neuralink/jobs/6594261003?gh_jid=6594261003) | South San Francisco, California, United Sta… | $73K | 2mo |
+| **Neuralink** | [Electrical Engineer Intern, Implant Embedded Systems](https://boards.greenhouse.io/neuralink/jobs/7702527003?gh_jid=7702527003) | Austin, Texas, United States; South San Fra… | $73K | 2mo |
+| **Cadence Design Systems** | [Product Engineering Internship, Simulation and Verification (Fall 2026)](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/Burlington-MA/Product-Engineering-Internship--Simulation-and-Verification--Summer-2026-_R53475) | Burlington, MA |  | 2mo |
+| **Tesla** | [Internship, Solar Hardware Engineer, Energy Engineering (Fall 2026)](https://www.tesla.com/careers/search/job/271539) | Palo Alto, California | $42K–$104K | 2mo |
+| **Tesla** | [Internship, Thermal Design Engineer, Energy Engineering (Fall 2026)](https://www.tesla.com/careers/search/job/271538) | Palo Alto, California | $42K–$104K | 2mo |
+| **Tesla** | [Internship, Product Support Engineer, Service Engineering (Fall 2026)](https://www.tesla.com/careers/search/job/271630) | Palo Alto, California | $71K–$99K | 2mo |
+| **Cadence Design Systems** | [Software Engineering Intern](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/PITTSBURGH-03/Software-Engineering-Intern_R52334-2) | PITTSBURGH 03 |  | 2mo |
+| **Apple** | [Product Design Masters Engineering Internships](https://jobs.apple.com/en-us/details/200663996/product-design-masters-engineering-internships?team=STDNT) | United States |  | 2mo |
+| **Apple** | [Software PhD Internships](https://jobs.apple.com/en-us/details/200664323/software-phd-internships?team=STDNT) | United States |  | 2mo |
+| **Apple** | [Software Engineering Masters Internships](https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships?team=STDNT) | United States |  | 2mo |
+| **Apple** | [Hardware Technologies Undergrad Engineering Internships](https://jobs.apple.com/en-us/details/200663968/hardware-technologies-undergrad-engineering-internships?team=STDNT) | United States |  | 2mo |
+| **Apple** | [Hardware Undergrad Engineering Internships](https://jobs.apple.com/en-us/details/200663981/hardware-undergrad-engineering-internships?team=STDNT) | United States |  | 2mo |
+| **Apple** | [Hardware Technologies Masters Engineering Internships](https://jobs.apple.com/en-us/details/200664383/hardware-technologies-masters-engineering-internships?team=STDNT) | United States |  | 2mo |
+| **Apple** | [Software Undergrad Engineering Internships](https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships?team=STDNT) | United States |  | 2mo |
+| **Apple** | [Hardware Masters Engineering Internships](https://jobs.apple.com/en-us/details/200664419/hardware-masters-engineering-internships?team=STDNT) | United States |  | 2mo |
+| **Apple** | [Hardware PhD Internships](https://jobs.apple.com/en-us/details/200664421/hardware-phd-internships?team=STDNT) | United States |  | 2mo |
+| **Apple** | [Hardware Technologies PhD Internships](https://jobs.apple.com/en-us/details/200664414/hardware-technologies-phd-internships?team=STDNT) | United States |  | 2mo |
+| **Tesla** | [Internship, Mobile Application Software Engineer, Energy Engineering (F…](https://www.tesla.com/careers/search/job/271382) | Palo Alto, California | $42K–$104K | 2mo |
+| **General Dynamics Mission Systems** | [Infrastructure Engineer Co-op (Fall 2026 or Spring 2027)](https://careers-gdms.icims.com/jobs/72403/infrastructure-engineer-co-op-%28fall-2026-or-spring-2027%29/job) | Pittsfield, MA, US (Hybrid) |  | 2mo |
+| **Tesla** | [Internship, Software Engineer, Code Hardening & Framework Resilience, R…](https://www.tesla.com/careers/search/job/271372) | Palo Alto, California | $125K | 2mo |
+| **Tesla** | [Internship, Data Engineer, Energy (Fall 2026)](https://www.tesla.com/careers/search/job/271331) | Palo Alto, California | $52K–$104K | 2mo |
+| **Tesla** | [Internship, Energy Optimization Software (Fall 2026)](https://www.tesla.com/careers/search/job/271349) | Austin, Texas |  | 2mo |
+| **Tesla** | [Internship, Operational Automation Engineer, Residential Energy (Fall 2…](https://www.tesla.com/careers/search/job/271352) | Draper, Utah |  | 2mo |
+| **Tesla** | [Internship, Software Engineer, IT Apps (Fall 2026)](https://www.tesla.com/careers/search/job/271209) | Fremont, California | $83K–$116K | 2mo |
+| **Tesla** | [Internship, Architecture & Structural Engineer, Infrastructure (Fall 20…](https://www.tesla.com/careers/search/job/266400) | Austin, Texas |  | 2mo |
+| **Tesla** | [Internship, Controls & Software Automation Engineer, Cell Manufacturing…](https://www.tesla.com/careers/search/job/269033) | Austin, Texas |  | 2mo |
+| **Tesla** | [Internship, Fullstack Software Engineer, Fleetnet (Fall 2026)](https://www.tesla.com/careers/search/job/266764) | Palo Alto, California | $83K–$116K | 2mo |
+| **Tesla** | [Internship, Software Engineer, Data Platforms (Fall 2026)](https://www.tesla.com/careers/search/job/267004) | Palo Alto, California |  | 2mo |
+| **Tesla** | [Internship, Software QA Engineer, Vehicle Software (Fall 2026)](https://www.tesla.com/careers/search/job/266826) | Palo Alto, California | $83K–$116K | 2mo |
+| **Tesla** | [Internship, Mechanical Design Engineer, Battery Engineering (Fall 2026)](https://www.tesla.com/careers/search/job/266181) | Palo Alto, California | $42K–$104K | 2mo |
+| **Tesla** | [Internship, Software Engineer, Service Engineering (Fall 2026)](https://www.tesla.com/careers/search/job/266119) | Palo Alto, California | $105K–$122K | 2mo |
+| **Tesla** | [Internship, Actuator Mechanical Design Engineer, Optimus (Fall 2026)](https://www.tesla.com/careers/search/job/259949) | Palo Alto, California | $42K–$114K | 2mo |
+| **Tesla** | [Internship, Thermal Design Engineer, Optimus (Fall 2026)](https://www.tesla.com/careers/search/job/255939) | Palo Alto, California | $42K–$114K | 2mo |
+| **Tesla** | [Internship, Software Engineer, AI Hardware Infrastructure (Fall 2026)](https://www.tesla.com/careers/search/job/260382) | Palo Alto, California | $83K–$135K | 2mo |
+| **Tesla** | [Internship, Applied AI Engineer, AI Hardware (Fall 2026)](https://www.tesla.com/careers/search/job/262946) | Palo Alto, California | $104K–$135K | 2mo |
+| **Tesla** | [Internship, Software Compiler Engineer, AI Inference (Fall 2026)](https://www.tesla.com/careers/search/job/263211) | Palo Alto, California | $100K–$150K | 2mo |
+| **Tesla** | [Internship, AI Performance Engineer, Performance Optimization (Fall 202…](https://www.tesla.com/careers/search/job/263759) | Palo Alto, California | $100K–$150K | 2mo |
+| **Tesla** | [Internship, CAE Mechanical Design Engineer, Optimus (Fall 2026)](https://www.tesla.com/careers/search/job/266320) | Palo Alto, California | $42K–$114K | 2mo |
+| **Tesla** | [Internship, Electronic Design Engineer, Electronic Systems (Fall 2026)](https://www.tesla.com/careers/search/job/267750) | Palo Alto, California | $42K–$104K | 2mo |
+| **Tesla** | [Internship, Embedded Software Engineer, AI Platforms (Fall 2026)](https://www.tesla.com/careers/search/job/269819) | Palo Alto, California | $125K | 2mo |
+| **Tesla** | [Internship, Software Integration Engineer, Optimus (Fall 2026)](https://www.tesla.com/careers/search/job/269809) | Palo Alto, California | $125K | 2mo |
+| **Tesla** | [Internship, Fullstack Software Engineer, Machine Learning Platform, AI …](https://www.tesla.com/careers/search/job/269812) | Palo Alto, California | $125K | 2mo |
+| **Tesla** | [Internship, Embedded Software Engineer, Keys & Authentication (Fall 202…](https://www.tesla.com/careers/search/job/270067) | Palo Alto, California | $88K–$122K | 2mo |
+| **Tesla** | [Internship, Software Engineer, Vehicle UI Development (Fall 2026)](https://www.tesla.com/careers/search/job/270063) | Palo Alto, California | $88K–$122K | 2mo |
+| **Tesla** | [Internship, Software Validation Engineer, Vehicle Firmware (Fall 2026)](https://www.tesla.com/careers/search/job/270070) | Palo Alto, California | $88K–$122K | 2mo |
+| **Tesla** | [Internship, Wireless Connectivity Software Engineer, Electronic Devices…](https://www.tesla.com/careers/search/job/269792) | Palo Alto, California | $42K–$104K | 2mo |
+| **Tesla** | [Internship, Embedded Software Engineer, High Voltage Systems (Fall 2026)](https://www.tesla.com/careers/search/job/270354) | Palo Alto, California | $88K–$122K | 2mo |
+| **Tesla** | [Internship, Software Validation Engineer, Drive Systems: Embedded & Act…](https://www.tesla.com/careers/search/job/270506) | Palo Alto, California | $88K–$122K | 2mo |
+| **Tesla** | [Internship, Embedded Software Engineer, Body Controls Firmware (Fall 20…](https://www.tesla.com/careers/search/job/270618) | Palo Alto, California | $88K–$122K | 2mo |
+| **Tesla** | [Internship, Software Validation Engineer, Chassis Systems (Fall 2026)](https://www.tesla.com/careers/search/job/270620) | Palo Alto, California | $88K–$122K | 2mo |
+| **Tesla** | [Internship, Software Engineer, Automated Diagnostics Intern (Fall 2026)](https://www.tesla.com/careers/search/job/270521) | Palo Alto, California | $105K–$122K | 2mo |
+| **Tesla** | [Internship, Embedded Systems Software Engineer, AI Platforms (Fall 2026)](https://www.tesla.com/careers/search/job/270778) | Palo Alto, California | $42K–$125K | 2mo |
+| **Tesla** | [Internship, Mechanical Design Engineer, Optimus (Fall 2026)](https://www.tesla.com/careers/search/job/269311) | Palo Alto, California | $42K–$114K | 2mo |
+| **Amazon** | [Software Development Engineer Intern, AWS Data Services - Fall 2026 (US)](https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us) | US, WA, Seattle | $111K–$160K | 2mo |
+| **Amazon** | [Software Development Engineer Fall Intern - Military Veteran](https://www.amazon.jobs/en/jobs/3179209/software-development-engineer-fall-intern-military-veteran) | US, WA, Seattle | $111K–$160K | 2mo |
+| **Amazon** | [Software Development Engineer Internship - Fall 2026 (US)](https://www.amazon.jobs/en/jobs/3116030/software-development-engineer-internship-fall-2026-us) | US, WA, Seattle | $111K–$160K | 2mo |
+| **Tesla** | [Internship, Software Engineer, Information Security (Fall 2026)](https://www.tesla.com/careers/search/job/270497) | Bellevue, Washington | $79K–$104K | 2mo |
+| **Marvell Technology** | [Design/DSP/Verification Intern - PhD Degree](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Santa-Clara-CA/Design-DSP-Verification-Intern---PhD-Degree_2502786-1) | Santa Clara, CA | $58K–$116K | 2mo |
+| **Palantir** | [Year at Palantir - Forward Deployed Software Engineer, Internship - Com…](https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d) | New York, NY | $71K–$126K | 2mo |
+| **Palantir** | [Year at Palantir - Software Engineer, Internship](https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329) | New York, NY | $71K–$126K | 2mo |
+| **Palantir** | [Year at Palantir - Forward Deployed Software Engineer, Internship - USG](https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333) | New York, NY | $71K–$126K | 2mo |
+| **Palantir** | [Forward Deployed Software Engineer, Internship - Poland](https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9) | New York, NY (Hybrid) | $120K | 2mo |
+| **Pinterest** | [PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recomme…](https://www.pinterestcareers.com/jobs/?gh_jid=7255640) | San Francisco, CA, US; Palo Alto, CA, US; S… (Hybrid) | $145K | 2mo |
+| **Palantir** | [Forward Deployed Software Engineer, Internship - France](https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f) | New York, NY (Hybrid) | $120K | 2mo |
+| **Palantir** | [Forward Deployed Software Engineer, Internship - US Government](https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e) | Honolulu, HI (Hybrid) | $120K | 2mo |
+| **Zscaler** | [Site Reliability Engineer Federal- SkillBridge Intern](https://job-boards.greenhouse.io/zscaler/jobs/5046050007) | Remote (Remote - Virginia, USA) |  | 2mo |
+| **Zscaler** | [Site Reliability Engineer-SkillBridge Intern](https://job-boards.greenhouse.io/zscaler/jobs/5045817007) | Remote (Remote - USA) |  | 2mo |
+| **Figure** | [Hardware Reliability Intern \[Fall 2026\]](https://job-boards.greenhouse.io/figureai/jobs/4613067006) | San Jose, CA | $73K–$94K | 2mo |
+| **Rivian** | [UIUC Research Park Intern - Machine Learning Compiler](https://careers.rivian.com/jobs/29851?lang=en-us) | Champaign, Illinois, United States (Hybrid) | $52K–$83K | 3mo |
+| **Varda Space** | [Flight Software Internship - Fall 2026](https://job-boards.greenhouse.io/vardaspace/jobs/7676465003) | El Segundo, California, United States | $77K | 3mo |
+
+### Security (18)
+
+| Company | Role | Location | Pay | Added |
+| --- | --- | --- | --- | --- |
+| **Cmu** | [Security Services Intern - Fall Semester](https://cmu.wd5.myworkdayjobs.com/CMU/job/Pittsburgh-PA/Security-Services-Intern---Fall-Semester_2024907-1) | Pittsburgh, PA |  | 0d |
+| **Asmglobal** | [Security Intern](https://asmglobal.wd1.myworkdayjobs.com/careers/job/West-Conshohocken-PA/Security-Intern_R100121611) | West Conshohocken, PA |  | 1d |
+| **Student Employment** | [Student Worker - Information Security Intern - BC](https://ejof.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21006) | Waco, TX, United States | $21K | 1d |
+| **BMC** | [Cybersecurity & AI/Data Governance Intern](https://bmc.wd1.myworkdayjobs.com/BMC/job/Remote/Cybersecurity---AI-Data-Governance-Intern_50294) | Remote | $31K–$35K | 1d |
+| **Sentara** | [Cyber Security Compliance Intern](https://sentara.wd1.myworkdayjobs.com/SCS/job/Virginia-Beach-VA/Cyber-Security-Compliance-Intern_JR-97927-1) | Remote (Virginia Beach, VA) | $34K–$48K | 1d |
+| **Tesla** | [Internship, Industrial Security Engineer, Information Security (Fall 20…](https://www.tesla.com/careers/search/job/276704) | Austin, Texas |  | 7d |
+| **Psu** | [Integrated Security Specialist Intern](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Integrated-Security-Specialist-Intern_REQ_0000079741-1) | Penn State University Park (Hybrid) |  | 26d |
+| **Berkley** | [Information Security Co-Op](https://careers-berkley.icims.com/jobs/14179/information-security-co-op/job) | Remote (Wilmington, DE, US) | $100K–$150K | 1mo |
+| **Psu** | [Cyber Security Systems Engineer Intern](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Cyber-Information-Assurance-Analyst-Intern_REQ_0000079318-1) | Penn State University Park (Hybrid) |  | 1mo |
+| **Tesla** | [Internship, IT Analyst, Global Risk & Compliance (Fall 2026)](https://www.tesla.com/careers/search/job/272910) | Austin, Texas |  | 1mo |
+| **Tesla** | [Internship, Security Analyst, Security & Intelligence (Fall 2026)](https://www.tesla.com/careers/search/job/271951) | Austin, Texas |  | 1mo |
+| **Tenstorrent** | [Chiplet Security Research Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4955926007) | Santa Clara, California, United States | $104K–$146K | 1mo |
+| **IDEXX** | [Security Operations (Cybersecurity) internship](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Westbrook-ME/Security-Operations--Cybersecurity--internship_J-053268) | Westbrook, ME (Hybrid) |  | 1mo |
+| **Oracle** | [GDI Information Security Analyst Intern - OVIP](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/334389) | Reston, VA, United States | $62K | 1mo |
+| **Snap** | [Security Engineer Intern, Summer 2026](https://snapchat.wd1.myworkdayjobs.com/sourced/job/Los-Angeles-California/Security-Engineer-Intern--Summer-2026_R0044499) | Los Angeles, California | $108K | 2mo |
+| **Tesla** | [Internship, Red Team Security Engineer, Vehicle Software (Fall 2026)](https://www.tesla.com/careers/search/job/269193) | Palo Alto, California | $79K–$110K | 2mo |
+| **Tesla** | [Internship, Offensive Security Engineer, Information Security (Fall 202…](https://www.tesla.com/careers/search/job/270671) | Austin, Texas |  | 2mo |
+| **Zscaler** | [Federal Security Operations - SkillBridge Intern](https://job-boards.greenhouse.io/zscaler/jobs/5069684007) | Remote (Remote - USA) |  | 2mo |
+
+### Data Science (15)
+
+| Company | Role | Location | Pay | Added |
+| --- | --- | --- | --- | --- |
+| **Mistral AI** | [AI Data Solutions Intern – Data Partnerships](https://jobs.ashbyhq.com/mistral.ai/60fcc44d-4d96-469d-a96c-d6a9bbfe8edd) | Palo Alto |  | 0d |
+| **Warner Bros Discovery** | [Sports Growth Strategy and Data Internships: ATL - Fall 2026](https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Sports-Growth-Strategy-and-Data-Internships--ATL---Fall-2026_R000107173) | GA Atlanta 1050 Techwood Drive NW (Hybrid) |  | 1d |
+| **Ensemblehp** | [Data Scientist Intern](https://ensemblehp.wd5.myworkdayjobs.com/EnsembleHealthPartnersCareers/job/Remote---Nationwide/Data-Scientist--AI_R048077) | Remote (Remote - Nationwide) | $52K | 5d |
+| **Ferrovial** | [Digital Construction & Data Management Intern](https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site/job/Austin-TX/Digital-Construction---Data-Management-Intern_JR17433) | Austin, TX |  | 12d |
+| **LexisNexis** | [Editorial Data Reporting Intern](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-Washington-DC/Editorial-Data-Reporting-Intern_R112971-1) | Remote (Home based-Washington DC) | $60K | 12d |
+| **Mayo US** | [AI/ML Intern - Radiation Oncology](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/385703) | Rochester, MN, United States | $52K | 28d |
+| **Tesla** | [Internship, People Analytics (Fall 2026)](https://www.tesla.com/careers/search/job/274560) | Austin, Texas |  | 1mo |
+| **Mayo US** | [AI&I/Data Science Intern (PhD in progress) On-site](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/384534) | Rochester, MN, United States | $62K | 1mo |
+| **Firstquality** | [INTERN OR CO-OP - Analytics Engineer](https://firstquality.wd5.myworkdayjobs.com/FIRSTQUALITY/job/US-SC-Anderson/INTERN-OR-CO-OP---Analytics-Engineer_R9813) | US SC Anderson |  | 1mo |
+| **Photon** | [Data & AI/GenAI Intern - Multiple Locations US](https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/22319) | United States (Hybrid) |  | 1mo |
+| **Oracle** | [CEGIU Demo Data Strategy Intern - OVIP](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/334396) | Redwood City, CA, United States | $62K | 1mo |
+| **Moog** | [Intern, IT Computer Science - Data Analytics](https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--IT-Computer-Science---Data-Analytics_R-26-17145) | Buffalo, NY | $49K–$64K | 2mo |
+| **Berkley** | [Business and Data Analyst Intern](https://careers-berkley.icims.com/jobs/13507/business-and-data-analyst-intern/job) | West Hartford, CT, US (Hybrid) | $85K–$145K | 2mo |
+| **Tesla** | [Internship, Data Analyst, Energy (Fall 2026)](https://www.tesla.com/careers/search/job/271329) | Fremont, California | $52K–$104K | 2mo |
+| **Marvell Technology** | [Applied Machine Learning Scientist Intern - PhD](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Santa-Clara-CA/Applied-Machine-Learning-Scientist-Intern---PhD_2502662-1) | Santa Clara, CA |  | 2mo |
+
+### Product (7)
+
+| Company | Role | Location | Pay | Added |
+| --- | --- | --- | --- | --- |
+| **Copart** | [Technology Product Analyst Intern](https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR110078) | Dallas, TX - Headquarters |  | 1d |
+| **Salesforce** | [Summer 2027 Intern - Associate Product Manager (APM)](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Associate-Product-Manager--APM-_JR348039-1) | California - San Francisco | $114K–$123K | 10d |
+| **Tesla** | [Internship, Product Manager, Residential Energy Engineering (Fall 2026)](https://www.tesla.com/careers/search/job/275178) | Palo Alto, California | $42K–$104K | 27d |
+| **Tesla** | [Internship, Commercial Charging Product Management, Energy Engineering …](https://www.tesla.com/careers/search/job/272322) | Palo Alto, California | $42K–$104K | 1mo |
+| **Tesla** | [Internship, Technical Program Manager, AI Workflows, Business Planning …](https://www.tesla.com/careers/search/job/271870) | Palo Alto, California | $45K–$77K | 1mo |
+| **Tesla** | [Internship, Vehicle Accessories & Merchandise Product Intern, Global Me…](https://www.tesla.com/careers/search/job/271879) | Hawthorne, California | $48K–$66K | 1mo |
+| **Oracle** | [OH Product Manager Intern - OVIP](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/334348) | Kansas City, MO, United States | $62K | 1mo |
+
+### Design (5)
+
+| Company | Role | Location | Pay | Added |
+| --- | --- | --- | --- | --- |
+| **Comcast** | [Graphic Design Intern](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-3601-S-Broad-St/Graphic-Design-Intern_R440160) | PA - Philadelphia, 3601 S Broad St | $31K | 8d |
+| **SAP** | [SAP Concur iXp Intern - Integrated Marketing Graphic Design](https://career5.successfactors.eu/careers?company=SAP&jobId=455043) | North America, USA, Bellevue (Hybrid) |  | 23d |
+| **Apple** | [Product Design Undergrad Internships](https://jobs.apple.com/en-us/details/200664000/product-design-undergrad-internships?team=STDNT) | United States |  | 2mo |
+| **Apple** | [Product Design PhD Internships](https://jobs.apple.com/en-us/details/200663969/product-design-phd-internships?team=STDNT) | United States |  | 2mo |
+| **Tesla** | [Internship, Designer, Unreal CG, Design Studio (Fall 2026)](https://www.tesla.com/careers/search/job/266813) | Hawthorne, California | $42K–$104K | 2mo |
+
+<!-- TABLE_END -->
+
+## How this list is built
+
+A [GitHub Action](.github/workflows/update.yml) refreshes this list once a day from Dreamwork's public job index. It filters for verified-open US technology internships in software engineering, data science, security, product, and design, removes duplicates, and drops listings after the crawler can no longer verify that they are open. The raw snapshot is available in [`data/listings.json`](data/listings.json).
+
+Found a bad or missing listing? [Open an issue](../../issues).
