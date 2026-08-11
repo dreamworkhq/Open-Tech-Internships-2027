@@ -28,7 +28,20 @@
     {
       "seniorityExact": "INTERN",
       "function": "Engineering",
-      "countryExact": "US"
+      "countryExact": "US",
+      "search": "intern"
+    },
+    {
+      "seniorityExact": "INTERN",
+      "function": "Engineering",
+      "countryExact": "US",
+      "search": "co-op"
+    },
+    {
+      "seniorityExact": "INTERN",
+      "function": "Engineering",
+      "countryExact": "US",
+      "search": "coop"
     },
     {
       "seniorityExact": "INTERN",
@@ -54,11 +67,13 @@
   "usOnly": true,
   "titleInclude": "\\b(?:intern|internships?|co-?op)\\b",
   "titleIncludeAll": [
-    "\\b(software|developer|computer|information technology|\\bit\\b|data|analytics?|machine learning|\\bml\\b|artificial intelligence|\\bai\\b|cyber|security|product|design|\\bux\\b|\\bui\\b|front[- ]?end|back[- ]?end|full[- ]?stack|web|mobile|android|\\bios\\b|cloud|devops|site reliability|\\bsre\\b|platform|infrastructure|embedded|firmware|hardware|robotics|automation|\\bqa\\b|test automation|solutions engineer)\\b"
+    "\\b(software|developer|computer|information technology|\\bit\\b|data|analytics?|business intelligence|database|machine learning|\\bml\\b|artificial intelligence|\\bai\\b|cyber(?:security)?|security|product|design|\\bux\\b|\\bui\\b|front[- ]?end|back[- ]?end|full[- ]?stack|web|mobile|android|\\bios\\b|cloud|devops|devsecops|site reliability|\\bsre\\b|platform|infrastructure|embedded|firmware|hardware|silicon|semiconductor|robots?|robotics|automation|algorithms?|\\bqa\\b|test automation|system test|solutions engineer(?:ing)?)\\b"
+  ],
+  "titleIncludeAllSourceFunctions": [
+    "Engineering"
   ],
   "titleExclude": "senior|staff|principal|director|\\bvp\\b|international\\b",
   "minRows": 100,
-  "minUpstreamCoverageRatio": 0.4,
   "minDirectLinkCoverageRatio": 0.95,
   "maxPagesPerSource": 45,
   "groupBy": "functionPrimary",

@@ -147,17 +147,43 @@ async function fetchSource(source, config) {
     const data = await fetchJson(`${API_BASE}/listings?${params}`);
     const rows = data.listings ?? [];
     for (const row of rows) {
-      if (keepRow(row, config)) collected.push(row);
+      if (keepRow(row, config, source)) collected.push(row);
     }
-    if (rows.length < PAGE_SIZE) break; // last page
+    const hasExactTotal = data.totalCapped !== true && Number.isFinite(data.total);
+    if (config.mode === "inventory" && !hasExactTotal) {
+      const sourceLabel = source.search
+        ? `${source.function ?? "source"} (${source.search})`
+        : source.function ?? JSON.stringify(source);
+      throw new Error(
+        `Inventory source total is capped or unavailable for ${sourceLabel}. Narrow the source into exact subqueries; refusing to publish a partial inventory.`,
+      );
+    }
+    const reachedReportedEnd =
+      hasExactTotal && (page + 1) * PAGE_SIZE >= data.total;
+    // Hydration can drop a listing that retires between the API's id query and
+    // detail query, so an exact-total page may be short before the reported
+    // end. Inventory mode requires an exact reported end because the public
+    // API returns an empty page at its hard offset ceiling even when more rows
+    // exist. Fresh feeds may use a short capped/unknown page as their stop.
+    const freshFeedReachedShortPage =
+      config.mode !== "inventory" && !hasExactTotal && rows.length < PAGE_SIZE;
+    if (reachedReportedEnd || freshFeedReachedShortPage) {
+      return collected;
+    }
     if (collected.length >= wanted) break;
+  }
+  if (config.mode === "inventory") {
+    const sourceLabel = source.function ?? JSON.stringify(source);
+    throw new Error(
+      `Inventory source pagination limit reached for ${sourceLabel} after ${maxPages} pages. Increase maxPagesPerSource or narrow the source; refusing to publish a partial inventory.`,
+    );
   }
   return collected;
 }
 
 // US/non-US partitioning happens after fetch (international rows feed
 // INTERNATIONAL.md), so keepRow only applies the audience filters.
-function keepRow(row, config) {
+function keepRow(row, config, source) {
   if (!row?.id || !row.title || !row.companyName) return false;
   // Staffing-agency reposts hide the employer behind "Confidential Employer"
   // or a machine-suffixed name like "Superloop 1733718881"; a public list
@@ -165,7 +191,11 @@ function keepRow(row, config) {
   if (/\bconfidential\b/i.test(row.companyName)) return false;
   if (/\b\d{9,}\b/.test(row.companyName)) return false;
   if (config.titleInclude && !new RegExp(config.titleInclude, "i").test(row.title)) return false;
+  const scopedFunctions = config.titleIncludeAllSourceFunctions;
+  const applyTitleIncludeAll =
+    !Array.isArray(scopedFunctions) || scopedFunctions.includes(source.function);
   if (
+    applyTitleIncludeAll &&
     config.titleIncludeAll &&
     !config.titleIncludeAll.every((pattern) =>
       new RegExp(pattern, "i").test(row.title),
@@ -852,19 +882,6 @@ config.totalMatchingCapped = totalMatchingCapped;
 // the rest in INTERNATIONAL.md). fresh mode: the newest maxRows.
 const deduped = dedupe(all);
 const linkEligibleRows = selectLinkEligibleRows(deduped, config);
-const minCoverageRatio = config.minUpstreamCoverageRatio;
-if (
-  config.mode === "inventory" &&
-  Number.isFinite(minCoverageRatio) &&
-  minCoverageRatio > 0 &&
-  minCoverageRatio <= 1 &&
-  totalMatching > 0 &&
-  linkEligibleRows.length / totalMatching < minCoverageRatio
-) {
-  throw new Error(
-    `Upstream coverage collapsed: ${linkEligibleRows.length} filtered unique rows from ${totalMatching} matching upstream (${(linkEligibleRows.length / totalMatching * 100).toFixed(1)}%; minimum ${(minCoverageRatio * 100).toFixed(1)}%). Refusing to overwrite the list.`,
-  );
-}
 const usRows = linkEligibleRows.filter((row) => looksUnitedStates(row));
 const intlRows = linkEligibleRows.filter((row) => !looksUnitedStates(row));
 let readmeRows = config.usOnly ? usRows : linkEligibleRows;

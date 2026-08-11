@@ -18,15 +18,15 @@ permissions:
 
 concurrency:
   group: update-listings
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@48b55a011bda9f5d6aeb4c2d9c7362e8dae4041e # v6.4.0
         with:
           node-version: 22
 
@@ -47,26 +47,36 @@ jobs:
             git push
           fi
 
-      - name: Open issue on failure
+      - name: Open or update issue on failure
         if: failure()
-        uses: actions/github-script@v7
-        with:
-          script: |
-            const label = "update-failure";
-            const { data: open } = await github.rest.issues.listForRepo({
-              ...context.repo, state: "open", labels: label,
-            });
-            const runUrl = `${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`;
-            if (open.length > 0) {
-              await github.rest.issues.createComment({
-                ...context.repo, issue_number: open[0].number,
-                body: `Daily update failed again: ${runUrl}`,
-              });
-            } else {
-              await github.rest.issues.create({
-                ...context.repo,
-                title: `Daily listings update is failing (${new Date().toISOString().slice(0, 10)})`,
-                body: `The scheduled update workflow failed. Latest run: ${runUrl}\n\ncc @benadamsky`,
-                labels: [label],
-              });
-            }
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          label="update-failure"
+          run_url="${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}"
+          gh label create "$label" --repo "$GITHUB_REPOSITORY" \
+            --color B60205 --description "Automated listings update is failing" --force
+          number="$(gh issue list --repo "$GITHUB_REPOSITORY" --state open \
+            --label "$label" --limit 20 --json number --jq '.[0].number // empty')"
+          body="Daily listings update failed: ${run_url}"
+          if [ -n "$number" ]; then
+            gh issue comment "$number" --repo "$GITHUB_REPOSITORY" --body "$body"
+          else
+            issue_body="$(printf '%s\n' "$body" "" "cc @benadamsky")"
+            gh issue create --repo "$GITHUB_REPOSITORY" \
+              --title "Daily listings update is failing" --body "$issue_body" --label "$label"
+          fi
+
+      - name: Close failure issue after recovery
+        if: success()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          number="$(gh issue list --repo "$GITHUB_REPOSITORY" --state open \
+            --label update-failure --limit 20 --json number --jq '.[0].number // empty')"
+          if [ -n "$number" ]; then
+            gh issue close "$number" --repo "$GITHUB_REPOSITORY" \
+              --comment "Daily listings update recovered on ${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}."
+          fi
