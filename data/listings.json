@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T03:10:10.821Z",
+  "generatedAt": "2026-08-11T03:52:03.294Z",
   "source": "dreamwork-public-job-index",
   "list": "Open-Tech-Internships-2027",
   "count": 550,
@@ -45,7 +45,7 @@
       "salaryMax": 66560,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-11T00:30:41.093Z",
+      "postedAt": "2026-08-11T03:15:49.191Z",
       "firstIndexedAt": "2026-08-11T00:30:48.679Z",
       "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Spring-2027-Co-op--Embedded-Software-Engineer--January-2027---August-2027-_R26-3473-1"
     },
@@ -245,6 +245,21 @@
       "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Intern--Summer-2027-_01864033"
     },
     {
+      "id": "795921aa-9177-4d7d-b20a-81bba3b2476c",
+      "title": "Spring 2027 Software Engineering Intern",
+      "company": "Thenuclearcompany",
+      "companyDomain": "thenuclearcompany.com",
+      "location": "Washington, DC",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-08-07T18:07:28.000Z",
+      "firstIndexedAt": "2026-08-10T09:00:08.301Z",
+      "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383171008"
+    },
+    {
       "id": "5b70dcbd-79eb-445c-a503-b81aa3e6f4b8",
       "title": "Summer 2027 AI/ML Engineering Intern",
       "company": "Thenuclearcompany",
@@ -260,6 +275,21 @@
       "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383231008"
     },
     {
+      "id": "1448cede-2f86-456d-927f-4d8d023f305a",
+      "title": "Spring 2027 AI/ML Engineering Intern",
+      "company": "Thenuclearcompany",
+      "companyDomain": "thenuclearcompany.com",
+      "location": "Washington, DC",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_first",
+      "postedAt": "2026-08-07T18:06:50.000Z",
+      "firstIndexedAt": "2026-08-10T09:00:08.301Z",
+      "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383212008"
+    },
+    {
       "id": "940ce9d7-0974-4ede-b561-1c7f454e29bd",
       "title": "Summer 2027 Software Engineering Intern",
       "company": "Thenuclearcompany",
@@ -273,21 +303,6 @@
       "postedAt": "2026-08-07T18:08:35.000Z",
       "firstIndexedAt": "2026-08-10T09:00:08.301Z",
       "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008"
-    },
-    {
-      "id": "795921aa-9177-4d7d-b20a-81bba3b2476c",
-      "title": "Spring 2027 Software Engineering Intern",
-      "company": "Thenuclearcompany",
-      "companyDomain": "thenuclearcompany.com",
-      "location": "Washington, DC",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-07T18:07:28.000Z",
-      "firstIndexedAt": "2026-08-10T09:00:08.301Z",
-      "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383171008"
     },
     {
       "id": "7d76f1ff-d713-4bbd-9ff6-d670dab9a9f6",
@@ -320,8 +335,8 @@
       "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383113008"
     },
     {
-      "id": "1448cede-2f86-456d-927f-4d8d023f305a",
-      "title": "Spring 2027 AI/ML Engineering Intern",
+      "id": "dbb73d0c-112b-4933-9db4-1e055d152b1b",
+      "title": "Spring 2027 Data Science Intern",
       "company": "Thenuclearcompany",
       "companyDomain": "thenuclearcompany.com",
       "location": "Washington, DC",
@@ -329,10 +344,10 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "aiRoleKind": "ai_first",
-      "postedAt": "2026-08-07T18:06:50.000Z",
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-08-07T18:07:10.000Z",
       "firstIndexedAt": "2026-08-10T09:00:08.301Z",
-      "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383212008"
+      "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383218008"
     },
     {
       "id": "580c82cd-619c-4878-8e0c-5a35ab50bfa0",
@@ -348,21 +363,6 @@
       "postedAt": "2026-08-07T18:08:02.000Z",
       "firstIndexedAt": "2026-08-10T09:00:08.301Z",
       "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383244008"
-    },
-    {
-      "id": "dbb73d0c-112b-4933-9db4-1e055d152b1b",
-      "title": "Spring 2027 Data Science Intern",
-      "company": "Thenuclearcompany",
-      "companyDomain": "thenuclearcompany.com",
-      "location": "Washington, DC",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-07T18:07:10.000Z",
-      "firstIndexedAt": "2026-08-10T09:00:08.301Z",
-      "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383218008"
     },
     {
       "id": "6ce61663-5b61-4eb7-9912-476b1fd8ccc0",
@@ -410,21 +410,6 @@
       "url": "https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0"
     },
     {
-      "id": "196e4faf-9f8b-497f-a209-1c4ab743eb84",
-      "title": "Software Platform Internship (Summer 2027)",
-      "company": "Globalhr",
-      "companyDomain": "globalhr.app",
-      "location": "US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17",
-      "remoteType": "hybrid",
-      "salaryMin": 37000,
-      "salaryMax": 82000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-05T01:15:37.774Z",
-      "firstIndexedAt": "2026-08-09T23:00:47.521Z",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Platform-Internship--Summer-2027-_01863414"
-    },
-    {
       "id": "489006cf-5a03-49f2-884e-7232b254a6cf",
       "title": "Software Engineering Intern (Summer 2027)",
       "company": "Globalhr",
@@ -453,6 +438,21 @@
       "postedAt": "2026-08-06T01:15:37.069Z",
       "firstIndexedAt": "2026-08-09T23:00:47.521Z",
       "url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Platform-Intern--Summer-2027-_01864017"
+    },
+    {
+      "id": "196e4faf-9f8b-497f-a209-1c4ab743eb84",
+      "title": "Software Platform Internship (Summer 2027)",
+      "company": "Globalhr",
+      "companyDomain": "globalhr.app",
+      "location": "US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17",
+      "remoteType": "hybrid",
+      "salaryMin": 37000,
+      "salaryMax": 82000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-05T01:15:37.774Z",
+      "firstIndexedAt": "2026-08-09T23:00:47.521Z",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Platform-Internship--Summer-2027-_01863414"
     },
     {
       "id": "de5a0fc6-67ae-491f-aa4d-3a71b3d19ba9",
@@ -920,21 +920,6 @@
       "url": "https://www.tesla.com/careers/search/job/279014"
     },
     {
-      "id": "9f4f2e96-5e03-493c-bbf0-9d302b4cafbf",
-      "title": "Internship, Mechanical Design Engineer, Vehicle Engineering (Winter/Spring 2027)",
-      "company": "Tesla",
-      "companyDomain": "tesla.com",
-      "location": "Fremont, California",
-      "remoteType": "onsite",
-      "salaryMin": 41600,
-      "salaryMax": 104000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": null,
-      "firstIndexedAt": "2026-08-07T01:32:11.391Z",
-      "url": "https://www.tesla.com/careers/search/job/278946"
-    },
-    {
       "id": "cfcab022-991b-43ea-8b9a-7c321f61ec25",
       "title": "Internship, Interior Vehicle Design, Design Studio (Winter/Spring 2026)",
       "company": "Tesla",
@@ -948,51 +933,6 @@
       "postedAt": null,
       "firstIndexedAt": "2026-08-07T01:32:11.391Z",
       "url": "https://www.tesla.com/careers/search/job/279020"
-    },
-    {
-      "id": "c9ad5020-af26-4215-83dd-72dbd4bf644c",
-      "title": "Internship, UX Design, Design Studio (Winter/Spring 2027)",
-      "company": "Tesla",
-      "companyDomain": "tesla.com",
-      "location": "Hawthorne, California",
-      "remoteType": "onsite",
-      "salaryMin": 41600,
-      "salaryMax": 104000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": null,
-      "firstIndexedAt": "2026-08-07T01:32:11.391Z",
-      "url": "https://www.tesla.com/careers/search/job/279023"
-    },
-    {
-      "id": "3bd247c9-34e5-47e8-887f-868b013cafb7",
-      "title": "Internship, Digital Content, Design Studio (Winter/Spring 2027)",
-      "company": "Tesla",
-      "companyDomain": "tesla.com",
-      "location": "Hawthorne, California",
-      "remoteType": "onsite",
-      "salaryMin": 41600,
-      "salaryMax": 104000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": null,
-      "firstIndexedAt": "2026-08-07T01:32:11.391Z",
-      "url": "https://www.tesla.com/careers/search/job/279016"
-    },
-    {
-      "id": "7d379ab2-f84c-445f-b0ea-4b36619ff80a",
-      "title": "Internship, Soft Trim & Seat Design, Design Studio (Winter/Spring 2027)",
-      "company": "Tesla",
-      "companyDomain": "tesla.com",
-      "location": "Austin, Texas",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": null,
-      "firstIndexedAt": "2026-08-07T01:32:11.391Z",
-      "url": "https://www.tesla.com/careers/search/job/279022"
     },
     {
       "id": "d9a22a8d-d0e3-4834-9275-1be4c9f5ac4d",
@@ -1010,6 +950,21 @@
       "url": "https://www.tesla.com/careers/search/job/279018"
     },
     {
+      "id": "c9ad5020-af26-4215-83dd-72dbd4bf644c",
+      "title": "Internship, UX Design, Design Studio (Winter/Spring 2027)",
+      "company": "Tesla",
+      "companyDomain": "tesla.com",
+      "location": "Hawthorne, California",
+      "remoteType": "onsite",
+      "salaryMin": 41600,
+      "salaryMax": 104000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": null,
+      "firstIndexedAt": "2026-08-07T01:32:11.391Z",
+      "url": "https://www.tesla.com/careers/search/job/279023"
+    },
+    {
       "id": "c06db008-7f61-492e-8751-10cc7704e712",
       "title": "Internship, Industrial Design, Design Studio (Winter/Spring 2027)",
       "company": "Tesla",
@@ -1023,6 +978,36 @@
       "postedAt": null,
       "firstIndexedAt": "2026-08-07T01:32:11.391Z",
       "url": "https://www.tesla.com/careers/search/job/279019"
+    },
+    {
+      "id": "7d379ab2-f84c-445f-b0ea-4b36619ff80a",
+      "title": "Internship, Soft Trim & Seat Design, Design Studio (Winter/Spring 2027)",
+      "company": "Tesla",
+      "companyDomain": "tesla.com",
+      "location": "Austin, Texas",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": null,
+      "firstIndexedAt": "2026-08-07T01:32:11.391Z",
+      "url": "https://www.tesla.com/careers/search/job/279022"
+    },
+    {
+      "id": "3bd247c9-34e5-47e8-887f-868b013cafb7",
+      "title": "Internship, Digital Content, Design Studio (Winter/Spring 2027)",
+      "company": "Tesla",
+      "companyDomain": "tesla.com",
+      "location": "Hawthorne, California",
+      "remoteType": "onsite",
+      "salaryMin": 41600,
+      "salaryMax": 104000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": null,
+      "firstIndexedAt": "2026-08-07T01:32:11.391Z",
+      "url": "https://www.tesla.com/careers/search/job/279016"
     },
     {
       "id": "eee8a16e-0d50-4b7b-8594-74fdefdfab1b",
@@ -1055,11 +1040,11 @@
       "url": "https://www.tesla.com/careers/search/job/278982"
     },
     {
-      "id": "23ba732c-c610-42b6-862a-8803d402c2bb",
-      "title": "Internship, CMF Design, Design Studio (Winter/Spring 2027)",
+      "id": "2d182bf6-dc54-415c-8bb3-34142422aae6",
+      "title": "Internship, Automotive Photographer & Retoucher, Design Studio (Winter/Spring 2027)",
       "company": "Tesla",
       "companyDomain": "tesla.com",
-      "location": "Hawthorne, California",
+      "location": "Fremont, California",
       "remoteType": "onsite",
       "salaryMin": 41600,
       "salaryMax": 104000,
@@ -1067,7 +1052,7 @@
       "aiRoleKind": "non_ai",
       "postedAt": null,
       "firstIndexedAt": "2026-08-07T01:32:07.065Z",
-      "url": "https://www.tesla.com/careers/search/job/279012"
+      "url": "https://www.tesla.com/careers/search/job/279030"
     },
     {
       "id": "41751508-6a48-4c7a-bb89-7d53b6e54d62",
@@ -1085,11 +1070,11 @@
       "url": "https://www.tesla.com/careers/search/job/279015"
     },
     {
-      "id": "2d182bf6-dc54-415c-8bb3-34142422aae6",
-      "title": "Internship, Automotive Photographer & Retoucher, Design Studio (Winter/Spring 2027)",
+      "id": "23ba732c-c610-42b6-862a-8803d402c2bb",
+      "title": "Internship, CMF Design, Design Studio (Winter/Spring 2027)",
       "company": "Tesla",
       "companyDomain": "tesla.com",
-      "location": "Fremont, California",
+      "location": "Hawthorne, California",
       "remoteType": "onsite",
       "salaryMin": 41600,
       "salaryMax": 104000,
@@ -1097,7 +1082,7 @@
       "aiRoleKind": "non_ai",
       "postedAt": null,
       "firstIndexedAt": "2026-08-07T01:32:07.065Z",
-      "url": "https://www.tesla.com/careers/search/job/279030"
+      "url": "https://www.tesla.com/careers/search/job/279012"
     },
     {
       "id": "28baec74-d6f9-4610-b609-077088c433aa",
@@ -1220,22 +1205,7 @@
       "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---Graphic-Designer_R22905"
     },
     {
-      "id": "8425c842-c46e-4281-9ee0-39256c320534",
-      "title": "AI R&D Engineering Co-op",
-      "company": "Fa Evmr Saasfaprod1",
-      "companyDomain": "nokia.com",
-      "location": "United States",
-      "remoteType": "hybrid",
-      "salaryMin": 41808,
-      "salaryMax": 146432,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "ai_first",
-      "postedAt": "2026-08-06T15:21:08.000Z",
-      "firstIndexedAt": "2026-08-06T16:16:22.902Z",
-      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39288"
-    },
-    {
-      "id": "418d8489-18b2-402b-99ef-0588588b5ac0",
+      "id": "24ec2d23-7183-435d-adc7-c7bb8ff59ac6",
       "title": "AI R&D Engineer Co-op",
       "company": "Fa Evmr Saasfaprod1",
       "companyDomain": "nokia.com",
@@ -1245,9 +1215,24 @@
       "salaryMax": 146432,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_first",
-      "postedAt": "2026-08-06T15:34:39.000Z",
+      "postedAt": "2026-08-06T15:36:38.000Z",
       "firstIndexedAt": "2026-08-06T16:16:22.902Z",
-      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39284"
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39285"
+    },
+    {
+      "id": "2eac40f3-5d4e-47f3-894f-2399a2c8a930",
+      "title": "AI R&D Engineering Co-op",
+      "company": "Fa Evmr Saasfaprod1",
+      "companyDomain": "nokia.com",
+      "location": "United States",
+      "remoteType": "hybrid",
+      "salaryMin": 41808,
+      "salaryMax": 146432,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "ai_first",
+      "postedAt": "2026-08-06T15:31:44.000Z",
+      "firstIndexedAt": "2026-08-06T16:16:22.902Z",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39287"
     },
     {
       "id": "7133196f-5c0f-4e49-aa5a-07f062c98d7a",
@@ -1310,21 +1295,6 @@
       "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Embedded-Quality---Fielded-Systems-Intern_JR002718"
     },
     {
-      "id": "ddfbd5d8-1f1f-4c78-a4e3-7c0511c1a2d6",
-      "title": "IT System Administrator Intern  (Summer 2027 Internship)",
-      "company": "Ntst",
-      "companyDomain": "netstreit.com",
-      "location": "Overland Park, KS",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-04T04:15:16.017Z",
-      "firstIndexedAt": "2026-08-05T21:30:18.737Z",
-      "url": "https://ntst.wd1.myworkdayjobs.com/Careers/job/Overland-Park-KS/IT-System-Administrator-Intern---Summer-2027-Internship-_R015666"
-    },
-    {
       "id": "a4466a66-2c0d-4bee-ada8-3d53b73a7423",
       "title": "Cloud Engineer Future  (Summer 2027 Internship)",
       "company": "Ntst",
@@ -1338,6 +1308,21 @@
       "postedAt": "2026-08-04T04:15:16.098Z",
       "firstIndexedAt": "2026-08-05T21:30:18.737Z",
       "url": "https://ntst.wd1.myworkdayjobs.com/Careers/job/Overland-Park-KS/Cloud-Engineer-Future---Summer-2027-Internship-_R015668"
+    },
+    {
+      "id": "ddfbd5d8-1f1f-4c78-a4e3-7c0511c1a2d6",
+      "title": "IT System Administrator Intern  (Summer 2027 Internship)",
+      "company": "Ntst",
+      "companyDomain": "netstreit.com",
+      "location": "Overland Park, KS",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-04T04:15:16.017Z",
+      "firstIndexedAt": "2026-08-05T21:30:18.737Z",
+      "url": "https://ntst.wd1.myworkdayjobs.com/Careers/job/Overland-Park-KS/IT-System-Administrator-Intern---Summer-2027-Internship-_R015666"
     },
     {
       "id": "a781be61-c7ec-467d-a677-333921354a00",
@@ -1670,21 +1655,6 @@
       "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Security---Fire-Operation--S-FO-_JR2026520979-1"
     },
     {
-      "id": "96ff41ec-2131-4d9d-82a5-5928fdd16436",
-      "title": "2027 Internship - Frontend Engineer (UI)",
-      "company": "Virtu",
-      "companyDomain": "virtu.com",
-      "location": "New York",
-      "remoteType": "onsite",
-      "salaryMin": 260000,
-      "salaryMax": 301600,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-29T21:31:34.000Z",
-      "firstIndexedAt": "2026-08-03T21:00:15.971Z",
-      "url": "https://job-boards.greenhouse.io/virtu/jobs/8657500002"
-    },
-    {
       "id": "a13565b7-3865-4df5-8ae4-eb41070f11b5",
       "title": "2027 Internship- Hardware Engineer (FPGA)",
       "company": "Virtu",
@@ -1698,6 +1668,21 @@
       "postedAt": "2026-07-29T20:23:12.000Z",
       "firstIndexedAt": "2026-08-03T21:00:15.971Z",
       "url": "https://job-boards.greenhouse.io/virtu/jobs/8657286002"
+    },
+    {
+      "id": "96ff41ec-2131-4d9d-82a5-5928fdd16436",
+      "title": "2027 Internship - Frontend Engineer (UI)",
+      "company": "Virtu",
+      "companyDomain": "virtu.com",
+      "location": "New York",
+      "remoteType": "onsite",
+      "salaryMin": 260000,
+      "salaryMax": 301600,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-29T21:31:34.000Z",
+      "firstIndexedAt": "2026-08-03T21:00:15.971Z",
+      "url": "https://job-boards.greenhouse.io/virtu/jobs/8657500002"
     },
     {
       "id": "f5689b8d-dc24-4c40-96d7-1b73af6e3cc5",
@@ -2000,21 +1985,6 @@
       "url": "https://jobs.ashbyhq.com/heron-power/93dd15fe-6c82-412b-a662-c14c75360f36"
     },
     {
-      "id": "69334ff1-f9e3-48ca-aba7-15e631fdd88d",
-      "title": "Student Architectural Intern | Fall 2026 - Abilene Data Centers",
-      "company": "Us Corgan",
-      "companyDomain": "corgan.com",
-      "location": "Abilene, TX, US",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2024-08-10T11:45:08.131Z",
-      "firstIndexedAt": "2026-08-01T17:45:23.940Z",
-      "url": "https://careers-us-corgan.icims.com/jobs/3982/student-architectural-intern-%7c-fall-2026---abilene-data-centers/job"
-    },
-    {
       "id": "b197ef5d-4c44-4625-bbc1-0ecccc27fe34",
       "title": "Student Interior Design Internship | Materials Library | Fall 2026",
       "company": "Us Corgan",
@@ -2028,6 +1998,21 @@
       "postedAt": "2024-08-10T11:45:07.717Z",
       "firstIndexedAt": "2026-08-01T17:45:23.940Z",
       "url": "https://careers-us-corgan.icims.com/jobs/3981/student-interior-design-internship-%7c-materials-library-%7c-fall-2026/job"
+    },
+    {
+      "id": "69334ff1-f9e3-48ca-aba7-15e631fdd88d",
+      "title": "Student Architectural Intern | Fall 2026 - Abilene Data Centers",
+      "company": "Us Corgan",
+      "companyDomain": "corgan.com",
+      "location": "Abilene, TX, US",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2024-08-10T11:45:08.131Z",
+      "firstIndexedAt": "2026-08-01T17:45:23.940Z",
+      "url": "https://careers-us-corgan.icims.com/jobs/3982/student-architectural-intern-%7c-fall-2026---abilene-data-centers/job"
     },
     {
       "id": "83a90723-a8d6-477b-983d-e0ae188f05a9",
@@ -2135,21 +2120,6 @@
       "url": "https://careers.formlabs.com/job/8097694/apply/?gh_jid=8097694"
     },
     {
-      "id": "4d2cd200-3499-4042-a7ab-d158e2d2a4b9",
-      "title": "Product Designer, Internship - US Government",
-      "company": "Palantir",
-      "companyDomain": "palantir.com",
-      "location": "Washington, D.C.",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2024-08-19T09:22:15.474Z",
-      "firstIndexedAt": "2026-08-01T07:15:17.209Z",
-      "url": "https://jobs.lever.co/palantir/fa060d94-f85d-4d02-be58-b81787fe57e5"
-    },
-    {
       "id": "d004f6e7-1899-4fb2-9bd6-bdf0ecea524b",
       "title": "Product Designer, Internship - US Government",
       "company": "Palantir",
@@ -2193,6 +2163,21 @@
       "postedAt": "2019-10-10T01:00:30.544Z",
       "firstIndexedAt": "2026-08-01T07:15:17.209Z",
       "url": "https://jobs.lever.co/palantir/1a935143-e857-480c-bc5a-ad625d754eb6"
+    },
+    {
+      "id": "4d2cd200-3499-4042-a7ab-d158e2d2a4b9",
+      "title": "Product Designer, Internship - US Government",
+      "company": "Palantir",
+      "companyDomain": "palantir.com",
+      "location": "Washington, D.C.",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2024-08-19T09:22:15.474Z",
+      "firstIndexedAt": "2026-08-01T07:15:17.209Z",
+      "url": "https://jobs.lever.co/palantir/fa060d94-f85d-4d02-be58-b81787fe57e5"
     },
     {
       "id": "f43b83e0-244a-446c-be9b-17479967bafc",
@@ -2255,21 +2240,6 @@
       "url": "https://career5.successfactors.eu/careers?company=bmwag&jobId=191380"
     },
     {
-      "id": "595d3e60-154e-43cf-b886-cbdaaaf43816",
-      "title": "Software Engineering Co-op",
-      "company": "BMW AG",
-      "companyDomain": "bmw.com",
-      "location": null,
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": null,
-      "firstIndexedAt": "2026-07-31T11:30:21.491Z",
-      "url": "https://career5.successfactors.eu/careers?company=bmwag&jobId=191582"
-    },
-    {
       "id": "9f865db2-f209-414f-b011-64bf758026ed",
       "title": "Software Engineer Co-Op Spring 2027 (AI/Data)",
       "company": "BMW AG",
@@ -2283,6 +2253,21 @@
       "postedAt": null,
       "firstIndexedAt": "2026-07-31T11:30:21.491Z",
       "url": "https://career5.successfactors.eu/careers?company=bmwag&jobId=191383"
+    },
+    {
+      "id": "595d3e60-154e-43cf-b886-cbdaaaf43816",
+      "title": "Software Engineering Co-op",
+      "company": "BMW AG",
+      "companyDomain": "bmw.com",
+      "location": null,
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": null,
+      "firstIndexedAt": "2026-07-31T11:30:21.491Z",
+      "url": "https://career5.successfactors.eu/careers?company=bmwag&jobId=191582"
     },
     {
       "id": "af944d74-d6f6-4027-a120-25aace3a7524",
@@ -2820,7 +2805,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-22T03:45:09.559Z",
+      "postedAt": "2026-07-22T03:46:33.628Z",
       "firstIndexedAt": "2026-07-25T12:45:38.236Z",
       "url": "https://swbc.wd1.myworkdayjobs.com/swbccareers/job/San-Antonio-TX/Security-Intern_R0015253"
     },
@@ -3350,36 +3335,6 @@
       "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008"
     },
     {
-      "id": "2cba63a4-3cfe-46e4-8381-a6c59bc6f5d8",
-      "title": "Software Engineer Intern - C# .NET Desktop, Summer 2027",
-      "company": "Akunacapital",
-      "companyDomain": "akunacapital.com",
-      "location": "Chicago, IL",
-      "remoteType": "onsite",
-      "salaryMin": 145000,
-      "salaryMax": 145000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-13T18:21:28.000Z",
-      "firstIndexedAt": "2026-07-14T09:16:52.078Z",
-      "url": "https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886"
-    },
-    {
-      "id": "0808575d-3388-400a-b2dd-ea76746ebfc2",
-      "title": "Software Engineer Intern - Python, Summer 2027",
-      "company": "Akunacapital",
-      "companyDomain": "akunacapital.com",
-      "location": "Chicago, IL",
-      "remoteType": "onsite",
-      "salaryMin": 145000,
-      "salaryMax": 145000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-13T18:21:39.000Z",
-      "firstIndexedAt": "2026-07-14T09:16:52.078Z",
-      "url": "https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853"
-    },
-    {
       "id": "d0a0ccb9-6770-4149-9d1c-4fc318cf0100",
       "title": "Software Engineer Intern - Full Stack Web, Summer 2027",
       "company": "Akunacapital",
@@ -3393,6 +3348,21 @@
       "postedAt": "2026-07-13T18:21:34.000Z",
       "firstIndexedAt": "2026-07-14T09:16:52.078Z",
       "url": "https://www.akunacapital.com/careers/job/8018893/?gh_jid=8018893"
+    },
+    {
+      "id": "2cba63a4-3cfe-46e4-8381-a6c59bc6f5d8",
+      "title": "Software Engineer Intern - C# .NET Desktop, Summer 2027",
+      "company": "Akunacapital",
+      "companyDomain": "akunacapital.com",
+      "location": "Chicago, IL",
+      "remoteType": "onsite",
+      "salaryMin": 145000,
+      "salaryMax": 145000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-13T18:21:28.000Z",
+      "firstIndexedAt": "2026-07-14T09:16:52.078Z",
+      "url": "https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886"
     },
     {
       "id": "ee42e3d6-90b1-4066-9bdb-42e3976da0b5",
@@ -3423,6 +3393,36 @@
       "postedAt": "2026-07-13T18:21:47.000Z",
       "firstIndexedAt": "2026-07-14T09:16:52.078Z",
       "url": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880"
+    },
+    {
+      "id": "69cfc521-f26e-43c5-99c6-0ccc7aeb8b47",
+      "title": "Platform Engineer Intern, Summer 2027",
+      "company": "Akunacapital",
+      "companyDomain": "akunacapital.com",
+      "location": "Chicago, IL",
+      "remoteType": "hybrid",
+      "salaryMin": 145000,
+      "salaryMax": 145000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-13T18:21:52.000Z",
+      "firstIndexedAt": "2026-07-14T09:16:52.078Z",
+      "url": "https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856"
+    },
+    {
+      "id": "0808575d-3388-400a-b2dd-ea76746ebfc2",
+      "title": "Software Engineer Intern - Python, Summer 2027",
+      "company": "Akunacapital",
+      "companyDomain": "akunacapital.com",
+      "location": "Chicago, IL",
+      "remoteType": "onsite",
+      "salaryMin": 145000,
+      "salaryMax": 145000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-13T18:21:39.000Z",
+      "firstIndexedAt": "2026-07-14T09:16:52.078Z",
+      "url": "https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853"
     },
     {
       "id": "0b196c79-0377-4873-877e-c64751180452",
@@ -3575,6 +3575,21 @@
       "url": "https://peakenergy.com/get-in-touch/careers/jobs?job_id=5184664007&gh_jid=5184664007"
     },
     {
+      "id": "b9c97b92-3ea9-471f-a749-00769cefae18",
+      "title": "Campus UI Software Engineer (Intern)",
+      "company": "Jump Trading",
+      "companyDomain": "jumptrading.com",
+      "location": "Chicago",
+      "remoteType": "onsite",
+      "salaryMin": 250000,
+      "salaryMax": 250000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-08T21:35:13.000Z",
+      "firstIndexedAt": "2026-07-09T06:09:11.289Z",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8003019"
+    },
+    {
       "id": "b91c811f-c5a0-4ebb-9150-0d3fb3eff867",
       "title": "Campus Data Engineer (Intern)",
       "company": "Jump Trading",
@@ -3603,21 +3618,6 @@
       "postedAt": "2026-07-08T21:35:32.000Z",
       "firstIndexedAt": "2026-07-09T06:09:11.289Z",
       "url": "https://www.jumptrading.com/hr/job?gh_jid=8002989"
-    },
-    {
-      "id": "b9c97b92-3ea9-471f-a749-00769cefae18",
-      "title": "Campus UI Software Engineer (Intern)",
-      "company": "Jump Trading",
-      "companyDomain": "jumptrading.com",
-      "location": "Chicago",
-      "remoteType": "onsite",
-      "salaryMin": 250000,
-      "salaryMax": 250000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-08T21:35:13.000Z",
-      "firstIndexedAt": "2026-07-09T06:09:11.289Z",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8003019"
     },
     {
       "id": "7c1b11b9-561b-4cb3-897e-7fb7f50e07f0",
@@ -3665,21 +3665,6 @@
       "url": "https://www.alixpartners.com/careers/7725335003?gh_jid=7725335003"
     },
     {
-      "id": "b47f8cf5-c50f-40d0-b667-ff45dc2d37db",
-      "title": "Internship, Distributed Systems Software Engineer, Energy Engineering (Fall 2026)",
-      "company": "Tesla",
-      "companyDomain": "tesla.com",
-      "location": "Palo Alto, California",
-      "remoteType": "onsite",
-      "salaryMin": 41600,
-      "salaryMax": 104000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": null,
-      "firstIndexedAt": "2026-07-05T06:01:44.513Z",
-      "url": "https://www.tesla.com/careers/search/job/275558"
-    },
-    {
       "id": "51464d5b-1260-4f0c-97ad-36a65c4987bd",
       "title": "Internship, AI Engineer, Tesla AI (Fall 2026)",
       "company": "Tesla",
@@ -3693,6 +3678,21 @@
       "postedAt": null,
       "firstIndexedAt": "2026-07-05T06:01:44.513Z",
       "url": "https://www.tesla.com/careers/search/job/275331"
+    },
+    {
+      "id": "b47f8cf5-c50f-40d0-b667-ff45dc2d37db",
+      "title": "Internship, Distributed Systems Software Engineer, Energy Engineering (Fall 2026)",
+      "company": "Tesla",
+      "companyDomain": "tesla.com",
+      "location": "Palo Alto, California",
+      "remoteType": "onsite",
+      "salaryMin": 41600,
+      "salaryMax": 104000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": null,
+      "firstIndexedAt": "2026-07-05T06:01:44.513Z",
+      "url": "https://www.tesla.com/careers/search/job/275558"
     },
     {
       "id": "12564371-fdf3-4133-ba86-ba6140155b4e",
@@ -3785,21 +3785,6 @@
       "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Corporate-Intern-Program-----Product-Development-Track_R0000380479"
     },
     {
-      "id": "2de7709b-1dd1-4c76-a4d9-f07b2163a1a4",
-      "title": "Software Engineer Intern (Summer 2027 - Chicago)",
-      "company": "Optiverus",
-      "companyDomain": "optiver.com",
-      "location": "Chicago, Illinois, United States",
-      "remoteType": "onsite",
-      "salaryMin": 80000,
-      "salaryMax": 80000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-01T18:43:10.000Z",
-      "firstIndexedAt": "2026-07-02T06:07:03.464Z",
-      "url": "https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002"
-    },
-    {
       "id": "e7b06c08-32a7-4948-9975-e57c57396c93",
       "title": "Software Engineer Intern (Summer 2027 - Austin)",
       "company": "Optiverus",
@@ -3813,6 +3798,21 @@
       "postedAt": "2026-07-01T18:43:13.000Z",
       "firstIndexedAt": "2026-07-02T06:07:03.464Z",
       "url": "https://www.optiver.com/join-us/jobs/8401052002/?gh_jid=8401052002"
+    },
+    {
+      "id": "2de7709b-1dd1-4c76-a4d9-f07b2163a1a4",
+      "title": "Software Engineer Intern (Summer 2027 - Chicago)",
+      "company": "Optiverus",
+      "companyDomain": "optiver.com",
+      "location": "Chicago, Illinois, United States",
+      "remoteType": "onsite",
+      "salaryMin": 80000,
+      "salaryMax": 80000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-07-01T18:43:10.000Z",
+      "firstIndexedAt": "2026-07-02T06:07:03.464Z",
+      "url": "https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002"
     },
     {
       "id": "ca5141fa-f9ce-4937-8c64-06727a6cb5ea",
@@ -3965,21 +3965,6 @@
       "url": "https://www.tesla.com/careers/search/job/272928"
     },
     {
-      "id": "0f98cd40-db81-405a-8410-34838cb68ba2",
-      "title": "Internship, Inline Metrology Systems Design/Engineer, Cell Engineering (Fall 2026)",
-      "company": "Tesla",
-      "companyDomain": "tesla.com",
-      "location": "Fremont, California",
-      "remoteType": "onsite",
-      "salaryMin": 41600,
-      "salaryMax": 104000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "ai_explicit",
-      "postedAt": null,
-      "firstIndexedAt": "2026-07-01T06:00:24.758Z",
-      "url": "https://www.tesla.com/careers/search/job/275335"
-    },
-    {
       "id": "b27e1ff2-2825-4d9d-9e78-8a96fb9b1549",
       "title": "Internship, ML Modeling Engineer, AI Hardware (Fall 2026)",
       "company": "Tesla",
@@ -3995,19 +3980,19 @@
       "url": "https://www.tesla.com/careers/search/job/275316"
     },
     {
-      "id": "27081b6a-6959-47b8-b206-17999a95f49d",
-      "title": "Internship, Machine Learning Engineer, Factory Software (Fall 2026)",
+      "id": "0f98cd40-db81-405a-8410-34838cb68ba2",
+      "title": "Internship, Inline Metrology Systems Design/Engineer, Cell Engineering (Fall 2026)",
       "company": "Tesla",
       "companyDomain": "tesla.com",
       "location": "Fremont, California",
       "remoteType": "onsite",
-      "salaryMin": 83200,
-      "salaryMax": 116480,
+      "salaryMin": 41600,
+      "salaryMax": 104000,
       "salaryPeriod": "annual",
-      "aiRoleKind": "ai_first",
+      "aiRoleKind": "ai_explicit",
       "postedAt": null,
-      "firstIndexedAt": "2026-07-01T06:00:23.516Z",
-      "url": "https://www.tesla.com/careers/search/job/275380"
+      "firstIndexedAt": "2026-07-01T06:00:24.758Z",
+      "url": "https://www.tesla.com/careers/search/job/275335"
     },
     {
       "id": "5938f873-80c6-42cb-9bb2-f41036c44cf7",
@@ -4023,6 +4008,21 @@
       "postedAt": null,
       "firstIndexedAt": "2026-07-01T06:00:23.516Z",
       "url": "https://www.tesla.com/careers/search/job/275207"
+    },
+    {
+      "id": "27081b6a-6959-47b8-b206-17999a95f49d",
+      "title": "Internship, Machine Learning Engineer, Factory Software (Fall 2026)",
+      "company": "Tesla",
+      "companyDomain": "tesla.com",
+      "location": "Fremont, California",
+      "remoteType": "onsite",
+      "salaryMin": 83200,
+      "salaryMax": 116480,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "ai_first",
+      "postedAt": null,
+      "firstIndexedAt": "2026-07-01T06:00:23.516Z",
+      "url": "https://www.tesla.com/careers/search/job/275380"
     },
     {
       "id": "730a9758-0d3a-4522-a36d-48757b9eb920",
@@ -4070,96 +4070,6 @@
       "url": "https://www.tesla.com/careers/search/job/275494"
     },
     {
-      "id": "2ecfe130-b575-4dec-8fec-daa9f663a763",
-      "title": "Software Engineer, Internship - Production Infrastructure",
-      "company": "Palantir",
-      "companyDomain": "palantir.com",
-      "location": "New York, NY",
-      "remoteType": "hybrid",
-      "salaryMin": 126000,
-      "salaryMax": 126000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2025-06-26T20:04:34.819Z",
-      "firstIndexedAt": "2026-06-30T06:24:20.763Z",
-      "url": "https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116"
-    },
-    {
-      "id": "1a74591e-21b2-469e-92de-6d6b90893bd0",
-      "title": "Software Engineer, Internship",
-      "company": "Palantir",
-      "companyDomain": "palantir.com",
-      "location": "New York, NY",
-      "remoteType": "hybrid",
-      "salaryMin": 126000,
-      "salaryMax": 126000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2022-06-30T21:19:00.945Z",
-      "firstIndexedAt": "2026-06-30T06:24:20.763Z",
-      "url": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d"
-    },
-    {
-      "id": "4b23b4bb-59a3-4d82-86bc-b05140369fb7",
-      "title": "Software Engineer, Internship - Infrastructure",
-      "company": "Palantir",
-      "companyDomain": "palantir.com",
-      "location": "Palo Alto, CA",
-      "remoteType": "hybrid",
-      "salaryMin": 126000,
-      "salaryMax": 126000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2025-08-19T09:48:43.334Z",
-      "firstIndexedAt": "2026-06-30T06:24:20.763Z",
-      "url": "https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4"
-    },
-    {
-      "id": "907a24b4-5777-4188-b717-24eec49864a4",
-      "title": "Software Engineer, Internship",
-      "company": "Palantir",
-      "companyDomain": "palantir.com",
-      "location": "Palo Alto, CA",
-      "remoteType": "hybrid",
-      "salaryMin": 126000,
-      "salaryMax": 126000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2021-07-01T21:52:15.503Z",
-      "firstIndexedAt": "2026-06-30T06:24:20.763Z",
-      "url": "https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c"
-    },
-    {
-      "id": "c09e7bb1-3535-4465-a75a-8ca6ed33fc55",
-      "title": "Software Engineer, Internship - Defense Tech",
-      "company": "Palantir",
-      "companyDomain": "palantir.com",
-      "location": "New York, NY",
-      "remoteType": "hybrid",
-      "salaryMin": 126000,
-      "salaryMax": 126000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2024-08-05T23:27:08.111Z",
-      "firstIndexedAt": "2026-06-30T06:24:20.763Z",
-      "url": "https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e"
-    },
-    {
-      "id": "16edcd85-81a0-4790-b133-2af09f3577e8",
-      "title": "Software Engineer, Internship - Production Infrastructure",
-      "company": "Palantir",
-      "companyDomain": "palantir.com",
-      "location": "Seattle, WA",
-      "remoteType": "hybrid",
-      "salaryMin": 126000,
-      "salaryMax": 126000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2025-06-26T20:05:13.023Z",
-      "firstIndexedAt": "2026-06-30T06:24:20.763Z",
-      "url": "https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1"
-    },
-    {
       "id": "d9645ba3-3a15-4104-bc29-de5e4ec0ba32",
       "title": "Software Engineer, Internship - Defense Tech",
       "company": "Palantir",
@@ -4190,6 +4100,36 @@
       "url": "https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3"
     },
     {
+      "id": "c09e7bb1-3535-4465-a75a-8ca6ed33fc55",
+      "title": "Software Engineer, Internship - Defense Tech",
+      "company": "Palantir",
+      "companyDomain": "palantir.com",
+      "location": "New York, NY",
+      "remoteType": "hybrid",
+      "salaryMin": 126000,
+      "salaryMax": 126000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2024-08-05T23:27:08.111Z",
+      "firstIndexedAt": "2026-06-30T06:24:20.763Z",
+      "url": "https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e"
+    },
+    {
+      "id": "1a74591e-21b2-469e-92de-6d6b90893bd0",
+      "title": "Software Engineer, Internship",
+      "company": "Palantir",
+      "companyDomain": "palantir.com",
+      "location": "New York, NY",
+      "remoteType": "hybrid",
+      "salaryMin": 126000,
+      "salaryMax": 126000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2022-06-30T21:19:00.945Z",
+      "firstIndexedAt": "2026-06-30T06:24:20.763Z",
+      "url": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d"
+    },
+    {
       "id": "28b68a0b-8470-4cfd-a8dd-0e8683c3a3e1",
       "title": "Software Engineer, Internship",
       "company": "Palantir",
@@ -4203,6 +4143,66 @@
       "postedAt": "2024-08-29T04:34:48.941Z",
       "firstIndexedAt": "2026-06-30T06:24:20.763Z",
       "url": "https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249"
+    },
+    {
+      "id": "16edcd85-81a0-4790-b133-2af09f3577e8",
+      "title": "Software Engineer, Internship - Production Infrastructure",
+      "company": "Palantir",
+      "companyDomain": "palantir.com",
+      "location": "Seattle, WA",
+      "remoteType": "hybrid",
+      "salaryMin": 126000,
+      "salaryMax": 126000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2025-06-26T20:05:13.023Z",
+      "firstIndexedAt": "2026-06-30T06:24:20.763Z",
+      "url": "https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1"
+    },
+    {
+      "id": "907a24b4-5777-4188-b717-24eec49864a4",
+      "title": "Software Engineer, Internship",
+      "company": "Palantir",
+      "companyDomain": "palantir.com",
+      "location": "Palo Alto, CA",
+      "remoteType": "hybrid",
+      "salaryMin": 126000,
+      "salaryMax": 126000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2021-07-01T21:52:15.503Z",
+      "firstIndexedAt": "2026-06-30T06:24:20.763Z",
+      "url": "https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c"
+    },
+    {
+      "id": "4b23b4bb-59a3-4d82-86bc-b05140369fb7",
+      "title": "Software Engineer, Internship - Infrastructure",
+      "company": "Palantir",
+      "companyDomain": "palantir.com",
+      "location": "Palo Alto, CA",
+      "remoteType": "hybrid",
+      "salaryMin": 126000,
+      "salaryMax": 126000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2025-08-19T09:48:43.334Z",
+      "firstIndexedAt": "2026-06-30T06:24:20.763Z",
+      "url": "https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4"
+    },
+    {
+      "id": "2ecfe130-b575-4dec-8fec-daa9f663a763",
+      "title": "Software Engineer, Internship - Production Infrastructure",
+      "company": "Palantir",
+      "companyDomain": "palantir.com",
+      "location": "New York, NY",
+      "remoteType": "hybrid",
+      "salaryMin": 126000,
+      "salaryMax": 126000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2025-06-26T20:04:34.819Z",
+      "firstIndexedAt": "2026-06-30T06:24:20.763Z",
+      "url": "https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116"
     },
     {
       "id": "559bc4da-baa9-4077-8f08-56b26251219e",
@@ -5000,21 +5000,6 @@
       "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/8581353002"
     },
     {
-      "id": "1e3ba0aa-6a2d-4e3d-9b6e-d57d0974c071",
-      "title": "Internship, Software Machine Learning Engineer, Reliability Energy Engineering (Fall 2026)",
-      "company": "Tesla",
-      "companyDomain": "tesla.com",
-      "location": "Palo Alto, California",
-      "remoteType": "onsite",
-      "salaryMin": 41600,
-      "salaryMax": 104000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "ai_first",
-      "postedAt": null,
-      "firstIndexedAt": "2026-06-06T06:00:47.751Z",
-      "url": "https://www.tesla.com/careers/search/job/272619"
-    },
-    {
       "id": "26c4e2ac-8f5c-4b55-873e-137b38a879f9",
       "title": "Internship, Site Controller Software Engineer, Energy Engineering (Fall 2026)",
       "company": "Tesla",
@@ -5028,6 +5013,21 @@
       "postedAt": null,
       "firstIndexedAt": "2026-06-06T06:00:47.751Z",
       "url": "https://www.tesla.com/careers/search/job/272615"
+    },
+    {
+      "id": "1e3ba0aa-6a2d-4e3d-9b6e-d57d0974c071",
+      "title": "Internship, Software Machine Learning Engineer, Reliability Energy Engineering (Fall 2026)",
+      "company": "Tesla",
+      "companyDomain": "tesla.com",
+      "location": "Palo Alto, California",
+      "remoteType": "onsite",
+      "salaryMin": 41600,
+      "salaryMax": 104000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "ai_first",
+      "postedAt": null,
+      "firstIndexedAt": "2026-06-06T06:00:47.751Z",
+      "url": "https://www.tesla.com/careers/search/job/272619"
     },
     {
       "id": "7f6001c5-c6ac-4970-8d50-d22a47b2df63",
@@ -5090,6 +5090,21 @@
       "url": "https://generac.wd5.myworkdayjobs.com/External/job/North-Billerica-MA---USA/Mechanical-Design-Engineering-Intern_JR14679"
     },
     {
+      "id": "476f1950-23d5-472f-903b-fe53d9531ed2",
+      "title": "Data Engineering Intern - AI & Analytics (Fall 2026)",
+      "company": "Rivianvw.Tech",
+      "companyDomain": "rivianvw.tech",
+      "location": "Palo Alto, California",
+      "remoteType": "onsite",
+      "salaryMin": 93600,
+      "salaryMax": 106080,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "ai_first",
+      "postedAt": "2026-06-03T14:21:19.078Z",
+      "firstIndexedAt": "2026-06-04T06:19:21.118Z",
+      "url": "https://jobs.ashbyhq.com/rivianvw.tech/3864f83a-7b29-4c96-b00e-436d60c0508a"
+    },
+    {
       "id": "5ed411c6-c82c-4620-bef3-8bd11ca9de87",
       "title": "Software Engineering Intern - Applications (Fall 2026)",
       "company": "Rivianvw.Tech",
@@ -5118,21 +5133,6 @@
       "postedAt": "2026-06-03T14:24:46.997Z",
       "firstIndexedAt": "2026-06-04T06:19:21.118Z",
       "url": "https://jobs.ashbyhq.com/rivianvw.tech/50e43cbe-01ea-4b8b-be4c-bb5f48a2be92"
-    },
-    {
-      "id": "476f1950-23d5-472f-903b-fe53d9531ed2",
-      "title": "Data Engineering Intern - AI & Analytics (Fall 2026)",
-      "company": "Rivianvw.Tech",
-      "companyDomain": "rivianvw.tech",
-      "location": "Palo Alto, California",
-      "remoteType": "onsite",
-      "salaryMin": 93600,
-      "salaryMax": 106080,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "ai_first",
-      "postedAt": "2026-06-03T14:21:19.078Z",
-      "firstIndexedAt": "2026-06-04T06:19:21.118Z",
-      "url": "https://jobs.ashbyhq.com/rivianvw.tech/3864f83a-7b29-4c96-b00e-436d60c0508a"
     },
     {
       "id": "e46568f8-2471-4c35-80e9-1189c7487711",
@@ -5180,6 +5180,21 @@
       "url": "https://job-boards.greenhouse.io/instead/jobs/7761472003"
     },
     {
+      "id": "0dbbe953-76b7-4639-a7de-beb38907e650",
+      "title": "Software Engineering Intern - Vehicle Controls (Fall 2026)",
+      "company": "Rivianvw.Tech",
+      "companyDomain": "rivianvw.tech",
+      "location": "Irvine, California",
+      "remoteType": "onsite",
+      "salaryMin": 79040,
+      "salaryMax": 106080,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-06-03T22:11:58.946Z",
+      "firstIndexedAt": "2026-06-03T06:19:48.749Z",
+      "url": "https://jobs.ashbyhq.com/rivianvw.tech/89feb2fe-c28c-4dad-846f-09594632ba55"
+    },
+    {
       "id": "6d809f8d-1847-4a3a-97a3-1220ff4fc80b",
       "title": "Software Engineering Intern - Embedded Platforms (Fall 2026)",
       "company": "Rivianvw.Tech",
@@ -5208,21 +5223,6 @@
       "postedAt": "2026-06-02T22:40:50.597Z",
       "firstIndexedAt": "2026-06-03T06:19:48.749Z",
       "url": "https://jobs.ashbyhq.com/rivianvw.tech/14734be2-9c81-4aab-bfa6-7dbbe95c94a6"
-    },
-    {
-      "id": "0dbbe953-76b7-4639-a7de-beb38907e650",
-      "title": "Software Engineering Intern - Vehicle Controls (Fall 2026)",
-      "company": "Rivianvw.Tech",
-      "companyDomain": "rivianvw.tech",
-      "location": "Irvine, California",
-      "remoteType": "onsite",
-      "salaryMin": 79040,
-      "salaryMax": 106080,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-06-03T22:11:58.946Z",
-      "firstIndexedAt": "2026-06-03T06:19:48.749Z",
-      "url": "https://jobs.ashbyhq.com/rivianvw.tech/89feb2fe-c28c-4dad-846f-09594632ba55"
     },
     {
       "id": "607ddc9d-5e46-4aae-9913-3d0f1b309323",
@@ -5270,21 +5270,6 @@
       "url": "https://www.tesla.com/careers/search/job/272462"
     },
     {
-      "id": "8045ef3a-7b0c-4bf4-9c39-4f31158125c6",
-      "title": "Internship, Electromechanical Product Design Engineer, Optimus (Fall 2026)",
-      "company": "Tesla",
-      "companyDomain": "tesla.com",
-      "location": "Palo Alto, California",
-      "remoteType": "onsite",
-      "salaryMin": 41600,
-      "salaryMax": 114400,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": null,
-      "firstIndexedAt": "2026-06-03T06:00:51.223Z",
-      "url": "https://www.tesla.com/careers/search/job/272577"
-    },
-    {
       "id": "1d3548b4-3371-4fd2-a005-313d96eefb3a",
       "title": "Internship, Electrical Design Engineer, Tactile Sensing, Optimus (Fall 2026)",
       "company": "Tesla",
@@ -5298,6 +5283,21 @@
       "postedAt": null,
       "firstIndexedAt": "2026-06-03T06:00:51.223Z",
       "url": "https://www.tesla.com/careers/search/job/272581"
+    },
+    {
+      "id": "8045ef3a-7b0c-4bf4-9c39-4f31158125c6",
+      "title": "Internship, Electromechanical Product Design Engineer, Optimus (Fall 2026)",
+      "company": "Tesla",
+      "companyDomain": "tesla.com",
+      "location": "Palo Alto, California",
+      "remoteType": "onsite",
+      "salaryMin": 41600,
+      "salaryMax": 114400,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": null,
+      "firstIndexedAt": "2026-06-03T06:00:51.223Z",
+      "url": "https://www.tesla.com/careers/search/job/272577"
     },
     {
       "id": "4203a6ef-fcc4-47d1-829c-ecbd94efd780",
@@ -5345,7 +5345,7 @@
       "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---GRC-Engineer_JR-013678"
     },
     {
-      "id": "cd33c198-654c-48f3-9994-07d31f90d0b4",
+      "id": "f228e734-e6ee-4293-8095-92b98120dc9e",
       "title": "Intern - Software Engineer",
       "company": "Palo Alto Networks",
       "companyDomain": "paloaltonetworks.com",
@@ -5357,7 +5357,7 @@
       "aiRoleKind": null,
       "postedAt": null,
       "firstIndexedAt": "2026-06-01T06:24:01.763Z",
-      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011590"
+      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011598"
     },
     {
       "id": "50fc06c6-53dc-4c1b-bf32-2bf8364d0c0b",
@@ -5630,21 +5630,6 @@
       "url": "https://job-boards.greenhouse.io/integrainterns/jobs/5134593008"
     },
     {
-      "id": "4e1d4fb5-b8c3-4737-b0f6-d326ff559ba3",
-      "title": "Software Graduate Intern, Autonomous Lab",
-      "company": "Ginkgobioworks",
-      "companyDomain": "ginkgo.bio",
-      "location": "Emeryville, California",
-      "remoteType": "onsite",
-      "salaryMin": 45100,
-      "salaryMax": 63600,
-      "salaryPeriod": "annual",
-      "aiRoleKind": null,
-      "postedAt": "2026-01-28T14:08:02.000Z",
-      "firstIndexedAt": "2026-05-28T12:03:56.755Z",
-      "url": "https://job-boards.greenhouse.io/ginkgobioworks/jobs/5033171007"
-    },
-    {
       "id": "65bf5cbb-0618-4b87-8087-232faa5b06fc",
       "title": "Software Intern, Autonomous Lab",
       "company": "Ginkgobioworks",
@@ -5658,6 +5643,21 @@
       "postedAt": "2026-01-28T14:11:08.000Z",
       "firstIndexedAt": "2026-05-28T12:03:56.755Z",
       "url": "https://job-boards.greenhouse.io/ginkgobioworks/jobs/5033167007"
+    },
+    {
+      "id": "4e1d4fb5-b8c3-4737-b0f6-d326ff559ba3",
+      "title": "Software Graduate Intern, Autonomous Lab",
+      "company": "Ginkgobioworks",
+      "companyDomain": "ginkgo.bio",
+      "location": "Emeryville, California",
+      "remoteType": "onsite",
+      "salaryMin": 45100,
+      "salaryMax": 63600,
+      "salaryPeriod": "annual",
+      "aiRoleKind": null,
+      "postedAt": "2026-01-28T14:08:02.000Z",
+      "firstIndexedAt": "2026-05-28T12:03:56.755Z",
+      "url": "https://job-boards.greenhouse.io/ginkgobioworks/jobs/5033171007"
     },
     {
       "id": "eeab397f-01dc-46e5-bd5d-b5a36b77ab6c",
@@ -5735,21 +5735,6 @@
       "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
     },
     {
-      "id": "83958151-4d64-42e5-82b9-17db1293d894",
-      "title": "Junior Software Engineer - Internship",
-      "company": "Aechelontechnology",
-      "companyDomain": "aechelon.com",
-      "location": "Overland Park, KS",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": null,
-      "postedAt": "2025-08-01T21:51:59.000Z",
-      "firstIndexedAt": "2026-05-28T11:18:23.175Z",
-      "url": "https://job-boards.greenhouse.io/aechelontechnology/jobs/4831334008"
-    },
-    {
       "id": "a5388a8b-ee26-471c-bbc1-ef218469df0b",
       "title": "RTK - Junior Software Engineer - Internship",
       "company": "Aechelontechnology",
@@ -5763,6 +5748,21 @@
       "postedAt": "2025-09-04T23:55:52.000Z",
       "firstIndexedAt": "2026-05-28T11:18:23.175Z",
       "url": "https://job-boards.greenhouse.io/aechelontechnology/jobs/4904960008"
+    },
+    {
+      "id": "83958151-4d64-42e5-82b9-17db1293d894",
+      "title": "Junior Software Engineer - Internship",
+      "company": "Aechelontechnology",
+      "companyDomain": "aechelon.com",
+      "location": "Overland Park, KS",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": null,
+      "postedAt": "2025-08-01T21:51:59.000Z",
+      "firstIndexedAt": "2026-05-28T11:18:23.175Z",
+      "url": "https://job-boards.greenhouse.io/aechelontechnology/jobs/4831334008"
     },
     {
       "id": "991ecd57-7d32-412e-8e97-bc2d37028ba8",
@@ -5795,8 +5795,8 @@
       "url": "https://jobs.ashbyhq.com/etched/1b073af4-6764-45ca-a22d-40a4823f0877"
     },
     {
-      "id": "b37a947d-9d21-40a3-9f56-1e57ab84cf77",
-      "title": "Chip Simulation Software Intern",
+      "id": "44941e75-499d-492f-a641-08d8fc4c0ca5",
+      "title": "Electrical Platform Intern",
       "company": "Etched",
       "companyDomain": "etched.com",
       "location": "San Jose",
@@ -5805,9 +5805,9 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-05-19T22:27:54.640Z",
+      "postedAt": "2026-02-07T01:29:58.073Z",
       "firstIndexedAt": "2026-05-28T11:03:32.942Z",
-      "url": "https://jobs.ashbyhq.com/etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8"
+      "url": "https://jobs.ashbyhq.com/etched/904ddf46-55fc-4a8f-8b49-f32cfe88116a"
     },
     {
       "id": "eac43db3-c5be-4aad-b715-9008828c98ab",
@@ -5825,8 +5825,8 @@
       "url": "https://jobs.ashbyhq.com/etched/699f3ab2-07e4-466c-9d76-3d4a3abb4ebc"
     },
     {
-      "id": "44941e75-499d-492f-a641-08d8fc4c0ca5",
-      "title": "Electrical Platform Intern",
+      "id": "b37a947d-9d21-40a3-9f56-1e57ab84cf77",
+      "title": "Chip Simulation Software Intern",
       "company": "Etched",
       "companyDomain": "etched.com",
       "location": "San Jose",
@@ -5835,9 +5835,9 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-02-07T01:29:58.073Z",
+      "postedAt": "2026-05-19T22:27:54.640Z",
       "firstIndexedAt": "2026-05-28T11:03:32.942Z",
-      "url": "https://jobs.ashbyhq.com/etched/904ddf46-55fc-4a8f-8b49-f32cfe88116a"
+      "url": "https://jobs.ashbyhq.com/etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8"
     },
     {
       "id": "97ad0896-330f-417c-81c6-02ef81773d5b",
@@ -6005,21 +6005,6 @@
       "url": "https://www.tesla.com/careers/search/job/271951"
     },
     {
-      "id": "159e3762-683b-4754-b60f-606458a32d69",
-      "title": "Internship, Robotics Modeling & Simulation Engineer, Optimus (Fall 2026)",
-      "company": "Tesla",
-      "companyDomain": "tesla.com",
-      "location": "Palo Alto, California",
-      "remoteType": "onsite",
-      "salaryMin": 41600,
-      "salaryMax": 114400,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "ai_explicit",
-      "postedAt": null,
-      "firstIndexedAt": "2026-05-28T06:00:40.961Z",
-      "url": "https://www.tesla.com/careers/search/job/271979"
-    },
-    {
       "id": "5aec3937-1df5-4f08-9110-f28b731c1ef7",
       "title": "Internship, Electronic Design Engineer, Optimus (Fall 2026)",
       "company": "Tesla",
@@ -6033,6 +6018,21 @@
       "postedAt": null,
       "firstIndexedAt": "2026-05-28T06:00:40.961Z",
       "url": "https://www.tesla.com/careers/search/job/271981"
+    },
+    {
+      "id": "159e3762-683b-4754-b60f-606458a32d69",
+      "title": "Internship, Robotics Modeling & Simulation Engineer, Optimus (Fall 2026)",
+      "company": "Tesla",
+      "companyDomain": "tesla.com",
+      "location": "Palo Alto, California",
+      "remoteType": "onsite",
+      "salaryMin": 41600,
+      "salaryMax": 114400,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "ai_explicit",
+      "postedAt": null,
+      "firstIndexedAt": "2026-05-28T06:00:40.961Z",
+      "url": "https://www.tesla.com/careers/search/job/271979"
     },
     {
       "id": "030d7029-50b4-4ecb-be8a-ff943fbbcb55",
@@ -6050,19 +6050,19 @@
       "url": "https://kiongroup.wd3.myworkdayjobs.com/KIONGroup/job/Wauwatosa-WI-United-States/AI-Internships_JR-0088855-1"
     },
     {
-      "id": "493e1b9e-8d7e-4f61-add8-78e4e66f8d7e",
-      "title": "Machine Learning for Physical Design Intern - CPU/AI Hardware   ",
+      "id": "4aef5425-21e3-400e-9d1d-0d1d435af9c7",
+      "title": "Physical Design Intern - CPU/AI Hardware",
       "company": "Tenstorrent",
       "companyDomain": "tenstorrent.com",
-      "location": "Santa Clara, California, United States",
-      "remoteType": "hybrid",
+      "location": "Austin, Texas, United States; Santa Clara, California, United States",
+      "remoteType": "onsite",
       "salaryMin": 104000,
       "salaryMax": 145600,
       "salaryPeriod": "annual",
       "aiRoleKind": null,
-      "postedAt": "2025-11-04T05:13:37.000Z",
+      "postedAt": "2024-09-25T19:23:32.000Z",
       "firstIndexedAt": "2026-05-27T12:58:13.752Z",
-      "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4968215007"
+      "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4526301007"
     },
     {
       "id": "5b6a824a-461e-44a7-97e6-137bb653d3b0",
@@ -6080,8 +6080,8 @@
       "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4968219007"
     },
     {
-      "id": "d1dbe77a-27c4-4340-b98c-08c3afd03db4",
-      "title": "CPU Core Performance Verification Intern - CPU/AI Hardware",
+      "id": "ad43be4c-3e33-47b1-b323-9ade78e42c1f",
+      "title": "Machine Learning for Physical Design Intern - CPU/AI Hardware   ",
       "company": "Tenstorrent",
       "companyDomain": "tenstorrent.com",
       "location": "Austin, Texas, United States",
@@ -6089,40 +6089,10 @@
       "salaryMin": 104000,
       "salaryMax": 145600,
       "salaryPeriod": "annual",
-      "aiRoleKind": null,
-      "postedAt": "2024-08-30T14:07:07.000Z",
+      "aiRoleKind": "ai_first",
+      "postedAt": "2024-08-30T14:42:41.000Z",
       "firstIndexedAt": "2026-05-27T12:58:13.752Z",
-      "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501134007"
-    },
-    {
-      "id": "25571f8b-9ed2-485e-94c2-48f1afa75137",
-      "title": "Data Movement Architecture Intern",
-      "company": "Tenstorrent",
-      "companyDomain": "tenstorrent.com",
-      "location": "Austin, Texas, United States; Fort Collins, Colorado, United States; North America; Santa Clara, California, United States",
-      "remoteType": null,
-      "salaryMin": 104000,
-      "salaryMax": 145600,
-      "salaryPeriod": "annual",
-      "aiRoleKind": null,
-      "postedAt": "2025-12-09T15:42:35.000Z",
-      "firstIndexedAt": "2026-05-27T12:58:13.752Z",
-      "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4999339007"
-    },
-    {
-      "id": "4aef5425-21e3-400e-9d1d-0d1d435af9c7",
-      "title": "Physical Design Intern - CPU/AI Hardware",
-      "company": "Tenstorrent",
-      "companyDomain": "tenstorrent.com",
-      "location": "Austin, Texas, United States; Santa Clara, California, United States",
-      "remoteType": "onsite",
-      "salaryMin": 104000,
-      "salaryMax": 145600,
-      "salaryPeriod": "annual",
-      "aiRoleKind": null,
-      "postedAt": "2024-09-25T19:23:32.000Z",
-      "firstIndexedAt": "2026-05-27T12:58:13.752Z",
-      "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4526301007"
+      "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501164007"
     },
     {
       "id": "61e19558-3852-40b9-ad5d-e3e3ddc359db",
@@ -6155,8 +6125,8 @@
       "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501189007"
     },
     {
-      "id": "ad43be4c-3e33-47b1-b323-9ade78e42c1f",
-      "title": "Machine Learning for Physical Design Intern - CPU/AI Hardware   ",
+      "id": "d1dbe77a-27c4-4340-b98c-08c3afd03db4",
+      "title": "CPU Core Performance Verification Intern - CPU/AI Hardware",
       "company": "Tenstorrent",
       "companyDomain": "tenstorrent.com",
       "location": "Austin, Texas, United States",
@@ -6164,10 +6134,40 @@
       "salaryMin": 104000,
       "salaryMax": 145600,
       "salaryPeriod": "annual",
-      "aiRoleKind": "ai_first",
-      "postedAt": "2024-08-30T14:42:41.000Z",
+      "aiRoleKind": null,
+      "postedAt": "2024-08-30T14:07:07.000Z",
       "firstIndexedAt": "2026-05-27T12:58:13.752Z",
-      "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501164007"
+      "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501134007"
+    },
+    {
+      "id": "493e1b9e-8d7e-4f61-add8-78e4e66f8d7e",
+      "title": "Machine Learning for Physical Design Intern - CPU/AI Hardware   ",
+      "company": "Tenstorrent",
+      "companyDomain": "tenstorrent.com",
+      "location": "Santa Clara, California, United States",
+      "remoteType": "hybrid",
+      "salaryMin": 104000,
+      "salaryMax": 145600,
+      "salaryPeriod": "annual",
+      "aiRoleKind": null,
+      "postedAt": "2025-11-04T05:13:37.000Z",
+      "firstIndexedAt": "2026-05-27T12:58:13.752Z",
+      "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4968215007"
+    },
+    {
+      "id": "25571f8b-9ed2-485e-94c2-48f1afa75137",
+      "title": "Data Movement Architecture Intern",
+      "company": "Tenstorrent",
+      "companyDomain": "tenstorrent.com",
+      "location": "Austin, Texas, United States; Fort Collins, Colorado, United States; North America; Santa Clara, California, United States",
+      "remoteType": null,
+      "salaryMin": 104000,
+      "salaryMax": 145600,
+      "salaryPeriod": "annual",
+      "aiRoleKind": null,
+      "postedAt": "2025-12-09T15:42:35.000Z",
+      "firstIndexedAt": "2026-05-27T12:58:13.752Z",
+      "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4999339007"
     },
     {
       "id": "17a3dcc3-f422-451c-877e-36125dd81c6e",
@@ -6183,6 +6183,21 @@
       "postedAt": "2025-11-06T04:13:52.000Z",
       "firstIndexedAt": "2026-05-27T12:58:13.752Z",
       "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4955926007"
+    },
+    {
+      "id": "66e3deb6-9b87-4cee-88c6-7161ec140eda",
+      "title": "Hardware Engineering Intern",
+      "company": "Base Power",
+      "companyDomain": "basepowercompany.com",
+      "location": "Austin, TX",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-05-21T21:09:03.523Z",
+      "firstIndexedAt": "2026-05-27T11:06:35.880Z",
+      "url": "https://jobs.ashbyhq.com/base-power/f22cee0e-55d9-42cd-806e-1c1fc7217770"
     },
     {
       "id": "543790ae-0b50-4f4b-825a-070debfc86c0",
@@ -6228,21 +6243,6 @@
       "postedAt": "2026-05-26T22:24:01.506Z",
       "firstIndexedAt": "2026-05-27T11:06:35.880Z",
       "url": "https://jobs.ashbyhq.com/base-power/a8ee9a66-e90b-42c2-a4a2-28d997c3e8c7"
-    },
-    {
-      "id": "66e3deb6-9b87-4cee-88c6-7161ec140eda",
-      "title": "Hardware Engineering Intern",
-      "company": "Base Power",
-      "companyDomain": "basepowercompany.com",
-      "location": "Austin, TX",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-05-21T21:09:03.523Z",
-      "firstIndexedAt": "2026-05-27T11:06:35.880Z",
-      "url": "https://jobs.ashbyhq.com/base-power/f22cee0e-55d9-42cd-806e-1c1fc7217770"
     },
     {
       "id": "199745f0-a3da-49c4-9f5b-4105fd8bd029",
@@ -6425,21 +6425,6 @@
       "url": "https://jobs.ashbyhq.com/tenex/fbfefd5c-ae95-4a71-8a75-e2b61facb304"
     },
     {
-      "id": "82509c7b-191b-44c0-bfff-99b7aaf4507d",
-      "title": "OCI Software Engineer Intern - OVIP",
-      "company": "Oracle",
-      "companyDomain": "oracle.com",
-      "location": "Seattle, WA, United States",
-      "remoteType": null,
-      "salaryMin": 62400,
-      "salaryMax": 62400,
-      "salaryPeriod": "annual",
-      "aiRoleKind": null,
-      "postedAt": "2026-05-22T22:21:02.000Z",
-      "firstIndexedAt": "2026-05-26T06:48:15.838Z",
-      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/334325"
-    },
-    {
       "id": "25523ac2-515c-4b1d-8614-da6151348e98",
       "title": "ONA AI Agent Intern (Logistics Focus) - OVIP",
       "company": "Oracle",
@@ -6453,6 +6438,21 @@
       "postedAt": "2026-05-22T23:04:16.000Z",
       "firstIndexedAt": "2026-05-26T06:48:15.838Z",
       "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/334345"
+    },
+    {
+      "id": "82509c7b-191b-44c0-bfff-99b7aaf4507d",
+      "title": "OCI Software Engineer Intern - OVIP",
+      "company": "Oracle",
+      "companyDomain": "oracle.com",
+      "location": "Seattle, WA, United States",
+      "remoteType": null,
+      "salaryMin": 62400,
+      "salaryMax": 62400,
+      "salaryPeriod": "annual",
+      "aiRoleKind": null,
+      "postedAt": "2026-05-22T22:21:02.000Z",
+      "firstIndexedAt": "2026-05-26T06:48:15.838Z",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/334325"
     },
     {
       "id": "095b2250-4666-4449-8a62-30c27e29f010",
@@ -6485,21 +6485,6 @@
       "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/334390"
     },
     {
-      "id": "a1fc4c0b-89dc-45d6-bfec-d9baf2338681",
-      "title": "OH Product Manager Intern - OVIP",
-      "company": "Oracle",
-      "companyDomain": "oracle.com",
-      "location": "Kansas City, MO, United States",
-      "remoteType": null,
-      "salaryMin": 62400,
-      "salaryMax": 62400,
-      "salaryPeriod": "annual",
-      "aiRoleKind": null,
-      "postedAt": "2026-05-19T23:05:35.000Z",
-      "firstIndexedAt": "2026-05-26T06:48:15.838Z",
-      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/334348"
-    },
-    {
       "id": "6e84061b-817a-49bb-b7c6-b7e6aba1a1cb",
       "title": "SCA Project Manager Intern - OVIP",
       "company": "Oracle",
@@ -6513,6 +6498,21 @@
       "postedAt": "2026-05-27T00:34:28.000Z",
       "firstIndexedAt": "2026-05-26T06:48:15.838Z",
       "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/334344"
+    },
+    {
+      "id": "a1fc4c0b-89dc-45d6-bfec-d9baf2338681",
+      "title": "OH Product Manager Intern - OVIP",
+      "company": "Oracle",
+      "companyDomain": "oracle.com",
+      "location": "Kansas City, MO, United States",
+      "remoteType": null,
+      "salaryMin": 62400,
+      "salaryMax": 62400,
+      "salaryPeriod": "annual",
+      "aiRoleKind": null,
+      "postedAt": "2026-05-19T23:05:35.000Z",
+      "firstIndexedAt": "2026-05-26T06:48:15.838Z",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/334348"
     },
     {
       "id": "24e8e1a3-de5c-4774-9c87-aeac09d97983",
@@ -6590,8 +6590,8 @@
       "url": "https://biotechne.wd5.myworkdayjobs.com/Biotechne/job/San-Jose-CA/Hardware-Engineering-Intern_JR101533"
     },
     {
-      "id": "c41b78a5-ef3c-4238-9bd5-e9eb19de13c2",
-      "title": "Robotics Systems Intern - Sensor Platform",
+      "id": "13893af7-fab0-44ba-a06b-40a92a708077",
+      "title": "Full Stack Engineer Intern",
       "company": "Plus",
       "companyDomain": "plus.ai",
       "location": "Santa Clara, CA",
@@ -6599,25 +6599,10 @@
       "salaryMin": 39520,
       "salaryMax": 135200,
       "salaryPeriod": "annual",
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-05-20T22:48:51.408Z",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-05-15T02:14:03.769Z",
       "firstIndexedAt": "2026-05-25T16:13:38.982Z",
-      "url": "https://jobs.lever.co/plus-2/c6560f15-5446-442a-878d-b7c72606149b"
-    },
-    {
-      "id": "e5f1fa9c-d0a3-479b-bef0-03c2f1a08012",
-      "title": "Machine Learning Engineer Intern - Scenario Simulation",
-      "company": "Plus",
-      "companyDomain": "plus.ai",
-      "location": "Santa Clara, CA",
-      "remoteType": "onsite",
-      "salaryMin": 39520,
-      "salaryMax": 135200,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "ai_first",
-      "postedAt": "2026-05-20T21:27:38.524Z",
-      "firstIndexedAt": "2026-05-25T16:13:38.982Z",
-      "url": "https://jobs.lever.co/plus-2/b4f750e7-0148-41f0-b2b1-ff054450a320"
+      "url": "https://jobs.lever.co/plus-2/b69c9b6d-483f-41d4-b487-97c99332ca40"
     },
     {
       "id": "c92e4f2a-0cf2-47ab-bc24-2421236818db",
@@ -6635,8 +6620,8 @@
       "url": "https://jobs.lever.co/plus-2/5d71c173-fef1-409f-b3f0-750e3b828266"
     },
     {
-      "id": "13893af7-fab0-44ba-a06b-40a92a708077",
-      "title": "Full Stack Engineer Intern",
+      "id": "e5f1fa9c-d0a3-479b-bef0-03c2f1a08012",
+      "title": "Machine Learning Engineer Intern - Scenario Simulation",
       "company": "Plus",
       "companyDomain": "plus.ai",
       "location": "Santa Clara, CA",
@@ -6644,10 +6629,10 @@
       "salaryMin": 39520,
       "salaryMax": 135200,
       "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-05-15T02:14:03.769Z",
+      "aiRoleKind": "ai_first",
+      "postedAt": "2026-05-20T21:27:38.524Z",
       "firstIndexedAt": "2026-05-25T16:13:38.982Z",
-      "url": "https://jobs.lever.co/plus-2/b69c9b6d-483f-41d4-b487-97c99332ca40"
+      "url": "https://jobs.lever.co/plus-2/b4f750e7-0148-41f0-b2b1-ff054450a320"
     },
     {
       "id": "2a95cce9-3fd6-41e5-b5f0-70ca34060778",
@@ -6678,6 +6663,21 @@
       "postedAt": "2026-05-20T22:18:18.139Z",
       "firstIndexedAt": "2026-05-25T16:13:38.982Z",
       "url": "https://jobs.lever.co/plus-2/7a1afea9-b468-4b7c-a508-185e8e4032db"
+    },
+    {
+      "id": "c41b78a5-ef3c-4238-9bd5-e9eb19de13c2",
+      "title": "Robotics Systems Intern - Sensor Platform",
+      "company": "Plus",
+      "companyDomain": "plus.ai",
+      "location": "Santa Clara, CA",
+      "remoteType": "onsite",
+      "salaryMin": 39520,
+      "salaryMax": 135200,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-05-20T22:48:51.408Z",
+      "firstIndexedAt": "2026-05-25T16:13:38.982Z",
+      "url": "https://jobs.lever.co/plus-2/c6560f15-5446-442a-878d-b7c72606149b"
     },
     {
       "id": "285ac5e2-fd60-498d-a5fa-601492cbdb46",
@@ -6845,6 +6845,21 @@
       "url": "https://jobs.smartrecruiters.com/AristaNetworks/744000111461585-system-test-engineer-intern?oga=true"
     },
     {
+      "id": "662f0e9f-41e7-4c4b-86be-fc51ec0f10b8",
+      "title": "Software Engineer Intern, BCI Applications",
+      "company": "Neuralink",
+      "companyDomain": "neuralink.com",
+      "location": "South San Francisco, California, United States",
+      "remoteType": null,
+      "salaryMin": 72800,
+      "salaryMax": 72800,
+      "salaryPeriod": "annual",
+      "aiRoleKind": null,
+      "postedAt": "2025-05-30T23:47:45.000Z",
+      "firstIndexedAt": "2026-05-23T07:59:44.745Z",
+      "url": "https://boards.greenhouse.io/neuralink/jobs/6594422003?gh_jid=6594422003"
+    },
+    {
       "id": "d8414754-c9f1-4bff-b5c0-bce717ecfc85",
       "title": "Software Engineer Intern, Implant",
       "company": "Neuralink",
@@ -6858,21 +6873,6 @@
       "postedAt": "2025-05-08T01:48:48.000Z",
       "firstIndexedAt": "2026-05-23T07:59:44.745Z",
       "url": "https://boards.greenhouse.io/neuralink/jobs/6569018003?gh_jid=6569018003"
-    },
-    {
-      "id": "743c5898-a7f1-4544-b7e2-f7114944dcb4",
-      "title": "Software Engineer Intern, Internal Apps",
-      "company": "Neuralink",
-      "companyDomain": "neuralink.com",
-      "location": "Austin, Texas, United States; South San Francisco, California, United States",
-      "remoteType": null,
-      "salaryMin": 72800,
-      "salaryMax": 72800,
-      "salaryPeriod": "annual",
-      "aiRoleKind": null,
-      "postedAt": "2024-12-13T20:15:59.000Z",
-      "firstIndexedAt": "2026-05-23T07:59:44.745Z",
-      "url": "https://boards.greenhouse.io/neuralink/jobs/6083322003?gh_jid=6083322003"
     },
     {
       "id": "9d4dc14a-862c-4d82-bf1d-50b23bffc933",
@@ -6905,8 +6905,38 @@
       "url": "https://boards.greenhouse.io/neuralink/jobs/5469305003?gh_jid=5469305003"
     },
     {
-      "id": "662f0e9f-41e7-4c4b-86be-fc51ec0f10b8",
-      "title": "Software Engineer Intern, BCI Applications",
+      "id": "743c5898-a7f1-4544-b7e2-f7114944dcb4",
+      "title": "Software Engineer Intern, Internal Apps",
+      "company": "Neuralink",
+      "companyDomain": "neuralink.com",
+      "location": "Austin, Texas, United States; South San Francisco, California, United States",
+      "remoteType": null,
+      "salaryMin": 72800,
+      "salaryMax": 72800,
+      "salaryPeriod": "annual",
+      "aiRoleKind": null,
+      "postedAt": "2024-12-13T20:15:59.000Z",
+      "firstIndexedAt": "2026-05-23T07:59:44.745Z",
+      "url": "https://boards.greenhouse.io/neuralink/jobs/6083322003?gh_jid=6083322003"
+    },
+    {
+      "id": "7019677b-a78a-4cd7-82de-8049441a9f26",
+      "title": "Analog and Mixed-Signal IC Design Engineer Intern ",
+      "company": "Neuralink",
+      "companyDomain": "neuralink.com",
+      "location": "South San Francisco, California, United States",
+      "remoteType": "onsite",
+      "salaryMin": 72800,
+      "salaryMax": 72800,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-02-18T22:29:03.000Z",
+      "firstIndexedAt": "2026-05-23T07:59:40.403Z",
+      "url": "https://boards.greenhouse.io/neuralink/jobs/7565469003?gh_jid=7565469003"
+    },
+    {
+      "id": "c2070dca-b8ad-468c-9964-ce44b8cddaa7",
+      "title": "Mechanical Engineering Intern, Robotics",
       "company": "Neuralink",
       "companyDomain": "neuralink.com",
       "location": "South San Francisco, California, United States",
@@ -6915,9 +6945,69 @@
       "salaryMax": 72800,
       "salaryPeriod": "annual",
       "aiRoleKind": null,
-      "postedAt": "2025-05-30T23:47:45.000Z",
-      "firstIndexedAt": "2026-05-23T07:59:44.745Z",
-      "url": "https://boards.greenhouse.io/neuralink/jobs/6594422003?gh_jid=6594422003"
+      "postedAt": "2025-03-28T22:24:55.000Z",
+      "firstIndexedAt": "2026-05-23T07:59:40.403Z",
+      "url": "https://boards.greenhouse.io/neuralink/jobs/6514169003?gh_jid=6514169003"
+    },
+    {
+      "id": "f12d56ba-84b7-46eb-bc48-35edab935030",
+      "title": "Digital IC Design Engineer Intern",
+      "company": "Neuralink",
+      "companyDomain": "neuralink.com",
+      "location": "South San Francisco, California, United States",
+      "remoteType": null,
+      "salaryMin": 72800,
+      "salaryMax": 72800,
+      "salaryPeriod": "annual",
+      "aiRoleKind": null,
+      "postedAt": "2025-10-28T01:14:07.000Z",
+      "firstIndexedAt": "2026-05-23T07:59:40.403Z",
+      "url": "https://boards.greenhouse.io/neuralink/jobs/7090489003?gh_jid=7090489003"
+    },
+    {
+      "id": "17b77c2a-38b3-4c4b-96e3-bebcb2638b68",
+      "title": "Machine Learning Engineer Intern",
+      "company": "Neuralink",
+      "companyDomain": "neuralink.com",
+      "location": "South San Francisco, California, United States",
+      "remoteType": "onsite",
+      "salaryMin": 72800,
+      "salaryMax": 72800,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "ai_first",
+      "postedAt": "2025-05-30T22:30:33.000Z",
+      "firstIndexedAt": "2026-05-23T07:59:40.403Z",
+      "url": "https://boards.greenhouse.io/neuralink/jobs/6594261003?gh_jid=6594261003"
+    },
+    {
+      "id": "572e7639-5e19-4d37-bb70-48ba16c35dae",
+      "title": "Electrical Engineer Intern, Implant Embedded Systems",
+      "company": "Neuralink",
+      "companyDomain": "neuralink.com",
+      "location": "Austin, Texas, United States; South San Francisco, California, United States",
+      "remoteType": null,
+      "salaryMin": 72800,
+      "salaryMax": 72800,
+      "salaryPeriod": "annual",
+      "aiRoleKind": null,
+      "postedAt": "2026-04-16T02:58:21.000Z",
+      "firstIndexedAt": "2026-05-23T07:59:40.403Z",
+      "url": "https://boards.greenhouse.io/neuralink/jobs/7702527003?gh_jid=7702527003"
+    },
+    {
+      "id": "420bd42a-a6b5-4141-bcc4-2d5682971fbc",
+      "title": "Robot Optics Intern",
+      "company": "Neuralink",
+      "companyDomain": "neuralink.com",
+      "location": "South San Francisco, California, United States",
+      "remoteType": null,
+      "salaryMin": 72800,
+      "salaryMax": 72800,
+      "salaryPeriod": "annual",
+      "aiRoleKind": null,
+      "postedAt": "2025-05-14T18:49:50.000Z",
+      "firstIndexedAt": "2026-05-23T07:59:40.403Z",
+      "url": "https://boards.greenhouse.io/neuralink/jobs/6576326003?gh_jid=6576326003"
     },
     {
       "id": "eb7a4f82-ac0b-4362-aa3c-8493399f543b",
@@ -6965,96 +7055,6 @@
       "url": "https://boards.greenhouse.io/neuralink/jobs/7666761003?gh_jid=7666761003"
     },
     {
-      "id": "572e7639-5e19-4d37-bb70-48ba16c35dae",
-      "title": "Electrical Engineer Intern, Implant Embedded Systems",
-      "company": "Neuralink",
-      "companyDomain": "neuralink.com",
-      "location": "Austin, Texas, United States; South San Francisco, California, United States",
-      "remoteType": null,
-      "salaryMin": 72800,
-      "salaryMax": 72800,
-      "salaryPeriod": "annual",
-      "aiRoleKind": null,
-      "postedAt": "2026-04-16T02:58:21.000Z",
-      "firstIndexedAt": "2026-05-23T07:59:40.403Z",
-      "url": "https://boards.greenhouse.io/neuralink/jobs/7702527003?gh_jid=7702527003"
-    },
-    {
-      "id": "7019677b-a78a-4cd7-82de-8049441a9f26",
-      "title": "Analog and Mixed-Signal IC Design Engineer Intern ",
-      "company": "Neuralink",
-      "companyDomain": "neuralink.com",
-      "location": "South San Francisco, California, United States",
-      "remoteType": "onsite",
-      "salaryMin": 72800,
-      "salaryMax": 72800,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-02-18T22:29:03.000Z",
-      "firstIndexedAt": "2026-05-23T07:59:40.403Z",
-      "url": "https://boards.greenhouse.io/neuralink/jobs/7565469003?gh_jid=7565469003"
-    },
-    {
-      "id": "17b77c2a-38b3-4c4b-96e3-bebcb2638b68",
-      "title": "Machine Learning Engineer Intern",
-      "company": "Neuralink",
-      "companyDomain": "neuralink.com",
-      "location": "South San Francisco, California, United States",
-      "remoteType": "onsite",
-      "salaryMin": 72800,
-      "salaryMax": 72800,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "ai_first",
-      "postedAt": "2025-05-30T22:30:33.000Z",
-      "firstIndexedAt": "2026-05-23T07:59:40.403Z",
-      "url": "https://boards.greenhouse.io/neuralink/jobs/6594261003?gh_jid=6594261003"
-    },
-    {
-      "id": "420bd42a-a6b5-4141-bcc4-2d5682971fbc",
-      "title": "Robot Optics Intern",
-      "company": "Neuralink",
-      "companyDomain": "neuralink.com",
-      "location": "South San Francisco, California, United States",
-      "remoteType": null,
-      "salaryMin": 72800,
-      "salaryMax": 72800,
-      "salaryPeriod": "annual",
-      "aiRoleKind": null,
-      "postedAt": "2025-05-14T18:49:50.000Z",
-      "firstIndexedAt": "2026-05-23T07:59:40.403Z",
-      "url": "https://boards.greenhouse.io/neuralink/jobs/6576326003?gh_jid=6576326003"
-    },
-    {
-      "id": "c2070dca-b8ad-468c-9964-ce44b8cddaa7",
-      "title": "Mechanical Engineering Intern, Robotics",
-      "company": "Neuralink",
-      "companyDomain": "neuralink.com",
-      "location": "South San Francisco, California, United States",
-      "remoteType": null,
-      "salaryMin": 72800,
-      "salaryMax": 72800,
-      "salaryPeriod": "annual",
-      "aiRoleKind": null,
-      "postedAt": "2025-03-28T22:24:55.000Z",
-      "firstIndexedAt": "2026-05-23T07:59:40.403Z",
-      "url": "https://boards.greenhouse.io/neuralink/jobs/6514169003?gh_jid=6514169003"
-    },
-    {
-      "id": "f12d56ba-84b7-46eb-bc48-35edab935030",
-      "title": "Digital IC Design Engineer Intern",
-      "company": "Neuralink",
-      "companyDomain": "neuralink.com",
-      "location": "South San Francisco, California, United States",
-      "remoteType": null,
-      "salaryMin": 72800,
-      "salaryMax": 72800,
-      "salaryPeriod": "annual",
-      "aiRoleKind": null,
-      "postedAt": "2025-10-28T01:14:07.000Z",
-      "firstIndexedAt": "2026-05-23T07:59:40.403Z",
-      "url": "https://boards.greenhouse.io/neuralink/jobs/7090489003?gh_jid=7090489003"
-    },
-    {
       "id": "19636210-1306-4d08-969e-2a68d2cc8702",
       "title": "Engineering Intern – Gen AI for FP&A Platform",
       "company": "Drivetrain",
@@ -7085,21 +7085,6 @@
       "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/Burlington-MA/Product-Engineering-Internship--Simulation-and-Verification--Summer-2026-_R53475"
     },
     {
-      "id": "aa8a279e-047f-4d09-b183-636e6a354367",
-      "title": "Internship, Solar Hardware Engineer, Energy Engineering (Fall 2026)",
-      "company": "Tesla",
-      "companyDomain": "tesla.com",
-      "location": "Palo Alto, California",
-      "remoteType": "onsite",
-      "salaryMin": 41600,
-      "salaryMax": 104000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": null,
-      "firstIndexedAt": "2026-05-23T06:00:31.959Z",
-      "url": "https://www.tesla.com/careers/search/job/271539"
-    },
-    {
       "id": "bf4ae8a7-ff01-42d5-8e1c-2197bcb6fa5c",
       "title": "Internship, Thermal Design Engineer, Energy Engineering (Fall 2026)",
       "company": "Tesla",
@@ -7113,6 +7098,21 @@
       "postedAt": null,
       "firstIndexedAt": "2026-05-23T06:00:31.959Z",
       "url": "https://www.tesla.com/careers/search/job/271538"
+    },
+    {
+      "id": "aa8a279e-047f-4d09-b183-636e6a354367",
+      "title": "Internship, Solar Hardware Engineer, Energy Engineering (Fall 2026)",
+      "company": "Tesla",
+      "companyDomain": "tesla.com",
+      "location": "Palo Alto, California",
+      "remoteType": "onsite",
+      "salaryMin": 41600,
+      "salaryMax": 104000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": null,
+      "firstIndexedAt": "2026-05-23T06:00:31.959Z",
+      "url": "https://www.tesla.com/careers/search/job/271539"
     },
     {
       "id": "38785ddc-f4d7-48ed-9035-49ed955c83cc",
@@ -7160,21 +7160,6 @@
       "url": "https://jobs.apple.com/en-us/details/200663996/product-design-masters-engineering-internships?team=STDNT"
     },
     {
-      "id": "bc7ae5d9-ab71-417d-b640-c9de13f59b27",
-      "title": "Hardware Technologies Masters Engineering Internships",
-      "company": "Apple",
-      "companyDomain": "apple.com",
-      "location": "United States",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-05-21T19:20:22.372Z",
-      "firstIndexedAt": "2026-05-22T06:04:33.854Z",
-      "url": "https://jobs.apple.com/en-us/details/200664383/hardware-technologies-masters-engineering-internships?team=STDNT"
-    },
-    {
       "id": "0dbefcc8-0196-4d03-905e-ff585567688a",
       "title": "Software PhD Internships",
       "company": "Apple",
@@ -7220,19 +7205,19 @@
       "url": "https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships?team=STDNT"
     },
     {
-      "id": "c665f8c1-10d9-437b-a3bc-0165521c592d",
-      "title": "Hardware Technologies Undergrad Engineering Internships",
+      "id": "bc7ae5d9-ab71-417d-b640-c9de13f59b27",
+      "title": "Hardware Technologies Masters Engineering Internships",
       "company": "Apple",
       "companyDomain": "apple.com",
       "location": "United States",
-      "remoteType": null,
+      "remoteType": "onsite",
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-05-21T19:18:54.086Z",
+      "postedAt": "2026-05-21T19:20:22.372Z",
       "firstIndexedAt": "2026-05-22T06:04:33.854Z",
-      "url": "https://jobs.apple.com/en-us/details/200663968/hardware-technologies-undergrad-engineering-internships?team=STDNT"
+      "url": "https://jobs.apple.com/en-us/details/200664383/hardware-technologies-masters-engineering-internships?team=STDNT"
     },
     {
       "id": "8154268d-59ea-41ea-8727-1f7a4a175a1f",
@@ -7250,8 +7235,8 @@
       "url": "https://jobs.apple.com/en-us/details/200664421/hardware-phd-internships?team=STDNT"
     },
     {
-      "id": "77603f3d-0d56-483c-a56e-fac6ed05c5f1",
-      "title": "Hardware Masters Engineering Internships",
+      "id": "a4675332-f919-43d1-ae7c-488faac9f533",
+      "title": "Hardware Undergrad Engineering Internships",
       "company": "Apple",
       "companyDomain": "apple.com",
       "location": "United States",
@@ -7259,10 +7244,10 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-05-21T19:23:14.407Z",
+      "aiRoleKind": null,
+      "postedAt": "2026-05-21T19:22:17.152Z",
       "firstIndexedAt": "2026-05-22T06:04:33.854Z",
-      "url": "https://jobs.apple.com/en-us/details/200664419/hardware-masters-engineering-internships?team=STDNT"
+      "url": "https://jobs.apple.com/en-us/details/200663981/hardware-undergrad-engineering-internships?team=STDNT"
     },
     {
       "id": "d8fc6a97-bca1-4211-95eb-6bdc7e529436",
@@ -7280,23 +7265,8 @@
       "url": "https://jobs.apple.com/en-us/details/200664414/hardware-technologies-phd-internships?team=STDNT"
     },
     {
-      "id": "a4675332-f919-43d1-ae7c-488faac9f533",
-      "title": "Hardware Undergrad Engineering Internships",
-      "company": "Apple",
-      "companyDomain": "apple.com",
-      "location": "United States",
-      "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": null,
-      "postedAt": "2026-05-21T19:22:17.152Z",
-      "firstIndexedAt": "2026-05-22T06:04:33.854Z",
-      "url": "https://jobs.apple.com/en-us/details/200663981/hardware-undergrad-engineering-internships?team=STDNT"
-    },
-    {
-      "id": "e70483c9-c32f-485e-80e3-282667d15d53",
-      "title": "Product Design Undergrad Internships",
+      "id": "77603f3d-0d56-483c-a56e-fac6ed05c5f1",
+      "title": "Hardware Masters Engineering Internships",
       "company": "Apple",
       "companyDomain": "apple.com",
       "location": "United States",
@@ -7305,9 +7275,24 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-05-21T19:08:58.571Z",
+      "postedAt": "2026-05-21T19:23:14.407Z",
       "firstIndexedAt": "2026-05-22T06:04:33.854Z",
-      "url": "https://jobs.apple.com/en-us/details/200664000/product-design-undergrad-internships?team=STDNT"
+      "url": "https://jobs.apple.com/en-us/details/200664419/hardware-masters-engineering-internships?team=STDNT"
+    },
+    {
+      "id": "c665f8c1-10d9-437b-a3bc-0165521c592d",
+      "title": "Hardware Technologies Undergrad Engineering Internships",
+      "company": "Apple",
+      "companyDomain": "apple.com",
+      "location": "United States",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-05-21T19:18:54.086Z",
+      "firstIndexedAt": "2026-05-22T06:04:33.854Z",
+      "url": "https://jobs.apple.com/en-us/details/200663968/hardware-technologies-undergrad-engineering-internships?team=STDNT"
     },
     {
       "id": "595b576a-ce57-464f-8d60-213ec94ada3c",
@@ -7323,6 +7308,21 @@
       "postedAt": "2026-05-21T19:10:35.628Z",
       "firstIndexedAt": "2026-05-22T06:04:33.854Z",
       "url": "https://jobs.apple.com/en-us/details/200663969/product-design-phd-internships?team=STDNT"
+    },
+    {
+      "id": "e70483c9-c32f-485e-80e3-282667d15d53",
+      "title": "Product Design Undergrad Internships",
+      "company": "Apple",
+      "companyDomain": "apple.com",
+      "location": "United States",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-05-21T19:08:58.571Z",
+      "firstIndexedAt": "2026-05-22T06:04:33.854Z",
+      "url": "https://jobs.apple.com/en-us/details/200664000/product-design-undergrad-internships?team=STDNT"
     },
     {
       "id": "59592fd0-d6d4-463e-b730-7a55dd4e8316",
@@ -7385,6 +7385,21 @@
       "url": "https://careers-americansystems.icims.com/jobs/4387/skillbridge-cybersecurity-intern-%28transitioning-military%29/job"
     },
     {
+      "id": "06970ee3-4758-44b6-b2c4-212cd5bbef01",
+      "title": "Internship, Data Engineer, Energy (Fall 2026)",
+      "company": "Tesla",
+      "companyDomain": "tesla.com",
+      "location": "Palo Alto, California",
+      "remoteType": "onsite",
+      "salaryMin": 52000,
+      "salaryMax": 104000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": null,
+      "firstIndexedAt": "2026-05-21T06:00:23.309Z",
+      "url": "https://www.tesla.com/careers/search/job/271331"
+    },
+    {
       "id": "baf9fbe6-d319-4197-b066-257c7441bd2a",
       "title": "Internship, Energy Optimization Software (Fall 2026)",
       "company": "Tesla",
@@ -7413,21 +7428,6 @@
       "postedAt": null,
       "firstIndexedAt": "2026-05-21T06:00:23.309Z",
       "url": "https://www.tesla.com/careers/search/job/271372"
-    },
-    {
-      "id": "06970ee3-4758-44b6-b2c4-212cd5bbef01",
-      "title": "Internship, Data Engineer, Energy (Fall 2026)",
-      "company": "Tesla",
-      "companyDomain": "tesla.com",
-      "location": "Palo Alto, California",
-      "remoteType": "onsite",
-      "salaryMin": 52000,
-      "salaryMax": 104000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": null,
-      "firstIndexedAt": "2026-05-21T06:00:23.309Z",
-      "url": "https://www.tesla.com/careers/search/job/271331"
     },
     {
       "id": "eccc3363-33d3-456c-baf0-c817a52d8f8c",
@@ -7490,6 +7490,21 @@
       "url": "https://www.tesla.com/careers/search/job/269193"
     },
     {
+      "id": "9b7b65fa-d8eb-4aa5-975b-fc0c155b9bef",
+      "title": "Internship, Software Engineer, Linux Update Systems (Fall 2026)",
+      "company": "Tesla",
+      "companyDomain": "tesla.com",
+      "location": "Palo Alto, California",
+      "remoteType": "onsite",
+      "salaryMin": 83200,
+      "salaryMax": 116480,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": null,
+      "firstIndexedAt": "2026-05-19T04:33:55.223Z",
+      "url": "https://www.tesla.com/careers/search/job/266986"
+    },
+    {
       "id": "93274230-7c40-4775-8797-70fe25f1d8ed",
       "title": "Internship, Software Engineer, Data Platforms (Fall 2026)",
       "company": "Tesla",
@@ -7518,21 +7533,6 @@
       "postedAt": null,
       "firstIndexedAt": "2026-05-19T04:33:55.223Z",
       "url": "https://www.tesla.com/careers/search/job/269033"
-    },
-    {
-      "id": "9b7b65fa-d8eb-4aa5-975b-fc0c155b9bef",
-      "title": "Internship, Software Engineer, Linux Update Systems (Fall 2026)",
-      "company": "Tesla",
-      "companyDomain": "tesla.com",
-      "location": "Palo Alto, California",
-      "remoteType": "onsite",
-      "salaryMin": 83200,
-      "salaryMax": 116480,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": null,
-      "firstIndexedAt": "2026-05-19T04:33:55.223Z",
-      "url": "https://www.tesla.com/careers/search/job/266986"
     },
     {
       "id": "c03a9d99-6492-4d81-b557-3dcd1087167b",
@@ -7655,21 +7655,6 @@
       "url": "https://www.tesla.com/careers/search/job/266320"
     },
     {
-      "id": "03f00d13-d1a9-4a23-8291-fd292d1cc3fe",
-      "title": "Internship, Embedded Software Engineer, AI Platforms (Fall 2026)",
-      "company": "Tesla",
-      "companyDomain": "tesla.com",
-      "location": "Palo Alto, California",
-      "remoteType": "onsite",
-      "salaryMin": 125000,
-      "salaryMax": 125000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "ai_explicit",
-      "postedAt": null,
-      "firstIndexedAt": "2026-05-19T04:29:17.817Z",
-      "url": "https://www.tesla.com/careers/search/job/269819"
-    },
-    {
       "id": "175a3eeb-7327-47ef-842b-bd6b765fa939",
       "title": "Internship, Software Integration Engineer, Optimus (Fall 2026)",
       "company": "Tesla",
@@ -7685,19 +7670,19 @@
       "url": "https://www.tesla.com/careers/search/job/269809"
     },
     {
-      "id": "40586124-c62f-4f69-b55d-4ce2e1e7b2a4",
-      "title": "Internship, Embedded Software Engineer, Keys & Authentication (Fall 2026)",
+      "id": "03f00d13-d1a9-4a23-8291-fd292d1cc3fe",
+      "title": "Internship, Embedded Software Engineer, AI Platforms (Fall 2026)",
       "company": "Tesla",
       "companyDomain": "tesla.com",
       "location": "Palo Alto, California",
       "remoteType": "onsite",
-      "salaryMin": 87506,
-      "salaryMax": 122491,
+      "salaryMin": 125000,
+      "salaryMax": 125000,
       "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
+      "aiRoleKind": "ai_explicit",
       "postedAt": null,
-      "firstIndexedAt": "2026-05-19T04:29:00.689Z",
-      "url": "https://www.tesla.com/careers/search/job/270067"
+      "firstIndexedAt": "2026-05-19T04:29:17.817Z",
+      "url": "https://www.tesla.com/careers/search/job/269819"
     },
     {
       "id": "962d053c-7941-4b58-9ff2-3acda4eb0e1a",
@@ -7728,6 +7713,21 @@
       "postedAt": null,
       "firstIndexedAt": "2026-05-19T04:29:00.689Z",
       "url": "https://www.tesla.com/careers/search/job/270063"
+    },
+    {
+      "id": "40586124-c62f-4f69-b55d-4ce2e1e7b2a4",
+      "title": "Internship, Embedded Software Engineer, Keys & Authentication (Fall 2026)",
+      "company": "Tesla",
+      "companyDomain": "tesla.com",
+      "location": "Palo Alto, California",
+      "remoteType": "onsite",
+      "salaryMin": 87506,
+      "salaryMax": 122491,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": null,
+      "firstIndexedAt": "2026-05-19T04:29:00.689Z",
+      "url": "https://www.tesla.com/careers/search/job/270067"
     },
     {
       "id": "0d308568-d60a-4535-b111-73be31c51e1e",
@@ -7970,21 +7970,6 @@
       "url": "https://jobs.lever.co/hermeus/51378fa0-0327-45fd-9420-b6e7d8b56440"
     },
     {
-      "id": "ddd79b84-d91b-4fff-be13-c168076c4836",
-      "title": "Year at Palantir - Software Engineer, Internship",
-      "company": "Palantir",
-      "companyDomain": "palantir.com",
-      "location": "New York, NY",
-      "remoteType": "onsite",
-      "salaryMin": 70800,
-      "salaryMax": 126000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-03-20T19:07:35.933Z",
-      "firstIndexedAt": "2026-05-15T18:25:17.446Z",
-      "url": "https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329"
-    },
-    {
       "id": "16a842fd-dab1-41a7-8ce8-a4a823e75a80",
       "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - USG",
       "company": "Palantir",
@@ -8013,6 +7998,21 @@
       "postedAt": "2026-03-20T19:02:47.514Z",
       "firstIndexedAt": "2026-05-15T18:25:17.446Z",
       "url": "https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d"
+    },
+    {
+      "id": "ddd79b84-d91b-4fff-be13-c168076c4836",
+      "title": "Year at Palantir - Software Engineer, Internship",
+      "company": "Palantir",
+      "companyDomain": "palantir.com",
+      "location": "New York, NY",
+      "remoteType": "onsite",
+      "salaryMin": 70800,
+      "salaryMax": 126000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-03-20T19:07:35.933Z",
+      "firstIndexedAt": "2026-05-15T18:25:17.446Z",
+      "url": "https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329"
     },
     {
       "id": "1661af69-8aee-4771-b1a2-832858096063",
@@ -8045,21 +8045,6 @@
       "url": "https://job-boards.greenhouse.io/astranis/jobs/4619283006"
     },
     {
-      "id": "49206733-3606-4edc-a460-770552359b00",
-      "title": "Forward Deployed Software Engineer, Internship - US Government",
-      "company": "Palantir",
-      "companyDomain": "palantir.com",
-      "location": "Honolulu, HI",
-      "remoteType": "hybrid",
-      "salaryMin": 120000,
-      "salaryMax": 120000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2025-12-11T22:26:14.632Z",
-      "firstIndexedAt": "2026-05-07T19:46:06.850Z",
-      "url": "https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e"
-    },
-    {
       "id": "20c5c08b-c2be-4ea6-9b2b-fa146ad8b114",
       "title": "Forward Deployed Software Engineer, Internship - France",
       "company": "Palantir",
@@ -8073,6 +8058,21 @@
       "postedAt": "2026-03-10T12:26:55.948Z",
       "firstIndexedAt": "2026-05-07T19:46:06.850Z",
       "url": "https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f"
+    },
+    {
+      "id": "49206733-3606-4edc-a460-770552359b00",
+      "title": "Forward Deployed Software Engineer, Internship - US Government",
+      "company": "Palantir",
+      "companyDomain": "palantir.com",
+      "location": "Honolulu, HI",
+      "remoteType": "hybrid",
+      "salaryMin": 120000,
+      "salaryMax": 120000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2025-12-11T22:26:14.632Z",
+      "firstIndexedAt": "2026-05-07T19:46:06.850Z",
+      "url": "https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e"
     },
     {
       "id": "288a5819-cfb6-48eb-af99-6116c93ea065",
@@ -8090,21 +8090,6 @@
       "url": "https://nuro.ai/careersitem?gh_jid=7351061"
     },
     {
-      "id": "7e31edee-6ca9-4cc6-8c6a-667349d213fa",
-      "title": "Site Reliability Engineer Federal- SkillBridge Intern",
-      "company": "Zscaler",
-      "companyDomain": "zscaler.com",
-      "location": "Remote - Virginia, USA",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-02-06T23:11:25.000Z",
-      "firstIndexedAt": "2026-05-07T19:43:40.146Z",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5046050007"
-    },
-    {
       "id": "291c8072-7444-4a7f-b502-80815bc7ed7c",
       "title": "Site Reliability Engineer-SkillBridge Intern",
       "company": "Zscaler",
@@ -8118,6 +8103,21 @@
       "postedAt": "2026-02-06T23:06:05.000Z",
       "firstIndexedAt": "2026-05-07T19:43:40.146Z",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5045817007"
+    },
+    {
+      "id": "7e31edee-6ca9-4cc6-8c6a-667349d213fa",
+      "title": "Site Reliability Engineer Federal- SkillBridge Intern",
+      "company": "Zscaler",
+      "companyDomain": "zscaler.com",
+      "location": "Remote - Virginia, USA",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-02-06T23:11:25.000Z",
+      "firstIndexedAt": "2026-05-07T19:43:40.146Z",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5046050007"
     },
     {
       "id": "871c5f02-254d-4793-9faa-d51512a9d3a5",
@@ -8135,21 +8135,6 @@
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5065302007"
     },
     {
-      "id": "1169d3dd-9f0d-4a28-8fab-33a1583d4e4b",
-      "title": "Federal Security Operations - SkillBridge Intern",
-      "company": "Zscaler",
-      "companyDomain": "zscaler.com",
-      "location": "Remote - USA",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-03-09T15:26:16.000Z",
-      "firstIndexedAt": "2026-05-07T19:43:09.407Z",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5069684007"
-    },
-    {
       "id": "8b364f70-97a4-4234-bb2c-d4ad75e94a18",
       "title": "Detection Engineer- SkillBridge Intern",
       "company": "Zscaler",
@@ -8163,6 +8148,21 @@
       "postedAt": "2026-04-20T21:14:55.000Z",
       "firstIndexedAt": "2026-05-07T19:43:09.407Z",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5114254007"
+    },
+    {
+      "id": "1169d3dd-9f0d-4a28-8fab-33a1583d4e4b",
+      "title": "Federal Security Operations - SkillBridge Intern",
+      "company": "Zscaler",
+      "companyDomain": "zscaler.com",
+      "location": "Remote - USA",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-03-09T15:26:16.000Z",
+      "firstIndexedAt": "2026-05-07T19:43:09.407Z",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5069684007"
     },
     {
       "id": "58b212ac-7933-43ff-8f6d-621778d27805",
