@@ -151,9 +151,7 @@ async function fetchSource(source, config) {
     }
     const hasExactTotal = data.totalCapped !== true && Number.isFinite(data.total);
     if (config.mode === "inventory" && !hasExactTotal) {
-      const sourceLabel = source.search
-        ? `${source.function ?? "source"} (${source.search})`
-        : source.function ?? JSON.stringify(source);
+      const sourceLabel = describeSource(source);
       throw new Error(
         `Inventory source total is capped or unavailable for ${sourceLabel}. Narrow the source into exact subqueries; refusing to publish a partial inventory.`,
       );
@@ -173,12 +171,20 @@ async function fetchSource(source, config) {
     if (collected.length >= wanted) break;
   }
   if (config.mode === "inventory") {
-    const sourceLabel = source.function ?? JSON.stringify(source);
     throw new Error(
-      `Inventory source pagination limit reached for ${sourceLabel} after ${maxPages} pages. Increase maxPagesPerSource or narrow the source; refusing to publish a partial inventory.`,
+      `Inventory source pagination limit reached for ${describeSource(source)} after ${maxPages} pages. Increase maxPagesPerSource or narrow the source; refusing to publish a partial inventory.`,
     );
   }
   return collected;
+}
+
+// Error label for a source. Partitioned sources differ only in
+// remoteTypeExact, so include it or the labels collapse into one.
+function describeSource(source) {
+  const parts = [source.search, source.remoteTypeExact].filter(Boolean);
+  const base = source.function ?? (parts.length ? "source" : null);
+  if (!base) return JSON.stringify(source);
+  return parts.length ? `${base} (${parts.join(", ")})` : base;
 }
 
 // US/non-US partitioning happens after fetch (international rows feed

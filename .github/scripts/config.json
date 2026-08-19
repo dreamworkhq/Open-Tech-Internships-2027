@@ -29,7 +29,29 @@
       "seniorityExact": "INTERN",
       "function": "Engineering",
       "countryExact": "US",
-      "search": "intern"
+      "search": "intern",
+      "remoteTypeExact": "onsite"
+    },
+    {
+      "seniorityExact": "INTERN",
+      "function": "Engineering",
+      "countryExact": "US",
+      "search": "intern",
+      "remoteTypeExact": "hybrid"
+    },
+    {
+      "seniorityExact": "INTERN",
+      "function": "Engineering",
+      "countryExact": "US",
+      "search": "intern",
+      "remoteTypeExact": "remote"
+    },
+    {
+      "seniorityExact": "INTERN",
+      "function": "Engineering",
+      "countryExact": "US",
+      "search": "intern",
+      "remoteTypeExact": "unspecified"
     },
     {
       "seniorityExact": "INTERN",
