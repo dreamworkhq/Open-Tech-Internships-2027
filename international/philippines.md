@@ -2,12 +2,11 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md)
 
-**7 currently open roles** · Updated **2026-08-20**
+**6 currently open roles** · Updated **2026-08-20**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
 - [Engineering](#engineering-6) · 6 roles
-- [Other](#other-1) · 1 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
@@ -21,11 +20,5 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **QIMA** | [AI Engineer - Internship](https://jobs.smartrecruiters.com/QIMA/744000133284279-ai-engineer-internship?oga=true) | Cebu City, Central Visayas, Philippines |  | 1mo |
 | **Amadeus** | [Software Developer Intern](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Taguig-Metro-Manila/Software-Developer-Intern_R31590) | Taguig, Metro Manila |  | 3mo |
 | **Amadeus** | [Software QA Engineering Intern](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Manila-Metro-Manila/Software-QA-Engineering-Intern_R29236) | Manila, Metro Manila |  | 3mo |
-
-### Other (1)
-
-| Company | Role | Location | Pay | Added |
-| --- | --- | --- | --- | --- |
-| **Amadeus** | [Cybersecurity Intern](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Taguig-Metro-Manila/Cybersecurity-Intern_R31596) | Taguig, Metro Manila |  | 3mo |
 
 <!-- TABLE_END -->

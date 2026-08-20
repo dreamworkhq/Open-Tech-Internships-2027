@@ -41,7 +41,7 @@ function positiveIntegerEnv(name, fallback) {
 
 const FETCH_TIMEOUT_MS = positiveIntegerEnv(
   "DREAMWORK_JOB_LIST_FETCH_TIMEOUT_MS",
-  15_000,
+  30_000,
 );
 const FETCH_RETRY_BASE_MS = positiveIntegerEnv(
   "DREAMWORK_JOB_LIST_FETCH_RETRY_BASE_MS",

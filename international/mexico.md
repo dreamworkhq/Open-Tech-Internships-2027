@@ -16,8 +16,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
+| **Micron** | [DRAM Design Engineer (Intern)](https://micron.wd1.myworkdayjobs.com/External/job/Jalisco-Mexico/DRAM-Design-Engineer--Intern-_JR108395) | Jalisco, Mexico |  | 1d |
 | **Micron** | [Design Verification Engineer Intern](https://micron.wd1.myworkdayjobs.com/External/job/Jalisco-Mexico/Design-Verification-Engineer-Intern_JR107487) | Jalisco, Mexico |  | 1d |
-| **Micron** | [DRAM Design Engineer (Intern)](https://micron.wd1.myworkdayjobs.com/External/job/Jalisco-Mexico/DRAM-Design-Engineer--Intern-_JR108061) | Jalisco, Mexico |  | 1d |
 | **Freudenberg** | [Digitalization & Data Automation Intern](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Queretaro/Digitalization---Data-Automation-Intern_R_00097135) | Queretaro |  | 4d |
 | **1000** | [IT Data & Analytics Engineering Internship - Interlomas](https://pg.wd5.myworkdayjobs.com/1000/job/MEXICO-CITY-GENERAL-OFFICE/IT-Data---Analytics-Engineering-_R000156708) | MEXICO CITY GENERAL OFFICE |  | 10d |
 | **Intel** | [Software Engineer (Intern)](https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/Software-Engineer--Intern-_JR0286207-1) | Mexico, Guadalajara |  | 11d |

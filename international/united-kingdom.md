@@ -29,8 +29,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **Palantir** | [Forward Deployed Software Engineer, Internship - UK Government](https://jobs.lever.co/palantir/26e23f5d-083b-45aa-b223-1a6e43d960bf) | London, United Kingdom (Hybrid) |  | 19d |
 | **HP Inc.** | [Browser Software Engineer Intern](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Cambridge-Cambridgeshire-United-Kingdom/Browser-Software-Engineer-Intern_3160410-1) | Cambridge, Cambridgeshire, United Kingdom |  | 27d |
 | **Jump Trading** | [Campus UI Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7974943) | London |  | 1mo |
-| **Jump Trading** | [Campus Data Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7975008) | London |  | 1mo |
 | **Jump Trading** | [Campus Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7975026) | London |  | 1mo |
+| **Jump Trading** | [Campus Data Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7975008) | London |  | 1mo |
 | **Squarepointcapital** | [Intern Software Developer - London - 2027](https://www.squarepoint-capital.com/open-opportunities?id=7231006&gh_jid=7231006) | London |  | 2mo |
 | **Deductive** | [Software Engineer Intern, London](https://jobs.ashbyhq.com/deductive/ad89510a-6a8d-4376-8bc1-32d409e30c09) | London, UK |  | 2mo |
 | **Apple** | [SoC Performance Modeling Internship - Platform Architecture](https://jobs.apple.com/en-us/details/200629965/soc-performance-modeling-internship-platform-architecture?team=HRDWR) | London |  | 3mo |

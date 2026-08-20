@@ -28,8 +28,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **Keysight** | [R&D Embedded Software Intern](https://jobs.keysight.com/jobs/53748?lang=en-us) | Penang, Malaysia |  | 10d |
 | **Western Digital** | [Internship - Software Engineering](https://jobs.smartrecruiters.com/WesternDigital/744000142050119-internship-software-engineering?oga=true) | Petaling Jaya, Selangor, Malaysia |  | 13d |
 | **Western Digital** | [Intern, Firmware Engineering](https://jobs.smartrecruiters.com/WesternDigital/744000141840819-intern-firmware-engineering?oga=true) | Petaling Jaya, Selangor, Malaysia |  | 14d |
-| **Western Digital** | [Intern Firmware Engineering](https://jobs.smartrecruiters.com/WesternDigital/744000141227773-intern-firmware-engineering?oga=true) | Petaling Jaya, Selangor, Malaysia |  | 16d |
 | **Western Digital** | [Intern- Firmware Engineering](https://jobs.smartrecruiters.com/WesternDigital/744000141229499-intern-firmware-engineering?oga=true) | Petaling Jaya, Selangor, Malaysia |  | 16d |
+| **Western Digital** | [Intern Firmware Engineering](https://jobs.smartrecruiters.com/WesternDigital/744000141227773-intern-firmware-engineering?oga=true) | Petaling Jaya, Selangor, Malaysia |  | 16d |
 | **Rytbank** | [Site Reliability Engineer Intern](https://rytbank.wd3.myworkdayjobs.com/External_Career/job/Kuala-Lumpur/Site-Reliability-Engineer-Intern_JR00000618) | Kuala Lumpur |  | 16d |
 | **Avanade** | [Software Engineer Intern](https://accenture.wd103.myworkdayjobs.com/AvanadeCareers/job/Kuala-Lumpur-Exchange-106/Software-Engineer-Intern_R00347937) | Kuala Lumpur, Exchange 106 |  | 16d |
 | **Keysight** | [R&D Firmware Intern](https://jobs.keysight.com/jobs/53711?lang=en-us) | Penang, Malaysia |  | 17d |
@@ -48,7 +48,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **Rytbank** | [Frontend Engineer Intern](https://rytbank.wd3.myworkdayjobs.com/External_Career/job/Kuala-Lumpur/Frontend-Engineer-Intern_JR00000553) | Kuala Lumpur |  | 2mo |
 | **Rytbank** | [Business Intelligence Intern](https://rytbank.wd3.myworkdayjobs.com/External_Career/job/Kuala-Lumpur/Business-Intelligence-Intern_JR00000496) | Kuala Lumpur |  | 2mo |
 | **NXP Semiconductors** | [Intern (Engineering & IT)](https://nxp.wd3.myworkdayjobs.com/careers/job/Kuala-Lumpur/Intern--Engineering-_R-10005472) | Kuala Lumpur |  | 2mo |
-| **Tencent** | [Database Administrator Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Malaysia-Kuala-Lumpur/Database-Administrator-Intern_R107380) | Malaysia-Kuala Lumpur |  | 2mo |
+| **Tencent** | [Database Administrator Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Malaysia-Kuala-Lumpur/Database-Administrator-Intern_R107380) | Malaysia-Kuala Lumpur |  | 3mo |
 
 ### Data Science (6)
 

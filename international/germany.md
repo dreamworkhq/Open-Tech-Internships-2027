@@ -2,17 +2,17 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md)
 
-**67 currently open roles** · Updated **2026-08-20**
+**66 currently open roles** · Updated **2026-08-20**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-47) · 47 roles
+- [Engineering](#engineering-46) · 46 roles
 - [Data Science](#data-science-14) · 14 roles
 - [Other](#other-6) · 6 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (47)
+### Engineering (46)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
@@ -28,7 +28,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **BMW AG** | [Intern: AI Platform &amp; Agentic Architecture Engineer (f/m/x)](https://career5.successfactors.eu/careers?company=bmwag&jobId=193922) | — |  | 9d |
 | **BMW AG** | [Intern AI Engineering Customer Journey Analytics (f/m/x)](https://career5.successfactors.eu/careers?company=bmwag&jobId=194236) | — (Hybrid) |  | 9d |
 | **Bosch** | [Mandatory Internship Full-Stack Development for Release Automation of A…](https://jobs.smartrecruiters.com/BoschGroup/744000141476667-mandatory-internship-full-stack-development-for-release-automation-of-automotive-embedded-middleware-software?oga=true) | Abstatt, BW, Germany |  | 12d |
-| **Bosch** | [Mandatory Internship Automotive Networking Innovation & Software-Define…](https://jobs.smartrecruiters.com/BoschGroup/744000141680290-mandatory-internship-automotive-networking-innovation-software-defined-vehicle-technologies?oga=true) | Stuttgart, BW, Germany (Hybrid) |  | 12d |
 | **Tesla** | [Software Engineering Internship (m/f/d) - Gigafactory Berlin-Brandenburg](https://www.tesla.com/careers/search/job/278803) | Grünheide (mark), Brandenburg |  | 13d |
 | **Airbus** | [Intern (d/f/m) within the mission software department](https://ag.wd3.myworkdayjobs.com/Airbus/job/Donauwrth/Intern--d-f-m--within-the-mission-software-department_JR10430765) | Donauwörth |  | 15d |
 | **Bosch** | [Internship Machine Learning for Predictive Reliability Analytics - Heat…](https://jobs.smartrecruiters.com/BoschGroup/744000140419439-internship-machine-learning-for-predictive-reliability-analytics-heat-pumps?oga=true) | Wernau (Neckar), BW, Germany (Hybrid) |  | 18d |
@@ -49,8 +48,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **Amazon** | [Software Dev Engineer internship - Embedded Development](https://www.amazon.jobs/en/jobs/3134271/software-dev-engineer-internship-embedded-development) | DE, BE, Berlin |  | 1mo |
 | **Amazon** | [Software Dev Engineer Intern Machine Learning, Amazon Robotics](https://www.amazon.jobs/en/jobs/10401402/software-dev-engineer-intern-machine-learning-amazon-robotics) | DE, BE, Berlin |  | 1mo |
 | **BASF** | [Internship / Thesis Automation and Information Technology (m/f/d)](https://career5.successfactors.eu/careers?company=C0000159936P&jobId=88428) | Germany |  | 1mo |
-| **SAP** | [SAP Globalization iXp Intern (f/m/d) - User Assistance Developer](https://career5.successfactors.eu/careers?company=SAP&jobId=452008) | Europe, Germany, St. Leon-Rot (Hybrid) |  | 1mo |
 | **SAP** | [SAP iXp Intern (f/m/d) - QA Automation Developer Support](https://career5.successfactors.eu/careers?company=SAP&jobId=453547) | Europe, Germany, Walldorf (Hybrid) |  | 1mo |
+| **SAP** | [SAP Globalization iXp Intern (f/m/d) - User Assistance Developer](https://career5.successfactors.eu/careers?company=SAP&jobId=452008) | Europe, Germany, St. Leon-Rot (Hybrid) |  | 1mo |
 | **Airbus** | [Internship (d/f/m) in AI for Functional Avionics](https://ag.wd3.myworkdayjobs.com/Airbus/job/Immenstaad-am-Bodensee/Internship--d-f-m--in-AI-for-Functional-Avionics_JR10417809) | Immenstaad am Bodensee |  | 1mo |
 | **Tacto** | [(Intern) AI Automation Engineer](https://jobs.ashbyhq.com/tacto/6b175aec-f934-4e19-9c0a-3bbc6c3b4825) | Munich |  | 2mo |
 | **Tesla** | [Software Engineering Intern, AI Applications (m/f/d) - Gigafactory Berl…](https://www.tesla.com/careers/search/job/272532) | Grünheide (mark), Brandenburg |  | 2mo |

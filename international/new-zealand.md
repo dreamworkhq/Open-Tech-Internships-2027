@@ -25,8 +25,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **Rocket Lab** | [Avionics Intern - Neutron Avionics Hardware](https://job-boards.greenhouse.io/rocketlab/jobs/7819743003) | Auckland, NZ |  | 17d |
 | **TOMRA** | [Software Engineering Intern - Summer 2026 - 2027](https://www.seek.co.nz/job/93670229) | Mount Wellington, Auckland |  | 17d |
 | **Rocket Lab** | [Web Services Intern](https://job-boards.greenhouse.io/rocketlab/jobs/7821120003) | Auckland, NZ |  | 17d |
-| **Rocket Lab** | [Flight Analysis Intern - Software](https://job-boards.greenhouse.io/rocketlab/jobs/7819877003) | Auckland, NZ |  | 17d |
 | **Rocket Lab** | [Flight Software Intern - Neutron](https://job-boards.greenhouse.io/rocketlab/jobs/7819872003) | Auckland, NZ |  | 17d |
+| **Rocket Lab** | [Flight Analysis Intern - Software](https://job-boards.greenhouse.io/rocketlab/jobs/7819877003) | Auckland, NZ |  | 17d |
 | **TRV Trading** | [SOFTWARE ENGINEER SUMMER INTERNSHIP/GRADUATE](https://www.seek.co.nz/job/93615952) | New Lynn, Auckland (Hybrid) |  | 21d |
 | **TRV Trading** | [HARDWARE ENGINEER SUMMER INTERNSHIP / GRADUATE](https://www.seek.co.nz/job/93615967) | New Lynn, Auckland (Hybrid) | $38K | 21d |
 | **SPS Automation** | [SPS Automation Summer Internships - Drones and Robotics](https://www.seek.co.nz/job/93642080) | Christchurch Central, Canterbury | $38K | 21d |

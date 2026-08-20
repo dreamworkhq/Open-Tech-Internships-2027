@@ -28,7 +28,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Roche** | [Internship/Thesis in Global Engineering Automation](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship-Thesis-in-Global-Engineering-Automation_202608-121014-2) | Basel |  | 1d |
+| **Roche** | [Internship/Thesis in Global Engineering Automation](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship-Thesis-in-Global-Engineering-Automation_202608-121014-2) | Basel |  | 2d |
 | **Gravisrobotics** | [Machine Learning Intern, Autonomy](https://jobs.lever.co/gravisrobotics/2cbb3ea8-259a-4193-9eee-4350e98febd4) | Zurich |  | 6d |
 | **Specialized** | [Product Compliance Engineering – Internship (Master's Level)](https://specialized.wd5.myworkdayjobs.com/Specialized_External_Career_Site/job/Switzerland-Cham-Office/Product-Compliance-Engineering---Internship--Master-s-Level-_R0011880) | Switzerland, Cham (Office) |  | 9d |
 | **Anybotics** | [Software Engineering Internship - AI Platform](https://jobs.lever.co/anybotics/7e305a48-4628-4a6a-b054-0367b6f6e586) | Zurich, Switzerland |  | 23d |

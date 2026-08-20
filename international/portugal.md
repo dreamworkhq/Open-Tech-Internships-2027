@@ -17,7 +17,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 | --- | --- | --- | --- | --- |
 | **Bosch** | [DevOps Engineer - Internship (f/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000143455469-devops-engineer-internship-f-m-div-?oga=true) | Ovar, , Portugal (Hybrid) |  | 5d |
 | **Bosch** | [C# Developer - Internship (f/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000143454572-c-developer-internship-f-m-div-?oga=true) | Ovar, , Portugal (Hybrid) |  | 5d |
-| **Cloudflare** | [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845) | In-Office | $32K | 8d |
+| **Cloudflare** | [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845) | In-Office | $32K | 9d |
 | **Bosch** | [Extracurricular Internship: Hardware Test Engineer - eBike (f/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000142175270-extracurricular-internship-hardware-test-engineer-ebike-f-m-div-?oga=true) | Ovar, , Portugal (Hybrid) |  | 12d |
 | **Bosch** | [Extracurricular Internship: Mechanical Design Engineer (f/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000140028170-extracurricular-internship-mechanical-design-engineer-f-m-div-?oga=true) | Ovar, , Portugal (Hybrid) |  | 18d |
 | **Bosch** | [Extracurricular Internship: Gateway Firmware Engineer (f/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000140435979-extracurricular-internship-gateway-firmware-engineer-f-m-div-?oga=true) | Aveiro, , Portugal (Hybrid) |  | 18d |
