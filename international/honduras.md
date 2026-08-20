@@ -1,0 +1,19 @@
+# Tech internships in Honduras
+
+[← International index](../INTERNATIONAL.md) · [US internships](../README.md)
+
+**1 currently open roles** · Updated **2026-08-20**
+
+These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
+
+- [Other](#other-1) · 1 roles
+
+<!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
+
+### Other (1)
+
+| Company | Role | Location | Pay | Added |
+| --- | --- | --- | --- | --- |
+| **Goalhonduras** | [Professional University Intern– Humanitarian AI](https://job-boards.greenhouse.io/goalhonduras/jobs/7836868) | Remote (Honduras) |  | 2mo |
+
+<!-- TABLE_END -->

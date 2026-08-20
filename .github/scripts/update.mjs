@@ -11,10 +11,17 @@
  * Zero dependencies on purpose: the public repos run this on a bare
  * actions/setup-node runner with nothing installed.
  *
- * Usage: node generate.mjs <config.json> [--out <dir>]
+ * Usage: node generate.mjs <config.json> [--out <dir>] [--scope main|international]
  */
 
-import { existsSync, readFileSync, writeFileSync, mkdirSync } from "node:fs";
+import {
+  existsSync,
+  readFileSync,
+  writeFileSync,
+  mkdirSync,
+  renameSync,
+  rmSync,
+} from "node:fs";
 import { dirname, join, resolve } from "node:path";
 
 const API_BASE = process.env.DREAMWORK_API_BASE ?? "https://api.dreamworkhq.com";
@@ -55,14 +62,19 @@ const US_STATES = new Set([
 function parseArgs(argv) {
   const [configPath, ...rest] = argv;
   if (!configPath) {
-    console.error("usage: node generate.mjs <config.json> [--out <dir>]");
+    console.error("usage: node generate.mjs <config.json> [--out <dir>] [--scope main|international]");
     process.exit(1);
   }
   let out = dirname(resolve(configPath));
+  let scope = "main";
   for (let i = 0; i < rest.length; i++) {
     if (rest[i] === "--out" && rest[i + 1]) out = resolve(rest[++i]);
+    else if (rest[i] === "--scope" && rest[i + 1]) scope = rest[++i];
   }
-  return { configPath: resolve(configPath), out };
+  if (scope !== "main" && scope !== "international") {
+    throw new Error(`--scope must be main or international (received ${JSON.stringify(scope)})`);
+  }
+  return { configPath: resolve(configPath), out, scope };
 }
 
 function retryDelay(attempt) {
@@ -199,7 +211,7 @@ function keepRow(row, config, source) {
   if (config.titleInclude && !new RegExp(config.titleInclude, "i").test(row.title)) return false;
   const scopedFunctions = config.titleIncludeAllSourceFunctions;
   const applyTitleIncludeAll =
-    !Array.isArray(scopedFunctions) || scopedFunctions.includes(source.function);
+    !Array.isArray(scopedFunctions) || scopedFunctions.includes(row.functionPrimary);
   if (
     applyTitleIncludeAll &&
     config.titleIncludeAll &&
@@ -601,9 +613,11 @@ function renderGrowthReadme(rows, config, now) {
     config.mode === "inventory"
       ? `Last updated: **${updated}**. ${inventoryScope} The crawler rechecks every listing daily, so closed roles drop off automatically. Salary shows when the posting discloses it. Click a role to see details and apply.`
       : `Last updated: **${updated}**. Showing the **${rows.length}** most recently indexed roles, curated from **${totalMatchingLabel}** open listings on Dreamwork. Salary shows when the posting discloses it. Click a role to see details and apply.`;
-  const intlLine = config.intlCount
-    ? `\nHiring outside the US? **${config.intlCount}** international roles are listed separately in [INTERNATIONAL.md](INTERNATIONAL.md).\n`
-    : "";
+  const intlLine = config.internationalBoard
+    ? "\nHiring outside the US? Browse [International internships](INTERNATIONAL.md), organized by country and refreshed separately.\n"
+    : config.intlCount
+      ? `\nHiring outside the US? **${config.intlCount}** international roles are listed separately in [INTERNATIONAL.md](INTERNATIONAL.md).\n`
+      : "";
 
   const siblings = (config.siblings ?? [])
     .map((s) => `- [${s.label}](https://github.com/${s.repo})`)
@@ -717,6 +731,8 @@ ${config.tagline}
 **${rows.length} open internships** · **${companies} companies** · **${addedToday} added in the last 24 hours** · Updated **${updated}**
 
 Indexed from company career pages and maintained by [Dreamwork](https://github.com/dreamworkhq).
+
+${config.internationalBoard ? "Looking outside the US? Browse [International internships](INTERNATIONAL.md), organized by country and refreshed separately.\n" : ""}
 
 ${toc ? `${toc}\n` : ""}<!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
@@ -861,11 +877,280 @@ function assertPreviousSnapshotHealth(rows, previous, config) {
   }
 }
 
+function countryName(code) {
+  return ENGLISH_REGION_NAMES.of(code) ?? code;
+}
+
+function countryFileSlug(code) {
+  return countryName(code)
+    .normalize("NFKD")
+    .replace(/\p{M}/gu, "")
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-|-$/g, "");
+}
+
+function validateInternationalBoard(board) {
+  if (!board || !Array.isArray(board.sources) || board.sources.length === 0) {
+    throw new Error("internationalBoard.sources must contain at least one bounded source");
+  }
+  const configuredCodes = board.countryCodes === "ALL_EXCEPT_US"
+    ? ISO_ALPHA2_COUNTRY_CODES.filter((code) => code !== "US")
+    : board.countryCodes;
+  if (!Array.isArray(configuredCodes) || configuredCodes.length === 0) {
+    throw new Error("internationalBoard.countryCodes must contain ISO alpha-2 codes or ALL_EXCEPT_US");
+  }
+  const codes = configuredCodes.map((code) => String(code).toUpperCase());
+  if (
+    codes.some((code) => !ISO_ALPHA2_COUNTRY_CODES.includes(code) || code === "US") ||
+    new Set(codes).size !== codes.length
+  ) {
+    throw new Error("internationalBoard.countryCodes must be unique valid non-US ISO alpha-2 codes");
+  }
+  const batchSize = board.countryBatchSize ?? 20;
+  if (!Number.isSafeInteger(batchSize) || batchSize < 1 || batchSize > 25) {
+    throw new Error("internationalBoard.countryBatchSize must be an integer from 1 to 25");
+  }
+  return { ...board, countryCodes: codes, countryBatchSize: batchSize };
+}
+
+function internationalSourceBatches(board) {
+  const batches = [];
+  for (let index = 0; index < board.countryCodes.length; index += board.countryBatchSize) {
+    const countryExactAny = board.countryCodes
+      .slice(index, index + board.countryBatchSize)
+      .join(",");
+    for (const source of board.sources) {
+      batches.push({ ...source, countryExactAny });
+    }
+  }
+  return batches;
+}
+
+function renderCountryPage(code, rows, config, now) {
+  const name = countryName(code);
+  const updated = now.toISOString().slice(0, 10);
+  const { toc, body } = renderSections(rows, config, now);
+  return `# Tech internships in ${name}
+
+[← International index](../INTERNATIONAL.md) · [US internships](../README.md)
+
+**${rows.length} currently open roles** · Updated **${updated}**
+
+These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
+
+${toc ? `${toc}\n` : ""}<!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
+
+${body}
+
+<!-- TABLE_END -->
+`;
+}
+
+function renderInternationalIndex(countryGroups, globalRows, config, board, now) {
+  const updated = now.toISOString().slice(0, 10);
+  const countryRows = [...countryGroups.entries()]
+    .sort((a, b) => b[1].length - a[1].length || countryName(a[0]).localeCompare(countryName(b[0])))
+    .map(([code, rows]) =>
+      `| [${esc(countryName(code))}](international/${countryFileSlug(code)}.md) | ${rows.length} |`,
+    )
+    .join("\n");
+  const globalSection = globalRows.length > 0
+    ? `## Global remote (${globalRows.length})
+
+Only roles whose listing explicitly says applicants can work from anywhere appear here. A role merely labeled \"Remote\" is not treated as globally available.
+
+${renderTable(globalRows, config, now)}
+
+`
+    : "";
+  const totalCountryRows = [...countryGroups.values()].reduce((sum, rows) => sum + rows.length, 0);
+  return `# ${board.title}
+
+[← US internships](README.md)
+
+**${totalCountryRows} country-located roles** across **${countryGroups.size} countries**${globalRows.length ? ` · **${globalRows.length} explicitly global remote**` : ""} · Updated **${updated}**
+
+This is the international view of the same verified-open internship corpus. Countries are based on the location in the company posting; unknown locations are excluded instead of being guessed. Every country has its own page so the list stays readable as coverage grows.
+
+| Country | Open roles |
+| --- | ---: |
+${countryRows}
+
+${globalSection}## Coverage notes
+
+- Listings are removed when the crawler can no longer verify that they are open.
+- Country placement does not imply visa sponsorship or work authorization.
+- If a country has no qualifying open roles, it is omitted rather than shown with stale data.
+- Found a bad or missing listing? [Open an issue](../../issues).
+`;
+}
+
+function internationalSnapshot(rows, countryGroups, globalRows, config, now) {
+  const countryCounts = Object.fromEntries(
+    [...countryGroups.entries()]
+      .sort(([a], [b]) => a.localeCompare(b))
+      .map(([code, values]) => [code, values.length]),
+  );
+  return `${JSON.stringify({
+    generatedAt: now.toISOString(),
+    source: config.linkMode === "source" ? "dreamwork-public-job-index" : SITE_BASE,
+    list: config.repo,
+    scope: "international",
+    count: rows.length,
+    countryCounts,
+    globalRemoteCount: globalRows.length,
+    listings: rows.map((row) => ({
+      id: row.id,
+      title: row.title,
+      company: row.companyName,
+      companyDomain: row.companyDomain ?? null,
+      location: row.location ?? null,
+      locationCountryCode: row.locationCountryCode ?? null,
+      remoteType: row.remoteType ?? null,
+      globalRemote: Array.isArray(row.remoteEligibilityCountries) && row.remoteEligibilityCountries.length === 0,
+      postedAt: row.postedAt ?? null,
+      firstIndexedAt: row.createdAt,
+      url: jobUrl(row, config),
+    })),
+  }, null, 2)}\n`;
+}
+
+function loadPreviousInternationalSnapshot(out, config) {
+  const snapshotPath = join(out, "data", "international-listings.json");
+  if (!existsSync(snapshotPath)) return null;
+  let snapshot;
+  try {
+    snapshot = JSON.parse(readFileSync(snapshotPath, "utf8"));
+  } catch (error) {
+    throw new Error(`Existing ${snapshotPath} is not valid JSON; refusing to overwrite it.`, { cause: error });
+  }
+  if (
+    snapshot?.list !== config.repo ||
+    snapshot?.scope !== "international" ||
+    !Array.isArray(snapshot.listings) ||
+    snapshot.listings.some((listing) => !listing?.id)
+  ) {
+    throw new Error(`Existing ${snapshotPath} does not match ${config.repo}'s international board; refusing to overwrite it.`);
+  }
+  return snapshot;
+}
+
+function assertInternationalSnapshotHealth(rows, countryGroups, previous, board) {
+  if (!previous || previous.listings.length === 0) return;
+  if (process.env.DREAMWORK_JOB_LIST_ALLOW_INTERNATIONAL_SNAPSHOT_RESET === "1") {
+    console.warn("Bypassing international previous-snapshot health gate after an explicit audit.");
+    return;
+  }
+  assertPreviousSnapshotHealth(rows, previous, {
+    mode: "inventory",
+    minPreviousCountRatio: board.minPreviousCountRatio,
+    minPreviousOverlapRatio: board.minPreviousOverlapRatio,
+  });
+  const priorCounts = previous.countryCounts ?? {};
+  const minGuardRows = board.minCountryGuardRows ?? 10;
+  const minRatio = board.minCountryPreviousCountRatio ?? 0.5;
+  for (const [code, priorCount] of Object.entries(priorCounts)) {
+    if (!Number.isFinite(priorCount) || priorCount < minGuardRows) continue;
+    const currentCount = countryGroups.get(code)?.length ?? 0;
+    if (currentCount / priorCount < minRatio) {
+      throw new Error(
+        `International country health check failed for ${code}: ${currentCount} current vs ${priorCount} previous roles. Minimum retention is ${(minRatio * 100).toFixed(1)}%. Refusing to overwrite the international list.`,
+      );
+    }
+  }
+}
+
+function writeAtomic(path, contents) {
+  mkdirSync(dirname(path), { recursive: true });
+  const temporary = `${path}.tmp-${process.pid}`;
+  writeFileSync(temporary, contents);
+  renameSync(temporary, path);
+}
+
+async function generateInternational(config, out, now) {
+  const board = validateInternationalBoard(config.internationalBoard);
+  const runtimeConfig = {
+    ...config,
+    ...board,
+    mode: "inventory",
+    maxPagesPerSource: board.maxPagesPerSource ?? config.maxPagesPerSource,
+  };
+  let countryCandidates = [];
+  for (const source of internationalSourceBatches(board)) {
+    countryCandidates = countryCandidates.concat(await fetchSource(source, runtimeConfig));
+  }
+  let globalCandidates = [];
+  for (const source of board.globalRemoteSources ?? []) {
+    globalCandidates = globalCandidates.concat(await fetchSource(source, runtimeConfig));
+  }
+
+  const allowedCountries = new Set(board.countryCodes);
+  const countryRows = selectLinkEligibleRows(dedupe(countryCandidates), runtimeConfig)
+    .filter((row) => allowedCountries.has(row.locationCountryCode) && row.locationCountryCode !== "US");
+  const dedupedGlobalCandidates = dedupe(globalCandidates);
+  const globalRows = (dedupedGlobalCandidates.length > 0
+    ? selectLinkEligibleRows(dedupedGlobalCandidates, runtimeConfig)
+    : [])
+    .filter((row) =>
+      row.remoteType === "remote" &&
+      Array.isArray(row.remoteEligibilityCountries) &&
+      row.remoteEligibilityCountries.length === 0,
+    );
+  const allRows = dedupe([...countryRows, ...globalRows]);
+  if (allRows.length < (board.minRows ?? 25)) {
+    throw new Error(
+      `Only ${allRows.length} international rows after filtering; refusing to overwrite the list (minRows=${board.minRows ?? 25}).`,
+    );
+  }
+
+  const countryGroups = new Map();
+  for (const row of countryRows) {
+    if (!countryGroups.has(row.locationCountryCode)) countryGroups.set(row.locationCountryCode, []);
+    countryGroups.get(row.locationCountryCode).push(row);
+  }
+  assertInternationalSnapshotHealth(
+    allRows,
+    countryGroups,
+    loadPreviousInternationalSnapshot(out, config),
+    board,
+  );
+
+  const pages = new Map();
+  for (const [code, rows] of countryGroups) {
+    const rendered = fitToRenderLimit(rows, (kept) => renderCountryPage(code, kept, runtimeConfig, now));
+    pages.set(`${countryFileSlug(code)}.md`, rendered.text);
+  }
+  const index = renderInternationalIndex(countryGroups, globalRows, runtimeConfig, board, now);
+  const snapshot = internationalSnapshot(allRows, countryGroups, globalRows, runtimeConfig, now);
+
+  const temporaryDir = join(out, `.international.tmp-${process.pid}`);
+  rmSync(temporaryDir, { recursive: true, force: true });
+  mkdirSync(temporaryDir, { recursive: true });
+  for (const [file, contents] of pages) writeFileSync(join(temporaryDir, file), contents);
+  const targetDir = join(out, "international");
+  rmSync(targetDir, { recursive: true, force: true });
+  renameSync(temporaryDir, targetDir);
+  writeAtomic(join(out, "INTERNATIONAL.md"), index);
+  writeAtomic(join(out, "data", "international-listings.json"), snapshot);
+  console.log(
+    `${config.repo}: international ${allRows.length} rows, ${countryGroups.size} countries, ${globalRows.length} global remote -> ${out}`,
+  );
+}
+
 // ---------- main ----------
 
-const { configPath, out } = parseArgs(process.argv.slice(2));
+const { configPath, out, scope } = parseArgs(process.argv.slice(2));
 const config = JSON.parse(readFileSync(configPath, "utf8"));
 const now = new Date();
+
+if (scope === "international") {
+  if (!config.internationalBoard) {
+    console.log(`${config.repo}: no international board configured; nothing to generate.`);
+  } else {
+    await generateInternational(config, out, now);
+  }
+} else {
 
 let all = [];
 let totalMatching = 0;
@@ -923,3 +1208,4 @@ writeFileSync(join(out, "data", "listings.json"), renderJson(jsonRows, config, n
 console.log(
   `${config.repo}: README ${readme.kept} rows (${config.mode ?? "fresh"}), intl ${intlKept}, json ${jsonRows.length}, ${totalMatching} matching upstream -> ${out}`,
 );
+}

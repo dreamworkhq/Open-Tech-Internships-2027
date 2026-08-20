@@ -103,5 +103,30 @@
   "mode": "inventory",
   "international": false,
   "presentation": "community",
-  "linkMode": "source"
+  "linkMode": "source",
+  "internationalBoard": {
+    "title": "International Internships in Tech (2026–2027)",
+    "countryCodes": "ALL_EXCEPT_US",
+    "countryBatchSize": 20,
+    "minRows": 350,
+    "maxPagesPerSource": 45,
+    "minPreviousCountRatio": 0.65,
+    "minPreviousOverlapRatio": 0.35,
+    "minCountryGuardRows": 10,
+    "minCountryPreviousCountRatio": 0.4,
+    "titleExclude": "senior|staff|principal|director|\\bvp\\b",
+    "sources": [
+      {
+        "seniorityExact": "INTERN",
+        "function": "Engineering,Data Science,Security,Product,Design"
+      }
+    ],
+    "globalRemoteSources": [
+      {
+        "seniorityExact": "INTERN",
+        "function": "Engineering,Data Science,Security,Product,Design",
+        "remoteEligibilityExact": "ANYWHERE"
+      }
+    ]
+  }
 }
