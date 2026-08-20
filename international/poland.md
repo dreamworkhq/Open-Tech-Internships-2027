@@ -25,14 +25,14 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **Ericsson** | [AI and telecommunication Internship - up to 1 year (Kraków)](https://career2.successfactors.eu/careers?company=Ericsson&jobId=789289) | — |  | 6d |
 | **Bosch** | [IT Internship (BackEnd, Java) (f/m)](https://jobs.smartrecruiters.com/BoschGroup/744000143272044-it-internship-backend-java-f-m-?oga=true) | Warszawa, Województwo mazowieckie, Poland (Hybrid) |  | 7d |
 | **Bayer** | [Intern / Trainee - Digital &amp; AI Support (MOS)](https://career5.successfactors.eu/careers?company=C0003153479P&jobId=878728) | — (Hybrid) |  | 14d |
-| **Ericsson** | [Software Engineer Internship](https://career2.successfactors.eu/careers?company=Ericsson&jobId=788917) | — (Hybrid) |  | 14d |
 | **Ericsson** | [Software Engineer Internship -up to 1 year (Łódź)](https://career2.successfactors.eu/careers?company=Ericsson&jobId=788625) | — (Hybrid) |  | 14d |
+| **Ericsson** | [Software Engineer Internship](https://career2.successfactors.eu/careers?company=Ericsson&jobId=788917) | — (Hybrid) |  | 14d |
 | **Snowflake** | [Software Engineer Intern - Warsaw Security](https://jobs.ashbyhq.com/snowflake/fc1923c1-b151-4458-a792-40d58331a5be) | PL-Warsaw-Lixa C |  | 15d |
 | **Hitachi** | [Internship - R&D Software Development in QA](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Krakow-Lesser-Poland-Poland/Internship---QA-Tester---R-D-Lab-Technician_R0112772-1) | Krakow, Lesser Poland, Poland |  | 1mo |
 | **GEHC External Site** | [Software Engineer Intern](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Krakow/Software-Engineer-Intern_R4040613) | Krakow (Hybrid) |  | 1mo |
 | **Tenstorrent** | [Infrastructure and Platform Development Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5168459007) | Gdańsk, Pomeranian Voivodeship, Poland; War… (Hybrid) |  | 2mo |
-| **Tenstorrent** | [Infrastructure Automation Engineering Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5165445007) | Warszawa, Masovian Voivodeship, Poland (Hybrid) |  | 2mo |
 | **Tenstorrent** | [Machine Learning Engineer Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5165258007) | Warszawa, Masovian Voivodeship, Poland |  | 2mo |
+| **Tenstorrent** | [Infrastructure Automation Engineering Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5165445007) | Warszawa, Masovian Voivodeship, Poland (Hybrid) |  | 2mo |
 | **Point72** | [2026 Warsaw MI Data – Web Scraping Internship](https://boards.greenhouse.io/point72/jobs/8423978002?gh_jid=8423978002) | Warsaw, Poland |  | 2mo |
 | **Cisco** | [Software Development Intern (Cracow, Poland)](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Krakow-Poland/Software-Development-Intern--Cracow--Poland-_2015133) | Krakow, Poland (Hybrid) |  | 3mo |
 

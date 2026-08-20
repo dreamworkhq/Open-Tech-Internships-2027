@@ -15,7 +15,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Apps Associates** | [Intern - IT Development](https://ebdt.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_9003/job/1686) | Hyderabad, Telangana, India |  | 1d |
+| **Apps Associates** | [Intern - IT Development](https://ebdt.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_9003/job/1687) | Hyderabad, Telangana, India |  | 1d |
 | **Automationanywhere** | [Software Development Engineer in Test Intern (SDET Intern)](https://automationanywhere.wd5.myworkdayjobs.com/AutomationAnywhereJobs/job/IN-Bengaluru/Software-Development-Engineer-in-Test-Intern--SDET-Intern-_JR1474) | IN Bengaluru |  | 5d |
 | **Merklescience** | [Software Engineer(Intern)- Backend](https://jobs.lever.co/merklescience/e663b69b-264a-4bd7-b04d-fb3c0a824a28) | Bangalore (Hybrid) |  | 11d |
 | **Tesla** | [ASIC RTL Design Intern](https://www.tesla.com/careers/search/job/279112) | Bengaluru Urban, Ka |  | 13d |

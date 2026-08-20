@@ -17,8 +17,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 | --- | --- | --- | --- | --- |
 | **Junior Learning** | [Software QA & Game Design Intern](https://www.seek.co.nz/job/93918827) | Newmarket, Auckland |  | 5d |
 | **Autoline Pty Ltd** | [Robotics and Mechatronics Summer Student Internship](https://www.seek.co.nz/job/93996745) | Blenheim Central, Marlborough |  | 5d |
-| **TOMRA** | [Software Engineering Intern - Summer 2026 - 2027](https://jobs.smartrecruiters.com/Tomra/744000140791239-software-engineering-intern-summer-2026-2027?oga=true) | Auckland, Auckland, New Zealand | $38K | 7d |
 | **TOMRA** | [Data Science/Applications Engineering Intern - Summer 2026 - 2027](https://jobs.smartrecruiters.com/Tomra/744000141840139-data-science-applications-engineering-intern-summer-2026-2027?oga=true) | Auckland, Auckland, New Zealand | $38K | 7d |
+| **TOMRA** | [Software Engineering Intern - Summer 2026 - 2027](https://jobs.smartrecruiters.com/Tomra/744000140791239-software-engineering-intern-summer-2026-2027?oga=true) | Auckland, Auckland, New Zealand | $38K | 7d |
 | **Tencent** | [Game Backend Development Intern](https://tencent.wd1.myworkdayjobs.com/Lightspeed/job/New-Zealand-Auckland/Game-Backend-Development-Intern_R106470) | New Zealand-Auckland |  | 8d |
 | **Rocket Lab** | [Launch Safety Software Intern](https://job-boards.greenhouse.io/rocketlab/jobs/7827254003) | Auckland, NZ |  | 13d |
 | **Rocket Lab** | [Software Engineering Intern - Production Automation](https://job-boards.greenhouse.io/rocketlab/jobs/7819677003) | Auckland, NZ |  | 16d |

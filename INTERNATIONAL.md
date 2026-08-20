@@ -2,7 +2,7 @@
 
 [← US internships](README.md)
 
-**900 country-located roles** across **59 countries** · **2 explicitly global remote** · Updated **2026-08-20**
+**902 country-located roles** across **59 countries** · **2 explicitly global remote** · Updated **2026-08-20**
 
 This is the international view of the same verified-open internship corpus. Countries are based on the location in the company posting; unknown locations are excluded instead of being guessed. Every country has its own page so the list stays readable as coverage grows.
 
@@ -12,10 +12,10 @@ This is the international view of the same verified-open internship corpus. Coun
 | [China](international/china.md) | 78 |
 | [Germany](international/germany.md) | 67 |
 | [Canada](international/canada.md) | 66 |
-| [Malaysia](international/malaysia.md) | 42 |
+| [Malaysia](international/malaysia.md) | 43 |
 | [Vietnam](international/vietnam.md) | 42 |
 | [Netherlands](international/netherlands.md) | 39 |
-| [Italy](international/italy.md) | 32 |
+| [Italy](international/italy.md) | 31 |
 | [United Kingdom](international/united-kingdom.md) | 31 |
 | [Spain](international/spain.md) | 26 |
 | [France](international/france.md) | 24 |
@@ -25,7 +25,7 @@ This is the international view of the same verified-open internship corpus. Coun
 | [India](international/india.md) | 21 |
 | [Belgium](international/belgium.md) | 16 |
 | [Mexico](international/mexico.md) | 16 |
-| [Switzerland](international/switzerland.md) | 14 |
+| [Switzerland](international/switzerland.md) | 15 |
 | [Australia](international/australia.md) | 11 |
 | [Austria](international/austria.md) | 11 |
 | [Portugal](international/portugal.md) | 11 |
@@ -37,8 +37,8 @@ This is the international view of the same verified-open internship corpus. Coun
 | [Czechia](international/czechia.md) | 7 |
 | [Hong Kong SAR China](international/hong-kong-sar-china.md) | 7 |
 | [Hungary](international/hungary.md) | 7 |
+| [Philippines](international/philippines.md) | 7 |
 | [Indonesia](international/indonesia.md) | 6 |
-| [Philippines](international/philippines.md) | 6 |
 | [Romania](international/romania.md) | 6 |
 | [South Korea](international/south-korea.md) | 6 |
 | [Sri Lanka](international/sri-lanka.md) | 6 |

@@ -23,8 +23,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **Intel** | [Software Engineer (Intern)](https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/Software-Engineer--Intern-_JR0286207-1) | Mexico, Guadalajara |  | 11d |
 | **GE Aerospace** | [Intern - Software Full Stack](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Queretaro/Intern----Software-Full-Stack_R5037746-1) | Queretaro (Hybrid) |  | 29d |
 | **Intel** | [Development Tools Software Intern](https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/Development-Tools-Software-Intern_JR0285211) | Mexico, Guadalajara (Hybrid) |  | 1mo |
-| **Amazon** | [Software Development Engineer Internship, Mexico City](https://www.amazon.jobs/en/jobs/3123246/software-development-engineer-internship-mexico-city) | MX, DIF, Mexico City |  | 3mo |
 | **Amazon** | [Software Development Engineer Internship, Guadalajara](https://www.amazon.jobs/en/jobs/3123243/software-development-engineer-internship-guadalajara) | MX, Zapopan |  | 3mo |
+| **Amazon** | [Software Development Engineer Internship, Mexico City](https://www.amazon.jobs/en/jobs/3123246/software-development-engineer-internship-mexico-city) | MX, DIF, Mexico City |  | 3mo |
 
 ### Data Science (6)
 

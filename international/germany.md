@@ -49,8 +49,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **Amazon** | [Software Dev Engineer internship - Embedded Development](https://www.amazon.jobs/en/jobs/3134271/software-dev-engineer-internship-embedded-development) | DE, BE, Berlin |  | 1mo |
 | **Amazon** | [Software Dev Engineer Intern Machine Learning, Amazon Robotics](https://www.amazon.jobs/en/jobs/10401402/software-dev-engineer-intern-machine-learning-amazon-robotics) | DE, BE, Berlin |  | 1mo |
 | **BASF** | [Internship / Thesis Automation and Information Technology (m/f/d)](https://career5.successfactors.eu/careers?company=C0000159936P&jobId=88428) | Germany |  | 1mo |
-| **SAP** | [SAP iXp Intern (f/m/d) - QA Automation Developer Support](https://career5.successfactors.eu/careers?company=SAP&jobId=453547) | Europe, Germany, Walldorf (Hybrid) |  | 1mo |
 | **SAP** | [SAP Globalization iXp Intern (f/m/d) - User Assistance Developer](https://career5.successfactors.eu/careers?company=SAP&jobId=452008) | Europe, Germany, St. Leon-Rot (Hybrid) |  | 1mo |
+| **SAP** | [SAP iXp Intern (f/m/d) - QA Automation Developer Support](https://career5.successfactors.eu/careers?company=SAP&jobId=453547) | Europe, Germany, Walldorf (Hybrid) |  | 1mo |
 | **Airbus** | [Internship (d/f/m) in AI for Functional Avionics](https://ag.wd3.myworkdayjobs.com/Airbus/job/Immenstaad-am-Bodensee/Internship--d-f-m--in-AI-for-Functional-Avionics_JR10417809) | Immenstaad am Bodensee |  | 1mo |
 | **Tacto** | [(Intern) AI Automation Engineer](https://jobs.ashbyhq.com/tacto/6b175aec-f934-4e19-9c0a-3bbc6c3b4825) | Munich |  | 2mo |
 | **Tesla** | [Software Engineering Intern, AI Applications (m/f/d) - Gigafactory Berl…](https://www.tesla.com/careers/search/job/272532) | Grünheide (mark), Brandenburg |  | 2mo |

@@ -2,20 +2,21 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md)
 
-**42 currently open roles** · Updated **2026-08-20**
+**43 currently open roles** · Updated **2026-08-20**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-32) · 32 roles
+- [Engineering](#engineering-33) · 33 roles
 - [Data Science](#data-science-6) · 6 roles
 - [Other](#other-4) · 4 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (32)
+### Engineering (33)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
+| **SWIFT** | [Software/Systems Engineer - Intern](https://swift.wd3.myworkdayjobs.com/join-swift/job/Kuala-Lumpur-Malaysia/Software-Systems-Engineer---Intern_2026-16387) | Kuala Lumpur, Malaysia |  | 0d |
 | **Keysight** | [Firmware Engineering Intern](https://jobs.keysight.com/jobs/53967?lang=en-us) | Penang, Malaysia |  | 0d |
 | **Global Campus** | [Intern - Software Developer, Assurance (Financial Services) (October 20…](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Kuala-Lumpur/Intern---Software-Developer--Assurance--Financial-Services---October-2026-Intake-_753487WD) | Kuala Lumpur |  | 1d |
 | **Jabil Circuit** | [Intern - Software Development Services](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Penang/Intern---Software-Development-Services_J2461809) | Penang |  | 1d |
@@ -44,8 +45,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **Micron** | [Intern - Support on Host Automation Enablement for Enclosure Attach](https://micron.wd1.myworkdayjobs.com/External/job/Penang-Malaysia---Grande/Intern---Support-on-Host-Automation-Enablement-for-Enclosure-Attach_JR96495) | Penang, Malaysia - Grande |  | 2mo |
 | **Careerseng Teleperformance** | [Data Engineer Intern](https://careerseng-teleperformance.icims.com/jobs/67502/data-engineer-intern/job) | MY |  | 2mo |
 | **Eurofins** | [Internship - IT (Software)](https://jobs.smartrecruiters.com/Eurofins/744000118839387-internship-it-software-?oga=true) | Bukit Mertajam, Penang, Malaysia |  | 2mo |
-| **Rytbank** | [Business Intelligence Intern](https://rytbank.wd3.myworkdayjobs.com/External_Career/job/Kuala-Lumpur/Business-Intelligence-Intern_JR00000496) | Kuala Lumpur |  | 2mo |
 | **Rytbank** | [Frontend Engineer Intern](https://rytbank.wd3.myworkdayjobs.com/External_Career/job/Kuala-Lumpur/Frontend-Engineer-Intern_JR00000553) | Kuala Lumpur |  | 2mo |
+| **Rytbank** | [Business Intelligence Intern](https://rytbank.wd3.myworkdayjobs.com/External_Career/job/Kuala-Lumpur/Business-Intelligence-Intern_JR00000496) | Kuala Lumpur |  | 2mo |
 | **NXP Semiconductors** | [Intern (Engineering & IT)](https://nxp.wd3.myworkdayjobs.com/careers/job/Kuala-Lumpur/Intern--Engineering-_R-10005472) | Kuala Lumpur |  | 2mo |
 | **Tencent** | [Database Administrator Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Malaysia-Kuala-Lumpur/Database-Administrator-Intern_R107380) | Malaysia-Kuala Lumpur |  | 2mo |
 
