@@ -16,18 +16,18 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **ICSGBLCOR** | [Internships - Software Engineering](https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/HBP-Amsterdam---Haarlerbergpark/Internships---Software-Engineering_REQ-10120184) | HBP (Amsterdam - Haarlerbergpark) |  | 0d |
+| **ICSGBLCOR** | [Internships - Software Engineering](https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/HBP-Amsterdam---Haarlerbergpark/Internships---Software-Engineering_REQ-10120184) | HBP (Amsterdam - Haarlerbergpark) |  | 1d |
 | **Optiverus** | [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713409002/?gh_jid=8713409002) | Amsterdam, North Holland, Netherlands |  | 3d |
-| **Tencent** | [Data Engineer Intern](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/Netherlands-Amsterdam/Data-Engineer-Intern_R107681) | Netherlands-Amsterdam |  | 4d |
 | **Tencent** | [AI Product Engineer Intern — Game Development](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/Netherlands-Amsterdam/AI-Product-Engineer-Intern---Game-Development_R107621) | Netherlands-Amsterdam |  | 4d |
-| **EURES Netherlands** | [Intern (Web)Developer](https://europa.eu/eures/portal/jv-se/jv-details/NThmYTBiNTItZGNkMS0zYjg5LWUwNjMtNjg5M2IyMGE1MTNiIDQy) | Noord-Brabant, Netherlands |  | 6d |
+| **Tencent** | [Data Engineer Intern](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/Netherlands-Amsterdam/Data-Engineer-Intern_R107681) | Netherlands-Amsterdam |  | 4d |
+| **EURES Netherlands** | [Intern (Web)Developer](https://europa.eu/eures/portal/jv-se/jv-details/NThmYTBiNTItZGNkMS0zYjg5LWUwNjMtNjg5M2IyMGE1MTNiIDQy) | Noord-Brabant, Netherlands |  | 7d |
 | **EURES Netherlands (Professional)** | [Intern (Web)Developer](https://europa.eu/eures/portal/jv-se/jv-details/NThmYTBiNTItZGNkMS0zYjg5LWUwNjMtNjg5M2IyMGE1MTNiIDQy) | Noord-Brabant, Netherlands |  | 7d |
-| **Vanderlande** | [Internship/Graduation: Improving Engineering Productivity with AI](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Veghel/Internship-Graduation--Improving-Engineering-Productivity-with-AI_JR37471) | Veghel |  | 11d |
+| **Vanderlande** | [Internship/Graduation: Improving Engineering Productivity with AI](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Veghel/Internship-Graduation--Improving-Engineering-Productivity-with-AI_JR37471) | Veghel |  | 12d |
 | **Imc** | [Software Engineer Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4667854101) | Amsterdam, Netherlands |  | 15d |
 | **Imc** | [Hardware Engineer Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4927149101) | Amsterdam, Netherlands |  | 15d |
 | **Damen** | [Internship: Solution Developer](https://damen.wd3.myworkdayjobs.com/Damen_Careers/job/Gorinchem/Internship--Solution-Developer_JR0018136) | Gorinchem |  | 27d |
-| **NXP Semiconductors** | [Internship/Thesis – Signal Processing and AI for autonomous driving](https://nxp.wd3.myworkdayjobs.com/careers/job/Eindhoven/Internship-Thesis---Signal-Processing-and-AI-for-autonomous-driving-_R-10064090) | Eindhoven |  | 28d |
-| **NXP Semiconductors** | [Intern for Manufacturing IT](https://nxp.wd3.myworkdayjobs.com/careers/job/Nijmegen/Intern-for-Manufacturing-IT_R-10065597) | Nijmegen |  | 28d |
+| **NXP Semiconductors** | [Internship/Thesis – Signal Processing and AI for autonomous driving](https://nxp.wd3.myworkdayjobs.com/careers/job/Eindhoven/Internship-Thesis---Signal-Processing-and-AI-for-autonomous-driving-_R-10064090) | Eindhoven |  | 29d |
+| **NXP Semiconductors** | [Intern for Manufacturing IT](https://nxp.wd3.myworkdayjobs.com/careers/job/Nijmegen/Intern-for-Manufacturing-IT_R-10065597) | Nijmegen |  | 29d |
 | **EURES Netherlands (Professional)** | [AI Intern](https://europa.eu/eures/portal/jv-se/jv-details/NTZkYWU1OWItZTgwZC1mZDZiLWUwNjMtNjg5M2IyMGFiYTk2IDQy) | Noord-Holland, Netherlands (Hybrid) |  | 29d |
 | **NXP Semiconductors** | [Internship - Robotics](https://nxp.wd3.myworkdayjobs.com/careers/job/Eindhoven/Internship----Robotics_R-10062364) | Eindhoven |  | 1mo |
 | **Lighting** | [Vision AI and Robotics Software Engineering Intern](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Vision-AI-and-Robotics-Software-Engineering-Intern_365266) | Eindhoven |  | 1mo |
@@ -42,8 +42,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **ICSGBLCOR** | [Workalong Internship – AI Agent Developer](https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/ACT-Amsterdam---Acanthus/Workalong-Internship---AI-Agent-Developer_REQ-10120210) | ACT (Amsterdam - Acanthus) (Hybrid) |  | 0d |
-| **ICSGBLCOR** | [Internship - Artificial Intelligence Agent Developer](https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/ACT-Amsterdam---Acanthus/Internship---Artificial-Intelligence-Agent-Developer_REQ-10120227) | ACT (Amsterdam - Acanthus) (Hybrid) |  | 0d |
+| **ICSGBLCOR** | [Internship - Artificial Intelligence Agent Developer](https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/ACT-Amsterdam---Acanthus/Internship---Artificial-Intelligence-Agent-Developer_REQ-10120227) | ACT (Amsterdam - Acanthus) (Hybrid) |  | 1d |
+| **ICSGBLCOR** | [Workalong Internship – AI Agent Developer](https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/ACT-Amsterdam---Acanthus/Workalong-Internship---AI-Agent-Developer_REQ-10120210) | ACT (Amsterdam - Acanthus) (Hybrid) |  | 1d |
 | **Philips** | [Data & AI Reporting Analyst Intern (Customs Compliance)](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Best/Data---AI-Reporting-Analyst-Intern--Customs-Compliance-_587242) | Best |  | 2d |
 | **ICSGBLCOR** | [Internship Artificial Intelligence Agent Developer](https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/ACT-Amsterdam---Acanthus/Internship-Artificial-Intelligence-Agent-Developer_REQ-10120054) | ACT (Amsterdam - Acanthus) (Hybrid) |  | 2d |
 | **Myhrabc** | [Intern, Data Science](https://myhrabc.wd5.myworkdayjobs.com/Global/job/WEMEA--Netherlands--Veghel-Campus/Intern--Data-Science_R2611600) | WEMEA > Netherlands > Veghel Campus |  | 7d |
@@ -60,7 +60,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
 | **ICSGBLCOR** | [Intern UX / Design & Communication](https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/HBP-Amsterdam---Haarlerbergpark/Intern-UX---Design---Communication_REQ-10120056) | HBP (Amsterdam - Haarlerbergpark) (Hybrid) |  | 2d |
-| **Tencent** | [Product Manager Intern, Game Performance Optimization](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Netherlands-Amsterdam/Product-Manager-Intern--gaming_R107173-1) | Netherlands-Amsterdam |  | 1mo |
+| **Tencent** | [Product Manager Intern, Game Performance Optimization](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/Netherlands-Amsterdam/Product-Manager-Intern--gaming_R107173) | Netherlands-Amsterdam |  | 4d |
 | **Harman** | [Internship - Operational Security (Brand Protection & Distribution Cont…](https://harman.wd3.myworkdayjobs.com/HARMAN/job/Amsterdam---Amsterdam-Netherlands/Internship---Operational-Security--Brand-Protection---Distribution-Control-_R-53746-2026) | Amsterdam - Amsterdam, Netherlands (Hybrid) |  | 1mo |
 | **Philips** | [Product Innovation & AI-Powered Video Creation Internship – Philips Ave…](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Product-Innovation---AI-Powered-Video-Creation-Internship---Philips-Avent-Experience-Innovation_586187) | Eindhoven |  | 1mo |
 

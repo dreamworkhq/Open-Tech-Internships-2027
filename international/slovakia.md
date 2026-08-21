@@ -14,7 +14,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **SAP** | [SAP iXp Intern - Site Reliability Engineer](https://career5.successfactors.eu/careers?company=SAP&jobId=458773) | Europe, Slovakia, Bratislava (Hybrid) |  | 2d |
+| **SAP** | [SAP iXp Intern - Site Reliability Engineer](https://career5.successfactors.eu/careers?company=SAP&jobId=458773) | Europe, Slovakia, Bratislava (Hybrid) |  | 3d |
 | **Kone** | [Automation & AI Solutions Intern (KONE BUSINESS SERVICES) F/M](https://kone.wd3.myworkdayjobs.com/Careers/job/Bratislava/Automation---AI-Solutions-Intern--KONE-BUSINESS-SERVICES--F-M_R0663401) | Bratislava |  | 13d |
 | **Fa Evmr Saasfaprod1** | [Internship Software Engineer](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/30918) | Slovakia (Hybrid) |  | 15d |
 | **Covestro** | [Business Intelligence Solutions Intern (student part-time)](https://covestro.wd3.myworkdayjobs.com/cov_external/job/Bratislava/Business-Intelligence-Solutions-Intern--student-part-time-_JR-2026-01269) | Bratislava |  | 27d |

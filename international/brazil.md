@@ -23,8 +23,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **Mastercard** | [Associate Consultant Intern, Performance Analytics/ Business Experiment…](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Sao-Paulo-Brazil/Associate-Consultant-Intern--Performance-Analytics--Business-Experimentation--2027---So-Paulo--Brazil_R-286486-1) | Sao Paulo, Brazil |  | 18d |
 | **Swiss Re** | [Actuarial Portfolio Management Intern](https://career2.successfactors.eu/careers?company=SwissRe&jobId=138616) | Brazil (Hybrid) |  | 1mo |
 | **Shifttechnology** | [Data Scientist Intern (English Speaker)](https://job-boards.greenhouse.io/shifttechnology/jobs/7794260003) | Brazil - Sao Paulo (Hybrid) |  | 1mo |
-| **Amazon** | [Business Intelligence Intern, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/3149400/business-intelligence-intern-amazon-university-talent-acquisition) | BR, SP, Sao Paulo |  | 1mo |
 | **Amazon** | [Business Intelligence Intern, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/3126336/business-intelligence-intern-amazon-university-talent-acquisition) | BR, RJ, Rio De Janeiro |  | 1mo |
+| **Amazon** | [Business Intelligence Intern, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/3149400/business-intelligence-intern-amazon-university-talent-acquisition) | BR, SP, Sao Paulo |  | 1mo |
 | **Enova** | [Data Analytics Intern (Hybrid)](https://job-boards.greenhouse.io/enova/jobs/8023514) | São Paulo, São Paulo, Brazil (Hybrid) |  | 1mo |
 | **Amazon** | [Business Intelligence Intern - Cajamar, Amazon University Talent Acquis…](https://www.amazon.jobs/en/jobs/10423543/business-intelligence-intern-cajamar-amazon-university-talent-acquisition) | BR, SP, Cajamar |  | 3mo |
 

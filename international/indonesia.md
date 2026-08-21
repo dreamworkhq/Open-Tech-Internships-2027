@@ -26,7 +26,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Cermati** | [Software Engineer Intern](https://jobs.smartrecruiters.com/Cermaticom/744000144468230-software-engineer-intern?oga=true) | Jakarta, Jakarta, Indonesia |  | 0d |
+| **Cermati** | [Software Engineer Intern](https://jobs.smartrecruiters.com/Cermaticom/744000144468230-software-engineer-intern?oga=true) | Jakarta, Jakarta, Indonesia |  | 1d |
 | **Xendit** | [Full Stack Developer Intern](https://job-boards.greenhouse.io/xendit/jobs/7821207003) | Jakarta, Indonesia |  | 18d |
 
 <!-- TABLE_END -->

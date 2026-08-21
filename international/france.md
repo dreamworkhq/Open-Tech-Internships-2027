@@ -31,12 +31,12 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Sia** | [Final Year Internship Consultant - Data Analyst](https://jobs.smartrecruiters.com/Sia/744000144314485-final-year-internship-consultant-data-analyst?oga=true) | Paris, IDF, France | $26K | 1d |
-| **Akur8** | [Data & Business Performance Internship](https://jobs.ashbyhq.com/akur8/4fd788fc-98fb-4eb4-9f6c-58d559e748ab) | Paris (Hybrid) |  | 8d |
+| **Sia** | [Final Year Internship Consultant - Data Analyst](https://jobs.smartrecruiters.com/Sia/744000144314485-final-year-internship-consultant-data-analyst?oga=true) | Paris, IDF, France | $26K | 2d |
+| **Akur8** | [Data & Business Performance Internship](https://jobs.ashbyhq.com/akur8/4fd788fc-98fb-4eb4-9f6c-58d559e748ab) | Paris (Hybrid) |  | 9d |
 | **Teampicnic** | [Commercial Data Analytics Intern (H/F)](https://jobs.picnic.app/nl/vacancies?gh_jid=7110715) | Paris, Paris, France |  | 16d |
 | **Sia** | [Final year internship - Data Scientist & AI Consultant](https://jobs.smartrecruiters.com/Sia/744000140167280-final-year-internship-data-scientist-ai-consultant?oga=true) | Paris, IDF, France |  | 23d |
-| **Sia** | [Final year internship - Marketing Data Scientist](https://jobs.smartrecruiters.com/Sia/744000140165551-final-year-internship-marketing-data-scientist?oga=true) | Paris, IDF, France |  | 23d |
 | **Sia** | [Final year internship - Operations Research Consultant](https://jobs.smartrecruiters.com/Sia/744000140167761-final-year-internship-operations-research-consultant-?oga=true) | Paris, IDF, France (Hybrid) |  | 23d |
+| **Sia** | [Final year internship - Marketing Data Scientist](https://jobs.smartrecruiters.com/Sia/744000140165551-final-year-internship-marketing-data-scientist?oga=true) | Paris, IDF, France |  | 23d |
 | **Joko** | [Data Analyst Intern](https://jobs.ashbyhq.com/joko/6aed4a35-456c-4ea4-9e69-c36e04be31db) | Paris (Hybrid) |  | 1mo |
 | **Shifttechnology** | [Data Science internship - Spanish speaker (6months)](https://job-boards.greenhouse.io/shifttechnology/jobs/7676940003) | Remote (France - Remote) |  | 2mo |
 | **Hellofresh** | [Growth Strategy Data Analyst - Intern (M/F/N)](https://careers.hellofresh.com/global/en/job/7704587?gh_jid=7704587) | Paris, Paris, France |  | 2mo |
@@ -48,8 +48,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 | --- | --- | --- | --- | --- |
 | **GE Vernova** | [Stage - UI Designer Intern (H/F)](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Saint-Herblain/Stage---UI-Designer-Intern--H-F-_R5050375-1) | Saint Herblain |  | 2d |
 | **Maki** | [Security Engineer - Final year Intern](https://jobs.ashbyhq.com/maki/2bb85d01-0b1b-45d9-b47f-cae2ae72bd10) | Paris (Hybrid) |  | 19d |
-| **Skello** | [Product Manager Intern](https://skello.teamtailor.com/jobs/7910939-product-manager-intern) | Paris, France |  | 1mo |
 | **Skello** | [AI Ops PM Intern](https://skello.teamtailor.com/jobs/7911123-ai-ops-pm-intern) | Paris, France |  | 1mo |
+| **Skello** | [Product Manager Intern](https://skello.teamtailor.com/jobs/7910939-product-manager-intern) | Paris, France |  | 1mo |
 | **ALTEN** | [Internship Offer – Product Owner (Project Management Tool)](https://jobs.smartrecruiters.com/ALTEN/744000131167400-internship-offer-product-owner-project-management-tool-?oga=true) | Toulouse, Occitanie, France |  | 1mo |
 
 <!-- TABLE_END -->

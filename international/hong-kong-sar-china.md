@@ -19,7 +19,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **Imc** | [Software Engineer Intern 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4941206101) | Hong Kong, Hong Kong |  | 6d |
 | **QIMA** | [AI Engineer (F/M) - Internship - End of studies](https://jobs.smartrecruiters.com/QIMA/744000097460315-ai-engineer-f-m-internship-end-of-studies?oga=true) | Hong Kong, , Hong Kong |  | 2mo |
 | **Schonfeld** | [Quantitative Research / Developer - Intern](https://job-boards.greenhouse.io/schonfeld/jobs/7185553) | Hong Kong, Hong Kong |  | 2mo |
-| **Jump Trading** | [Campus Trading Team Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7565728) | Hong Kong |  | 2mo |
+| **Jump Trading** | [Campus Trading Team Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7565728) | Hong Kong |  | 3mo |
 
 ### Other (2)
 

@@ -14,10 +14,10 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Sezzle** | [Software Engineer Intern](https://job-boards.greenhouse.io/sezzle/jobs/7906408003) | Remote (Peru) |  | 0d |
-| **Sezzle** | [SRE / Platform Infrastructure Engineer Intern](https://job-boards.greenhouse.io/sezzle/jobs/7906453003) | Remote (Peru) |  | 0d |
-| **Sezzle** | [Security Infrastructure Engineer Intern](https://job-boards.greenhouse.io/sezzle/jobs/7906517003) | Remote (Peru) |  | 0d |
-| **Sezzle** | [AI Engineering Intern](https://job-boards.greenhouse.io/sezzle/jobs/7906563003) | Peru |  | 0d |
-| **Sezzle** | [Data Infrastructure Engineer Intern](https://job-boards.greenhouse.io/sezzle/jobs/7906562003) | Remote (Peru) |  | 0d |
+| **Sezzle** | [Software Engineer Intern](https://job-boards.greenhouse.io/sezzle/jobs/7906408003) | Remote (Peru) |  | 1d |
+| **Sezzle** | [SRE / Platform Infrastructure Engineer Intern](https://job-boards.greenhouse.io/sezzle/jobs/7906453003) | Remote (Peru) |  | 1d |
+| **Sezzle** | [Security Infrastructure Engineer Intern](https://job-boards.greenhouse.io/sezzle/jobs/7906517003) | Remote (Peru) |  | 1d |
+| **Sezzle** | [Data Infrastructure Engineer Intern](https://job-boards.greenhouse.io/sezzle/jobs/7906562003) | Remote (Peru) |  | 1d |
+| **Sezzle** | [AI Engineering Intern](https://job-boards.greenhouse.io/sezzle/jobs/7906563003) | Peru |  | 1d |
 
 <!-- TABLE_END -->

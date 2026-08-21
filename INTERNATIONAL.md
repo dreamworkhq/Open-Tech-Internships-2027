@@ -2,24 +2,24 @@
 
 [← US internships](README.md) · [Business internships](BUSINESS.md)
 
-**923 country-located roles** across **59 countries** · **2 explicitly global remote** · Updated **2026-08-21**
+**925 country-located roles** across **59 countries** · **2 explicitly global remote** · Updated **2026-08-21**
 
 This is the international view of the same verified-open internship corpus. Countries are based on the location in the company posting; unknown locations are excluded instead of being guessed. Every country has its own page so the list stays readable as coverage grows.
 
 | Country | Open roles |
 | --- | ---: |
-| [Singapore](international/singapore.md) | 130 |
-| [China](international/china.md) | 84 |
-| [Canada](international/canada.md) | 66 |
-| [Germany](international/germany.md) | 66 |
+| [Singapore](international/singapore.md) | 132 |
+| [China](international/china.md) | 83 |
+| [Canada](international/canada.md) | 69 |
+| [Germany](international/germany.md) | 64 |
 | [Vietnam](international/vietnam.md) | 49 |
 | [Malaysia](international/malaysia.md) | 43 |
 | [Netherlands](international/netherlands.md) | 37 |
-| [Italy](international/italy.md) | 32 |
-| [United Kingdom](international/united-kingdom.md) | 32 |
+| [United Kingdom](international/united-kingdom.md) | 31 |
+| [Italy](international/italy.md) | 30 |
 | [Spain](international/spain.md) | 29 |
 | [France](international/france.md) | 25 |
-| [India](international/india.md) | 23 |
+| [India](international/india.md) | 25 |
 | [Poland](international/poland.md) | 23 |
 | [Brazil](international/brazil.md) | 22 |
 | [New Zealand](international/new-zealand.md) | 21 |
@@ -27,10 +27,10 @@ This is the international view of the same verified-open internship corpus. Coun
 | [Mexico](international/mexico.md) | 16 |
 | [Switzerland](international/switzerland.md) | 15 |
 | [Portugal](international/portugal.md) | 12 |
+| [Australia](international/australia.md) | 11 |
 | [Austria](international/austria.md) | 11 |
 | [Taiwan](international/taiwan.md) | 11 |
 | [Ukraine](international/ukraine.md) | 11 |
-| [Australia](international/australia.md) | 10 |
 | [Colombia](international/colombia.md) | 10 |
 | [Indonesia](international/indonesia.md) | 8 |
 | [Thailand](international/thailand.md) | 8 |

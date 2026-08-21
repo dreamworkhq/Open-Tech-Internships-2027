@@ -15,8 +15,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Western Digital** | [Intern - Data Analytics](https://jobs.smartrecruiters.com/WesternDigital/744000142781279-intern-data-analytics?oga=true) | Biñan City, LAGUNA, Philippines |  | 9d |
-| **WTW** | [Early Careers: 2026 Developer - Intern Program Retirement Technology - …](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202601482) | Taguig, National Capital, Philippines (Hybrid) |  | 26d |
+| **Western Digital** | [Intern - Data Analytics](https://jobs.smartrecruiters.com/WesternDigital/744000142781279-intern-data-analytics?oga=true) | Biñan City, LAGUNA, Philippines |  | 10d |
+| **WTW** | [Early Careers: 2026 Developer - Intern Program Retirement Technology - …](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202601482) | Taguig, National Capital, Philippines (Hybrid) |  | 27d |
 | **Manulife** | [Full Stack Engineer Intern](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Makati-City/Full-Stack-Engineer-Intern_JR26061875-1) | Makati City (Hybrid) |  | 1mo |
 | **QIMA** | [AI Engineer - Internship](https://jobs.smartrecruiters.com/QIMA/744000133284279-ai-engineer-internship?oga=true) | Cebu City, Central Visayas, Philippines |  | 1mo |
 | **Amadeus** | [Software QA Engineering Intern](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Manila-Metro-Manila/Software-QA-Engineering-Intern_R29236) | Manila, Metro Manila |  | 3mo |

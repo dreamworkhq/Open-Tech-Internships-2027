@@ -15,10 +15,10 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Nvidia** | [Enterprise Software Test Development Engineer (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Taipei/Enterprise-Software-Test-Development-Engineer--RDSS-Intern-_JR2023913) | Taiwan, Taipei |  | 0d |
+| **Nvidia** | [Enterprise Software Test Development Engineer (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Taipei/Enterprise-Software-Test-Development-Engineer--RDSS-Intern-_JR2023905) | Taiwan, Taipei |  | 0d |
 | **Nvidia** | [System Software Engineer – GPU and SOC (2027 RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---GPU-and-SOC--2027-RDSS-Intern-_JR2023628) | Taiwan, Taipei |  | 2d |
 | **Appier** | [Software Engineer Intern, Quality Assurance](https://job-boards.greenhouse.io/appier/jobs/6967119) | Taipei, Taiwan |  | 9d |
-| **Nvidia** | [System Design Engineer - LDE (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Taipei/System-Design-Engineer---LDE--RDSS-Intern-_JR2021878) | Taiwan, Taipei |  | 16d |
+| **Nvidia** | [System Design Engineer - LDE (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Taipei/System-Design-Engineer---LDE--RDSS-Intern-_JR2021878) | Taiwan, Taipei |  | 17d |
 | **Apple** | [Product Design Engineering Intern](https://jobs.apple.com/en-us/details/200674739/product-design-engineering-intern?team=HRDWR) | Taipei |  | 18d |
 | **Nvidia** | [System Design Intern, LDE - 2027](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Taipei/System-Design-Intern--LDE---2027_JR2021952) | Taiwan, Taipei (Hybrid) |  | 23d |
 | **Nvidia** | [System Design Validation Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Taipei/System-Design-Validation-Intern---2027_JR2021783) | Taiwan, Taipei |  | 27d |
