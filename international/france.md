@@ -1,6 +1,6 @@
 # Tech internships in France
 
-[← International index](../INTERNATIONAL.md) · [US internships](../README.md)
+[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md)
 
 **25 currently open roles** · Updated **2026-08-21**
 
@@ -34,9 +34,9 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **Sia** | [Final Year Internship Consultant - Data Analyst](https://jobs.smartrecruiters.com/Sia/744000144314485-final-year-internship-consultant-data-analyst?oga=true) | Paris, IDF, France | $26K | 2d |
 | **Akur8** | [Data & Business Performance Internship](https://jobs.ashbyhq.com/akur8/4fd788fc-98fb-4eb4-9f6c-58d559e748ab) | Paris (Hybrid) |  | 9d |
 | **Teampicnic** | [Commercial Data Analytics Intern (H/F)](https://jobs.picnic.app/nl/vacancies?gh_jid=7110715) | Paris, Paris, France |  | 16d |
-| **Sia** | [Final year internship - Marketing Data Scientist](https://jobs.smartrecruiters.com/Sia/744000140165551-final-year-internship-marketing-data-scientist?oga=true) | Paris, IDF, France |  | 23d |
-| **Sia** | [Final year internship - Data Scientist & AI Consultant](https://jobs.smartrecruiters.com/Sia/744000140167280-final-year-internship-data-scientist-ai-consultant?oga=true) | Paris, IDF, France |  | 23d |
 | **Sia** | [Final year internship - Operations Research Consultant](https://jobs.smartrecruiters.com/Sia/744000140167761-final-year-internship-operations-research-consultant-?oga=true) | Paris, IDF, France (Hybrid) |  | 23d |
+| **Sia** | [Final year internship - Data Scientist & AI Consultant](https://jobs.smartrecruiters.com/Sia/744000140167280-final-year-internship-data-scientist-ai-consultant?oga=true) | Paris, IDF, France |  | 23d |
+| **Sia** | [Final year internship - Marketing Data Scientist](https://jobs.smartrecruiters.com/Sia/744000140165551-final-year-internship-marketing-data-scientist?oga=true) | Paris, IDF, France |  | 23d |
 | **Joko** | [Data Analyst Intern](https://jobs.ashbyhq.com/joko/6aed4a35-456c-4ea4-9e69-c36e04be31db) | Paris (Hybrid) |  | 1mo |
 | **Shifttechnology** | [Data Science internship - Spanish speaker (6months)](https://job-boards.greenhouse.io/shifttechnology/jobs/7676940003) | Remote (France - Remote) |  | 2mo |
 | **Hellofresh** | [Growth Strategy Data Analyst - Intern (M/F/N)](https://careers.hellofresh.com/global/en/job/7704587?gh_jid=7704587) | Paris, Paris, France |  | 2mo |

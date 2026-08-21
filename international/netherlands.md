@@ -1,6 +1,6 @@
 # Tech internships in Netherlands
 
-[← International index](../INTERNATIONAL.md) · [US internships](../README.md)
+[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md)
 
 **37 currently open roles** · Updated **2026-08-21**
 
@@ -18,8 +18,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 | --- | --- | --- | --- | --- |
 | **ICSGBLCOR** | [Internships - Software Engineering](https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/HBP-Amsterdam---Haarlerbergpark/Internships---Software-Engineering_REQ-10120184) | HBP (Amsterdam - Haarlerbergpark) |  | 1d |
 | **Optiverus** | [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713409002/?gh_jid=8713409002) | Amsterdam, North Holland, Netherlands |  | 3d |
-| **Tencent** | [Data Engineer Intern](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/Netherlands-Amsterdam/Data-Engineer-Intern_R107681) | Netherlands-Amsterdam |  | 5d |
 | **Tencent** | [AI Product Engineer Intern — Game Development](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/Netherlands-Amsterdam/AI-Product-Engineer-Intern---Game-Development_R107621) | Netherlands-Amsterdam |  | 5d |
+| **Tencent** | [Data Engineer Intern](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/Netherlands-Amsterdam/Data-Engineer-Intern_R107681) | Netherlands-Amsterdam |  | 5d |
 | **EURES Netherlands** | [Intern (Web)Developer](https://europa.eu/eures/portal/jv-se/jv-details/NThmYTBiNTItZGNkMS0zYjg5LWUwNjMtNjg5M2IyMGE1MTNiIDQy) | Noord-Brabant, Netherlands |  | 7d |
 | **EURES Netherlands (Professional)** | [Intern (Web)Developer](https://europa.eu/eures/portal/jv-se/jv-details/NThmYTBiNTItZGNkMS0zYjg5LWUwNjMtNjg5M2IyMGE1MTNiIDQy) | Noord-Brabant, Netherlands |  | 7d |
 | **Vanderlande** | [Internship/Graduation: Improving Engineering Productivity with AI](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Veghel/Internship-Graduation--Improving-Engineering-Productivity-with-AI_JR37471) | Veghel |  | 12d |
@@ -42,8 +42,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
 | **Fugro** | [Data & Analytics Internship](https://fugro.wd3.myworkdayjobs.com/Careers/job/Prismastraat-3-Nootdorp-NL/Data---Analytics-Internship_R0031985) | Prismastraat 3 Nootdorp NL |  | 0d |
-| **ICSGBLCOR** | [Internship - Artificial Intelligence Agent Developer](https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/ACT-Amsterdam---Acanthus/Internship---Artificial-Intelligence-Agent-Developer_REQ-10120227) | ACT (Amsterdam - Acanthus) (Hybrid) |  | 1d |
 | **ICSGBLCOR** | [Workalong Internship – AI Agent Developer](https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/ACT-Amsterdam---Acanthus/Workalong-Internship---AI-Agent-Developer_REQ-10120210) | ACT (Amsterdam - Acanthus) (Hybrid) |  | 1d |
+| **ICSGBLCOR** | [Internship - Artificial Intelligence Agent Developer](https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/ACT-Amsterdam---Acanthus/Internship---Artificial-Intelligence-Agent-Developer_REQ-10120227) | ACT (Amsterdam - Acanthus) (Hybrid) |  | 1d |
 | **Philips** | [Data & AI Reporting Analyst Intern (Customs Compliance)](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Best/Data---AI-Reporting-Analyst-Intern--Customs-Compliance-_587242) | Best |  | 3d |
 | **ICSGBLCOR** | [Internship Artificial Intelligence Agent Developer](https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/ACT-Amsterdam---Acanthus/Internship-Artificial-Intelligence-Agent-Developer_REQ-10120054) | ACT (Amsterdam - Acanthus) (Hybrid) |  | 3d |
 | **Myhrabc** | [Intern, Data Science](https://myhrabc.wd5.myworkdayjobs.com/Global/job/WEMEA--Netherlands--Veghel-Campus/Intern--Data-Science_R2611600) | WEMEA > Netherlands > Veghel Campus |  | 7d |

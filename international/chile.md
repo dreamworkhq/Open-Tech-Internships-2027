@@ -1,6 +1,6 @@
 # Tech internships in Chile
 
-[← International index](../INTERNATIONAL.md) · [US internships](../README.md)
+[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md)
 
 **1 currently open roles** · Updated **2026-08-21**
 

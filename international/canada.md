@@ -1,6 +1,6 @@
 # Tech internships in Canada
 
-[← International index](../INTERNATIONAL.md) · [US internships](../README.md)
+[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md)
 
 **70 currently open roles** · Updated **2026-08-21**
 
@@ -24,6 +24,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **RTX (Raytheon)** | [Internship - Winter 2027 - Model-based Definition (MBD) Computer-aided …](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Internship---Winter-2027---Model-based-Definition--MBD--Computer-aided-Design--CAD--Digital-Technologies--MISSISSAUGA-_01863899) | CA-ON-MISSISSAUGA-P22M01 ~ 1801 Courtney Pa… | $30K–$50K | 0d |
 | **RTX (Raytheon)** | [Stage - Hiver 2027 - Robotique et Automatisation dans le secteur manufa…](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Robotique-et-Automatisation-dans-le-secteur-manufacturier-de-aronautique---Internship---Winter-2027---Robotics-and-Automation-in-the-Aeronautics-Manufacturing-Sector_01866622) | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victo… |  | 1d |
 | **Autodesk** | [Intern, AI Developer/ Stagiaire en développement IA](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2) | Montreal, QC, CAN (Hybrid) |  | 1d |
+| **Global Campus** | [May 2027 - Cloud, Data and AI - Summer Intern - Vancouver](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Vancouver/May-2027---Cloud--Data-and-AI---Summer-Intern---Vancouver_752583WD) | Remote (Vancouver) | $44K–$51K | 2d |
 | **Global Campus** | [May 2027 - Cloud, Data and AI - Summer Intern - Toronto](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Toronto/May-2027---Cloud--Data-and-AI---Summer-Intern---Toronto_745713WD) | Remote (Toronto) | $44K–$51K | 2d |
 | **Global Campus** | [May 2027 - Cloud, Data and AI - Summer Intern - Calgary](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Calgary/May-2027---Cloud--Data-and-AI---Summer-Intern---Calgary_752586WD) | Remote (Calgary) |  | 2d |
 | **RTX (Raytheon)** | [Stage - Hiver 2027 - Gestion de projets et développement d'outils d'ana…](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Gestion-de-projets-et-dveloppement-d-outils-d-analyse-en-qualit---Internship---Winter-2027---Quality-Project-management-and-data-analysis-tool-development_01863188) | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victo… |  | 3d |
@@ -32,16 +33,15 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **SAP** | [SAP iXp Intern - Java Developer, Cloud Development](https://career5.successfactors.eu/careers?company=SAP&jobId=457758) | North America, Canada, Montreal (Hybrid) |  | 10d |
 | **Autodesk** | [Intern Software Developer, Stagiaire en Développement Logiciel](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2) | Montreal, QC, CAN (Hybrid) |  | 10d |
 | **SAP** | [SAP iXp Intern - Data and Platform, Technical Support \[Vancouver\]](https://career5.successfactors.eu/careers?company=SAP&jobId=458085) | North America, Canada, Vancouver (Hybrid) |  | 11d |
-| **Ciena** | [Software Developer Intern - Fall 2026](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-Intern---Fall-2026_R031492) | Ottawa | $38K–$53K | 12d |
 | **Ciena** | [Software Developer in Test Automation Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-in-Test-Automation-Intern_R031467) | Ottawa | $39K–$53K | 12d |
+| **Ciena** | [Software Developer Intern - Fall 2026](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-Intern---Fall-2026_R031492) | Ottawa | $38K–$53K | 12d |
 | **Alayacare** | [Intern - Developer](https://alayacare.com/open-positions?gh_jid=8687981002) | Montréal, Quebec, Canada (Hybrid) |  | 13d |
 | **Autodesk** | [Stagiaire en Développement Cloud, Intern Cloud Developer – FCAP](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-2) | Montreal, QC, CAN (Hybrid) |  | 14d |
 | **Autodesk** | [Stagiaire en Développement Cloud, Intern Cloud Developer](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400) | Montreal, QC, CAN (Hybrid) |  | 14d |
 | **Ciena** | [WaveLogic Software - Intern (Fall 2026)](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/WaveLogic-Software---Intern_R031443) | Ottawa | $52K–$73K | 15d |
-| **Huawei Canada** | [Intern Engineer - openJiuwen AI Agent Platform](https://huaweicanada.recruitee.com/o/intern-engineer-openjiuwen-ai-agent-platform) | Markham, Ontario, Canada | $42K–$76K | 17d |
 | **Later** | [Software Development Co-op (Later Influence)](https://job-boards.greenhouse.io/later/jobs/8643138002) | Vancouver, British Columbia, Canada (Hybrid) | $35K | 19d |
 | **SAP** | [SAP iXp Intern - Agile Developer, Business Data Cloud](https://career5.successfactors.eu/careers?company=SAP&jobId=457050) | North America, Canada, Vancouver (Hybrid) |  | 20d |
-| **Shyftlabs** | [AI Engineer Intern](https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd) | Toronto, Ontario (Hybrid) | $30K–$46K | 25d |
+| **Shyftlabs** | [AI Engineer Intern](https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd) | Toronto, Ontario (Hybrid) | $30K–$46K | 26d |
 | **Kepler** | [FPGA Digital Design Engineering Intern (January 2027) (4-16 months)](https://jobs.lever.co/kepler/f06ca5e6-2e7f-4b76-a5c4-cb423d3cfc03) | Toronto, Ontario | $45K–$59K | 27d |
 | **Mckesson** | [Stagiaire en automatisation de l'assurance qualité (AQ) - Automne 2026 …](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Stagiaire-en-automatisation-de-l-assurance-qualit--AQ----Automne-2026---QA-Automation-Engineer-Intern---Fall-2026_JR0151008) | CAN, QC, Montreal, Ville Saint-Laurent (Hybrid) | $25K–$40K | 28d |
 | **AECOM** | [Telecommunications and Electronic Security Systems Engineering Intern](https://jobs.smartrecruiters.com/AECOM2/744000139358579-telecommunications-and-electronic-security-systems-engineering-intern?oga=true) | Markham, ON, Canada | $38K–$43K | 29d |
@@ -73,10 +73,10 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Rbcglobal1** | [2027 Winter - GRM, Portfolio Risk Data & AI Analyst Intern (4 Months)](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Portfolio-Risk-Data---AI-Analyst-Intern--4-Months-_R-0000185116-2) | TORONTO, Ontario, Canada (Hybrid) |  | 0d |
+| **Rbcglobal1** | [2027 Winter - GRM, Portfolio Risk Data & AI Analyst Intern (4 Months)](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Portfolio-Risk-Data---AI-Analyst-Intern--4-Months-_R-0000185116-2) | TORONTO, Ontario, Canada (Hybrid) |  | 1d |
 | **Investpsp** | [Intern, AI Solutions for External Manager Selection & Monitoring (May -…](https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Intern--AI-Solutions-for-External-Manager-Selection---Monitoring--May---August-2027-_R4933) | Montreal |  | 2d |
 | **Global Campus** | [May 2027 - Cloud, Data and AI - Summer Intern - Ottawa](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Ottawa/May-2027---Cloud--Data-and-AI---Summer-Intern---Ottawa_752827WD) | Remote (Ottawa) | $44K–$51K | 2d |
-| **Rbcglobal1** | [2027 Winter - GRM, Data Scientist Intern (8 Months)](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Data-Scientist-Intern--8-Months-_R-0000184624) | TORONTO, Ontario, Canada (Hybrid) |  | 2d |
+| **Rbcglobal1** | [2027 Winter - GRM, Data Scientist Intern (8 Months)](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Data-Scientist-Intern--8-Months-_R-0000184624) | TORONTO, Ontario, Canada (Hybrid) |  | 3d |
 | **Rbcglobal1** | [2027 Winter – GRM, MCCR Policy AI Applications Intern (4 Months)](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--MCCR-Policy-AI-Applications-Intern--4-Months-_R-0000184696) | TORONTO, Ontario, Canada (Hybrid) |  | 3d |
 | **Later** | [Data/Analytics Co-op](https://job-boards.greenhouse.io/later/jobs/8647385002) | Vancouver, British Columbia, Canada (Hybrid) | $35K | 19d |
 | **Mckesson** | [AI & Strategic Analytics Intern - Fall 2026](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/AI---Strategic-Analytics-Intern---Fall-2026_JR0150114) | CAN, ON, Mississauga (Hybrid) | $37K–$46K | 1mo |

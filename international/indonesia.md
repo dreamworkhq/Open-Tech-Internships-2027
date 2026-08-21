@@ -1,6 +1,6 @@
 # Tech internships in Indonesia
 
-[← International index](../INTERNATIONAL.md) · [US internships](../README.md)
+[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md)
 
 **8 currently open roles** · Updated **2026-08-21**
 

@@ -1,6 +1,6 @@
 # Tech internships in Poland
 
-[← International index](../INTERNATIONAL.md) · [US internships](../README.md)
+[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md)
 
 **23 currently open roles** · Updated **2026-08-21**
 
@@ -25,8 +25,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **Ericsson** | [AI and telecommunication Internship - up to 1 year (Kraków)](https://career2.successfactors.eu/careers?company=Ericsson&jobId=789289) | — |  | 7d |
 | **Bosch** | [IT Internship (BackEnd, Java) (f/m)](https://jobs.smartrecruiters.com/BoschGroup/744000143272044-it-internship-backend-java-f-m-?oga=true) | Warszawa, Województwo mazowieckie, Poland (Hybrid) |  | 8d |
 | **Bayer** | [Intern / Trainee - Digital &amp; AI Support (MOS)](https://career5.successfactors.eu/careers?company=C0003153479P&jobId=878728) | — (Hybrid) |  | 15d |
-| **Ericsson** | [Software Engineer Internship](https://career2.successfactors.eu/careers?company=Ericsson&jobId=788917) | — (Hybrid) |  | 15d |
 | **Ericsson** | [Software Engineer Internship -up to 1 year (Łódź)](https://career2.successfactors.eu/careers?company=Ericsson&jobId=788625) | — (Hybrid) |  | 15d |
+| **Ericsson** | [Software Engineer Internship](https://career2.successfactors.eu/careers?company=Ericsson&jobId=788917) | — (Hybrid) |  | 15d |
 | **Snowflake** | [Software Engineer Intern - Warsaw Security](https://jobs.ashbyhq.com/snowflake/fc1923c1-b151-4458-a792-40d58331a5be) | PL-Warsaw-Lixa C |  | 16d |
 | **Hitachi** | [Internship - R&D Software Development in QA](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Krakow-Lesser-Poland-Poland/Internship---QA-Tester---R-D-Lab-Technician_R0112772-1) | Krakow, Lesser Poland, Poland |  | 1mo |
 | **GEHC External Site** | [Software Engineer Intern](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Krakow/Software-Engineer-Intern_R4040613) | Krakow (Hybrid) |  | 1mo |

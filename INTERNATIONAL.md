@@ -1,8 +1,8 @@
 # International Internships in Tech (2026–2027)
 
-[← US internships](README.md)
+[← US internships](README.md) · [Business internships](BUSINESS.md)
 
-**925 country-located roles** across **59 countries** · **2 explicitly global remote** · Updated **2026-08-21**
+**929 country-located roles** across **59 countries** · **2 explicitly global remote** · Updated **2026-08-21**
 
 This is the international view of the same verified-open internship corpus. Countries are based on the location in the company posting; unknown locations are excluded instead of being guessed. Every country has its own page so the list stays readable as coverage grows.
 
@@ -11,20 +11,20 @@ This is the international view of the same verified-open internship corpus. Coun
 | [Singapore](international/singapore.md) | 130 |
 | [China](international/china.md) | 85 |
 | [Canada](international/canada.md) | 70 |
-| [Germany](international/germany.md) | 60 |
+| [Germany](international/germany.md) | 61 |
 | [Vietnam](international/vietnam.md) | 49 |
 | [Malaysia](international/malaysia.md) | 42 |
 | [Netherlands](international/netherlands.md) | 37 |
+| [United Kingdom](international/united-kingdom.md) | 32 |
 | [Italy](international/italy.md) | 31 |
-| [United Kingdom](international/united-kingdom.md) | 31 |
 | [Spain](international/spain.md) | 30 |
-| [India](international/india.md) | 26 |
+| [India](international/india.md) | 27 |
 | [France](international/france.md) | 25 |
 | [New Zealand](international/new-zealand.md) | 23 |
 | [Poland](international/poland.md) | 23 |
 | [Brazil](international/brazil.md) | 22 |
+| [Belgium](international/belgium.md) | 16 |
 | [Mexico](international/mexico.md) | 16 |
-| [Belgium](international/belgium.md) | 15 |
 | [Switzerland](international/switzerland.md) | 15 |
 | [Portugal](international/portugal.md) | 12 |
 | [Austria](international/austria.md) | 11 |

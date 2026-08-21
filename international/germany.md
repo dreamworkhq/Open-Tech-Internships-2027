@@ -1,24 +1,24 @@
 # Tech internships in Germany
 
-[← International index](../INTERNATIONAL.md) · [US internships](../README.md)
+[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md)
 
-**60 currently open roles** · Updated **2026-08-21**
+**61 currently open roles** · Updated **2026-08-21**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-42) · 42 roles
+- [Engineering](#engineering-43) · 43 roles
 - [Data Science](#data-science-12) · 12 roles
 - [Other](#other-6) · 6 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (42)
+### Engineering (43)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
 | **SAP** | [SAP iXp Intern (f/m/d) - Cloud-native Application Development](https://career5.successfactors.eu/careers?company=SAP&jobId=458620) | Europe, Germany, Walldorf (Hybrid) |  | 1d |
 | **Google** | [Software Engineering PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/93078491720753862) | Zürich, Switzerland, Berlin, Germany | $92K | 1d |
-| **Nvidia** | [Software Engineering Intern, Test Automation — Autonomous Vehicles](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern--Test-Automation---Autonomous-Vehicles_JR2023302) | Germany, Munich |  | 2d |
+| **Nvidia** | [Software Engineering Intern, Test Automation — Autonomous Vehicles](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern--Test-Automation---Autonomous-Vehicles_JR2023302) | Germany, Munich |  | 2d |
 | **Ericsson** | [Mechanical Design - Intern (m/f/d)](https://career2.successfactors.eu/careers?company=Ericsson&jobId=788529) | — |  | 3d |
 | **The Exploration Company** | [GNC Software Intern](https://jobs.ashbyhq.com/the-exploration-company/88861ad4-8273-4e58-a4fe-ad3957cac3e2) | Munich, Germany |  | 6d |
 | **Huaweiresearchcentergermanyaust…** | [Intern - Algorithm Development for Advanced Driving Systems](https://huaweiresearchcentergermanyaustria.teamtailor.com/jobs/8221749-intern-algorithm-development-for-advanced-driving-systems) | München, Germany |  | 6d |
@@ -39,13 +39,14 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **Baker Hughes** | [Intern – Systems & Data Analysis – Celle, Germany – 2026 (M/F/D)](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/DE-CELLE-BAKER-HUGHES-STRASSE-1/Werkstudent-fr-System--und-Datenanalyse-2026--Celle-_R158064) | DE-CELLE-BAKER-HUGHES-STRASSE 1 (Hybrid) |  | 1mo |
 | **Teamviewer** | [Intern, Software Engineering & AI-Assisted Development](https://teamviewer.teamtailor.com/jobs/8054939-intern-software-engineering-ai-assisted-development) | Göppingen, EMEA, Germany |  | 1mo |
 | **Xsolla** | [AI-First Engineering Intern](https://jobs.lever.co/xsolla/26e49689-5da7-4d23-8079-d7bb763a5be1) | Berlin, Germany |  | 1mo |
+| **STARK Group** | [Data Engineering Intern (All genders)](https://stark.jobs.personio.de/job/2703154) | Munich |  | 1mo |
 | **Tesla** | [Firmware & Validation Intern – Power Electronics PIL/SIL (m/f/d)](https://www.tesla.com/careers/search/job/274646) | Freiburg Im Breisgau |  | 1mo |
 | **Apple** | [SoC Performance Modeling Internship - Platform Architecture (m/f/d)](https://jobs.apple.com/en-us/details/200622296/soc-performance-modeling-internship-platform-architecture-m-f-d?team=HRDWR) | Munich |  | 1mo |
 | **Amazon** | [Software Dev Engineer Intern Machine Learning, Amazon Robotics](https://www.amazon.jobs/en/jobs/10401402/software-dev-engineer-intern-machine-learning-amazon-robotics) | DE, BE, Berlin |  | 1mo |
 | **Amazon** | [Software Dev Engineer internship - Embedded Development](https://www.amazon.jobs/en/jobs/3134271/software-dev-engineer-internship-embedded-development) | DE, BE, Berlin |  | 1mo |
 | **BASF** | [Internship / Thesis Automation and Information Technology (m/f/d)](https://career5.successfactors.eu/careers?company=C0000159936P&jobId=88428) | Germany |  | 1mo |
-| **SAP** | [SAP Globalization iXp Intern (f/m/d) - User Assistance Developer](https://career5.successfactors.eu/careers?company=SAP&jobId=452008) | Europe, Germany, St. Leon-Rot (Hybrid) |  | 1mo |
 | **SAP** | [SAP iXp Intern (f/m/d) - QA Automation Developer Support](https://career5.successfactors.eu/careers?company=SAP&jobId=453547) | Europe, Germany, Walldorf (Hybrid) |  | 1mo |
+| **SAP** | [SAP Globalization iXp Intern (f/m/d) - User Assistance Developer](https://career5.successfactors.eu/careers?company=SAP&jobId=452008) | Europe, Germany, St. Leon-Rot (Hybrid) |  | 1mo |
 | **Airbus** | [Internship (d/f/m) in AI for Functional Avionics](https://ag.wd3.myworkdayjobs.com/Airbus/job/Immenstaad-am-Bodensee/Internship--d-f-m--in-AI-for-Functional-Avionics_JR10417809) | Immenstaad am Bodensee |  | 1mo |
 | **Tacto** | [(Intern) AI Automation Engineer](https://jobs.ashbyhq.com/tacto/6b175aec-f934-4e19-9c0a-3bbc6c3b4825) | Munich |  | 2mo |
 | **Tesla** | [Software Engineering Intern, AI Applications (m/f/d) - Gigafactory Berl…](https://www.tesla.com/careers/search/job/272532) | Grünheide (mark), Brandenburg |  | 2mo |

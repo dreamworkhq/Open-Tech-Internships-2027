@@ -1,20 +1,21 @@
 # Tech internships in United Kingdom
 
-[← International index](../INTERNATIONAL.md) · [US internships](../README.md)
+[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md)
 
-**31 currently open roles** · Updated **2026-08-21**
+**32 currently open roles** · Updated **2026-08-21**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-21) · 21 roles
+- [Engineering](#engineering-22) · 22 roles
 - [Other](#other-10) · 10 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (21)
+### Engineering (22)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
+| **Cisco** | [Software Engineer - Intern](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Harpenden-United-Kingdom/Software-Engineer---Intern_2023625) | Harpenden, United Kingdom |  | 0d |
 | **Cloudflare** | [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855) | In-Office |  | 0d |
 | **Xantium** | [Quantitative Developer Intern](https://job-boards.greenhouse.io/xantium/jobs/4360768009) | London, England, New York, New York | $192K–$228K | 1d |
 | **Google** | [Software Engineering or SRE, PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/80037545080955590) | London, UK |  | 3d |
@@ -26,8 +27,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **Samsara** | [Software Engineering Internship - London](https://www.samsara.com/company/careers/roles/8082093?gh_jid=8082093) | London - UK2 (Hybrid) | $81K | 17d |
 | **Palantir** | [Software Engineer, Internship - Infrastructure](https://jobs.lever.co/palantir/fd3603a9-7016-45c6-9c8d-04c9279ab85e) | London, United Kingdom (Hybrid) |  | 20d |
 | **Palantir** | [Software Engineer, Internship](https://jobs.lever.co/palantir/76a60923-bb49-40f5-b061-7c7eb1299602) | London, United Kingdom (Hybrid) |  | 20d |
-| **Palantir** | [Forward Deployed Software Engineer, Internship - Commercial](https://jobs.lever.co/palantir/599b1907-aba1-4303-837b-66e69a521636) | London, United Kingdom (Hybrid) |  | 20d |
 | **Palantir** | [Forward Deployed Software Engineer, Internship - UK Government](https://jobs.lever.co/palantir/26e23f5d-083b-45aa-b223-1a6e43d960bf) | London, United Kingdom (Hybrid) |  | 20d |
+| **Palantir** | [Forward Deployed Software Engineer, Internship - Commercial](https://jobs.lever.co/palantir/599b1907-aba1-4303-837b-66e69a521636) | London, United Kingdom (Hybrid) |  | 20d |
 | **HP Inc.** | [Browser Software Engineer Intern](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Cambridge-Cambridgeshire-United-Kingdom/Browser-Software-Engineer-Intern_3160410-1) | Cambridge, Cambridgeshire, United Kingdom |  | 28d |
 | **Jump Trading** | [Campus UI Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7974943) | London |  | 1mo |
 | **Jump Trading** | [Campus Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7975026) | London |  | 1mo |

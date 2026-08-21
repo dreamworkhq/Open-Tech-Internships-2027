@@ -1,18 +1,18 @@
 # Tech internships in Italy
 
-[← International index](../INTERNATIONAL.md) · [US internships](../README.md)
+[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md)
 
 **31 currently open roles** · Updated **2026-08-21**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-20) · 20 roles
-- [Data Science](#data-science-8) · 8 roles
+- [Engineering](#engineering-19) · 19 roles
+- [Data Science](#data-science-9) · 9 roles
 - [Other](#other-3) · 3 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (20)
+### Engineering (19)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
@@ -25,11 +25,10 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **Baker Hughes** | [Intern – AI - Structural Optimization Engineer – Florence, Italy – 2026…](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---AI---Structural-Optimization-Engineer---Florence--Italy---2026--M-F-D-_R167089) | IT-FI-FLORENCE-VIA FELICE MATTEUCCI 2 |  | 1mo |
 | **Global Campus** | [AI Developer Intern - Bologna \[DIG\]](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Bologna/AI-Developer-Intern---Bologna--DIG-_641222WD) | Bologna |  | 1mo |
 | **Global Campus** | [Software Engineer Developer Intern - Milano \[DIG\]](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Milan/Software-Engineer-Developer-Intern---Milano--DIG-_646332WD) | Milan |  | 1mo |
-| **Global Campus** | [AI Developer Intern - Roma \[DIG\]](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Rome/AI-Developer-Intern---Roma---DIG-_621535WD) | Rome |  | 1mo |
 | **Global Campus** | [AI Developer Intern - Milano \[DIG\]](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Milano---Via-Monte-Rosa-91/AI-Developer-Intern---Milano--DIG-_621536WD) | Milano - Via Monte Rosa 91 |  | 1mo |
+| **Global Campus** | [AI Developer Intern - Roma \[DIG\]](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Rome/AI-Developer-Intern---Roma---DIG-_621535WD) | Rome |  | 1mo |
 | **Global Campus** | [RPA Developer Intern - Milano \[DIG\]](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Milan/RPA-Developer-Intern---Milano--DIG-_669071WD) | Milan |  | 1mo |
 | **Baker Hughes** | [Intern – AI and Computer Engineering – Florence, Italy – 2026 (M/F/D)](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Emerging-Talent---AI-and-Computer-engineering-Intern-2026-Opportunities--Florence-_R161407) | IT-FI-FLORENCE-VIA FELICE MATTEUCCI 2 |  | 1mo |
-| **Pirelli** | [Internship Cyber Tyre and Development Engineer](https://career5.successfactors.eu/careers?company=Pirelli&jobId=23379) | Italy, EUROPE |  | 1mo |
 | **Pirelli** | [Internship Automation Engineer](https://career5.successfactors.eu/careers?company=Pirelli&jobId=23441) | Italy, EUROPE |  | 1mo |
 | **Pirelli** | [Internship R&amp;D Modeling Tools &amp; Support Developer](https://career5.successfactors.eu/careers?company=Pirelli&jobId=23432) | Italy, EUROPE |  | 1mo |
 | **Enpal** | [Automation & Software Developer Intern (f/m/x)](https://jobs.ashbyhq.com/enpal/24ebfa69-5689-49f1-bf69-f7224d6b2ff4) | Milan |  | 2mo |
@@ -37,7 +36,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **ELCA** | [ELCAdemy Internship: Junior Software Engineer](https://iaaras.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/job/2272) | Palermo, Italy |  | 2mo |
 | **Marvell Technology** | [Firmware Engineering Intern](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Pavia-Italy/Firmware-Engineering-Intern_2601124) | Pavia, Italy | $23K–$31K | 3mo |
 
-### Data Science (8)
+### Data Science (9)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
@@ -49,6 +48,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **Baker Hughes** | [Intern – Data Analyst - Florence, Italy - 2026 (M/F/D)](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Emerging-Talent---Data-Analyst-Intern-2026-Opportunities--Florence---M-F-D-_R165879) | IT-FI-FLORENCE-VIA FELICE MATTEUCCI 2 |  | 1mo |
 | **Baker Hughes** | [Intern – Standardization and Data Analyst - Florence, Italy - 2026 (M/F…](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Emerging-Talent--Standardization-and-Data-Analyst-Intern-2026-Opportunities--Florence---M-F-D-_R165881) | IT-FI-FLORENCE-VIA FELICE MATTEUCCI 2 |  | 1mo |
 | **Baker Hughes** | [Intern - Data Analytics - Florence, Italy - 2026 (M/F/D)](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Emerging-Talent---Data-Analytics-Intern-2026-Opportunities--Florence-_R164944) | IT-FI-FLORENCE-VIA FELICE MATTEUCCI 2 |  | 1mo |
+| **Pirelli** | [Internship Product Intelligence Analyst](https://career5.successfactors.eu/careers?company=Pirelli&jobId=23170) | Italy, EUROPE |  | 1mo |
 
 ### Other (3)
 

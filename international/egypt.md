@@ -1,6 +1,6 @@
 # Tech internships in Egypt
 
-[← International index](../INTERNATIONAL.md) · [US internships](../README.md)
+[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md)
 
 **5 currently open roles** · Updated **2026-08-21**
 

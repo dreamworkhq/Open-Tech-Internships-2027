@@ -1,6 +1,6 @@
 # Tech internships in Mexico
 
-[← International index](../INTERNATIONAL.md) · [US internships](../README.md)
+[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md)
 
 **16 currently open roles** · Updated **2026-08-21**
 
