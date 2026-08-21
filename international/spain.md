@@ -1,32 +1,33 @@
 # Tech internships in Spain
 
-[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md)
+[← International index](../INTERNATIONAL.md) · [US internships](../README.md)
 
-**29 currently open roles** · Updated **2026-08-21**
+**30 currently open roles** · Updated **2026-08-21**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-16) · 16 roles
+- [Engineering](#engineering-17) · 17 roles
 - [Data Science](#data-science-11) · 11 roles
 - [Other](#other-2) · 2 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (16)
+### Engineering (17)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
+| **Analog Devices** | [FY27 Engineering Intern – Hardware, Software & Systems](https://analogdevices.wd1.myworkdayjobs.com/External/job/Spain-Valencia-Cortes-Valencianas/FY27--Engineering-Intern---Hardware--Software---Systems_R265309) | Spain, Valencia, Cortes Valencianas |  | 0d |
 | **Boston Scientific** | [Data AI Platform Engineer Intern](https://www.tecnoempleo.com/data-ai-platform-engineer-intern-boston-scientific/python-sql/rf-302e1b2ed29273210e43) | Madrid, Madrid (Hybrid) |  | 0d |
-| **Boeing** | [Intern - Software Engineering](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/ESP---Madrid-Spain/Intern---Software-Engineering_JR2026522576-1) | ESP - Madrid, Spain |  | 0d |
-| **Monolithicpower** | [Software Engineer Intern](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/Barcelona-Spain/Software-Engineer-Intern_R-1786) | Barcelona, Spain |  | 1d |
+| **Boeing** | [Intern - Software Engineering](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/ESP---Madrid-Spain/Intern---Software-Engineering_JR2026522576-1) | ESP - Madrid, Spain |  | 1d |
+| **Monolithicpower** | [Software Engineer Intern](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/Barcelona-Spain/Software-Engineer-Intern_R-1786) | Barcelona, Spain |  | 2d |
 | **Revolut** | [Internship Programme 2027 Software Engineer](https://www.tecnoempleo.com/internship-programme-2027-software-engineer-revolu/react-typescript/rf-7d2914b9f21063155447) | Barcelona, Barcelona (Hybrid) |  | 7d |
 | **1000** | [Data Engineer Internship (m/f/x)](https://pg.wd5.myworkdayjobs.com/1000/job/MEQUINENZA-PLANT/Data-Engineer-Internship--m-f-x-_R000155816) | MEQUINENZA PLANT |  | 10d |
 | **Milestone** | [Intern / Trainee - Software Engineer](https://fa-ewto-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/24564) | Barcelona, Spain (Hybrid) |  | 10d |
 | **Roche** | [Manual Software Test Engineer intern](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Sant-Cugat-del-Valls/Software-Test-Engineer-Intern_202608-120310) | Sant Cugat del Vallès |  | 11d |
 | **Bitpanda** | [Intern, QA Engineering](https://job-boards.eu.greenhouse.io/bitpanda/jobs/4940716101) | Barcelona, Spain (Hybrid) |  | 12d |
-| **Monolithicpower** | [Physical Design Engineer Intern](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/Barcelona-Spain/Physical-Design-Engineer-Intern_R-1777) | Barcelona, Spain |  | 15d |
+| **Monolithicpower** | [Physical Design Engineer Intern](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/Barcelona-Spain/Physical-Design-Engineer-Intern_R-1777) | Barcelona, Spain |  | 16d |
 | **Zurich Insurance** | [Data Engineering &amp; Visualization Intern](https://career2.successfactors.eu/careers?company=SF2013&jobId=135939) | Spain (Hybrid) |  | 17d |
-| **Zurich Insurance** | [AI Developer Intern](https://career2.successfactors.eu/careers?company=SF2013&jobId=135841) | Spain (Hybrid) |  | 21d |
+| **Zurich Insurance** | [AI Developer Intern](https://career2.successfactors.eu/careers?company=SF2013&jobId=135841) | Spain (Hybrid) |  | 22d |
 | **Valeo** | [AI Developer Internship](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Martos/AI-Developer-Internship_REQ2026078837) | Martos |  | 1mo |
 | **1000** | [Data Engineer Internship (m/f/x)](https://pg.wd5.myworkdayjobs.com/1000/job/MADRID-GENERAL-OFFICE/Data-Engineer-Internship--m-f-x-_R000154644) | MADRID GENERAL OFFICE |  | 1mo |
 | **Nestlé** | [Spain Youth \| Internship IT - September 2026](https://career2.successfactors.eu/careers?company=nestleHRprdBX&jobId=404925) | Spain |  | 1mo |
@@ -41,7 +42,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **Ailylabs** | [Intern Data Practitioner – Barcelona / Madrid (Hybrid)](https://ailylabs.jobs.personio.de/job/1971625) | Madrid - Hybrid (Hybrid) |  | 5d |
 | **Morningstar** | [Data Analyst Intern- Portuguese & Spanish Speaker](https://morningstar.wd5.myworkdayjobs.com/morningstar/job/Madrid/Data-Analyst-Intern--Portuguese---Spanish-Speaker_REQ-053209) | Madrid (Hybrid) |  | 14d |
 | **Morningstar** | [Data Analyst Intern - German speaker](https://morningstar.wd5.myworkdayjobs.com/morningstar/job/Madrid/Data-Analyst-Intern---German-speaker_REQ-057771) | Madrid (Hybrid) |  | 17d |
-| **1000** | [Data Engineer Internship (m/f/x)](https://pg.wd5.myworkdayjobs.com/1000/job/JIJONA-PLANT/Data-Engineer-Internship--m-f-x-_R000156073) | JIJONA PLANT |  | 27d |
+| **1000** | [Data Engineer Internship (m/f/x)](https://pg.wd5.myworkdayjobs.com/1000/job/JIJONA-PLANT/Data-Engineer-Internship--m-f-x-_R000156073) | JIJONA PLANT |  | 28d |
 | **Morningstar** | [Data Analyst Intern](https://morningstar.wd5.myworkdayjobs.com/morningstar/job/Madrid/Data-Analyst-Intern_REQ-057189) | Madrid (Hybrid) |  | 28d |
 | **Zurich Insurance** | [Ai Analyst Intern](https://career2.successfactors.eu/careers?company=SF2013&jobId=135646) | Spain (Hybrid) |  | 28d |
 | **Keysight** | [Data Analyst Intern](https://jobs.keysight.com/jobs/53344?lang=en-us) | Barcelona, Barcelona, Spain |  | 1mo |

@@ -128,49 +128,5 @@
         "remoteEligibilityExact": "ANYWHERE"
       }
     ]
-  },
-  "businessBoard": {
-    "title": "Business Internships 2027",
-    "tagline": "Verified-open US finance, accounting, and business analytics internships, updated daily.",
-    "keywords": "US finance, accounting, and business analytics internships",
-    "sources": [
-      {
-        "seniorityExact": "INTERN",
-        "function": "Finance",
-        "countryExact": "US"
-      },
-      {
-        "seniorityExact": "INTERN",
-        "function": "Data Science",
-        "countryExact": "US",
-        "search": "analytics"
-      },
-      {
-        "seniorityExact": "INTERN",
-        "function": "Data Science",
-        "countryExact": "US",
-        "search": "data analyst"
-      },
-      {
-        "seniorityExact": "INTERN",
-        "function": "Data Science",
-        "countryExact": "US",
-        "search": "business intelligence"
-      }
-    ],
-    "titleInclude": "\\b(?:intern|internships?|co-?op)\\b",
-    "titleIncludeAll": [
-      "\\b(?:finance|financial|account(?:ing|ant)?|audit(?:ing|or)?|tax|treasury|bank(?:ing)?|credit|wealth|insurance|actuari\\w*|controller|underwrit\\w*|econom(?:ic|ics)|investment|capital markets?|risk|portfolio|loan|real estate|analytics?|data analyst|business intelligence|pwm)\\b"
-    ],
-    "titleExclude": "senior|staff|principal|director|\\bvp\\b|\\b2028\\b|\\b2029\\b|^(?:intern|internship|co-?op)$",
-    "minRows": 50,
-    "maxPagesPerSource": 45,
-    "minPreviousCountRatio": 0.65,
-    "minPreviousOverlapRatio": 0.35,
-    "groupBy": "functionPrimary",
-    "groupLabels": {
-      "Finance": "Finance & Accounting",
-      "Data Science": "Data & Analytics"
-    }
   }
 }

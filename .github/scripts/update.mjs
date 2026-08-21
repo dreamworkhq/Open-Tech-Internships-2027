@@ -11,7 +11,7 @@
  * Zero dependencies on purpose: the public repos run this on a bare
  * actions/setup-node runner with nothing installed.
  *
- * Usage: node generate.mjs <config.json> [--out <dir>] [--scope main|international|business]
+ * Usage: node generate.mjs <config.json> [--out <dir>] [--scope main|international]
  */
 
 import {
@@ -62,7 +62,7 @@ const US_STATES = new Set([
 function parseArgs(argv) {
   const [configPath, ...rest] = argv;
   if (!configPath) {
-    console.error("usage: node generate.mjs <config.json> [--out <dir>] [--scope main|international|business]");
+    console.error("usage: node generate.mjs <config.json> [--out <dir>] [--scope main|international]");
     process.exit(1);
   }
   let out = dirname(resolve(configPath));
@@ -71,8 +71,8 @@ function parseArgs(argv) {
     if (rest[i] === "--out" && rest[i + 1]) out = resolve(rest[++i]);
     else if (rest[i] === "--scope" && rest[i + 1]) scope = rest[++i];
   }
-  if (!["main", "international", "business"].includes(scope)) {
-    throw new Error(`--scope must be main, international, or business (received ${JSON.stringify(scope)})`);
+  if (scope !== "main" && scope !== "international") {
+    throw new Error(`--scope must be main or international (received ${JSON.stringify(scope)})`);
   }
   return { configPath: resolve(configPath), out, scope };
 }
@@ -618,9 +618,6 @@ function renderGrowthReadme(rows, config, now) {
     : config.intlCount
       ? `\nHiring outside the US? **${config.intlCount}** international roles are listed separately in [INTERNATIONAL.md](INTERNATIONAL.md).\n`
       : "";
-  const businessLine = config.businessBoard
-    ? "\nLooking beyond technical roles? Browse [Business internships](BUSINESS.md) in finance, accounting, and data analytics.\n"
-    : "";
 
   const siblings = (config.siblings ?? [])
     .map((s) => `- [${s.label}](https://github.com/${s.repo})`)
@@ -677,7 +674,7 @@ function renderGrowthReadme(rows, config, now) {
 Star this repo and new roles land in your GitHub feed every day. Listings come from [Dreamwork](${matchesUrl}), which crawls 400,000+ jobs directly from company career pages.
 
 ${statsLine}
-${intlLine}${businessLine}
+${intlLine}
 ${config.legend ? `${config.legend}\n` : ""}${toc ? `\n${toc}` : ""}
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
@@ -736,7 +733,6 @@ ${config.tagline}
 Indexed from company career pages and maintained by [Dreamwork](https://github.com/dreamworkhq).
 
 ${config.internationalBoard ? "Looking outside the US? Browse [International internships](INTERNATIONAL.md), organized by country and refreshed separately.\n" : ""}
-${config.businessBoard ? "Looking beyond technical roles? Browse [Business internships](BUSINESS.md) in finance, accounting, and data analytics.\n" : ""}
 
 ${toc ? `${toc}\n` : ""}<!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
@@ -935,10 +931,9 @@ function renderCountryPage(code, rows, config, now) {
   const name = countryName(code);
   const updated = now.toISOString().slice(0, 10);
   const { toc, body } = renderSections(rows, config, now);
-  const businessLink = config.businessBoard ? " · [Business internships](../BUSINESS.md)" : "";
   return `# Tech internships in ${name}
 
-[← International index](../INTERNATIONAL.md) · [US internships](../README.md)${businessLink}
+[← International index](../INTERNATIONAL.md) · [US internships](../README.md)
 
 **${rows.length} currently open roles** · Updated **${updated}**
 
@@ -970,10 +965,9 @@ ${renderTable(globalRows, config, now)}
 `
     : "";
   const totalCountryRows = [...countryGroups.values()].reduce((sum, rows) => sum + rows.length, 0);
-  const businessLink = config.businessBoard ? " · [Business internships](BUSINESS.md)" : "";
   return `# ${board.title}
 
-[← US internships](README.md)${businessLink}
+[← US internships](README.md)
 
 **${totalCountryRows} country-located roles** across **${countryGroups.size} countries**${globalRows.length ? ` · **${globalRows.length} explicitly global remote**` : ""} · Updated **${updated}**
 
@@ -1074,203 +1068,6 @@ function writeAtomic(path, contents) {
   renameSync(temporary, path);
 }
 
-const BUSINESS_SOURCE_FUNCTIONS = new Set(["Finance", "Data Science"]);
-const BUSINESS_ANALYTICS_SEARCHES = new Set([
-  "analytics",
-  "data analyst",
-  "business intelligence",
-]);
-
-function validateBusinessBoard(board) {
-  if (!board || !Array.isArray(board.sources) || board.sources.length === 0) {
-    throw new Error("businessBoard.sources must contain at least one bounded source");
-  }
-  if (!board.title || !board.tagline) {
-    throw new Error("businessBoard.title and businessBoard.tagline are required");
-  }
-  if (!board.titleInclude || !Array.isArray(board.titleIncludeAll) || board.titleIncludeAll.length === 0) {
-    throw new Error(
-      "businessBoard must define titleInclude and at least one titleIncludeAll pattern",
-    );
-  }
-  for (const source of board.sources) {
-    if (source.seniorityExact !== "INTERN" || source.countryExact !== "US") {
-      throw new Error(
-        "businessBoard sources must use seniorityExact=INTERN and countryExact=US",
-      );
-    }
-    if (!BUSINESS_SOURCE_FUNCTIONS.has(source.function)) {
-      throw new Error(
-        `businessBoard source function must be Finance or Data Science (received ${JSON.stringify(source.function)})`,
-      );
-    }
-    if (
-      source.function === "Data Science" &&
-      !BUSINESS_ANALYTICS_SEARCHES.has(source.search)
-    ) {
-      throw new Error(
-        `businessBoard Data Science sources require a bounded analytics search (received ${JSON.stringify(source.search)})`,
-      );
-    }
-  }
-  return board;
-}
-
-function renderBusinessPage(rows, config, board, now, totalRows) {
-  const updated = now.toISOString().slice(0, 10);
-  const companies = representedCompanyCount(rows);
-  const addedToday = addedInLast24Hours(rows, now);
-  const { toc, body } = renderSections(rows, config, now);
-  const internationalLink = config.internationalBoard
-    ? " · [International internships](INTERNATIONAL.md)"
-    : "";
-  const coverage = rows.length === totalRows
-    ? `**${rows.length} open internships**`
-    : `**${rows.length} newest of ${totalRows} open internships**`;
-  const attribution = isCommunityPresentation(config)
-    ? "Every role links directly to the company's career page. Indexed from company career pages and maintained by [Dreamwork](https://github.com/dreamworkhq)."
-    : `Click a role to view it and apply, or let [Dreamwork](${SITE_BASE}/?utm_source=github&utm_medium=business_readme&utm_campaign=${config.utmCampaign}) match the list against your resume.`;
-
-  return `# ${board.title}
-
-${board.tagline}
-
-[← US tech internships](README.md)${internationalLink}
-
-${coverage} · **${companies} companies** · **${addedToday} added in the last 24 hours** · Updated **${updated}**
-
-${attribution}
-
-${toc ? `${toc}\n` : ""}<!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
-
-${body}
-
-<!-- TABLE_END -->
-
-## Coverage notes
-
-- This page is intentionally separate from the technical internship list.
-- Finance includes accounting, audit, tax, banking, investments, insurance, and related roles.
-- Data and analytics includes explicitly titled analytics, data analyst, and business intelligence internships.
-- Vague titles without a business signal are excluded rather than guessed.
-- Listings are removed when the crawler can no longer verify that they are open.
-- The raw snapshot is available in [\`data/business-listings.json\`](data/business-listings.json).
-- Found a bad or missing listing? [Open an issue](../../issues).
-`;
-}
-
-function businessSnapshot(rows, config, now) {
-  return `${JSON.stringify({
-    generatedAt: now.toISOString(),
-    source: config.linkMode === "source" ? "dreamwork-public-job-index" : SITE_BASE,
-    list: config.repo,
-    scope: "business",
-    count: rows.length,
-    listings: rows.map((row) => {
-      const salary = trustedSalaryRange(row);
-      return {
-        id: row.id,
-        title: row.title,
-        company: row.companyName,
-        companyDomain: row.companyDomain ?? null,
-        location: row.location ?? null,
-        functionPrimary: row.functionPrimary ?? null,
-        remoteType: row.remoteType ?? null,
-        salaryMin: salary?.min ?? null,
-        salaryMax: salary?.max ?? null,
-        salaryPeriod: salary?.period ?? null,
-        postedAt: row.postedAt ?? null,
-        firstIndexedAt: row.createdAt,
-        url: jobUrl(row, config),
-      };
-    }),
-  }, null, 2)}\n`;
-}
-
-function loadPreviousBusinessSnapshot(out, config) {
-  const snapshotPath = join(out, "data", "business-listings.json");
-  if (!existsSync(snapshotPath)) return null;
-  let snapshot;
-  try {
-    snapshot = JSON.parse(readFileSync(snapshotPath, "utf8"));
-  } catch (error) {
-    throw new Error(
-      `Existing ${snapshotPath} is not valid JSON; refusing to overwrite it.`,
-      { cause: error },
-    );
-  }
-  if (
-    snapshot?.list !== config.repo ||
-    snapshot?.scope !== "business" ||
-    !Array.isArray(snapshot.listings) ||
-    snapshot.listings.some((listing) => !listing?.id)
-  ) {
-    throw new Error(
-      `Existing ${snapshotPath} does not match ${config.repo}'s business board; refusing to overwrite it.`,
-    );
-  }
-  return snapshot;
-}
-
-function assertBusinessSnapshotHealth(rows, previous, board) {
-  if (
-    previous &&
-    process.env.DREAMWORK_JOB_LIST_ALLOW_BUSINESS_SNAPSHOT_RESET === "1"
-  ) {
-    console.warn(
-      "Bypassing business previous-snapshot health gate after an explicit audit.",
-    );
-    return;
-  }
-  assertPreviousSnapshotHealth(rows, previous, {
-    mode: "inventory",
-    minPreviousCountRatio: board.minPreviousCountRatio,
-    minPreviousOverlapRatio: board.minPreviousOverlapRatio,
-  });
-}
-
-async function generateBusiness(config, out, now) {
-  const board = validateBusinessBoard(config.businessBoard);
-  const runtimeConfig = {
-    ...config,
-    ...board,
-    mode: "inventory",
-    usOnly: true,
-    titleIncludeAllSourceFunctions: board.titleIncludeAllSourceFunctions,
-    maxPagesPerSource: board.maxPagesPerSource ?? config.maxPagesPerSource,
-  };
-  let candidates = [];
-  for (const source of board.sources) {
-    candidates = candidates.concat(await fetchSource(source, runtimeConfig));
-  }
-  const rows = selectLinkEligibleRows(dedupe(candidates), runtimeConfig)
-    .filter((row) => looksUnitedStates(row));
-  if (rows.length < (board.minRows ?? 25)) {
-    throw new Error(
-      `Only ${rows.length} business rows after filtering; refusing to overwrite the list (minRows=${board.minRows ?? 25}).`,
-    );
-  }
-  assertBusinessSnapshotHealth(
-    rows,
-    loadPreviousBusinessSnapshot(out, config),
-    board,
-  );
-
-  const rendered = fitToRenderLimit(
-    rows,
-    (kept) => renderBusinessPage(kept, runtimeConfig, board, now, rows.length),
-  );
-  const snapshot = businessSnapshot(rows, runtimeConfig, now);
-
-  // Every fetch, filter, render, and retention check completes before either
-  // last-good business artifact is replaced.
-  writeAtomic(join(out, "BUSINESS.md"), rendered.text);
-  writeAtomic(join(out, "data", "business-listings.json"), snapshot);
-  console.log(
-    `${config.repo}: business ${rendered.kept} displayed of ${rows.length} rows -> ${out}`,
-  );
-}
-
 async function generateInternational(config, out, now) {
   const board = validateInternationalBoard(config.internationalBoard);
   const runtimeConfig = {
@@ -1352,12 +1149,6 @@ if (scope === "international") {
     console.log(`${config.repo}: no international board configured; nothing to generate.`);
   } else {
     await generateInternational(config, out, now);
-  }
-} else if (scope === "business") {
-  if (!config.businessBoard) {
-    console.log(`${config.repo}: no business board configured; nothing to generate.`);
-  } else {
-    await generateBusiness(config, out, now);
   }
 } else {
 

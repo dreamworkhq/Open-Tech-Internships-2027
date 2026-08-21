@@ -1,6 +1,6 @@
 # Tech internships in Kenya
 
-[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md)
+[← International index](../INTERNATIONAL.md) · [US internships](../README.md)
 
 **1 currently open roles** · Updated **2026-08-21**
 

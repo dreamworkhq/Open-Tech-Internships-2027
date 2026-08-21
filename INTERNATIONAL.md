@@ -1,6 +1,6 @@
 # International Internships in Tech (2026–2027)
 
-[← US internships](README.md) · [Business internships](BUSINESS.md)
+[← US internships](README.md)
 
 **925 country-located roles** across **59 countries** · **2 explicitly global remote** · Updated **2026-08-21**
 
@@ -8,29 +8,29 @@ This is the international view of the same verified-open internship corpus. Coun
 
 | Country | Open roles |
 | --- | ---: |
-| [Singapore](international/singapore.md) | 132 |
-| [China](international/china.md) | 83 |
-| [Canada](international/canada.md) | 69 |
-| [Germany](international/germany.md) | 64 |
+| [Singapore](international/singapore.md) | 130 |
+| [China](international/china.md) | 85 |
+| [Canada](international/canada.md) | 70 |
+| [Germany](international/germany.md) | 60 |
 | [Vietnam](international/vietnam.md) | 49 |
-| [Malaysia](international/malaysia.md) | 43 |
+| [Malaysia](international/malaysia.md) | 42 |
 | [Netherlands](international/netherlands.md) | 37 |
+| [Italy](international/italy.md) | 31 |
 | [United Kingdom](international/united-kingdom.md) | 31 |
-| [Italy](international/italy.md) | 30 |
-| [Spain](international/spain.md) | 29 |
+| [Spain](international/spain.md) | 30 |
+| [India](international/india.md) | 26 |
 | [France](international/france.md) | 25 |
-| [India](international/india.md) | 25 |
+| [New Zealand](international/new-zealand.md) | 23 |
 | [Poland](international/poland.md) | 23 |
 | [Brazil](international/brazil.md) | 22 |
-| [New Zealand](international/new-zealand.md) | 21 |
-| [Belgium](international/belgium.md) | 16 |
 | [Mexico](international/mexico.md) | 16 |
+| [Belgium](international/belgium.md) | 15 |
 | [Switzerland](international/switzerland.md) | 15 |
 | [Portugal](international/portugal.md) | 12 |
-| [Australia](international/australia.md) | 11 |
 | [Austria](international/austria.md) | 11 |
 | [Taiwan](international/taiwan.md) | 11 |
 | [Ukraine](international/ukraine.md) | 11 |
+| [Australia](international/australia.md) | 10 |
 | [Colombia](international/colombia.md) | 10 |
 | [Indonesia](international/indonesia.md) | 8 |
 | [Thailand](international/thailand.md) | 8 |
@@ -39,24 +39,24 @@ This is the international view of the same verified-open internship corpus. Coun
 | [Hong Kong SAR China](international/hong-kong-sar-china.md) | 7 |
 | [Hungary](international/hungary.md) | 7 |
 | [Philippines](international/philippines.md) | 7 |
-| [Romania](international/romania.md) | 6 |
+| [Romania](international/romania.md) | 7 |
 | [South Korea](international/south-korea.md) | 6 |
 | [Sri Lanka](international/sri-lanka.md) | 6 |
 | [Bulgaria](international/bulgaria.md) | 5 |
 | [Egypt](international/egypt.md) | 5 |
+| [Ireland](international/ireland.md) | 5 |
 | [Peru](international/peru.md) | 5 |
 | [Slovakia](international/slovakia.md) | 5 |
-| [Ireland](international/ireland.md) | 4 |
 | [Israel](international/israel.md) | 4 |
 | [Costa Rica](international/costa-rica.md) | 3 |
 | [Japan](international/japan.md) | 3 |
 | [Luxembourg](international/luxembourg.md) | 3 |
-| [South Africa](international/south-africa.md) | 3 |
 | [Greece](international/greece.md) | 2 |
 | [Kazakhstan](international/kazakhstan.md) | 2 |
 | [Lithuania](international/lithuania.md) | 2 |
 | [Russia](international/russia.md) | 2 |
 | [Serbia](international/serbia.md) | 2 |
+| [South Africa](international/south-africa.md) | 2 |
 | [Armenia](international/armenia.md) | 1 |
 | [Chile](international/chile.md) | 1 |
 | [Denmark](international/denmark.md) | 1 |
@@ -74,7 +74,7 @@ Only roles whose listing explicitly says applicants can work from anywhere appea
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Yotta** | [Research Engineer Intern - AI Systems](https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3) | Remote (United States) |  | 11d |
+| **Yotta** | [Research Engineer Intern - AI Systems](https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3) | Remote (United States) |  | 12d |
 | **DeliveryHero** | [Data Analyst Intern](https://jobs.smartrecruiters.com/DeliveryHero/744000133574326-data-analyst-intern?oga=true) | Remote (Barcelona, , Spain) |  | 1mo |
 
 ## Coverage notes

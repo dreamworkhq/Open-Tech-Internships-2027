@@ -1,6 +1,6 @@
 # Tech internships in Israel
 
-[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md)
+[← International index](../INTERNATIONAL.md) · [US internships](../README.md)
 
 **4 currently open roles** · Updated **2026-08-21**
 
@@ -17,6 +17,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **Google** | [Hardware/Silicon Engineering PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/133355062935069382) | Tel Aviv, Israel |  | 3d |
 | **Google** | [Part-Time Software Engineering PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/74922616988541638) | Tel Aviv, Israel |  | 3d |
 | **HPE** | [Product Owner - Part Time Intern](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Herzliya-Israel/Product-Owner---Part-Time-Intern_1211007) | Herzliya, Israel (Hybrid) |  | 10d |
-| **HPE** | [Backend Intern](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Herzliya-Israel/Backend-Intern_1211020-1) | Herzliya, Israel (Hybrid) |  | 10d |
+| **HPE** | [Backend Intern](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Herzliya-Israel/Backend-Intern_1211019-1) | Herzliya, Israel (Hybrid) |  | 10d |
 
 <!-- TABLE_END -->

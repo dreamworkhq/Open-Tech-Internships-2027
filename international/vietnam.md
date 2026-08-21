@@ -1,6 +1,6 @@
 # Tech internships in Vietnam
 
-[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md)
+[← International index](../INTERNATIONAL.md) · [US internships](../README.md)
 
 **49 currently open roles** · Updated **2026-08-21**
 
@@ -24,10 +24,10 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **Bosch** | [\[EAF\] AI Engineer Intern (6-month fulltime Internship)](https://jobs.smartrecruiters.com/BoschGroup/744000143977589--eaf-ai-engineer-intern-6-month-fulltime-internship-?oga=true) | Thành phố Hồ Chí Minh, Hồ Chí Minh, Vietnam |  | 2d |
 | **Bosch** | [\[Internship Program Q4\] Automation Tester Intern (Selenium)](https://jobs.smartrecruiters.com/BoschGroup/744000144223980--internship-program-q4-automation-tester-intern-selenium-?oga=true) | Ho Chi Minh, , Vietnam |  | 2d |
 | **Hitachi** | [Embedded Internship](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ho-Chi-Minh-City-Ho-Chi-Minh-Vietnam/Embedded-Internship_R0142038) | Ho Chi Minh City, Ho Chi Minh, Vietnam (Hybrid) |  | 2d |
+| **Bosch** | [\[EDA\] Intern for Embedded Software](https://jobs.smartrecruiters.com/BoschGroup/744000143758952--eda-intern-for-embedded-software?oga=true) | Hanoi, , Vietnam |  | 4d |
 | **Bosch** | [\[EEC\] Intern for Embedded Software](https://jobs.smartrecruiters.com/BoschGroup/744000143756274--eec-intern-for-embedded-software?oga=true) | Ho Chi Minh city, Ho Chi Minh City, Vietnam |  | 4d |
 | **Bosch** | [\[EPM\] Intern for DevOps Engineer](https://jobs.smartrecruiters.com/BoschGroup/744000143757219--epm-intern-for-devops-engineer?oga=true) | Tân Bình, Thành phố Hồ Chí Minh, Vietnam |  | 4d |
 | **Bosch** | [\[EAE\] Intern for Embedded System](https://jobs.smartrecruiters.com/BoschGroup/744000143758799--eae-intern-for-embedded-system?oga=true) | Thành phố Hồ Chí Minh, Hồ Chí Minh, Vietnam |  | 4d |
-| **Bosch** | [\[EDA\] Intern for Embedded Software](https://jobs.smartrecruiters.com/BoschGroup/744000143758952--eda-intern-for-embedded-software?oga=true) | Hanoi, , Vietnam |  | 4d |
 | **Bosch** | [\[BSV\] Embedded Test Engineer Intern (Matlab/Simulink)](https://jobs.smartrecruiters.com/BoschGroup/744000142568223--bsv-embedded-test-engineer-intern-matlab-simulink-?oga=true) | Ho Chi Minh, , Vietnam |  | 8d |
 | **Bosch** | [\[EMN\] Electrical Design Engineer Intern (6-month fulltime Internship)](https://jobs.smartrecruiters.com/BoschGroup/744000142805159--emn-electrical-design-engineer-intern-6-month-fulltime-internship-?oga=true) | Thành phố Hồ Chí Minh, Hồ Chí Minh, Vietnam |  | 8d |
 | **Bosch** | [\[SX/EIT-MM\] Data & AI / AI Agent Engineer Intern](https://jobs.smartrecruiters.com/BoschGroup/744000142799969--sx-eit-mm-data-ai-ai-agent-engineer-intern?oga=true) | Thành phố Hồ Chí Minh, Hồ Chí Minh, Vietnam |  | 8d |
@@ -41,10 +41,10 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **Bosch** | [\[Internship Program Q4\] Fullstack Engineer Intern (Java/NodeJS/Python…](https://jobs.smartrecruiters.com/BoschGroup/744000142038989--internship-program-q4-fullstack-engineer-intern-java-nodejs-python-django-react-net-?oga=true) | Ho Chi Minh, , Vietnam |  | 13d |
 | **Bosch** | [\[Internship Program Q4\] AI Engineer Intern](https://jobs.smartrecruiters.com/BoschGroup/744000142038898--internship-program-q4-ai-engineer-intern?oga=true) | Ho Chi Minh, , Vietnam |  | 13d |
 | **Bosch** | [\[Internship Program Q4\] DevOps Intern](https://jobs.smartrecruiters.com/BoschGroup/744000142038969--internship-program-q4-devops-intern?oga=true) | Ho Chi Minh, , Vietnam |  | 13d |
-| **Bosch** | [\[BD\] JavaScript Developer Intern (6-month fulltime internship)](https://jobs.smartrecruiters.com/BoschGroup/744000140390469--bd-javascript-developer-intern-6-month-fulltime-internship-?oga=true) | Ho Chi Minh, , Vietnam |  | 18d |
-| **Bosch** | [\[BD\] AI Engineer Intern (6-month fulltime Internship)](https://jobs.smartrecruiters.com/BoschGroup/744000140394944--bd-ai-engineer-intern-6-month-fulltime-internship-?oga=true) | Ho Chi Minh, , Vietnam |  | 18d |
-| **Bosch** | [\[BD\] AI Software QA Intern (Next-Gen & AI-Driven Testing \| 6-month I…](https://jobs.smartrecruiters.com/BoschGroup/744000140392124--bd-ai-software-qa-intern-next-gen-ai-driven-testing-6-month-internship-?oga=true) | Ho Chi Minh, , Vietnam |  | 18d |
-| **Bosch** | [\[BGSV/PJ-NE\] Software Engineer Intern (Python, JavaScript/TypeScript,…](https://jobs.smartrecruiters.com/BoschGroup/744000140405355--bgsv-pj-ne-software-engineer-intern-python-javascript-typescript-java-?oga=true) | Ho Chi Minh, , Vietnam |  | 18d |
+| **Bosch** | [\[BD\] JavaScript Developer Intern (6-month fulltime internship)](https://jobs.smartrecruiters.com/BoschGroup/744000140390469--bd-javascript-developer-intern-6-month-fulltime-internship-?oga=true) | Ho Chi Minh, , Vietnam |  | 19d |
+| **Bosch** | [\[BD\] AI Engineer Intern (6-month fulltime Internship)](https://jobs.smartrecruiters.com/BoschGroup/744000140394944--bd-ai-engineer-intern-6-month-fulltime-internship-?oga=true) | Ho Chi Minh, , Vietnam |  | 19d |
+| **Bosch** | [\[BD\] AI Software QA Intern (Next-Gen & AI-Driven Testing \| 6-month I…](https://jobs.smartrecruiters.com/BoschGroup/744000140392124--bd-ai-software-qa-intern-next-gen-ai-driven-testing-6-month-internship-?oga=true) | Ho Chi Minh, , Vietnam |  | 19d |
+| **Bosch** | [\[BGSV/PJ-NE\] Software Engineer Intern (Python, JavaScript/TypeScript,…](https://jobs.smartrecruiters.com/BoschGroup/744000140405355--bgsv-pj-ne-software-engineer-intern-python-javascript-typescript-java-?oga=true) | Ho Chi Minh, , Vietnam |  | 19d |
 | **Bosch** | [Hanoi - Embedded Intern](https://jobs.smartrecruiters.com/BoschGroup/744000139076169-hanoi-embedded-intern?oga=true) | Hanoi, , Vietnam |  | 1mo |
 | **Geocomply 2** | [Software Engineer Intern (Fullstack)](https://jobs.lever.co/geocomply-2/4bc3f323-73e1-4338-943c-33653b305e26) | Ho Chi Minh, Vietnam (Hybrid) |  | 1mo |
 | **Geocomply 2** | [Software Engineer Intern (Mobile)](https://jobs.lever.co/geocomply-2/cf5da87d-9758-466f-98b2-21973dad37d7) | Ho Chi Minh, Vietnam (Hybrid) |  | 1mo |
@@ -73,7 +73,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 | --- | --- | --- | --- | --- |
 | **Bosch** | [\[Bosch HcP - Internship\] Data Service Intern](https://jobs.smartrecruiters.com/BoschGroup/744000143976970--bosch-hcp-internship-data-service-intern?oga=true) | An Phuoc Commune, Dong Nai, Vietnam |  | 2d |
 | **Bosch** | [\[SX/EIT-MM\] UI/UX Designer Intern](https://jobs.smartrecruiters.com/BoschGroup/744000144017779--sx-eit-mm-ui-ux-designer-intern?oga=true) | Tân Bình, Thành phố Hồ Chí Minh, Vietnam |  | 2d |
-| **Bosch** | [\[Internship\] Data and AI Intern (Data focused)](https://jobs.smartrecruiters.com/BoschGroup/744000139971749--internship-data-and-ai-intern-data-focused-?oga=true) | An Phu, Thu Duc City, , Vietnam |  | 18d |
-| **Bosch** | [\[BD\] IT Product Business Analyst / Product Owner Assistant (6-month I…](https://jobs.smartrecruiters.com/BoschGroup/744000140391680--bd-it-product-business-analyst-product-owner-assistant-6-month-internship-?oga=true) | Ho Chi Minh, , Vietnam |  | 18d |
+| **Bosch** | [\[Internship\] Data and AI Intern (Data focused)](https://jobs.smartrecruiters.com/BoschGroup/744000139971749--internship-data-and-ai-intern-data-focused-?oga=true) | An Phu, Thu Duc City, , Vietnam |  | 19d |
+| **Bosch** | [\[BD\] IT Product Business Analyst / Product Owner Assistant (6-month I…](https://jobs.smartrecruiters.com/BoschGroup/744000140391680--bd-it-product-business-analyst-product-owner-assistant-6-month-internship-?oga=true) | Ho Chi Minh, , Vietnam |  | 19d |
 
 <!-- TABLE_END -->

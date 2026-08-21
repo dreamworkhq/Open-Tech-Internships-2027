@@ -1,6 +1,6 @@
 # Tech internships in Argentina
 
-[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md)
+[← International index](../INTERNATIONAL.md) · [US internships](../README.md)
 
 **7 currently open roles** · Updated **2026-08-21**
 
@@ -15,7 +15,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
 | **SAP** | [SAP iXp Intern - Americas Graphic Designer](https://career5.successfactors.eu/careers?company=SAP&jobId=453491) | Latin America, Argentina, Buenos Aires (Hybrid) |  | 22d |
-| **Assurant** | [Data Analytics Intern](https://assurant.wd1.myworkdayjobs.com/Assurant_Careers/job/Buenos-Aires-Butty/Data-Analytics-Intern_R-114247-1) | Buenos Aires (Butty) |  | 27d |
+| **Assurant** | [Data Analytics Intern](https://assurant.wd1.myworkdayjobs.com/Assurant_Careers/job/Buenos-Aires-Butty/Data-Analytics-Intern_R-114247-1) | Buenos Aires (Butty) |  | 28d |
 | **Mastercard** | [Associate Consultant Intern, 2027 – Buenos Aires, Argentina](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Buenos-Aires-Argentina/Associate-Consultant-Intern--2027---Buenos-Aires--Argentina_R-282260-1) | Buenos Aires, Argentina (Hybrid) |  | 1mo |
 | **Marvell Technology** | [Digital IC Design Intern](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Cordoba-Argentina/Digital-IC-Design-Intern_2502731) | Cordoba, Argentina |  | 2mo |
 | **Marvell Technology** | [Analog Design Intern](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Cordoba-Argentina/Analog-Design-Intern_2602163) | Cordoba, Argentina |  | 3mo |
