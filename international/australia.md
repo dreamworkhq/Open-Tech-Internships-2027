@@ -1,13 +1,13 @@
 # Tech internships in Australia
 
-[← International index](../INTERNATIONAL.md) · [US internships](../README.md)
+[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md)
 
-**11 currently open roles** · Updated **2026-08-20**
+**10 currently open roles** · Updated **2026-08-21**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
 - [Engineering](#engineering-7) · 7 roles
-- [Other](#other-4) · 4 roles
+- [Other](#other-3) · 3 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
@@ -23,11 +23,10 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **Amazon** | [2026 Software Dev Engineer Intern (Location : Sydney)](https://www.amazon.jobs/en/jobs/3204846/2026-software-dev-engineer-intern-location-sydney) | AU, NSW, Sydney |  | 2mo |
 | **Palantir** | [Forward Deployed Software Engineer, Internship - AUS Government](https://jobs.lever.co/palantir/395a4483-fc3d-4b77-a500-501923fd0976) | Sydney, Australia (Hybrid) |  | 2mo |
 
-### Other (4)
+### Other (3)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **SEEK Grad** | [2026/27 CommBank Summer Intern Program Technology & AI Engineering Data…](https://www.seek.com.au/job/93924662) | Melbourne VIC (Hybrid) |  | 6d |
 | **SEEK Grad** | [2026/27 CommBank Summer Intern Program Technology & AI Engineering Data…](https://www.seek.com.au/job/93924664) | Sydney NSW (Hybrid) |  | 6d |
 | **SEEK Grad** | [2026/27 CommBank Summer Intern Program: Technology & AI - Advanced Anal…](https://www.seek.com.au/job/93924365) | Sydney NSW (Hybrid) |  | 6d |
 | **SAP** | [SAP Creative Design &amp; Multimedia Internship](https://career5.successfactors.eu/careers?company=SAP&jobId=452857) | Asia-Pacific, Australia, Sydney (Hybrid) |  | 1mo |

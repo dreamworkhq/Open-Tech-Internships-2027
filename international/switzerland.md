@@ -1,8 +1,8 @@
 # Tech internships in Switzerland
 
-[← International index](../INTERNATIONAL.md) · [US internships](../README.md)
+[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md)
 
-**15 currently open roles** · Updated **2026-08-20**
+**15 currently open roles** · Updated **2026-08-21**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -16,10 +16,10 @@ These roles are grouped by their posted work location. Check each listing for wo
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
 | **Swisscom** | [Internship Business Intelligence and Data Analyst](https://swisscom.wd103.myworkdayjobs.com/SwisscomExternalCareers/job/Zurich/Internship-Data-Analyst_R-0005774) | Zurich (Hybrid) |  | 0d |
-| **Google** | [Data Science PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/77684590197514950) | Zürich, Switzerland |  | 2d |
+| **Google** | [Data Science PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/77684590197514950) | Zürich, Switzerland |  | 3d |
 | **Cc** | [Data Analyst Support Intern - January 2027](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Geneve/Data-Analyst-Support-Intern---January-2027_JOBREQ00115200-3) | Geneve (Hybrid) |  | 6d |
 | **Swisscom** | [Internship Data Engineering Consulting](https://swisscom.wd103.myworkdayjobs.com/SwisscomExternalCareers/job/Zurich/Internship-Data---AI-Consulting_R-0006027) | Zurich (Hybrid) |  | 27d |
-| **Nestlé** | [B2B Business Analytics Intern](https://career2.successfactors.eu/careers?company=nestleHRprdBX&jobId=411325) | Switzerland (Hybrid) |  | 27d |
+| **Nestlé** | [B2B Business Analytics Intern](https://career2.successfactors.eu/careers?company=nestleHRprdBX&jobId=411325) | Switzerland (Hybrid) |  | 28d |
 | **Lombardodier** | [Internship - Enhancing Financial Knowledge Access with Generative AI](https://lombardodier.wd3.myworkdayjobs.com/Lombard_Odier_Careers/job/Geneva/Internship---Enhancing-Financial-Knowledge-Access-with-Generative-AI_R0007258) | Geneva |  | 1mo |
 | **Lombardodier** | [Internship - Data Scientist](https://lombardodier.wd3.myworkdayjobs.com/Lombard_Odier_Careers/job/Geneva/Internship----Data-Scientist_R0007203) | Geneva (Hybrid) | $190K–$215K | 2mo |
 | **Dialecticch** | [Data / ML / AI Intern](https://job-boards.eu.greenhouse.io/dialecticch/jobs/4672644101) | Zug, Switzerland |  | 2mo |

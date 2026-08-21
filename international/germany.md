@@ -1,8 +1,8 @@
 # Tech internships in Germany
 
-[← International index](../INTERNATIONAL.md) · [US internships](../README.md)
+[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md)
 
-**66 currently open roles** · Updated **2026-08-20**
+**66 currently open roles** · Updated **2026-08-21**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -17,24 +17,24 @@ These roles are grouped by their posted work location. Check each listing for wo
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
 | **SAP** | [SAP iXp Intern (f/m/d) - Cloud-native Application Development](https://career5.successfactors.eu/careers?company=SAP&jobId=458620) | Europe, Germany, Walldorf (Hybrid) |  | 0d |
-| **Google** | [Software Engineering PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/93078491720753862) | Zürich, Switzerland, Berlin, Germany | $92K | 0d |
-| **Nvidia** | [Software Engineering Intern, Test Automation — Autonomous Vehicles](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern--Test-Automation---Autonomous-Vehicles_JR2023302) | Germany, Munich |  | 1d |
+| **Google** | [Software Engineering PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/93078491720753862) | Zürich, Switzerland, Berlin, Germany | $92K | 1d |
+| **Nvidia** | [Software Engineering Intern, Test Automation — Autonomous Vehicles](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern--Test-Automation---Autonomous-Vehicles_JR2023302) | Germany, Munich |  | 2d |
 | **Ericsson** | [Mechanical Design - Intern (m/f/d)](https://career2.successfactors.eu/careers?company=Ericsson&jobId=788529) | — |  | 2d |
 | **The Exploration Company** | [GNC Software Intern](https://jobs.ashbyhq.com/the-exploration-company/88861ad4-8273-4e58-a4fe-ad3957cac3e2) | Munich, Germany |  | 5d |
-| **Huaweiresearchcentergermanyaust…** | [Intern - Algorithm Development for Advanced Driving Systems](https://huaweiresearchcentergermanyaustria.teamtailor.com/jobs/8221749-intern-algorithm-development-for-advanced-driving-systems) | München, Germany |  | 5d |
+| **Huaweiresearchcentergermanyaust…** | [Intern - Algorithm Development for Advanced Driving Systems](https://huaweiresearchcentergermanyaustria.teamtailor.com/jobs/8221749-intern-algorithm-development-for-advanced-driving-systems) | München, Germany |  | 6d |
 | **Tesla** | [Mechanical Design Engineering Internship, High Voltage Distribution/Bat…](https://www.tesla.com/careers/search/job/279585) | Berlin, Be |  | 6d |
 | **Bosch** | [Internship in the Field of Full Stack Engineering](https://jobs.smartrecruiters.com/BoschGroup/744000143271509-internship-in-the-field-of-full-stack-engineering?oga=true) | Ulm, BW, Germany |  | 7d |
-| **Beiersdorf** | [Intern Process Automation (all genders)](https://career5.successfactors.eu/careers?company=beiersdorfP&jobId=21654) | Germany, Hamburg |  | 9d |
 | **BMW AG** | [Intern: AI Platform &amp; Agentic Architecture Engineer (f/m/x)](https://career5.successfactors.eu/careers?company=bmwag&jobId=193922) | — |  | 9d |
 | **BMW AG** | [Intern AI Engineering Customer Journey Analytics (f/m/x)](https://career5.successfactors.eu/careers?company=bmwag&jobId=194236) | — (Hybrid) |  | 9d |
-| **Bosch** | [Mandatory Internship Full-Stack Development for Release Automation of A…](https://jobs.smartrecruiters.com/BoschGroup/744000141476667-mandatory-internship-full-stack-development-for-release-automation-of-automotive-embedded-middleware-software?oga=true) | Abstatt, BW, Germany |  | 12d |
-| **Tesla** | [Software Engineering Internship (m/f/d) - Gigafactory Berlin-Brandenburg](https://www.tesla.com/careers/search/job/278803) | Grünheide (mark), Brandenburg |  | 13d |
+| **Bosch** | [Mandatory Internship Full-Stack Development for Release Automation of A…](https://jobs.smartrecruiters.com/BoschGroup/744000141476667-mandatory-internship-full-stack-development-for-release-automation-of-automotive-embedded-middleware-software?oga=true) | Abstatt, BW, Germany |  | 13d |
+| **Bosch** | [Mandatory Internship Automotive Networking Innovation & Software-Define…](https://jobs.smartrecruiters.com/BoschGroup/744000141680290-mandatory-internship-automotive-networking-innovation-software-defined-vehicle-technologies?oga=true) | Stuttgart, BW, Germany (Hybrid) |  | 13d |
+| **Tesla** | [Software Engineering Internship (m/f/d) - Gigafactory Berlin-Brandenburg](https://www.tesla.com/careers/search/job/278803) | Grünheide (mark), Brandenburg |  | 14d |
 | **Airbus** | [Intern (d/f/m) within the mission software department](https://ag.wd3.myworkdayjobs.com/Airbus/job/Donauwrth/Intern--d-f-m--within-the-mission-software-department_JR10430765) | Donauwörth |  | 15d |
 | **Bosch** | [Internship Machine Learning for Predictive Reliability Analytics - Heat…](https://jobs.smartrecruiters.com/BoschGroup/744000140419439-internship-machine-learning-for-predictive-reliability-analytics-heat-pumps?oga=true) | Wernau (Neckar), BW, Germany (Hybrid) |  | 18d |
 | **BMW AG** | [Powertrain &amp; Chassis Product Engineering International Intern (Spri…](https://career5.successfactors.eu/careers?company=bmwag&jobId=191039) | — |  | 20d |
-| **Keysight** | [Hardware Development Internship – Automotive and Energy Solutions](https://jobs.keysight.com/jobs/53598?lang=en-us) | Boeblingen, Baden-Württemberg, Germany |  | 22d |
+| **Keysight** | [Hardware Development Internship – Automotive and Energy Solutions](https://jobs.keysight.com/jobs/53598?lang=en-us) | Boeblingen, Baden-Württemberg, Germany |  | 23d |
 | **BMW AG** | [Intern: AI Engineer for Agentic Applications (f/m/x)](https://career5.successfactors.eu/careers?company=bmwag&jobId=192665) | — |  | 23d |
-| **NXP Semiconductors** | [Working Student/Intern (f/m/d) Technical Product Validation of Transcei…](https://nxp.wd3.myworkdayjobs.com/careers/job/Hamburg/Working-Student-Intern--f-m-d--Technical-Product-Validation-of-Transceivers_R-10064392) | Hamburg | $42K | 29d |
+| **NXP Semiconductors** | [Working Student/Intern (f/m/d) Technical Product Validation of Transcei…](https://nxp.wd3.myworkdayjobs.com/careers/job/Hamburg/Working-Student-Intern--f-m-d--Technical-Product-Validation-of-Transceivers_R-10064392) | Hamburg | $42K | 1mo |
 | **Tesla** | [AI & Data Analytics Internship, Technical Service (m/f/d) - Gigafactory…](https://www.tesla.com/careers/search/job/277559) | Grünheide (mark), Brandenburg |  | 1mo |
 | **Amazon** | [Software Dev Engineer Internship - Embedded Development (Linux)](https://www.amazon.jobs/en/jobs/3130528/software-dev-engineer-internship-embedded-development-linux) | DE, Dresden |  | 1mo |
 | **NXP Semiconductors** | [Intern (f/m/d) Embedded Software & Automotive Networking](https://nxp.wd3.myworkdayjobs.com/careers/job/Munich/Intern--f-m-d--Embedded-Software---Automotive-Networking_R-10065362) | Munich (Hybrid) |  | 1mo |
@@ -56,8 +56,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **Rivianvw.Tech** | [Software Integration Engineering Intern (Fall-Spring)](https://jobs.ashbyhq.com/rivianvw.tech/986b68e0-9702-4828-9462-6adbe2984f1a) | Berlin |  | 2mo |
 | **Reonic** | [Software Engineering Intern (AI x Greentech) (m/f/d)](https://jobs.ashbyhq.com/reonic/dd26ab09-62de-4d27-9e11-64eccb2e33df) | Berlin |  | 2mo |
 | **Sensmore** | [PhD Research Internship – Robotics Engineer (VLM / VLA Models)](https://jobs.ashbyhq.com/sensmore/f10f3646-7a5b-43b5-a68e-d50e43c02af3) | Berlin / Potsdam |  | 2mo |
-| **Constructortech** | [Software Engineer (Intern, C#)](https://job-boards.eu.greenhouse.io/constructortech/jobs/4772061101) | Bremen, Germany (Hybrid) |  | 2mo |
 | **Constructortech** | [Frontend Engineer (Intern)](https://job-boards.eu.greenhouse.io/constructortech/jobs/4772104101) | Bremen, Germany (Hybrid) |  | 2mo |
+| **Constructortech** | [Software Engineer (Intern, C#)](https://job-boards.eu.greenhouse.io/constructortech/jobs/4772061101) | Bremen, Germany (Hybrid) |  | 2mo |
 | **Comstruct** | [Product Engineer Intern](https://jobs.ashbyhq.com/comstruct/a5e0081a-b914-4dcb-9dbf-8df81dae9ac0) | Munich |  | 2mo |
 | **Aumovio** | [Mandatory Internship - Software Engineering & HMI Design - REF6497T](https://jobs.smartrecruiters.com/Aumovio/744000113753117-mandatory-internship-software-engineering-hmi-design-ref6497t?oga=true) | Babenhausen, HE, Germany |  | 2mo |
 | **Tesla** | [Vehicle Integration Engineering - Mechanical Design Internship (m/w/d)](https://www.tesla.com/careers/search/job/261781) | Kreisfreie Stadt Berlin |  | 3mo |
@@ -74,7 +74,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **Vodafone** | [Internship Geospatial Data Scientist (m/w/d) for Vantage Towers - limit…](https://career5.successfactors.eu/careers?company=vodafoneprP&jobId=288613) | Germany (Hybrid) |  | 6d |
 | **Bosch** | [Internship AI Automation and Data Analysis](https://jobs.smartrecruiters.com/BoschGroup/744000143087740-internship-ai-automation-and-data-analysis?oga=true) | Kusterdingen, BW, Germany |  | 7d |
 | **Trawa** | [Business Analytics Intern](https://jobs.ashbyhq.com/trawa/d5b6a2ad-a4ec-4693-ad06-63f77dad6248) | Berlin HQ |  | 12d |
-| **Bosch** | [Internship Data Science in Manufacturing](https://jobs.smartrecruiters.com/BoschGroup/744000141677619-internship-data-science-in-manufacturing?oga=true) | Reutlingen, BW, Germany (Hybrid) |  | 12d |
+| **Bosch** | [Internship Data Science in Manufacturing](https://jobs.smartrecruiters.com/BoschGroup/744000141677619-internship-data-science-in-manufacturing?oga=true) | Reutlingen, BW, Germany (Hybrid) |  | 13d |
 | **BMW AG** | [Data Management Intern (f/m/x)](https://career5.successfactors.eu/careers?company=bmwag&jobId=191116) | — (Hybrid) |  | 16d |
 | **Tesla** | [Data Analyst Operational Excellence, Supply Chain Internship (m/f/d) - …](https://www.tesla.com/careers/search/job/276274) | Grünheide (mark), Brandenburg |  | 19d |
 | **BMW AG** | [Intern AI Solutions for Financial Services (f/m/x)](https://career5.successfactors.eu/careers?company=bmwag&jobId=191936) | — (Hybrid) |  | 23d |

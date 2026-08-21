@@ -1,8 +1,8 @@
 # Tech internships in Hong Kong SAR China
 
-[← International index](../INTERNATIONAL.md) · [US internships](../README.md)
+[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md)
 
-**7 currently open roles** · Updated **2026-08-20**
+**7 currently open roles** · Updated **2026-08-21**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -15,7 +15,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Entrust** | [AI & Automation Intern](https://entrust.wd1.myworkdayjobs.com/EntrustCareers/job/Hong-Kong---Kwun-Tong/AI---Automation-Intern_R004312) | Hong Kong - Kwun Tong (Hybrid) |  | 1d |
+| **Entrust** | [AI & Automation Intern](https://entrust.wd1.myworkdayjobs.com/EntrustCareers/job/Hong-Kong---Kwun-Tong/AI---Automation-Intern_R004312) | Hong Kong - Kwun Tong (Hybrid) |  | 2d |
 | **Imc** | [Software Engineer Intern 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4941206101) | Hong Kong, Hong Kong |  | 6d |
 | **QIMA** | [AI Engineer (F/M) - Internship - End of studies](https://jobs.smartrecruiters.com/QIMA/744000097460315-ai-engineer-f-m-internship-end-of-studies?oga=true) | Hong Kong, , Hong Kong |  | 2mo |
 | **Schonfeld** | [Quantitative Research / Developer - Intern](https://job-boards.greenhouse.io/schonfeld/jobs/7185553) | Hong Kong, Hong Kong |  | 2mo |
