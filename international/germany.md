@@ -1,8 +1,8 @@
 # Tech internships in Germany
 
-[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md)
+[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**61 currently open roles** · Updated **2026-08-21**
+**61 currently open roles** · Updated **2026-08-22**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -66,6 +66,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 | --- | --- | --- | --- | --- |
 | **Deutsche Börse** | [Intern - Business Analytics &amp; Partnership Program (f/m/d)](https://career5.successfactors.eu/careers?company=Dboerse&jobId=27292) | — |  | 3d |
 | **Tesla** | [Data Visualization Internship (m/f/d) - Gigafactory Berlin-Brandenburg](https://www.tesla.com/careers/search/job/279570) | Grünheide (mark), Brandenburg |  | 7d |
+| **Airbus** | [Intern (d/f/m) Data Scientist - Engineering Strategy & Make-or-Buy Opti…](https://ag.wd3.myworkdayjobs.com/Airbus/job/Donauwrth/Intern--d-f-m--Data-Scientist---Engineering-Strategy---Make-or-Buy-Optimization_JR10429903-1) | Donauwörth |  | 7d |
 | **Fa Evlj Saasfaprod1** | [Intern - Displacement Tracking Matrix (DTM) Regional Evidence for Migra…](https://fa-evlj-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/22280) | Berlin, Germany |  | 7d |
 | **Vodafone** | [Internship Geospatial Data Scientist (m/w/d) for Vantage Towers - limit…](https://career5.successfactors.eu/careers?company=vodafoneprP&jobId=288613) | Germany (Hybrid) |  | 7d |
 | **Bosch** | [Internship AI Automation and Data Analysis](https://jobs.smartrecruiters.com/BoschGroup/744000143087740-internship-ai-automation-and-data-analysis?oga=true) | Kusterdingen, BW, Germany |  | 8d |
@@ -73,7 +74,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **Bosch** | [Internship Data Science in Manufacturing](https://jobs.smartrecruiters.com/BoschGroup/744000141677619-internship-data-science-in-manufacturing?oga=true) | Reutlingen, BW, Germany (Hybrid) |  | 13d |
 | **BMW AG** | [Data Management Intern (f/m/x)](https://career5.successfactors.eu/careers?company=bmwag&jobId=191116) | — (Hybrid) |  | 17d |
 | **BMW AG** | [Intern AI Solutions for Financial Services (f/m/x)](https://career5.successfactors.eu/careers?company=bmwag&jobId=191936) | — (Hybrid) |  | 24d |
-| **STARK Group** | [Data Science Intern (all genders)](https://stark.jobs.personio.de/job/2707615) | Munich |  | 1mo |
 | **1000** | [Analytics & Insights Internship (m/f/d)](https://pg.wd5.myworkdayjobs.com/1000/job/Schwalbach-Am-Taunus/Analytics---Insights-Internship--m-f-d-_R000150319) | Schwalbach Am Taunus | $34K | 1mo |
 | **Reonic** | [Go-to-Market AI & Data Intern (AI x Greentech) (m/f/d)](https://jobs.ashbyhq.com/reonic/79d56c30-6b6f-4f1d-9370-2873e2db8b9b) | Berlin |  | 2mo |
 

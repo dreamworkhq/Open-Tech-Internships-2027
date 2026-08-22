@@ -1,19 +1,20 @@
 # Tech internships in Ukraine
 
-[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md)
+[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**11 currently open roles** · Updated **2026-08-21**
+**12 currently open roles** · Updated **2026-08-22**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-11) · 11 roles
+- [Engineering](#engineering-12) · 12 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (11)
+### Engineering (12)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
+| **QATestLab** | [Intern QA Engineer (E-commerce)](https://djinni.co/jobs/844343-intern-qa-engineer-e-commerce/) | Remote (Ukraine) |  | 0d |
 | **VReal Soft** | [Developer (Intern) MS Dynamics 365 Power Platform](https://djinni.co/jobs/844036-developer-intern-ms-dynamics-365-power-platfo/) | Dnipro, Cherkasy, Ukraine |  | 1d |
 | **Monitaet Technology** | [Trainee/Intern Java Developer (стажування)](https://djinni.co/jobs/745001-trainee-intern-java-developer-stazhuvannia/) | Remote (Ukraine) |  | 6d |
 | **Sigma Software** | [Machine Learning Intern](https://jobs.smartrecruiters.com/SigmaSoftware2/744000141275108-machine-learning-intern?oga=true) | Remote (Kyiv, Kyiv city, Ukraine) |  | 17d |

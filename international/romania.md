@@ -1,8 +1,8 @@
 # Tech internships in Romania
 
-[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md)
+[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**7 currently open roles** · Updated **2026-08-21**
+**7 currently open roles** · Updated **2026-08-22**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -19,7 +19,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **GE Vernova** | [DevOps (SRE) Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bucharest/DevOps--SRE--Intern_R5049863) | Bucharest |  | 3d |
 | **NXP Semiconductors** | [DevOps Intern](https://nxp.wd3.myworkdayjobs.com/careers/job/Bucharest/DevOps-Intern_R-10066169) | Bucharest (Hybrid) |  | 9d |
 | **Analog Devices** | [Embedded Software Apps Engineering Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/Romania-Cluj-Napoca/Embedded-Software-Apps-Engineering-Intern_R257261) | Romania, Cluj-Napoca |  | 2mo |
-| **NXP Semiconductors** | [Software Intern Student - RealTime Drivers](https://nxp.wd3.myworkdayjobs.com/careers/job/Bucharest/Software-Intern-Student---RealTime-Drivers_R-10062117) | Bucharest (Hybrid) |  | 3mo |
 | **NXP Semiconductors** | [Web Application Developer Intern](https://nxp.wd3.myworkdayjobs.com/careers/job/Sibiu/Web-Application-Developer_R-10062194-1) | Sibiu (Hybrid) |  | 3mo |
+| **NXP Semiconductors** | [Software Intern Student - RealTime Drivers](https://nxp.wd3.myworkdayjobs.com/careers/job/Bucharest/Software-Intern-Student---RealTime-Drivers_R-10062117) | Bucharest (Hybrid) |  | 3mo |
 
 <!-- TABLE_END -->

@@ -1,8 +1,8 @@
 # Tech internships in Bulgaria
 
-[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md)
+[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**5 currently open roles** · Updated **2026-08-21**
+**5 currently open roles** · Updated **2026-08-22**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 

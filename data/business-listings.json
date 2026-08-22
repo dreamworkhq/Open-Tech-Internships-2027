@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-21T23:53:29.558Z",
+  "generatedAt": "2026-08-22T00:07:09.751Z",
   "source": "dreamwork-public-job-index",
   "list": "Open-Tech-Internships-2027",
   "scope": "business",
-  "count": 109,
+  "count": 108,
   "listings": [
     {
-      "id": "f53e3ab3-da25-4772-827d-39a8ff16392b",
+      "id": "3caeeb84-bf13-49c6-a438-e28638b4da7c",
       "title": "Specific Stop Loss Claim Auditor Intern",
       "company": "Bbinsurance",
       "companyDomain": "brownandbrowninsurance.com",
@@ -16,39 +16,9 @@
       "salaryMin": 39520,
       "salaryMax": 39520,
       "salaryPeriod": "annual",
-      "postedAt": "2026-08-21T23:39:27.524Z",
+      "postedAt": "2026-08-21T23:39:27.549Z",
       "firstIndexedAt": "2026-08-21T18:37:48.924Z",
-      "url": "https://bbinsurance.wd1.myworkdayjobs.com/Careers/job/Remote---USA/Specific-Stop-Loss-Claim-Auditor-Intern_R26_0000002821-1"
-    },
-    {
-      "id": "aefae439-b591-4c75-ac19-bb652df5d988",
-      "title": "Summer 2027 Masters Finance Intern",
-      "company": "AMD",
-      "companyDomain": "amd.com",
-      "location": "Santa Clara, California, United States",
-      "functionPrimary": "Finance",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-08-20T23:28:00.000Z",
-      "firstIndexedAt": "2026-08-21T10:31:06.598Z",
-      "url": "https://careers.amd.com/jobs/91236?lang=en-us"
-    },
-    {
-      "id": "718601b3-a6a6-430a-b0e2-b86e322a7064",
-      "title": "Summer 2027 Undergrad Finance Intern",
-      "company": "AMD",
-      "companyDomain": "amd.com",
-      "location": "Santa Clara, California, United States",
-      "functionPrimary": "Finance",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-08-20T23:28:00.000Z",
-      "firstIndexedAt": "2026-08-21T10:31:06.598Z",
-      "url": "https://careers.amd.com/jobs/91232?lang=en-us"
+      "url": "https://bbinsurance.wd1.myworkdayjobs.com/Careers/job/Remote---USA/Specific-Stop-Loss-Claim-Auditor-Intern_R26_0000002820"
     },
     {
       "id": "88d8163c-e204-460b-b0f2-1a41765a54d1",
@@ -66,6 +36,21 @@
       "url": "https://careers.amd.com/jobs/91234?lang=en-us"
     },
     {
+      "id": "718601b3-a6a6-430a-b0e2-b86e322a7064",
+      "title": "Summer 2027 Undergrad Finance Intern",
+      "company": "AMD",
+      "companyDomain": "amd.com",
+      "location": "Santa Clara, California, United States",
+      "functionPrimary": "Finance",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-08-20T23:28:00.000Z",
+      "firstIndexedAt": "2026-08-21T10:31:06.598Z",
+      "url": "https://careers.amd.com/jobs/91232?lang=en-us"
+    },
+    {
       "id": "6c221bad-927e-4033-b6d2-5fe7449994ec",
       "title": "Summer 2027 Masters Finance Intern",
       "company": "AMD",
@@ -79,6 +64,21 @@
       "postedAt": "2026-08-20T23:28:00.000Z",
       "firstIndexedAt": "2026-08-21T10:31:06.598Z",
       "url": "https://careers.amd.com/jobs/91238?lang=en-us"
+    },
+    {
+      "id": "aefae439-b591-4c75-ac19-bb652df5d988",
+      "title": "Summer 2027 Masters Finance Intern",
+      "company": "AMD",
+      "companyDomain": "amd.com",
+      "location": "Santa Clara, California, United States",
+      "functionPrimary": "Finance",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-08-20T23:28:00.000Z",
+      "firstIndexedAt": "2026-08-21T10:31:06.598Z",
+      "url": "https://careers.amd.com/jobs/91236?lang=en-us"
     },
     {
       "id": "5275f6c9-bdb6-4841-a5fc-f6c4696336fc",
@@ -261,21 +261,6 @@
       "url": "https://oreillyauto.wd1.myworkdayjobs.com/oreilly/job/Headquarters/Accounting-Intern---Spring-2027_R197655"
     },
     {
-      "id": "459d3823-e476-473c-9c21-33a63b89706b",
-      "title": "Summer 2027 Tax Intern (Dallas)",
-      "company": "Armaninollp",
-      "companyDomain": "armanino.com",
-      "location": "Dallas, Texas",
-      "functionPrimary": "Finance",
-      "remoteType": "onsite",
-      "salaryMin": 68640,
-      "salaryMax": 68640,
-      "salaryPeriod": "annual",
-      "postedAt": "2026-08-20T05:41:35.347Z",
-      "firstIndexedAt": "2026-08-20T12:08:58.028Z",
-      "url": "https://armaninollp.wd1.myworkdayjobs.com/Armanino/job/Dallas-Texas/Summer-2027-Tax-Intern--Dallas-_JR103108"
-    },
-    {
       "id": "fea43ebd-4e31-48d4-a087-007b1ed2697c",
       "title": "Summer 2027 - IT Audit Intern (Austin)",
       "company": "Armaninollp",
@@ -289,6 +274,21 @@
       "postedAt": "2026-08-20T05:41:35.260Z",
       "firstIndexedAt": "2026-08-20T12:08:58.028Z",
       "url": "https://armaninollp.wd1.myworkdayjobs.com/Armanino/job/Austin-Texas/Summer-2027---IT-Audit-Intern--Austin-_JR104221"
+    },
+    {
+      "id": "459d3823-e476-473c-9c21-33a63b89706b",
+      "title": "Summer 2027 Tax Intern (Dallas)",
+      "company": "Armaninollp",
+      "companyDomain": "armanino.com",
+      "location": "Dallas, Texas",
+      "functionPrimary": "Finance",
+      "remoteType": "onsite",
+      "salaryMin": 68640,
+      "salaryMax": 68640,
+      "salaryPeriod": "annual",
+      "postedAt": "2026-08-20T05:41:35.347Z",
+      "firstIndexedAt": "2026-08-20T12:08:58.028Z",
+      "url": "https://armaninollp.wd1.myworkdayjobs.com/Armanino/job/Dallas-Texas/Summer-2027-Tax-Intern--Dallas-_JR103108"
     },
     {
       "id": "94cc1649-1c05-42e6-beda-15900d3004b2",
@@ -381,8 +381,8 @@
       "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Analyst--US_R106605"
     },
     {
-      "id": "5c37b096-eaa8-4b3c-a102-8540463906ab",
-      "title": "Finance Co-op – US – Fall 2027",
+      "id": "75057c52-39e2-4965-90e5-1334c18f6261",
+      "title": "Finance Intern – US – Summer 2027",
       "company": "GE Aerospace",
       "companyDomain": "geaerospace.com",
       "location": "Evendale",
@@ -391,9 +391,9 @@
       "salaryMin": 37960,
       "salaryMax": 37960,
       "salaryPeriod": "annual",
-      "postedAt": "2026-08-17T09:12:05.617Z",
+      "postedAt": "2026-08-17T09:12:05.615Z",
       "firstIndexedAt": "2026-08-17T20:42:10.744Z",
-      "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Finance-Co-op---US---Fall-2027_R5030148-1"
+      "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Finance-Intern---US---Summer-2027_R5030147-1"
     },
     {
       "id": "317000ca-d1a9-47c4-8580-551fa5044226",
@@ -411,8 +411,8 @@
       "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Finance-Co-op---US---Spring-2027_R5030146-2"
     },
     {
-      "id": "75057c52-39e2-4965-90e5-1334c18f6261",
-      "title": "Finance Intern – US – Summer 2027",
+      "id": "5c37b096-eaa8-4b3c-a102-8540463906ab",
+      "title": "Finance Co-op – US – Fall 2027",
       "company": "GE Aerospace",
       "companyDomain": "geaerospace.com",
       "location": "Evendale",
@@ -421,9 +421,9 @@
       "salaryMin": 37960,
       "salaryMax": 37960,
       "salaryPeriod": "annual",
-      "postedAt": "2026-08-17T09:12:05.615Z",
+      "postedAt": "2026-08-17T09:12:05.617Z",
       "firstIndexedAt": "2026-08-17T20:42:10.744Z",
-      "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Finance-Intern---US---Summer-2027_R5030147-1"
+      "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Finance-Co-op---US---Fall-2027_R5030148-1"
     },
     {
       "id": "d8a75ff2-b694-48ec-8817-cfbe852b53a3",
@@ -516,21 +516,6 @@
       "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20279236"
     },
     {
-      "id": "8a8cb680-ceae-48ce-8af3-87c5e5a8e3ea",
-      "title": "Risk Intern",
-      "company": "Crowe",
-      "companyDomain": "crowe.com",
-      "location": "Chicago IL USA",
-      "functionPrimary": "Finance",
-      "remoteType": "onsite",
-      "salaryMin": 56160,
-      "salaryMax": 87360,
-      "salaryPeriod": "annual",
-      "postedAt": "2026-08-20T15:35:22.300Z",
-      "firstIndexedAt": "2026-08-14T19:15:23.887Z",
-      "url": "https://crowe.wd12.myworkdayjobs.com/External_Careers/job/Chicago-IL-USA/Risk-Intern_R-71052"
-    },
-    {
       "id": "25b59410-d591-49b6-a684-ddffb5b2d123",
       "title": "Forensic Accounting Intern",
       "company": "Crowe",
@@ -559,6 +544,21 @@
       "postedAt": "2026-08-20T15:35:20.850Z",
       "firstIndexedAt": "2026-08-14T19:15:23.887Z",
       "url": "https://crowe.wd12.myworkdayjobs.com/External_Careers/job/Chicago-IL-USA/Finance-and-Compliance-Intern_R-71054"
+    },
+    {
+      "id": "8a8cb680-ceae-48ce-8af3-87c5e5a8e3ea",
+      "title": "Risk Intern",
+      "company": "Crowe",
+      "companyDomain": "crowe.com",
+      "location": "Chicago IL USA",
+      "functionPrimary": "Finance",
+      "remoteType": "onsite",
+      "salaryMin": 56160,
+      "salaryMax": 87360,
+      "salaryPeriod": "annual",
+      "postedAt": "2026-08-20T15:35:22.300Z",
+      "firstIndexedAt": "2026-08-14T19:15:23.887Z",
+      "url": "https://crowe.wd12.myworkdayjobs.com/External_Careers/job/Chicago-IL-USA/Risk-Intern_R-71052"
     },
     {
       "id": "ca33578e-d0b5-41aa-9efd-09411a281f5b",
@@ -831,111 +831,6 @@
       "url": "https://ms.wd5.myworkdayjobs.com/private/job/Rancho-Santa-Fe-California-United-States-of-America/PWM-Intern_JR041631"
     },
     {
-      "id": "6f48f8ca-d0c4-4cdc-8f55-faf1b24d822f",
-      "title": "Summer 2027 Commercial Banking Intern Atlanta, GA",
-      "company": "Southstatebank",
-      "companyDomain": "southstatebank.com",
-      "location": "Atlanta Midtown",
-      "functionPrimary": "Finance",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-08-14T19:57:28.920Z",
-      "firstIndexedAt": "2026-08-05T07:45:22.503Z",
-      "url": "https://southstatebank.wd5.myworkdayjobs.com/external/job/Atlanta-Midtown/Summer-2027-Commercial-Banking-Intern-Atlanta--GA_R-05807"
-    },
-    {
-      "id": "33c7b25f-dded-406e-bbb5-2afbacfc9320",
-      "title": "Summer 2027 Commercial Banking Intern  Richmond, VA",
-      "company": "Southstatebank",
-      "companyDomain": "southstatebank.com",
-      "location": "Richmond James Center",
-      "functionPrimary": "Finance",
-      "remoteType": "onsite",
-      "salaryMin": 34587,
-      "salaryMax": 51879,
-      "salaryPeriod": "annual",
-      "postedAt": "2026-08-17T19:57:28.033Z",
-      "firstIndexedAt": "2026-08-05T07:45:22.503Z",
-      "url": "https://southstatebank.wd5.myworkdayjobs.com/external/job/Richmond-James-Center/Summer-2027-Commercial-Banking-Intern--Richmond--VA_R-05802"
-    },
-    {
-      "id": "d85c63e0-4ff3-493a-8698-1f99ada45c3d",
-      "title": "Summer 2027 Commercial Banking Intern Orlando, FL",
-      "company": "Southstatebank",
-      "companyDomain": "southstatebank.com",
-      "location": "Orlando Downtown",
-      "functionPrimary": "Finance",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-08-17T19:57:27.927Z",
-      "firstIndexedAt": "2026-08-05T07:45:22.503Z",
-      "url": "https://southstatebank.wd5.myworkdayjobs.com/external/job/Orlando-Downtown/Summer-2027-Commercial-Banking-Intern-Orlando--FL_R-05803"
-    },
-    {
-      "id": "17ae0b56-1501-4aab-88d1-20566b741020",
-      "title": "Summer 2027 Commercial Banking Intern Greenville, SC",
-      "company": "Southstatebank",
-      "companyDomain": "southstatebank.com",
-      "location": "Greenville Broad",
-      "functionPrimary": "Finance",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-08-17T19:57:28.450Z",
-      "firstIndexedAt": "2026-08-05T07:45:22.503Z",
-      "url": "https://southstatebank.wd5.myworkdayjobs.com/external/job/Greenville-Broad/Summer-2027-Commercial-Banking-Intern-Greenville--SC_R-05799"
-    },
-    {
-      "id": "9b6d02b3-0842-4567-8863-688b82223a84",
-      "title": "Summer 2027 Commercial Banking Intern Columbia, SC",
-      "company": "Southstatebank",
-      "companyDomain": "southstatebank.com",
-      "location": "Columbia Gervais",
-      "functionPrimary": "Finance",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-08-17T19:57:28.457Z",
-      "firstIndexedAt": "2026-08-05T07:45:22.503Z",
-      "url": "https://southstatebank.wd5.myworkdayjobs.com/external/job/Columbia-Gervais/Summer-2027-Commercial-Banking-Intern-Columbia--SC_R-05801"
-    },
-    {
-      "id": "a1f63fa0-fc0e-4ee6-90db-1d5761ec54cc",
-      "title": "Summer 2027 Commercial Banking Intern Charlotte, NC",
-      "company": "Southstatebank",
-      "companyDomain": "southstatebank.com",
-      "location": "Charlotte Morrison",
-      "functionPrimary": "Finance",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-08-17T19:57:28.422Z",
-      "firstIndexedAt": "2026-08-05T07:45:22.503Z",
-      "url": "https://southstatebank.wd5.myworkdayjobs.com/external/job/Charlotte-Morrison/Summer-2027-Commercial-Banking-Intern-Charlotte--NC_R-05808"
-    },
-    {
-      "id": "445a87d5-ad20-4376-9c1c-b6b5a43b2685",
-      "title": "Summer 2027 Commercial Banking Intern Austin, TX",
-      "company": "Southstatebank",
-      "companyDomain": "southstatebank.com",
-      "location": "Austin Downtown",
-      "functionPrimary": "Finance",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-08-14T19:57:29.173Z",
-      "firstIndexedAt": "2026-08-05T07:45:22.503Z",
-      "url": "https://southstatebank.wd5.myworkdayjobs.com/external/job/Austin-Downtown/Summer-2027-Commercial-Banking-Intern-Austin--TX_R-05806"
-    },
-    {
       "id": "1d3eb29f-56fd-4773-a8f3-452752f6ecaa",
       "title": "Summer 2027  Commercial Banking Intern Tampa, FL",
       "company": "Southstatebank",
@@ -966,19 +861,19 @@
       "url": "https://southstatebank.wd5.myworkdayjobs.com/external/job/Denver-Downtown/Summer-2027-Commercial-Banking-Intern-Denver--CO_R-05805-1"
     },
     {
-      "id": "5c856ffc-ee2f-4ec3-9134-2f1cb86eda2c",
-      "title": "Summer 2027 Commercial Banking Intern Raleigh, NC",
+      "id": "33c7b25f-dded-406e-bbb5-2afbacfc9320",
+      "title": "Summer 2027 Commercial Banking Intern  Richmond, VA",
       "company": "Southstatebank",
       "companyDomain": "southstatebank.com",
-      "location": "Raleigh Glenwood",
+      "location": "Richmond James Center",
       "functionPrimary": "Finance",
       "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-08-17T19:57:28.482Z",
+      "salaryMin": 34587,
+      "salaryMax": 51879,
+      "salaryPeriod": "annual",
+      "postedAt": "2026-08-17T19:57:28.033Z",
       "firstIndexedAt": "2026-08-05T07:45:22.503Z",
-      "url": "https://southstatebank.wd5.myworkdayjobs.com/external/job/Raleigh-Glenwood/Summer-2027-Commercial-Banking-Intern-Raleigh--NC_R-05804-1"
+      "url": "https://southstatebank.wd5.myworkdayjobs.com/external/job/Richmond-James-Center/Summer-2027-Commercial-Banking-Intern--Richmond--VA_R-05802"
     },
     {
       "id": "613e0503-9132-4309-8b0e-aa660d1e7bf7",
@@ -994,6 +889,21 @@
       "postedAt": "2026-08-17T19:57:28.448Z",
       "firstIndexedAt": "2026-08-05T07:45:22.503Z",
       "url": "https://southstatebank.wd5.myworkdayjobs.com/external/job/Houston-TX/Summer-2027-Commercial-Banking-Intern-Houston--TX_R-05809"
+    },
+    {
+      "id": "9b6d02b3-0842-4567-8863-688b82223a84",
+      "title": "Summer 2027 Commercial Banking Intern Columbia, SC",
+      "company": "Southstatebank",
+      "companyDomain": "southstatebank.com",
+      "location": "Columbia Gervais",
+      "functionPrimary": "Finance",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-08-17T19:57:28.457Z",
+      "firstIndexedAt": "2026-08-05T07:45:22.503Z",
+      "url": "https://southstatebank.wd5.myworkdayjobs.com/external/job/Columbia-Gervais/Summer-2027-Commercial-Banking-Intern-Columbia--SC_R-05801"
     },
     {
       "id": "4da62e9d-4662-4695-b274-2922431d7634",
@@ -1026,6 +936,36 @@
       "url": "https://southstatebank.wd5.myworkdayjobs.com/external/job/Charleston-Broad-Street-WMG-LPO/Summer-2027-Commercial-Banking-Intern-Charleston--SC_R-05800"
     },
     {
+      "id": "6f48f8ca-d0c4-4cdc-8f55-faf1b24d822f",
+      "title": "Summer 2027 Commercial Banking Intern Atlanta, GA",
+      "company": "Southstatebank",
+      "companyDomain": "southstatebank.com",
+      "location": "Atlanta Midtown",
+      "functionPrimary": "Finance",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-08-14T19:57:28.920Z",
+      "firstIndexedAt": "2026-08-05T07:45:22.503Z",
+      "url": "https://southstatebank.wd5.myworkdayjobs.com/external/job/Atlanta-Midtown/Summer-2027-Commercial-Banking-Intern-Atlanta--GA_R-05807"
+    },
+    {
+      "id": "445a87d5-ad20-4376-9c1c-b6b5a43b2685",
+      "title": "Summer 2027 Commercial Banking Intern Austin, TX",
+      "company": "Southstatebank",
+      "companyDomain": "southstatebank.com",
+      "location": "Austin Downtown",
+      "functionPrimary": "Finance",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-08-14T19:57:29.173Z",
+      "firstIndexedAt": "2026-08-05T07:45:22.503Z",
+      "url": "https://southstatebank.wd5.myworkdayjobs.com/external/job/Austin-Downtown/Summer-2027-Commercial-Banking-Intern-Austin--TX_R-05806"
+    },
+    {
       "id": "80188e2a-2964-4ef2-85b2-abaec594b62f",
       "title": "Summer 2027 Commercial Banking Intern Waco, TX",
       "company": "Southstatebank",
@@ -1039,6 +979,66 @@
       "postedAt": "2026-08-17T19:57:28.558Z",
       "firstIndexedAt": "2026-08-05T07:45:22.503Z",
       "url": "https://southstatebank.wd5.myworkdayjobs.com/external/job/Waco-Woodway/Summer-2027-Commercial-Banking-Intern-Waco--TX_R-05812"
+    },
+    {
+      "id": "17ae0b56-1501-4aab-88d1-20566b741020",
+      "title": "Summer 2027 Commercial Banking Intern Greenville, SC",
+      "company": "Southstatebank",
+      "companyDomain": "southstatebank.com",
+      "location": "Greenville Broad",
+      "functionPrimary": "Finance",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-08-17T19:57:28.450Z",
+      "firstIndexedAt": "2026-08-05T07:45:22.503Z",
+      "url": "https://southstatebank.wd5.myworkdayjobs.com/external/job/Greenville-Broad/Summer-2027-Commercial-Banking-Intern-Greenville--SC_R-05799"
+    },
+    {
+      "id": "a1f63fa0-fc0e-4ee6-90db-1d5761ec54cc",
+      "title": "Summer 2027 Commercial Banking Intern Charlotte, NC",
+      "company": "Southstatebank",
+      "companyDomain": "southstatebank.com",
+      "location": "Charlotte Morrison",
+      "functionPrimary": "Finance",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-08-17T19:57:28.422Z",
+      "firstIndexedAt": "2026-08-05T07:45:22.503Z",
+      "url": "https://southstatebank.wd5.myworkdayjobs.com/external/job/Charlotte-Morrison/Summer-2027-Commercial-Banking-Intern-Charlotte--NC_R-05808"
+    },
+    {
+      "id": "5c856ffc-ee2f-4ec3-9134-2f1cb86eda2c",
+      "title": "Summer 2027 Commercial Banking Intern Raleigh, NC",
+      "company": "Southstatebank",
+      "companyDomain": "southstatebank.com",
+      "location": "Raleigh Glenwood",
+      "functionPrimary": "Finance",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-08-17T19:57:28.482Z",
+      "firstIndexedAt": "2026-08-05T07:45:22.503Z",
+      "url": "https://southstatebank.wd5.myworkdayjobs.com/external/job/Raleigh-Glenwood/Summer-2027-Commercial-Banking-Intern-Raleigh--NC_R-05804-1"
+    },
+    {
+      "id": "d85c63e0-4ff3-493a-8698-1f99ada45c3d",
+      "title": "Summer 2027 Commercial Banking Intern Orlando, FL",
+      "company": "Southstatebank",
+      "companyDomain": "southstatebank.com",
+      "location": "Orlando Downtown",
+      "functionPrimary": "Finance",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-08-17T19:57:27.927Z",
+      "firstIndexedAt": "2026-08-05T07:45:22.503Z",
+      "url": "https://southstatebank.wd5.myworkdayjobs.com/external/job/Orlando-Downtown/Summer-2027-Commercial-Banking-Intern-Orlando--FL_R-05803"
     },
     {
       "id": "17ca24be-10bc-4d01-98b3-b693858d95ea",
@@ -1146,8 +1146,8 @@
       "url": "https://jobs.ashbyhq.com/zello/3453d476-7b75-4938-8cff-502d1575859b"
     },
     {
-      "id": "64853f28-f3ec-4443-b75d-5b636e1c06e4",
-      "title": "Internal Audit Department Data Analytics Audit Intern",
+      "id": "2679bf53-7662-4afa-ae15-e3bca478d58f",
+      "title": "Treasury Liquidity & Funding Management intern",
       "company": "Bocusa",
       "companyDomain": "bankofchina.com",
       "location": "New York, NY, US",
@@ -1156,9 +1156,9 @@
       "salaryMin": 39520,
       "salaryMax": 39520,
       "salaryPeriod": "annual",
-      "postedAt": "2026-03-31T04:00:00.000Z",
+      "postedAt": "2026-03-23T04:00:00.000Z",
       "firstIndexedAt": "2026-08-02T14:30:11.313Z",
-      "url": "https://careers-bocusa.icims.com/jobs/4114/internal-audit-department-data-analytics-audit-intern/job"
+      "url": "https://careers-bocusa.icims.com/jobs/4119/treasury-liquidity-%26-funding-management-intern/job"
     },
     {
       "id": "373bf579-c317-4717-b66d-9d4122f822f1",
@@ -1176,8 +1176,8 @@
       "url": "https://careers-bocusa.icims.com/jobs/4098/internal-audit-department---quality-assurance-intern/job"
     },
     {
-      "id": "2679bf53-7662-4afa-ae15-e3bca478d58f",
-      "title": "Treasury Liquidity & Funding Management intern",
+      "id": "64853f28-f3ec-4443-b75d-5b636e1c06e4",
+      "title": "Internal Audit Department Data Analytics Audit Intern",
       "company": "Bocusa",
       "companyDomain": "bankofchina.com",
       "location": "New York, NY, US",
@@ -1186,9 +1186,9 @@
       "salaryMin": 39520,
       "salaryMax": 39520,
       "salaryPeriod": "annual",
-      "postedAt": "2026-03-23T04:00:00.000Z",
+      "postedAt": "2026-03-31T04:00:00.000Z",
       "firstIndexedAt": "2026-08-02T14:30:11.313Z",
-      "url": "https://careers-bocusa.icims.com/jobs/4119/treasury-liquidity-%26-funding-management-intern/job"
+      "url": "https://careers-bocusa.icims.com/jobs/4114/internal-audit-department-data-analytics-audit-intern/job"
     },
     {
       "id": "274bd9a5-f5af-4604-9410-a252a84203a3",
@@ -1236,21 +1236,6 @@
       "url": "https://career5.successfactors.eu/careers?company=bmwag&jobId=190845"
     },
     {
-      "id": "6c70c2df-5892-4b69-89a9-6d8d82652290",
-      "title": "Financial Planning Intern Spring 2027",
-      "company": "BMW AG",
-      "companyDomain": "bmw.com",
-      "location": null,
-      "functionPrimary": "Finance",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": null,
-      "firstIndexedAt": "2026-07-31T11:30:15.693Z",
-      "url": "https://career5.successfactors.eu/careers?company=bmwag&jobId=191165"
-    },
-    {
       "id": "252f1c6a-3d51-4b05-8a34-13239d145520",
       "title": "Financial controlling intern Spring 2027",
       "company": "BMW AG",
@@ -1264,6 +1249,21 @@
       "postedAt": null,
       "firstIndexedAt": "2026-07-31T11:30:15.693Z",
       "url": "https://career5.successfactors.eu/careers?company=bmwag&jobId=193277"
+    },
+    {
+      "id": "6c70c2df-5892-4b69-89a9-6d8d82652290",
+      "title": "Financial Planning Intern Spring 2027",
+      "company": "BMW AG",
+      "companyDomain": "bmw.com",
+      "location": null,
+      "functionPrimary": "Finance",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": null,
+      "firstIndexedAt": "2026-07-31T11:30:15.693Z",
+      "url": "https://career5.successfactors.eu/careers?company=bmwag&jobId=191165"
     },
     {
       "id": "41807ee6-4c88-4c69-b430-979a8362d814",
@@ -1534,21 +1534,6 @@
       "postedAt": "2026-06-01T00:00:00.000Z",
       "firstIndexedAt": "2026-06-02T06:01:31.125Z",
       "url": "https://www.amazon.jobs/en/jobs/10435671/2027-amazon-finance-rotation-program-accounting-intern"
-    },
-    {
-      "id": "72a1677f-1f5e-413a-8be4-b7da6960b194",
-      "title": "2027 Amazon Finance Rotation Program - Business Unit Finance Intern",
-      "company": "Amazon",
-      "companyDomain": "amazon.com",
-      "location": "US, WA, Seattle",
-      "functionPrimary": "Finance",
-      "remoteType": "remote",
-      "salaryMin": 80200,
-      "salaryMax": 99300,
-      "salaryPeriod": "annual",
-      "postedAt": "2026-06-01T00:00:00.000Z",
-      "firstIndexedAt": "2026-06-02T06:01:31.125Z",
-      "url": "https://www.amazon.jobs/en/jobs/10435672/2027-amazon-finance-rotation-program-business-unit-finance-intern"
     },
     {
       "id": "b017663f-3e3e-4183-bffc-b529b1bacbf7",

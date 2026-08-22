@@ -1,8 +1,8 @@
 # Tech internships in Spain
 
-[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md)
+[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**30 currently open roles** · Updated **2026-08-21**
+**30 currently open roles** · Updated **2026-08-22**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -38,8 +38,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Ailylabs** | [Intern Data Scientist - Barcelona / Madrid (Hybrid)](https://ailylabs.jobs.personio.de/job/1347161) | Madrid - Hybrid (Hybrid) |  | 5d |
 | **Ailylabs** | [Intern Data Practitioner – Barcelona / Madrid (Hybrid)](https://ailylabs.jobs.personio.de/job/1971625) | Madrid - Hybrid (Hybrid) |  | 5d |
+| **Ailylabs** | [Intern Data Scientist - Barcelona / Madrid (Hybrid)](https://ailylabs.jobs.personio.de/job/1347161) | Madrid - Hybrid (Hybrid) |  | 5d |
 | **Morningstar** | [Data Analyst Intern- Portuguese & Spanish Speaker](https://morningstar.wd5.myworkdayjobs.com/morningstar/job/Madrid/Data-Analyst-Intern--Portuguese---Spanish-Speaker_REQ-053209) | Madrid (Hybrid) |  | 14d |
 | **Morningstar** | [Data Analyst Intern - German speaker](https://morningstar.wd5.myworkdayjobs.com/morningstar/job/Madrid/Data-Analyst-Intern---German-speaker_REQ-057771) | Madrid (Hybrid) |  | 17d |
 | **1000** | [Data Engineer Internship (m/f/x)](https://pg.wd5.myworkdayjobs.com/1000/job/JIJONA-PLANT/Data-Engineer-Internship--m-f-x-_R000156073) | JIJONA PLANT |  | 28d |

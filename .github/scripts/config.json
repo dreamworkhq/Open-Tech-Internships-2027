@@ -172,5 +172,43 @@
       "Finance": "Finance & Accounting",
       "Data Science": "Data & Analytics"
     }
+  },
+  "cryptoBoard": {
+    "title": "Crypto Internships 2027",
+    "tagline": "Verified-open crypto, blockchain, and web3 internships worldwide, updated daily.",
+    "keywords": "crypto, blockchain, and web3 internships",
+    "sources": [
+      { "seniorityExact": "INTERN", "companyDomainExact": "allium.com" },
+      { "seniorityExact": "INTERN", "companyDomainExact": "asula.com" },
+      { "seniorityExact": "INTERN", "companyDomainExact": "binance.com" },
+      { "seniorityExact": "INTERN", "companyDomainExact": "binance.us" },
+      { "seniorityExact": "INTERN", "companyDomainExact": "blockchain.com" },
+      { "seniorityExact": "INTERN", "companyDomainExact": "bnbchain.org" },
+      { "seniorityExact": "INTERN", "companyDomainExact": "bybit.com" },
+      { "seniorityExact": "INTERN", "companyDomainExact": "certik.com" },
+      { "seniorityExact": "INTERN", "companyDomainExact": "coinhako.com" },
+      { "seniorityExact": "INTERN", "companyDomainExact": "dialectic.ch" },
+      { "seniorityExact": "INTERN", "companyDomainExact": "ellipsislabs.com" },
+      { "seniorityExact": "INTERN", "companyDomainExact": "merklescience.com" },
+      { "seniorityExact": "INTERN", "companyDomainExact": "n1.tech" },
+      { "seniorityExact": "INTERN", "companyDomainExact": "ritual.io" },
+      { "seniorityExact": "INTERN", "companyDomainExact": "skymavis.com" },
+      { "seniorityExact": "INTERN", "companyDomainExact": "tether.to" },
+      { "seniorityExact": "INTERN", "search": "bitcoin" },
+      { "seniorityExact": "INTERN", "search": "ethereum" },
+      { "seniorityExact": "INTERN", "search": "blockchain" },
+      { "seniorityExact": "INTERN", "search": "web3" },
+      { "seniorityExact": "INTERN", "search": "cryptocurrency" },
+      { "seniorityExact": "INTERN", "search": "stablecoin" },
+      { "seniorityExact": "INTERN", "search": "defi" },
+      { "seniorityExact": "INTERN", "search": "crypto" }
+    ],
+    "themeInclude": "\\b(?:crypto(?:currency)?|blockchain|web3|bitcoin|ethereum|stablecoin|defi)\\b",
+    "titleExclude": "senior|staff|principal|director|\\bvp\\b|\\b2028\\b|\\b2029\\b",
+    "minRows": 50,
+    "maxPagesPerSource": 45,
+    "minPreviousCountRatio": 0.65,
+    "minPreviousOverlapRatio": 0.35,
+    "groupBy": "functionPrimary"
   }
 }

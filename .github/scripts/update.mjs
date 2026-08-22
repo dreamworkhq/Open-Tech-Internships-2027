@@ -11,7 +11,7 @@
  * Zero dependencies on purpose: the public repos run this on a bare
  * actions/setup-node runner with nothing installed.
  *
- * Usage: node generate.mjs <config.json> [--out <dir>] [--scope main|international|business]
+ * Usage: node generate.mjs <config.json> [--out <dir>] [--scope main|international|business|crypto]
  */
 
 import {
@@ -62,7 +62,7 @@ const US_STATES = new Set([
 function parseArgs(argv) {
   const [configPath, ...rest] = argv;
   if (!configPath) {
-    console.error("usage: node generate.mjs <config.json> [--out <dir>] [--scope main|international|business]");
+    console.error("usage: node generate.mjs <config.json> [--out <dir>] [--scope main|international|business|crypto]");
     process.exit(1);
   }
   let out = dirname(resolve(configPath));
@@ -71,8 +71,8 @@ function parseArgs(argv) {
     if (rest[i] === "--out" && rest[i + 1]) out = resolve(rest[++i]);
     else if (rest[i] === "--scope" && rest[i + 1]) scope = rest[++i];
   }
-  if (!["main", "international", "business"].includes(scope)) {
-    throw new Error(`--scope must be main, international, or business (received ${JSON.stringify(scope)})`);
+  if (!["main", "international", "business", "crypto"].includes(scope)) {
+    throw new Error(`--scope must be main, international, business, or crypto (received ${JSON.stringify(scope)})`);
   }
   return { configPath: resolve(configPath), out, scope };
 }
@@ -621,6 +621,9 @@ function renderGrowthReadme(rows, config, now) {
   const businessLine = config.businessBoard
     ? "\nLooking beyond technical roles? Browse [Business internships](BUSINESS.md) in finance, accounting, and data analytics.\n"
     : "";
+  const cryptoLine = config.cryptoBoard
+    ? "\nInterested in crypto? Browse [Crypto internships](CRYPTO.md) across blockchain, web3, and digital-currency companies worldwide.\n"
+    : "";
 
   const siblings = (config.siblings ?? [])
     .map((s) => `- [${s.label}](https://github.com/${s.repo})`)
@@ -677,7 +680,7 @@ function renderGrowthReadme(rows, config, now) {
 Star this repo and new roles land in your GitHub feed every day. Listings come from [Dreamwork](${matchesUrl}), which crawls 400,000+ jobs directly from company career pages.
 
 ${statsLine}
-${intlLine}${businessLine}
+${intlLine}${businessLine}${cryptoLine}
 ${config.legend ? `${config.legend}\n` : ""}${toc ? `\n${toc}` : ""}
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
@@ -737,6 +740,7 @@ Indexed from company career pages and maintained by [Dreamwork](https://github.c
 
 ${config.internationalBoard ? "Looking outside the US? Browse [International internships](INTERNATIONAL.md), organized by country and refreshed separately.\n" : ""}
 ${config.businessBoard ? "Looking beyond technical roles? Browse [Business internships](BUSINESS.md) in finance, accounting, and data analytics.\n" : ""}
+${config.cryptoBoard ? "Interested in crypto? Browse [Crypto internships](CRYPTO.md) across blockchain, web3, and digital-currency companies worldwide.\n" : ""}
 
 ${toc ? `${toc}\n` : ""}<!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
@@ -936,9 +940,10 @@ function renderCountryPage(code, rows, config, now) {
   const updated = now.toISOString().slice(0, 10);
   const { toc, body } = renderSections(rows, config, now);
   const businessLink = config.businessBoard ? " · [Business internships](../BUSINESS.md)" : "";
+  const cryptoLink = config.cryptoBoard ? " · [Crypto internships](../CRYPTO.md)" : "";
   return `# Tech internships in ${name}
 
-[← International index](../INTERNATIONAL.md) · [US internships](../README.md)${businessLink}
+[← International index](../INTERNATIONAL.md) · [US internships](../README.md)${businessLink}${cryptoLink}
 
 **${rows.length} currently open roles** · Updated **${updated}**
 
@@ -971,9 +976,10 @@ ${renderTable(globalRows, config, now)}
     : "";
   const totalCountryRows = [...countryGroups.values()].reduce((sum, rows) => sum + rows.length, 0);
   const businessLink = config.businessBoard ? " · [Business internships](BUSINESS.md)" : "";
+  const cryptoLink = config.cryptoBoard ? " · [Crypto internships](CRYPTO.md)" : "";
   return `# ${board.title}
 
-[← US internships](README.md)${businessLink}
+[← US internships](README.md)${businessLink}${cryptoLink}
 
 **${totalCountryRows} country-located roles** across **${countryGroups.size} countries**${globalRows.length ? ` · **${globalRows.length} explicitly global remote**` : ""} · Updated **${updated}**
 
@@ -1124,6 +1130,9 @@ function renderBusinessPage(rows, config, board, now, totalRows) {
   const internationalLink = config.internationalBoard
     ? " · [International internships](INTERNATIONAL.md)"
     : "";
+  const cryptoLink = config.cryptoBoard
+    ? " · [Crypto internships](CRYPTO.md)"
+    : "";
   const coverage = rows.length === totalRows
     ? `**${rows.length} open internships**`
     : `**${rows.length} newest of ${totalRows} open internships**`;
@@ -1135,7 +1144,7 @@ function renderBusinessPage(rows, config, board, now, totalRows) {
 
 ${board.tagline}
 
-[← US tech internships](README.md)${internationalLink}
+[← US tech internships](README.md)${internationalLink}${cryptoLink}
 
 ${coverage} · **${companies} companies** · **${addedToday} added in the last 24 hours** · Updated **${updated}**
 
@@ -1271,6 +1280,233 @@ async function generateBusiness(config, out, now) {
   );
 }
 
+const CRYPTO_THEME_SEARCHES = new Set([
+  "bitcoin",
+  "ethereum",
+  "blockchain",
+  "web3",
+  "cryptocurrency",
+  "stablecoin",
+  "defi",
+  "crypto",
+]);
+
+function validateCryptoBoard(board) {
+  if (!board || !Array.isArray(board.sources) || board.sources.length === 0) {
+    throw new Error("cryptoBoard.sources must contain at least one bounded source");
+  }
+  if (!board.title || !board.tagline || !board.themeInclude) {
+    throw new Error("cryptoBoard.title, cryptoBoard.tagline, and cryptoBoard.themeInclude are required");
+  }
+  try {
+    new RegExp(board.themeInclude, "i");
+  } catch (error) {
+    throw new Error("cryptoBoard.themeInclude must be a valid regular expression", { cause: error });
+  }
+  const sourceKeys = new Set();
+  for (const source of board.sources) {
+    if (source.seniorityExact !== "INTERN") {
+      throw new Error("cryptoBoard sources must use seniorityExact=INTERN");
+    }
+    const hasDomain = typeof source.companyDomainExact === "string" && source.companyDomainExact !== "";
+    const hasSearch = typeof source.search === "string" && source.search !== "";
+    if (hasDomain === hasSearch) {
+      throw new Error("cryptoBoard sources must define exactly one of companyDomainExact or search");
+    }
+    if (source.countryExact !== undefined || source.countryExactAny !== undefined) {
+      throw new Error("cryptoBoard sources must remain worldwide and cannot constrain country");
+    }
+    if (hasDomain && !/^(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z]{2,}$/i.test(source.companyDomainExact)) {
+      throw new Error(`cryptoBoard companyDomainExact is invalid: ${JSON.stringify(source.companyDomainExact)}`);
+    }
+    if (hasSearch && !CRYPTO_THEME_SEARCHES.has(source.search)) {
+      throw new Error(`cryptoBoard search is not an approved high-intent theme: ${JSON.stringify(source.search)}`);
+    }
+    const key = hasDomain
+      ? `domain:${source.companyDomainExact.toLowerCase()}`
+      : `search:${source.search}`;
+    if (sourceKeys.has(key)) {
+      throw new Error(`cryptoBoard source is duplicated: ${key}`);
+    }
+    sourceKeys.add(key);
+  }
+  if (![...sourceKeys].some((key) => key.startsWith("domain:"))) {
+    throw new Error("cryptoBoard requires at least one reviewed companyDomainExact source");
+  }
+  if (![...sourceKeys].some((key) => key.startsWith("search:"))) {
+    throw new Error("cryptoBoard requires at least one approved theme search source");
+  }
+  return board;
+}
+
+function keepCryptoSourceRow(row, source, themePattern) {
+  if (source.companyDomainExact) {
+    return String(row.companyDomain ?? "").toLowerCase() === source.companyDomainExact.toLowerCase();
+  }
+  return themePattern.test(`${row.title ?? ""} ${row.companyName ?? ""}`);
+}
+
+function renderCryptoPage(rows, config, board, now, totalRows) {
+  const updated = now.toISOString().slice(0, 10);
+  const companies = representedCompanyCount(rows);
+  const addedToday = addedInLast24Hours(rows, now);
+  const { toc, body } = renderSections(rows, config, now);
+  const internationalLink = config.internationalBoard
+    ? " · [International internships](INTERNATIONAL.md)"
+    : "";
+  const businessLink = config.businessBoard
+    ? " · [Business internships](BUSINESS.md)"
+    : "";
+  const coverage = rows.length === totalRows
+    ? `**${rows.length} open internships**`
+    : `**${rows.length} newest of ${totalRows} open internships**`;
+  const attribution = isCommunityPresentation(config)
+    ? "Every role links directly to the company's career page. Indexed from company career pages and maintained by [Dreamwork](https://github.com/dreamworkhq)."
+    : `Click a role to view it and apply, or let [Dreamwork](${SITE_BASE}/?utm_source=github&utm_medium=crypto_readme&utm_campaign=${config.utmCampaign}) match the list against your resume.`;
+
+  return `# ${board.title}
+
+${board.tagline}
+
+[← US tech internships](README.md)${internationalLink}${businessLink}
+
+${coverage} · **${companies} companies** · **${addedToday} added in the last 24 hours** · Updated **${updated}**
+
+${attribution}
+
+${toc ? `${toc}\n` : ""}<!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
+
+${body}
+
+<!-- TABLE_END -->
+
+## Coverage notes
+
+- This worldwide page is intentionally separate from the main US technical list.
+- Internships at reviewed crypto-native companies qualify across engineering, finance, operations, product, design, and other functions.
+- Other companies qualify only when the title or company name contains an explicit crypto, blockchain, web3, bitcoin, ethereum, stablecoin, or DeFi signal.
+- Description-only keyword matches are excluded to avoid unrelated asset-management roles and boilerplate scam language.
+- Location does not imply work authorization, visa sponsorship, or remote eligibility; check the company posting.
+- Listings are removed when the crawler can no longer verify that they are open.
+- The raw snapshot is available in [\`data/crypto-listings.json\`](data/crypto-listings.json).
+- Found a bad or missing listing? [Open an issue](../../issues).
+`;
+}
+
+function cryptoSnapshot(rows, config, now) {
+  return `${JSON.stringify({
+    generatedAt: now.toISOString(),
+    source: config.linkMode === "source" ? "dreamwork-public-job-index" : SITE_BASE,
+    list: config.repo,
+    scope: "crypto",
+    count: rows.length,
+    listings: rows.map((row) => {
+      const salary = trustedSalaryRange(row);
+      return {
+        id: row.id,
+        title: row.title,
+        company: row.companyName,
+        companyDomain: row.companyDomain ?? null,
+        location: row.location ?? null,
+        locationCountryCode: row.locationCountryCode ?? null,
+        functionPrimary: row.functionPrimary ?? null,
+        remoteType: row.remoteType ?? null,
+        salaryMin: salary?.min ?? null,
+        salaryMax: salary?.max ?? null,
+        salaryPeriod: salary?.period ?? null,
+        postedAt: row.postedAt ?? null,
+        firstIndexedAt: row.createdAt,
+        url: jobUrl(row, config),
+      };
+    }),
+  }, null, 2)}\n`;
+}
+
+function loadPreviousCryptoSnapshot(out, config) {
+  const snapshotPath = join(out, "data", "crypto-listings.json");
+  if (!existsSync(snapshotPath)) return null;
+  let snapshot;
+  try {
+    snapshot = JSON.parse(readFileSync(snapshotPath, "utf8"));
+  } catch (error) {
+    throw new Error(
+      `Existing ${snapshotPath} is not valid JSON; refusing to overwrite it.`,
+      { cause: error },
+    );
+  }
+  if (
+    snapshot?.list !== config.repo ||
+    snapshot?.scope !== "crypto" ||
+    !Array.isArray(snapshot.listings) ||
+    snapshot.listings.some((listing) => !listing?.id)
+  ) {
+    throw new Error(
+      `Existing ${snapshotPath} does not match ${config.repo}'s crypto board; refusing to overwrite it.`,
+    );
+  }
+  return snapshot;
+}
+
+function assertCryptoSnapshotHealth(rows, previous, board) {
+  if (previous && process.env.DREAMWORK_JOB_LIST_ALLOW_CRYPTO_SNAPSHOT_RESET === "1") {
+    console.warn("Bypassing crypto previous-snapshot health gate after an explicit audit.");
+    return;
+  }
+  assertPreviousSnapshotHealth(rows, previous, {
+    mode: "inventory",
+    minPreviousCountRatio: board.minPreviousCountRatio,
+    minPreviousOverlapRatio: board.minPreviousOverlapRatio,
+  });
+}
+
+async function generateCrypto(config, out, now) {
+  const board = validateCryptoBoard(config.cryptoBoard);
+  const runtimeConfig = {
+    ...config,
+    ...board,
+    mode: "inventory",
+    usOnly: false,
+    international: true,
+    // Crypto is its own audience contract. Do not inherit the US technical
+    // README's title or AI filters; exact company domains and the explicit
+    // title/company theme predicate below own admission for this surface.
+    titleInclude: board.titleInclude,
+    titleIncludeAll: board.titleIncludeAll,
+    titleIncludeAllSourceFunctions: board.titleIncludeAllSourceFunctions,
+    aiKinds: board.aiKinds,
+    maxPagesPerSource: board.maxPagesPerSource ?? config.maxPagesPerSource,
+  };
+  const themePattern = new RegExp(board.themeInclude, "i");
+  let candidates = [];
+  for (const source of board.sources) {
+    const sourceRows = await fetchSource(source, runtimeConfig);
+    candidates = candidates.concat(
+      sourceRows.filter((row) => keepCryptoSourceRow(row, source, themePattern)),
+    );
+  }
+  const rows = selectLinkEligibleRows(dedupe(candidates), runtimeConfig);
+  if (rows.length < (board.minRows ?? 25)) {
+    throw new Error(
+      `Only ${rows.length} crypto rows after filtering; refusing to overwrite the list (minRows=${board.minRows ?? 25}).`,
+    );
+  }
+  assertCryptoSnapshotHealth(rows, loadPreviousCryptoSnapshot(out, config), board);
+
+  const rendered = fitToRenderLimit(
+    rows,
+    (kept) => renderCryptoPage(kept, runtimeConfig, board, now, rows.length),
+  );
+  const snapshot = cryptoSnapshot(rows, runtimeConfig, now);
+
+  // Every fetch, filter, render, and retention check completes before either
+  // last-good crypto artifact is replaced.
+  writeAtomic(join(out, "CRYPTO.md"), rendered.text);
+  writeAtomic(join(out, "data", "crypto-listings.json"), snapshot);
+  console.log(
+    `${config.repo}: crypto ${rendered.kept} displayed of ${rows.length} rows -> ${out}`,
+  );
+}
+
 async function generateInternational(config, out, now) {
   const board = validateInternationalBoard(config.internationalBoard);
   const runtimeConfig = {
@@ -1358,6 +1594,12 @@ if (scope === "international") {
     console.log(`${config.repo}: no business board configured; nothing to generate.`);
   } else {
     await generateBusiness(config, out, now);
+  }
+} else if (scope === "crypto") {
+  if (!config.cryptoBoard) {
+    console.log(`${config.repo}: no crypto board configured; nothing to generate.`);
+  } else {
+    await generateCrypto(config, out, now);
   }
 } else {
 

@@ -1,8 +1,8 @@
 # Tech internships in Netherlands
 
-[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md)
+[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**37 currently open roles** · Updated **2026-08-21**
+**37 currently open roles** · Updated **2026-08-22**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -18,8 +18,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 | --- | --- | --- | --- | --- |
 | **ICSGBLCOR** | [Internships - Software Engineering](https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/HBP-Amsterdam---Haarlerbergpark/Internships---Software-Engineering_REQ-10120184) | HBP (Amsterdam - Haarlerbergpark) |  | 1d |
 | **Optiverus** | [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713409002/?gh_jid=8713409002) | Amsterdam, North Holland, Netherlands |  | 3d |
-| **Tencent** | [AI Product Engineer Intern — Game Development](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/Netherlands-Amsterdam/AI-Product-Engineer-Intern---Game-Development_R107621) | Netherlands-Amsterdam |  | 5d |
 | **Tencent** | [Data Engineer Intern](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/Netherlands-Amsterdam/Data-Engineer-Intern_R107681) | Netherlands-Amsterdam |  | 5d |
+| **Tencent** | [AI Product Engineer Intern — Game Development](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/Netherlands-Amsterdam/AI-Product-Engineer-Intern---Game-Development_R107621) | Netherlands-Amsterdam |  | 5d |
 | **EURES Netherlands** | [Intern (Web)Developer](https://europa.eu/eures/portal/jv-se/jv-details/NThmYTBiNTItZGNkMS0zYjg5LWUwNjMtNjg5M2IyMGE1MTNiIDQy) | Noord-Brabant, Netherlands |  | 7d |
 | **EURES Netherlands (Professional)** | [Intern (Web)Developer](https://europa.eu/eures/portal/jv-se/jv-details/NThmYTBiNTItZGNkMS0zYjg5LWUwNjMtNjg5M2IyMGE1MTNiIDQy) | Noord-Brabant, Netherlands |  | 7d |
 | **Vanderlande** | [Internship/Graduation: Improving Engineering Productivity with AI](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Veghel/Internship-Graduation--Improving-Engineering-Productivity-with-AI_JR37471) | Veghel |  | 12d |
@@ -46,7 +46,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **ICSGBLCOR** | [Internship - Artificial Intelligence Agent Developer](https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/ACT-Amsterdam---Acanthus/Internship---Artificial-Intelligence-Agent-Developer_REQ-10120227) | ACT (Amsterdam - Acanthus) (Hybrid) |  | 1d |
 | **Philips** | [Data & AI Reporting Analyst Intern (Customs Compliance)](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Best/Data---AI-Reporting-Analyst-Intern--Customs-Compliance-_587242) | Best |  | 3d |
 | **ICSGBLCOR** | [Internship Artificial Intelligence Agent Developer](https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/ACT-Amsterdam---Acanthus/Internship-Artificial-Intelligence-Agent-Developer_REQ-10120054) | ACT (Amsterdam - Acanthus) (Hybrid) |  | 3d |
-| **Myhrabc** | [Intern, Data Science](https://myhrabc.wd5.myworkdayjobs.com/Global/job/WEMEA--Netherlands--Veghel-Campus/Intern--Data-Science_R2611600) | WEMEA > Netherlands > Veghel Campus |  | 7d |
+| **Myhrabc** | [Intern, Data Science](https://myhrabc.wd5.myworkdayjobs.com/Global/job/WEMEA--Netherlands--Veghel-Campus/Intern--Data-Science_R2611600) | WEMEA > Netherlands > Veghel Campus |  | 8d |
 | **Bynder** | [Customer Analytics Internship](https://jobs.ashbyhq.com/bynder/24955a72-0dc7-495c-8ffd-d48f18ff986b) | Amsterdam (Hybrid) |  | 11d |
 | **Myhrabc** | [Intern, Data](https://myhrabc.wd5.myworkdayjobs.com/Global/job/WEMEA--Netherlands--Veghel-Campus/Intern--Data_R2611376) | WEMEA > Netherlands > Veghel Campus |  | 12d |
 | **Heineken** | [Internship - Global CSLP Analytics](https://career5.successfactors.eu/careers?company=C0000032666P&jobId=160747) | — (Hybrid) |  | 14d |
