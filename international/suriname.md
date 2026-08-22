@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Rosebelgoldmines** | [RGM Internship Program 2026 - Bachelor Students in Infrastructure & Civ…](https://rosebelgoldmines.recruitee.com/o/rgm-internship-program-2026-bachelor-students-in-infrastructure-civil-engineering) | Rosebel Gold Mines Site, Brokopondo, Surina… |  | 1d |
+| **Rosebelgoldmines** | [RGM Internship Program 2026 - Bachelor Students in Infrastructure & Civ…](https://rosebelgoldmines.recruitee.com/o/rgm-internship-program-2026-bachelor-students-in-infrastructure-civil-engineering) | Rosebel Gold Mines Site, Brokopondo, Surina… |  | 2d |
 
 <!-- TABLE_END -->

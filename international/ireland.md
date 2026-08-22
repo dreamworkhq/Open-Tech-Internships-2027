@@ -14,7 +14,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **HPE** | [Cloud Quality Engineer - Intern Conversion](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Galway-Galway-Ireland/Cloud-Quality-Engineer---Intern-Conversion_1211032-1) | Galway, Galway, Ireland (Hybrid) |  | 0d |
+| **HPE** | [Cloud Quality Engineer - Intern Conversion](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Galway-Galway-Ireland/Cloud-Quality-Engineer---Intern-Conversion_1211031) | Galway, Galway, Ireland (Hybrid) |  | 0d |
 | **Stripe** | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8097801) | Dublin |  | 3d |
 | **Virtu** | [2027 Internship - Software Engineer](https://job-boards.greenhouse.io/virtu/jobs/8551566002) | Dublin, Ireland |  | 1mo |
 | **Amazon** | [2027 Software Dev Engineer Intern](https://www.amazon.jobs/en/jobs/10418355/2027-software-dev-engineer-intern) | IE, Dublin |  | 1mo |

@@ -2,37 +2,38 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**42 currently open roles** · Updated **2026-08-22**
+**43 currently open roles** · Updated **2026-08-22**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-32) · 32 roles
+- [Engineering](#engineering-33) · 33 roles
 - [Data Science](#data-science-6) · 6 roles
 - [Other](#other-4) · 4 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (32)
+### Engineering (33)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
 | **SWIFT** | [Software/Systems Engineer - Intern](https://swift.wd3.myworkdayjobs.com/join-swift/job/Kuala-Lumpur-Malaysia/Software-Systems-Engineer---Intern_2026-16387) | Kuala Lumpur, Malaysia |  | 1d |
-| **Keysight** | [Firmware Engineering Intern](https://jobs.keysight.com/jobs/53967?lang=en-us) | Penang, Malaysia |  | 1d |
-| **Global Campus** | [Intern - Software Developer, Assurance (Financial Services) (October 20…](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Kuala-Lumpur/Intern---Software-Developer--Assurance--Financial-Services---October-2026-Intake-_753487WD) | Kuala Lumpur |  | 2d |
-| **Jabil Circuit** | [Intern - Software Development Services](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Penang/Intern---Software-Development-Services_J2461809) | Penang |  | 2d |
-| **Western Digital** | [Internship - Software Development (Embedded)](https://jobs.smartrecruiters.com/WesternDigital/744000144185937-internship-software-development-embedded-?oga=true) | Petaling Jaya, Selangor, Malaysia |  | 2d |
+| **Keysight** | [Firmware Engineering Intern](https://jobs.keysight.com/jobs/53967?lang=en-us) | Penang, Malaysia |  | 2d |
+| **Global Campus** | [Intern - Software Developer, Assurance (Financial Services) (October 20…](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Kuala-Lumpur/Intern---Software-Developer--Assurance--Financial-Services---October-2026-Intake-_753487WD) | Kuala Lumpur |  | 3d |
+| **Jabil Circuit** | [Intern - Software Development Services](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Penang/Intern---Software-Development-Services_J2461809) | Penang |  | 3d |
+| **Western Digital** | [Internship - Software Development (Embedded)](https://jobs.smartrecruiters.com/WesternDigital/744000144185937-internship-software-development-embedded-?oga=true) | Petaling Jaya, Selangor, Malaysia |  | 3d |
 | **Intel** | [Intern Systems Software Development Engineer](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Intern-Systems-Software-Development-Engineer_JR0286499) | Malaysia, Penang |  | 3d |
-| **Intel** | [AI/ML Software Development Intern](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Kulim/AI-ML-Software-Development-Intern_JR0286500) | Malaysia, Kulim |  | 3d |
-| **Bosch** | [Internship in Product Engineering](https://jobs.smartrecruiters.com/BoschGroup/744000143477919-internship-in-product-engineering?oga=true) | Batu Kawan, Penang, Malaysia |  | 6d |
-| **Continental** | [IT Internship - Process Automation & Software Development](https://jobs.smartrecruiters.com/Continental/744000142562964-it-internship-process-automation-software-development?oga=true) | Petaling Jaya, Selangor, Malaysia (Hybrid) |  | 10d |
+| **Intel** | [AI/ML Software Development Intern](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Kulim/AI-ML-Software-Development-Intern_JR0286500) | Malaysia, Kulim |  | 4d |
+| **Bosch** | [Internship in Product Engineering](https://jobs.smartrecruiters.com/BoschGroup/744000143477919-internship-in-product-engineering?oga=true) | Batu Kawan, Penang, Malaysia |  | 7d |
+| **Continental** | [IT Internship - Process Automation & Software Development](https://jobs.smartrecruiters.com/Continental/744000142562964-it-internship-process-automation-software-development?oga=true) | Petaling Jaya, Selangor, Malaysia (Hybrid) |  | 11d |
+| **Keysight** | [R&D Embedded Software Intern](https://jobs.keysight.com/jobs/53748?lang=en-us) | Penang, Malaysia |  | 12d |
 | **Western Digital** | [Internship - Software Engineering](https://jobs.smartrecruiters.com/WesternDigital/744000142050119-internship-software-engineering?oga=true) | Petaling Jaya, Selangor, Malaysia |  | 14d |
-| **Western Digital** | [Intern, Firmware Engineering](https://jobs.smartrecruiters.com/WesternDigital/744000141840819-intern-firmware-engineering?oga=true) | Petaling Jaya, Selangor, Malaysia |  | 15d |
+| **Western Digital** | [Intern, Firmware Engineering](https://jobs.smartrecruiters.com/WesternDigital/744000141840819-intern-firmware-engineering?oga=true) | Petaling Jaya, Selangor, Malaysia |  | 16d |
 | **Western Digital** | [Intern- Firmware Engineering](https://jobs.smartrecruiters.com/WesternDigital/744000141229499-intern-firmware-engineering?oga=true) | Petaling Jaya, Selangor, Malaysia |  | 17d |
 | **Western Digital** | [Intern Firmware Engineering](https://jobs.smartrecruiters.com/WesternDigital/744000141227773-intern-firmware-engineering?oga=true) | Petaling Jaya, Selangor, Malaysia |  | 17d |
-| **Rytbank** | [Site Reliability Engineer Intern](https://rytbank.wd3.myworkdayjobs.com/External_Career/job/Kuala-Lumpur/Site-Reliability-Engineer-Intern_JR00000618) | Kuala Lumpur |  | 17d |
-| **Avanade** | [Software Engineer Intern](https://accenture.wd103.myworkdayjobs.com/AvanadeCareers/job/Kuala-Lumpur-Exchange-106/Software-Engineer-Intern_R00347937) | Kuala Lumpur, Exchange 106 |  | 17d |
-| **Keysight** | [R&D Firmware Intern](https://jobs.keysight.com/jobs/53711?lang=en-us) | Penang, Malaysia |  | 18d |
-| **Western Digital** | [Internship - Manufacturing IT](https://jobs.smartrecruiters.com/WesternDigital/744000140202450-internship-manufacturing-it-?oga=true) | Petaling Jaya, Selangor, Malaysia |  | 24d |
+| **Rytbank** | [Site Reliability Engineer Intern](https://rytbank.wd3.myworkdayjobs.com/External_Career/job/Kuala-Lumpur/Site-Reliability-Engineer-Intern_JR00000618) | Kuala Lumpur |  | 18d |
+| **Avanade** | [Software Engineer Intern](https://accenture.wd103.myworkdayjobs.com/AvanadeCareers/job/Kuala-Lumpur-Exchange-106/Software-Engineer-Intern_R00347937) | Kuala Lumpur, Exchange 106 |  | 18d |
+| **Keysight** | [R&D Firmware Intern](https://jobs.keysight.com/jobs/53711?lang=en-us) | Penang, Malaysia |  | 19d |
+| **Western Digital** | [Internship - Manufacturing IT](https://jobs.smartrecruiters.com/WesternDigital/744000140202450-internship-manufacturing-it-?oga=true) | Petaling Jaya, Selangor, Malaysia |  | 25d |
 | **NXP Semiconductors** | [Semiconductor Package Competitive Analysis Intern](https://nxp.wd3.myworkdayjobs.com/careers/job/Kuala-Lumpur/Semiconductor-Package-Competitive-Analysis-Intern_R-10064413) | Kuala Lumpur |  | 1mo |
 | **DXC Technology** | [IT Intern](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MYS---PETALING-JAYA/IT-Intern_51580573) | MYS - PETALING JAYA (Hybrid) |  | 1mo |
 | **Xsolla** | [AI-First Engineering Intern](https://jobs.lever.co/xsolla/09161ef0-8266-4de5-9017-fd34a29c3a3d) | Kuala Lumpur |  | 1mo |
@@ -44,7 +45,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **Micron** | [Intern - Support on Host Automation Enablement for Enclosure Attach](https://micron.wd1.myworkdayjobs.com/External/job/Penang-Malaysia---Grande/Intern---Support-on-Host-Automation-Enablement-for-Enclosure-Attach_JR96495) | Penang, Malaysia - Grande |  | 2mo |
 | **Careerseng Teleperformance** | [Data Engineer Intern](https://careerseng-teleperformance.icims.com/jobs/67502/data-engineer-intern/job) | MY |  | 2mo |
 | **Eurofins** | [Internship - IT (Software)](https://jobs.smartrecruiters.com/Eurofins/744000118839387-internship-it-software-?oga=true) | Bukit Mertajam, Penang, Malaysia |  | 2mo |
-| **Rytbank** | [Frontend Engineer Intern](https://rytbank.wd3.myworkdayjobs.com/External_Career/job/Kuala-Lumpur/Frontend-Engineer-Intern_JR00000554) | Kuala Lumpur |  | 2mo |
+| **Rytbank** | [Frontend Engineer Intern](https://rytbank.wd3.myworkdayjobs.com/External_Career/job/Kuala-Lumpur/Frontend-Engineer-Intern_JR00000553) | Kuala Lumpur |  | 2mo |
 | **Rytbank** | [Business Intelligence Intern](https://rytbank.wd3.myworkdayjobs.com/External_Career/job/Kuala-Lumpur/Business-Intelligence-Intern_JR00000496) | Kuala Lumpur |  | 2mo |
 | **NXP Semiconductors** | [Intern (Engineering & IT)](https://nxp.wd3.myworkdayjobs.com/careers/job/Kuala-Lumpur/Intern--Engineering-_R-10005472) | Kuala Lumpur |  | 3mo |
 | **Tencent** | [Database Administrator Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Malaysia-Kuala-Lumpur/Database-Administrator-Intern_R107380) | Malaysia-Kuala Lumpur |  | 3mo |
@@ -53,7 +54,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Wppmedia** | [Intern, Data & Analytics](https://job-boards.greenhouse.io/wppmedia/jobs/5380368008) | Kuala Lumpur, Malaysia |  | 1d |
+| **Wppmedia** | [Intern, Data & Analytics](https://job-boards.greenhouse.io/wppmedia/jobs/5380368008) | Kuala Lumpur, Malaysia |  | 2d |
 | **Zurich Insurance** | [Data Science &amp; AI Internship](https://career2.successfactors.eu/careers?company=SF2013&jobId=136253) | Malaysia |  | 2d |
 | **Western Digital** | [Intern - Data Science](https://jobs.smartrecruiters.com/WesternDigital/744000141229015-intern-data-science?oga=true) | Bayan Lepas, Penang, Malaysia |  | 17d |
 | **Teleport Careers** | [Intern, Commercial Data Analyst](https://apply.workable.com/teleport-careers/j/6F8CAA0591/) | Kuala Lumpur, Federal Territory of Kuala Lu… (Hybrid) |  | 1mo |
@@ -66,7 +67,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 | --- | --- | --- | --- | --- |
 | **Logicalis** | [SOC Intern](https://logicalis.wd3.myworkdayjobs.com/LogicalisCareers/job/Kuala-Lumpur-MY/SOC-Intern_JR05344) | Kuala Lumpur, MY |  | 22d |
 | **SWIFT** | [Product Management Intern](https://swift.wd3.myworkdayjobs.com/join-swift/job/Kuala-Lumpur-Malaysia/Product-Management-Intern_2026-16342) | Kuala Lumpur, Malaysia (Hybrid) |  | 22d |
-| **Djeholdings** | [Intern](https://djeholdings.wd5.myworkdayjobs.com/edelman-careers-E200/job/Kuala-Lumpur-Malaysia/Intern_JR102743) | Kuala Lumpur, Malaysia (Hybrid) |  | 28d |
+| **Djeholdings** | [Intern](https://djeholdings.wd5.myworkdayjobs.com/edelman-careers-E200/job/Kuala-Lumpur-Malaysia/Intern_JR102743) | Kuala Lumpur, Malaysia (Hybrid) |  | 29d |
 | **Teleport Careers** | [Product & Technology - Teleport Malaysia Internship Program 2026](https://apply.workable.com/teleport-careers/j/056912C58C/) | Kuala Lumpur, Federal Territory of Kuala Lu… (Hybrid) |  | 1mo |
 
 <!-- TABLE_END -->

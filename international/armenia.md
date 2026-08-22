@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **We Work Remotely (Design)** | [Prismfly: Product Data Analyst Internship](https://weworkremotely.com/remote-jobs/prismfly-product-data-analyst-internship) | Remote |  | 15d |
+| **We Work Remotely (Design)** | [Prismfly: Product Data Analyst Internship](https://weworkremotely.com/remote-jobs/prismfly-product-data-analyst-internship) | Remote |  | 16d |
 
 <!-- TABLE_END -->

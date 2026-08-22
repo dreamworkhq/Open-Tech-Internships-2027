@@ -14,7 +14,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Amazon** | [2027 Program/Product Manager Intern](https://www.amazon.jobs/en/jobs/10499684/2027-program-product-manager-intern) | ZA, Cape Town |  | 7d |
-| **SAS** | [Technical Intern-2027 Graduate Internship Program (Johannesburg)](https://globalcareers-sas.icims.com/jobs/42310/technical-intern-2027-graduate-internship-program-%28johannesburg%29/job) | Johannesburg, ZA (Hybrid) |  | 11d |
+| **Amazon** | [2027 Program/Product Manager Intern](https://www.amazon.jobs/en/jobs/10499684/2027-program-product-manager-intern) | ZA, Cape Town |  | 8d |
+| **SAS** | [Technical Intern-2027 Graduate Internship Program (Johannesburg)](https://globalcareers-sas.icims.com/jobs/42310/technical-intern-2027-graduate-internship-program-%28johannesburg%29/job) | Johannesburg, ZA (Hybrid) |  | 12d |
 
 <!-- TABLE_END -->

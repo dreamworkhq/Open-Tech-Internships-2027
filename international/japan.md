@@ -14,8 +14,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Bosch** | [Internship at Product Management in Two-wheeler&Powersports HQ office](https://jobs.smartrecruiters.com/BoschGroup/744000144019399-internship-at-product-management-in-two-wheeler-powersports-hq-office?oga=true) | Bosch Corporation_Internship, , Japan |  | 2d |
-| **Amazon** | [【Class of 2028 & 2029／Internship】Software Development Engineers , Amazo…](https://www.amazon.jobs/en/jobs/10503558/class-of-2028-2029-internship-software-development-engineers-amazon-international-stores) | JP, 13, Tokyo |  | 3d |
+| **Bosch** | [Internship at Product Management in Two-wheeler&Powersports HQ office](https://jobs.smartrecruiters.com/BoschGroup/744000144019399-internship-at-product-management-in-two-wheeler-powersports-hq-office?oga=true) | Bosch Corporation_Internship, , Japan |  | 3d |
+| **Amazon** | [【Class of 2028 & 2029／Internship】Software Development Engineers , Amazo…](https://www.amazon.jobs/en/jobs/10503558/class-of-2028-2029-internship-software-development-engineers-amazon-international-stores) | JP, 13, Tokyo |  | 4d |
 | **Match Group** | [長期Internshipに直結！【9月9日(水)・9月10日(木)】Pairs 2 Days Internship Workshop](https://jobs.lever.co/matchgroup/d74b426e-3da3-44e1-a510-76610d7a6df3) | Tokyo |  | 2mo |
 
 <!-- TABLE_END -->

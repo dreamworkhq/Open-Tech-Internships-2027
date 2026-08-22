@@ -27,6 +27,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **SEEK** | [Content Designer Intern](https://jobs.smartrecruiters.com/SEEK/744000142780849-content-designer-intern?oga=true) | Bangkok, Bangkok, Thailand (Hybrid) |  | 9d |
+| **SEEK** | [Content Designer Intern](https://jobs.smartrecruiters.com/SEEK/744000142780849-content-designer-intern?oga=true) | Bangkok, Bangkok, Thailand (Hybrid) |  | 10d |
 
 <!-- TABLE_END -->

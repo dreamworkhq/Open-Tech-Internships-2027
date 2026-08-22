@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Worldvision** | [Graduate Digital Multi-Media & Graphic Design Intern](https://worldvision.wd1.myworkdayjobs.com/WorldVisionInternational/job/Karen-Kenya/Digital-Multi-Media---Graphic-Design-Intern_JR51695) | Karen, Kenya |  | 11d |
+| **Worldvision** | [Graduate Digital Multi-Media & Graphic Design Intern](https://worldvision.wd1.myworkdayjobs.com/WorldVisionInternational/job/Karen-Kenya/Digital-Multi-Media---Graphic-Design-Intern_JR51695) | Karen, Kenya |  | 12d |
 
 <!-- TABLE_END -->

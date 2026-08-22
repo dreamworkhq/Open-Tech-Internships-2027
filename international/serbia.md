@@ -14,7 +14,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Tenstorrent** | [Intern Software Engineer – Low Level SW Engineering](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4668185007) | Belgrade, Serbia |  | 28d |
+| **Tenstorrent** | [Intern Software Engineer – Low Level SW Engineering](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4668185007) | Belgrade, Serbia |  | 29d |
 | **Xsolla** | [AI-First Engineering Intern](https://jobs.lever.co/xsolla/553aea16-c106-462a-97f6-e0289ccd9288) | Serbia |  | 1mo |
 
 <!-- TABLE_END -->

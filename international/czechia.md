@@ -18,7 +18,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **Accenture** | [Data Engineer Intern](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Prague/Data-Engineer-Intern_R00329471) | Prague |  | 3d |
 | **SAP** | [SAP iXp Intern - Cloud Software Developer (Privacy SaaS)](https://career5.successfactors.eu/careers?company=SAP&jobId=458579) | Europe, Czech Republic, Prague (Hybrid) |  | 8d |
 | **Jobs Onsemi** | [INTERN - Full Stack Developer](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2505567) | Roznov pod Radhostem, Vsetin, Czech Republic |  | 10d |
-| **Ataccama** | [Frontend Engineer Intern (part-time)](https://jobs.lever.co/ataccama/60c2149d-da76-4df0-a5b1-68371afb6163) | Prague, Czechia |  | 20d |
+| **Ataccama** | [Frontend Engineer Intern (part-time)](https://jobs.lever.co/ataccama/60c2149d-da76-4df0-a5b1-68371afb6163) | Prague, Czechia |  | 21d |
 | **Novanta** | [Intern Tube sets & System test](https://novanta.wd5.myworkdayjobs.com/novanta-careers/job/Brno/Intern-Tube-sets---System-test_R009533) | Brno (Hybrid) |  | 22d |
 
 ### Other (2)
