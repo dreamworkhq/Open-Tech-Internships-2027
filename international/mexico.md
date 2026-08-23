@@ -2,27 +2,28 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**16 currently open roles** · Updated **2026-08-22**
+**17 currently open roles** · Updated **2026-08-23**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-9) · 9 roles
+- [Engineering](#engineering-10) · 10 roles
 - [Data Science](#data-science-6) · 6 roles
 - [Other](#other-1) · 1 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (9)
+### Engineering (10)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Micron** | [DRAM Design Engineer (Intern)](https://micron.wd1.myworkdayjobs.com/External/job/Jalisco-Mexico/DRAM-Design-Engineer--Intern-_JR108061) | Jalisco, Mexico |  | 3d |
-| **Micron** | [Design Verification Engineer Intern](https://micron.wd1.myworkdayjobs.com/External/job/Jalisco-Mexico/Design-Verification-Engineer-Intern_JR107487) | Jalisco, Mexico |  | 3d |
-| **Freudenberg** | [Digitalization & Data Automation Intern](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Queretaro/Digitalization---Data-Automation-Intern_R_00097135) | Queretaro |  | 6d |
-| **1000** | [IT Data & Analytics Engineering Internship - Interlomas](https://pg.wd5.myworkdayjobs.com/1000/job/MEXICO-CITY-GENERAL-OFFICE/IT-Data---Analytics-Engineering-_R000156708) | MEXICO CITY GENERAL OFFICE |  | 12d |
-| **Intel** | [Software Engineer (Intern)](https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/Software-Engineer--Intern-_JR0286207-1) | Mexico, Guadalajara |  | 13d |
+| **Micron** | [DRAM Design Engineer (Intern)](https://micron.wd1.myworkdayjobs.com/External/job/Jalisco-Mexico/DRAM-Design-Engineer--Intern-_JR108061) | Jalisco, Mexico |  | 4d |
+| **Micron** | [Design Verification Engineer Intern](https://micron.wd1.myworkdayjobs.com/External/job/Jalisco-Mexico/Design-Verification-Engineer-Intern_JR107487) | Jalisco, Mexico |  | 4d |
+| **Freudenberg** | [Digitalization & Data Automation Intern](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Queretaro/Digitalization---Data-Automation-Intern_R_00097135) | Queretaro |  | 7d |
+| **1000** | [IT Data & Analytics Engineering Internship - Interlomas](https://pg.wd5.myworkdayjobs.com/1000/job/MEXICO-CITY-GENERAL-OFFICE/IT-Data---Analytics-Engineering-_R000156708) | MEXICO CITY GENERAL OFFICE |  | 13d |
+| **Intel** | [Software Engineer (Intern)](https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/Software-Engineer--Intern-_JR0286207-1) | Mexico, Guadalajara |  | 14d |
 | **GE Aerospace** | [Intern - Software Full Stack](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Queretaro/Intern----Software-Full-Stack_R5037746-1) | Queretaro (Hybrid) |  | 1mo |
 | **Intel** | [Development Tools Software Intern](https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/Development-Tools-Software-Intern_JR0285211) | Mexico, Guadalajara (Hybrid) |  | 1mo |
+| **Intel** | [Software Development Intern (Automation and AI Enablement)](https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/Software-Development-Intern--Automation-and-AI-Enablement-_JR0285207) | Mexico, Guadalajara |  | 1mo |
 | **Amazon** | [Software Development Engineer Internship, Guadalajara](https://www.amazon.jobs/en/jobs/3123243/software-development-engineer-internship-guadalajara) | MX, Zapopan |  | 3mo |
 | **Amazon** | [Software Development Engineer Internship, Mexico City](https://www.amazon.jobs/en/jobs/3123246/software-development-engineer-internship-mexico-city) | MX, DIF, Mexico City |  | 3mo |
 
@@ -30,11 +31,11 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **1000** | [Business Intelligence & Data Analysis Internship - Interlomas](https://pg.wd5.myworkdayjobs.com/1000/job/MEXICO-CITY-GENERAL-OFFICE/Business-Intelligence---Data-Analysis-Internship---Interlomas_R000157317) | MEXICO CITY GENERAL OFFICE |  | 1d |
-| **MSCI** | [Real Estate Data Intern](https://globalcareers-msci.icims.com/jobs/5676/real-estate-data-intern/job) | Monterrey, NLE, MX |  | 11d |
-| **Shifttechnology** | [Data Scientist Intern (English Speaker)](https://job-boards.greenhouse.io/shifttechnology/jobs/7652429003) | Mexico - Mexico City (Hybrid) |  | 14d |
-| **Mastercard** | [Associate Consultant Intern, Business Experimentation, Internship Progr…](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Mexico-City-Mexico/Associate-Consultant-Intern--Business-Experimentation--Internship-Program-2027---Mexico-City--Mexico_R-286992-1) | Mexico City, Mexico (Hybrid) |  | 19d |
-| **OnEnergy** | [Data Scientist - Internship](https://job-boards.greenhouse.io/onenergy/jobs/4326885009) | Argentina; LATAM; Mexico City, Mexico City,… |  | 27d |
+| **1000** | [Business Intelligence & Data Analysis Internship - Interlomas](https://pg.wd5.myworkdayjobs.com/1000/job/MEXICO-CITY-GENERAL-OFFICE/Business-Intelligence---Data-Analysis-Internship---Interlomas_R000157317) | MEXICO CITY GENERAL OFFICE |  | 2d |
+| **MSCI** | [Real Estate Data Intern](https://globalcareers-msci.icims.com/jobs/5676/real-estate-data-intern/job) | Monterrey, NLE, MX |  | 12d |
+| **Shifttechnology** | [Data Scientist Intern (English Speaker)](https://job-boards.greenhouse.io/shifttechnology/jobs/7652429003) | Mexico - Mexico City (Hybrid) |  | 15d |
+| **Mastercard** | [Associate Consultant Intern, Business Experimentation, Internship Progr…](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Mexico-City-Mexico/Associate-Consultant-Intern--Business-Experimentation--Internship-Program-2027---Mexico-City--Mexico_R-286992-1) | Mexico City, Mexico (Hybrid) |  | 20d |
+| **OnEnergy** | [Data Scientist - Internship](https://job-boards.greenhouse.io/onenergy/jobs/4326885009) | Argentina; LATAM; Mexico City, Mexico City,… |  | 28d |
 | **Ingredion** | [SCH Data Analytics Intern](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Guadalajara-JAL/SCH-Data-Analytics-Intern_Req-20946) | Guadalajara, JAL |  | 2mo |
 
 ### Other (1)

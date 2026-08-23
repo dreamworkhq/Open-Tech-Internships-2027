@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**2 currently open roles** · Updated **2026-08-22**
+**2 currently open roles** · Updated **2026-08-23**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,7 +14,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Amazon** | [2027 Program/Product Manager Intern](https://www.amazon.jobs/en/jobs/10499684/2027-program-product-manager-intern) | ZA, Cape Town |  | 8d |
-| **SAS** | [Technical Intern-2027 Graduate Internship Program (Johannesburg)](https://globalcareers-sas.icims.com/jobs/42310/technical-intern-2027-graduate-internship-program-%28johannesburg%29/job) | Johannesburg, ZA (Hybrid) |  | 12d |
+| **Amazon** | [2027 Program/Product Manager Intern](https://www.amazon.jobs/en/jobs/10499684/2027-program-product-manager-intern) | ZA, Cape Town |  | 9d |
+| **SAS** | [Technical Intern-2027 Graduate Internship Program (Johannesburg)](https://globalcareers-sas.icims.com/jobs/42310/technical-intern-2027-graduate-internship-program-%28johannesburg%29/job) | Johannesburg, ZA (Hybrid) |  | 13d |
 
 <!-- TABLE_END -->

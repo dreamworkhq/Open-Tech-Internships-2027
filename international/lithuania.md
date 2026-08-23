@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**2 currently open roles** · Updated **2026-08-22**
+**2 currently open roles** · Updated **2026-08-23**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,7 +14,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Juvare** | [Software Engineer Associate (Internship)](https://job-boards.greenhouse.io/juvare/jobs/4725603005) | Kaunas, Lithuania |  | 1d |
+| **Juvare** | [Software Engineer Associate (Internship)](https://job-boards.greenhouse.io/juvare/jobs/4725603005) | Kaunas, Lithuania |  | 2d |
 | **Trimble** | [Software Engineering Intern](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Lithuania---Vilnius/Software-Engineering-Intern_R56614) | Lithuania - Vilnius |  | 1mo |
 
 <!-- TABLE_END -->
