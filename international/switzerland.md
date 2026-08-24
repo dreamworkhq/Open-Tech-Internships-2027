@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**15 currently open roles** · Updated **2026-08-23**
+**15 currently open roles** · Updated **2026-08-24**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -15,9 +15,9 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Swisscom** | [Internship Business Intelligence and Data Analyst](https://swisscom.wd103.myworkdayjobs.com/SwisscomExternalCareers/job/Zurich/Internship-Data-Analyst_R-0005774) | Zurich (Hybrid) |  | 2d |
-| **Google** | [Data Science PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/77684590197514950) | Zürich, Switzerland |  | 5d |
-| **Cc** | [Data Analyst Support Intern - January 2027](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Geneve/Data-Analyst-Support-Intern---January-2027_JOBREQ00115200-3) | Geneve (Hybrid) |  | 8d |
+| **Swisscom** | [Internship Business Intelligence and Data Analyst](https://swisscom.wd103.myworkdayjobs.com/SwisscomExternalCareers/job/Zurich/Internship-Data-Analyst_R-0005774) | Zurich (Hybrid) |  | 3d |
+| **Google** | [Data Science PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/77684590197514950) | Zürich, Switzerland |  | 6d |
+| **Cc** | [Data Analyst Support Intern - January 2027](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Geneve/Data-Analyst-Support-Intern---January-2027_JOBREQ00115200-3) | Geneve (Hybrid) |  | 9d |
 | **Swisscom** | [Internship Data Engineering Consulting](https://swisscom.wd103.myworkdayjobs.com/SwisscomExternalCareers/job/Zurich/Internship-Data---AI-Consulting_R-0006027) | Zurich (Hybrid) |  | 1mo |
 | **Nestlé** | [B2B Business Analytics Intern](https://career2.successfactors.eu/careers?company=nestleHRprdBX&jobId=411325) | Switzerland (Hybrid) |  | 1mo |
 | **Lombardodier** | [Internship - Enhancing Financial Knowledge Access with Generative AI](https://lombardodier.wd3.myworkdayjobs.com/Lombard_Odier_Careers/job/Geneva/Internship---Enhancing-Financial-Knowledge-Access-with-Generative-AI_R0007258) | Geneva |  | 1mo |
@@ -28,11 +28,11 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Roche** | [Internship/Thesis in Global Engineering Automation](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship-Thesis-in-Global-Engineering-Automation_202608-121014-2) | Basel |  | 4d |
-| **Gravisrobotics** | [Machine Learning Intern, Autonomy](https://jobs.lever.co/gravisrobotics/2cbb3ea8-259a-4193-9eee-4350e98febd4) | Zurich |  | 9d |
-| **Specialized** | [Product Compliance Engineering – Internship (Master's Level)](https://specialized.wd5.myworkdayjobs.com/Specialized_External_Career_Site/job/Switzerland-Cham-Office/Product-Compliance-Engineering---Internship--Master-s-Level-_R0011880) | Switzerland, Cham (Office) |  | 12d |
-| **Anybotics** | [Software Engineering Internship - AI Platform](https://jobs.lever.co/anybotics/7e305a48-4628-4a6a-b054-0367b6f6e586) | Zurich, Switzerland |  | 26d |
-| **Roche** | [RiSM Internship for students in Computer Science, Software Engineering,…](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/RiSM-Internship-for-students-in-Computer-Science--Software-Engineering--Data-Science-or-Bioinformatics--Basel--9-12-months-_202607-119043-1) | Basel |  | 27d |
+| **Roche** | [Internship/Thesis in Global Engineering Automation](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship-Thesis-in-Global-Engineering-Automation_202608-121014-2) | Basel |  | 5d |
+| **Gravisrobotics** | [Machine Learning Intern, Autonomy](https://jobs.lever.co/gravisrobotics/2cbb3ea8-259a-4193-9eee-4350e98febd4) | Zurich |  | 10d |
+| **Specialized** | [Product Compliance Engineering – Internship (Master's Level)](https://specialized.wd5.myworkdayjobs.com/Specialized_External_Career_Site/job/Switzerland-Cham-Office/Product-Compliance-Engineering---Internship--Master-s-Level-_R0011880) | Switzerland, Cham (Office) |  | 13d |
+| **Anybotics** | [Software Engineering Internship - AI Platform](https://jobs.lever.co/anybotics/7e305a48-4628-4a6a-b054-0367b6f6e586) | Zurich, Switzerland |  | 27d |
+| **Roche** | [RiSM Internship for students in Computer Science, Software Engineering,…](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/RiSM-Internship-for-students-in-Computer-Science--Software-Engineering--Data-Science-or-Bioinformatics--Basel--9-12-months-_202607-119043-1) | Basel |  | 28d |
 | **Anybotics** | [Product Data Management Internship](https://jobs.lever.co/anybotics/74b68707-86aa-4efc-9efb-94ca5ad82698) | Zurich, Switzerland | $40K | 2mo |
 | **Acadiapharmaceuticals** | [Technology, AI and Automation Intern, Europe](https://acadia.com/en-us/careers/job-board/8442634002?gh_jid=8442634002) | Zug, Switzerland (Hybrid) |  | 2mo |
 
