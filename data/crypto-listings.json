@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-23T19:24:52.935Z",
+  "generatedAt": "2026-08-24T19:36:20.997Z",
   "source": "dreamwork-public-job-index",
   "list": "Open-Tech-Internships-2027",
   "scope": "crypto",
-  "count": 90,
+  "count": 89,
   "listings": [
     {
       "id": "26c0f7c8-ab7a-44da-9c21-f08db10f335b",
@@ -358,22 +358,6 @@
       "url": "https://jobs.lever.co/binance/6296f8cc-4555-4919-a6a9-ed019585e1df"
     },
     {
-      "id": "efff3894-52b1-4d71-9c12-7de6f65e96d0",
-      "title": "Security Engineering Intern, Blue Team",
-      "company": "Coinhako",
-      "companyDomain": "coinhako.com",
-      "location": "Vietnam",
-      "locationCountryCode": "VN",
-      "functionPrimary": "Security",
-      "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-07-24T02:39:16.817Z",
-      "firstIndexedAt": "2026-07-25T10:45:18.545Z",
-      "url": "https://jobs.ashbyhq.com/coinhako/9e2026e4-a269-4e36-94ba-4c4620112699"
-    },
-    {
       "id": "609b0f4c-3147-436d-9556-7088d26e62b9",
       "title": "Security Engineering Intern, GRC",
       "company": "Coinhako",
@@ -388,6 +372,22 @@
       "postedAt": "2026-07-24T02:38:52.938Z",
       "firstIndexedAt": "2026-07-25T10:45:18.545Z",
       "url": "https://jobs.ashbyhq.com/coinhako/f9748d77-e859-4168-bdd3-b023bb64400a"
+    },
+    {
+      "id": "efff3894-52b1-4d71-9c12-7de6f65e96d0",
+      "title": "Security Engineering Intern, Blue Team",
+      "company": "Coinhako",
+      "companyDomain": "coinhako.com",
+      "location": "Vietnam",
+      "locationCountryCode": "VN",
+      "functionPrimary": "Security",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-07-24T02:39:16.817Z",
+      "firstIndexedAt": "2026-07-25T10:45:18.545Z",
+      "url": "https://jobs.ashbyhq.com/coinhako/9e2026e4-a269-4e36-94ba-4c4620112699"
     },
     {
       "id": "0fd2bb8a-4879-4058-8d63-9f1651e126a2",
@@ -932,22 +932,6 @@
       "postedAt": "2025-07-15T21:59:14.257Z",
       "firstIndexedAt": "2026-05-28T09:35:44.196Z",
       "url": "https://jobs.ashbyhq.com/allium/5d697ce5-b820-45c0-a101-86a05e1fb15e"
-    },
-    {
-      "id": "ad8e93f2-0a59-4d20-8da9-0c81bc7cf471",
-      "title": "Golang Development Engineer Intern",
-      "company": "Bybit",
-      "companyDomain": "bybit.com",
-      "location": "APAC - Remote",
-      "locationCountryCode": null,
-      "functionPrimary": "Engineering",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-05-14T12:50:05.000Z",
-      "firstIndexedAt": "2026-05-28T04:45:40.045Z",
-      "url": "https://job-boards.eu.greenhouse.io/bybit/jobs/4866809101"
     },
     {
       "id": "a10e03af-d9bf-4e79-9a80-1c7adfa11668",
