@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**7 currently open roles** · Updated **2026-08-24**
+**7 currently open roles** · Updated **2026-08-25**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -16,7 +16,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
 | **Lumentum** | [Product and Process Intern](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Thailand---Pathumthani-Navanakorn/Product-and-Process-Intern_202463) | Thailand - Pathumthani (Navanakorn) |  | 1mo |
-| **Western Digital** | [Intern - Automation Development Engineer (Studying Master's Degree)](https://jobs.smartrecruiters.com/WesternDigital/744000136959345-intern-automation-development-engineer-studying-master-s-degree-?oga=true) | BangPa-in, PHRA NAKHON SI AYUTTHAYA, Thaila… |  | 1mo |
+| **Western Digital** | [Intern - Automation Development Engineer (Studying Master's Degree)](https://jobs.smartrecruiters.com/WesternDigital/744000136954658-intern-automation-development-engineer-studying-master-s-degree-?oga=true) | BangPa-in, PHRA NAKHON SI AYUTTHAYA, Thaila… |  | 1mo |
 | **Tencent** | [Tencent Cloud – Solution Architecture Intern, Gen AI & Cloud(Thailand)](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Thailand-Bangkok/Tencent-Cloud---Solution-Architecture-Intern--Thailand-_R107668) | Thailand-Bangkok |  | 1mo |
 | **Western Digital** | [Intern - AI Information Technology (Studying Master's Degree) - Urgent …](https://jobs.smartrecruiters.com/WesternDigital/744000134646058-intern-ai-information-technology-studying-master-s-degree-urgent-need?oga=true) | BangPa-in, PHRA NAKHON SI AYUTTHAYA, Thaila… |  | 1mo |
 | **Western Digital** | [Intern - Software Developer (Studying Bachelor Degree) - Start in Janua…](https://jobs.smartrecruiters.com/WesternDigital/744000134646158-intern-software-developer-studying-bachelor-degree-start-in-january-2027?oga=true) | Amphoe Si Maha Phot, Prachin Buri, Thailand |  | 1mo |
@@ -26,6 +26,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **SEEK** | [Content Designer Intern](https://jobs.smartrecruiters.com/SEEK/744000142780849-content-designer-intern?oga=true) | Bangkok, Bangkok, Thailand (Hybrid) |  | 12d |
+| **SEEK** | [Content Designer Intern](https://jobs.smartrecruiters.com/SEEK/744000142780849-content-designer-intern?oga=true) | Bangkok, Bangkok, Thailand (Hybrid) |  | 13d |
 
 <!-- TABLE_END -->
