@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**11 currently open roles** · Updated **2026-08-25**
+**11 currently open roles** · Updated **2026-08-26**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -15,12 +15,12 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **SAP** | [Intern / Working Student (f/m/d): Software Development in Supply Chain …](https://career5.successfactors.eu/careers?company=SAP&jobId=457932) | Europe, Austria, Vienna (Hybrid) |  | 15d |
-| **NXP Semiconductors** | [Internship: Software Test Engineer - JavaCard Applications (m/f/d)](https://nxp.wd3.myworkdayjobs.com/careers/job/Gratkorn/Internship--Software-Test-Engineer---JavaCard-Applications_R-10060761-1) | Gratkorn (Hybrid) | $36K | 26d |
-| **NXP Semiconductors** | [Internship: Python Software Engineer (m/f/d)](https://nxp.wd3.myworkdayjobs.com/careers/job/Gratkorn/Internship--Python-Software-Engineer--m-f-d-_R-10065627-1) | Gratkorn (Hybrid) | $36K | 27d |
-| **NXP Semiconductors** | [Internship: Automotive Customer Application Software Engineer (m/f/d)](https://nxp.wd3.myworkdayjobs.com/careers/job/Gratkorn/Internship--Automotive-Customer-Application-Software-Engineer--m-f-d-_R-10064842) | Gratkorn (Hybrid) | $36K | 28d |
-| **NXP Semiconductors** | [Internship – Digital Verification & Generative AI Support (m/f/d)](https://nxp.wd3.myworkdayjobs.com/careers/job/Gratkorn/Internship---Digital-Verification---Generative-AI-Support--m-f-d-_R-10064593) | Gratkorn (Hybrid) | $36K | 1mo |
+| **SAP** | [Intern / Working Student (f/m/d): Software Development in Supply Chain …](https://career5.successfactors.eu/careers?company=SAP&jobId=457932) | Europe, Austria, Vienna (Hybrid) |  | 16d |
+| **NXP Semiconductors** | [Internship: Software Test Engineer - JavaCard Applications (m/f/d)](https://nxp.wd3.myworkdayjobs.com/careers/job/Gratkorn/Internship--Software-Test-Engineer---JavaCard-Applications_R-10060761-1) | Gratkorn (Hybrid) | $36K | 27d |
+| **NXP Semiconductors** | [Internship: Python Software Engineer (m/f/d)](https://nxp.wd3.myworkdayjobs.com/careers/job/Gratkorn/Internship--Python-Software-Engineer--m-f-d-_R-10065627-1) | Gratkorn (Hybrid) | $36K | 28d |
+| **NXP Semiconductors** | [Internship: Automotive Customer Application Software Engineer (m/f/d)](https://nxp.wd3.myworkdayjobs.com/careers/job/Gratkorn/Internship--Automotive-Customer-Application-Software-Engineer--m-f-d-_R-10064842) | Gratkorn (Hybrid) | $36K | 29d |
 | **NXP Semiconductors** | [Internship: Digital Design Team Support (m/f/d)](https://nxp.wd3.myworkdayjobs.com/careers/job/Gratkorn/Internship--Digital-Design-Team-Support--m-f-d-_R-10064594) | Gratkorn (Hybrid) | $36K | 1mo |
+| **NXP Semiconductors** | [Internship – Digital Verification & Generative AI Support (m/f/d)](https://nxp.wd3.myworkdayjobs.com/careers/job/Gratkorn/Internship---Digital-Verification---Generative-AI-Support--m-f-d-_R-10064593) | Gratkorn (Hybrid) | $36K | 1mo |
 | **NXP Semiconductors** | [Internship – Digital Design & Generative AI Support (m/f/d)](https://nxp.wd3.myworkdayjobs.com/careers/job/Gratkorn/Internship---Digital-Design---Generative-AI-Support--m-f-d-_R-10064592) | Gratkorn (Hybrid) | $36K | 1mo |
 | **NXP Semiconductors** | [Internship: Software Developer NFC/UWB System Verification (m/f/d)](https://nxp.wd3.myworkdayjobs.com/careers/job/Gratkorn/Internship--Software-Developer-NFC-UWB-System-Verification--m-f-d-_R-10064609) | Gratkorn (Hybrid) | $36K | 1mo |
 | **NXP Semiconductors** | [Internship: Embedded Software (Crypto Libraries) (m/f/d)](https://nxp.wd3.myworkdayjobs.com/careers/job/Gratkorn/Internship--Embedded-Software--Crypto-Libraries---m-f-d-_R-10064789-1) | Gratkorn (Hybrid) | $36K | 1mo |

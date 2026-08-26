@@ -2,23 +2,22 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**6 currently open roles** · Updated **2026-08-25**
+**5 currently open roles** · Updated **2026-08-26**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Other](#other-6) · 6 roles
+- [Other](#other-5) · 5 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Other (6)
+### Other (5)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Accenture** | [Data Engineer Intern](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Prague/Data-Engineer-Intern_R00329471) | Prague |  | 6d |
-| **Ataccama** | [Information Security & Compliance Intern](https://jobs.lever.co/ataccama/af0c5014-e90d-4c75-b59f-5ff39edf11fb) | Prague, Czechia (Hybrid) |  | 9d |
-| **SAP** | [SAP iXp Intern - Cloud Software Developer (Privacy SaaS)](https://career5.successfactors.eu/careers?company=SAP&jobId=458579) | Europe, Czech Republic, Prague (Hybrid) |  | 12d |
-| **Jobs Onsemi** | [INTERN - Full Stack Developer](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2505567) | Roznov pod Radhostem, Vsetin, Czech Republic |  | 13d |
-| **Novanta** | [Intern Tube sets & System test](https://novanta.wd5.myworkdayjobs.com/novanta-careers/job/Brno/Intern-Tube-sets---System-test_R009533) | Brno (Hybrid) |  | 25d |
-| **SAP** | [SAP iXp Intern - Data &amp; Analytics Associate](https://career5.successfactors.eu/careers?company=SAP&jobId=456004) | Europe, Czech Republic, Prague (Hybrid) |  | 1mo |
+| **Ataccama** | [Information Security & Compliance Intern](https://jobs.lever.co/ataccama/af0c5014-e90d-4c75-b59f-5ff39edf11fb) | Prague, Czechia (Hybrid) |  | 10d |
+| **SAP** | [SAP iXp Intern - Cloud Software Developer (Privacy SaaS)](https://career5.successfactors.eu/careers?company=SAP&jobId=458579) | Europe, Czech Republic, Prague (Hybrid) |  | 13d |
+| **Jobs Onsemi** | [INTERN - Full Stack Developer](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2505567) | Roznov pod Radhostem, Vsetin, Czech Republic |  | 14d |
+| **Novanta** | [Intern Tube sets & System test](https://novanta.wd5.myworkdayjobs.com/novanta-careers/job/Brno/Intern-Tube-sets---System-test_R009533) | Brno (Hybrid) |  | 26d |
+| **SAP** | [SAP iXp Intern - Data & Analytics Associate](https://career5.successfactors.eu/careers?company=SAP&jobId=456004) | Europe, Czech Republic, Prague (Hybrid) |  | 1mo |
 
 <!-- TABLE_END -->

@@ -1,4 +1,4 @@
-# Tech internships in Norway
+# Tech internships in Denmark
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Autodesk** | [Software Engineering Intern Summer 2027](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Norway---Oslo/Software-Engineering-Intern-Summer-2027_26WD100046) | Norway - Oslo |  | 1mo |
+| **Novo Nordisk** | [Data Visualization & Analysis Intern](https://career2.successfactors.eu/careers?company=novonordisk&jobId=344125) | Denmark, Capital Region of Denmark, Hillerød |  | 8d |
 
 <!-- TABLE_END -->

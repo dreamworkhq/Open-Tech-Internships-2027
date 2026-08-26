@@ -1,4 +1,4 @@
-# Tech internships in Norway
+# Tech internships in Algeria
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Autodesk** | [Software Engineering Intern Summer 2027](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Norway---Oslo/Software-Engineering-Intern-Summer-2027_26WD100046) | Norway - Oslo |  | 1mo |
+| **GE Vernova** | [Grid Automation & Software Intern](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Remote/Grid-Automation---Software-Intern_R5049276-2) | Remote |  | 0d |
 
 <!-- TABLE_END -->

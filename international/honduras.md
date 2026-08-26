@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**1 currently open roles** · Updated **2026-08-25**
+**1 currently open roles** · Updated **2026-08-26**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Goalhonduras** | [Professional University Intern– Humanitarian AI](https://job-boards.greenhouse.io/goalhonduras/jobs/7836868) | Remote (Honduras) |  | 2mo |
+| **Goalhonduras** | [Professional University Intern– Humanitarian AI](https://job-boards.greenhouse.io/goalhonduras/jobs/7836868) | Remote (Honduras) |  | 3mo |
 
 <!-- TABLE_END -->
