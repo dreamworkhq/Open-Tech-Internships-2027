@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**3 currently open roles** · Updated **2026-08-27**
+**3 currently open roles** · Updated **2026-08-28**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,7 +14,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Aumovio** | [Embedded Software Engineer Intern for Commercial and Special Vehicles](https://jobs.smartrecruiters.com/Aumovio/744000145697509-embedded-software-engineer-intern-for-commercial-and-special-vehicles?oga=true) | Novi Sad, Vojvodina, Serbia |  | 0d |
+| **Aumovio** | [Embedded Software Engineer Intern for Commercial and Special Vehicles](https://jobs.smartrecruiters.com/Aumovio/744000145697509-embedded-software-engineer-intern-for-commercial-and-special-vehicles?oga=true) | Novi Sad, Vojvodina, Serbia |  | 1d |
 | **Tenstorrent** | [Intern Software Engineer – Low Level SW Engineering](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4668185007) | Belgrade, Serbia |  | 1mo |
 | **Xsolla** | [AI-First Engineering Intern](https://jobs.lever.co/xsolla/553aea16-c106-462a-97f6-e0289ccd9288) | Serbia |  | 1mo |
 
