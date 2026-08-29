@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**12 currently open roles** · Updated **2026-08-28**
+**12 currently open roles** · Updated **2026-08-29**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -27,8 +27,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Clarioclinical** | [Intern, AI Prototyping](https://clarioclinical.wd1.myworkdayjobs.com/clarioclinical_careers/job/Leuven-Belgium/Intern--AI-Prototyping_R18061) | Leuven, Belgium (Hybrid) |  | 9d |
-| **BETUNED** | [PULSE FOUNDATION - Product & Impact Analyst Intern H/F/X](https://europa.eu/eures/portal/jv-se/jv-details/NTkxOTgyNiAy) | Brussels, Belgium (Hybrid) |  | 19d |
+| **Clarioclinical** | [Intern, AI Prototyping](https://clarioclinical.wd1.myworkdayjobs.com/clarioclinical_careers/job/Leuven-Belgium/Intern--AI-Prototyping_R18061) | Leuven, Belgium (Hybrid) |  | 10d |
+| **BETUNED** | [PULSE FOUNDATION - Product & Impact Analyst Intern H/F/X](https://europa.eu/eures/portal/jv-se/jv-details/NTkxOTgyNiAy) | Brussels, Belgium (Hybrid) |  | 20d |
 | **TechWolf** | [Internship - Software Engineer](https://careers.techwolf.ai/o/internship-software-engineer) | Ghent, Vlaams Gewest, Belgium |  | 1mo |
 | **1000** | [Engineering Internship - Automation/Mechanical/Mechatronic/Data Science…](https://pg.wd5.myworkdayjobs.com/1000/job/Brussels/Engineering-Internship---Automation-Mechanical-Mechatronic-Data-Science-Chemical_R000154036) | Brussels | $31K | 1mo |
 | **Brainsquare** | [Internship – Java or .NET Software Engineer](https://brainsquare.recruitee.com/o/brainsquare-internship-software-engineer) | Zaventem, Vlaams-Brabant, Belgium (Hybrid) |  | 1mo |

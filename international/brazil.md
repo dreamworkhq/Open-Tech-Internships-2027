@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**24 currently open roles** · Updated **2026-08-28**
+**24 currently open roles** · Updated **2026-08-29**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -16,10 +16,10 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Telus Digital** | [Data & AI Intern (Brazil) - Year Round 2027](https://jobs.ashbyhq.com/telus-digital/89730055-fa03-444d-aa05-0058946fa436) | Porto Alegre, Brazil (Hybrid) |  | 1d |
+| **Telus Digital** | [Data & AI Intern (Brazil) - Year Round 2027](https://jobs.ashbyhq.com/telus-digital/89730055-fa03-444d-aa05-0058946fa436) | Porto Alegre, Brazil (Hybrid) |  | 2d |
 | **SAP** | [SAP iXp Intern - Digital Solution Advisor - BAIP Specialist for SAP Dig…](https://career5.successfactors.eu/careers?company=SAP&jobId=458263) | Latin America, Brazil, São Paulo (Hybrid) |  | 14d |
-| **RedBull** | [Business Intelligence Intern (LATAM)](https://jobs.smartrecruiters.com/RedBull/744000142692837-business-intelligence-intern-latam-?oga=true) | São Paulo, SP, Brazil (Hybrid) |  | 16d |
-| **Mastercard** | [Associate Consultant Intern, Performance Analytics/ Business Experiment…](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Sao-Paulo-Brazil/Associate-Consultant-Intern--Performance-Analytics--Business-Experimentation--2027---So-Paulo--Brazil_R-286486-1) | Sao Paulo, Brazil |  | 26d |
+| **RedBull** | [Business Intelligence Intern (LATAM)](https://jobs.smartrecruiters.com/RedBull/744000142692837-business-intelligence-intern-latam-?oga=true) | São Paulo, SP, Brazil (Hybrid) |  | 17d |
+| **Mastercard** | [Associate Consultant Intern, Performance Analytics/ Business Experiment…](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Sao-Paulo-Brazil/Associate-Consultant-Intern--Performance-Analytics--Business-Experimentation--2027---So-Paulo--Brazil_R-286486-1) | Sao Paulo, Brazil |  | 27d |
 | **Swiss Re** | [Actuarial Portfolio Management Intern](https://career2.successfactors.eu/careers?company=SwissRe&jobId=138616) | Brazil (Hybrid) |  | 1mo |
 | **Shifttechnology** | [Data Scientist Intern (English Speaker)](https://job-boards.greenhouse.io/shifttechnology/jobs/7794260003) | Brazil - Sao Paulo (Hybrid) |  | 1mo |
 | **Amazon** | [Business Intelligence Intern, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/3149400/business-intelligence-intern-amazon-university-talent-acquisition) | BR, SP, Sao Paulo |  | 1mo |
@@ -31,8 +31,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **NOV** | [Automation Engineering Intern](https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42523) | Sao Joao da Barra, Rio de Janeiro, Brazil |  | 3d |
-| **Telus Digital** | [Software Engineering Intern (Brazil) - Year Round 2027](https://jobs.ashbyhq.com/telus-digital/98495440-1a32-4c7e-8183-f38beebfd1d0) | Porto Alegre, Brazil (Hybrid) |  | 6d |
+| **NOV** | [Automation Engineering Intern](https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42523) | Sao Joao da Barra, Rio de Janeiro, Brazil |  | 4d |
+| **Telus Digital** | [Software Engineering Intern (Brazil) - Year Round 2027](https://jobs.ashbyhq.com/telus-digital/98495440-1a32-4c7e-8183-f38beebfd1d0) | Porto Alegre, Brazil (Hybrid) |  | 7d |
 | **Vtex** | [Summer Internship 2027 \| Software Engineering](https://job-boards.greenhouse.io/vtex/jobs/6123528004) | Remote (Brazil) |  | 25d |
 | **Legrand Group Opportunities Joi…** | [Intern Hardware Engineer](https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/509) | Blumenau, SC, Brazil |  | 1mo |
 | **Cadence Design Systems** | [Intern: Software Engineering Jasper R&D](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BELO-HORIZONTE/Intern--Software-Engineering-Jasper-R-D_R55530) | BELO HORIZONTE |  | 1mo |

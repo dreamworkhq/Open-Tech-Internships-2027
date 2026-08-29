@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**9 currently open roles** · Updated **2026-08-28**
+**9 currently open roles** · Updated **2026-08-29**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -15,8 +15,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Dentsuaegis** | [Data Analyst Intern](https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/Jakarta/Data-Analyst-Intern_R1129197) | Jakarta |  | 18d |
-| **Xendit** | [Data / ML Automation Intern](https://job-boards.greenhouse.io/xendit/jobs/7821208003) | Jakarta, Indonesia |  | 26d |
+| **Dentsuaegis** | [Data Analyst Intern](https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/Jakarta/Data-Analyst-Intern_R1129197) | Jakarta |  | 19d |
+| **Xendit** | [Data / ML Automation Intern](https://job-boards.greenhouse.io/xendit/jobs/7821208003) | Jakarta, Indonesia |  | 27d |
 | **Go To Group** | [Data Scientist Intern](https://jobs.lever.co/GoToGroup/dff2a165-d111-4542-bfec-ec3856892275) | Jakarta |  | 1mo |
 | **Artefact** | [Data Scientist Intern (2024)](https://job-boards.greenhouse.io/artefact/jobs/8564128002) | Jakarta, Jakarta, Indonesia |  | 3mo |
 | **Artefact** | [Data Consultant Intern - (Indonesia, Jakarta)](https://job-boards.greenhouse.io/artefact/jobs/8076828002) | Jakarta, Jakarta, Indonesia |  | 3mo |
@@ -27,7 +27,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
 | **Global Campus** | [FY 27 - Internship - Enterprise System and Transformation Assurance](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Jakarta/FY-27---Internship---Enterprise-System-and-Transformation-Assurance_754342WD) | Jakarta |  | 6d |
-| **Cermati** | [Software Engineer Intern](https://jobs.smartrecruiters.com/Cermaticom/744000144468230-software-engineer-intern?oga=true) | Jakarta, Jakarta, Indonesia |  | 8d |
-| **Xendit** | [Full Stack Developer Intern](https://job-boards.greenhouse.io/xendit/jobs/7821207003) | Jakarta, Indonesia |  | 26d |
+| **Cermati** | [Software Engineer Intern](https://jobs.smartrecruiters.com/Cermaticom/744000144468230-software-engineer-intern?oga=true) | Jakarta, Jakarta, Indonesia |  | 9d |
+| **Xendit** | [Full Stack Developer Intern](https://job-boards.greenhouse.io/xendit/jobs/7821207003) | Jakarta, Indonesia |  | 27d |
 
 <!-- TABLE_END -->
