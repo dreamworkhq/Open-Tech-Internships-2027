@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**9 currently open roles** · Updated **2026-08-29**
+**9 currently open roles** · Updated **2026-08-30**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -15,10 +15,10 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **HPE** | [Cloud Quality Engineer – Internship](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Galway-Galway-Ireland/Cloud-Quality-Engineer---Internship_1211029) | Galway, Galway, Ireland (Hybrid) |  | 2d |
-| **Trend Micro** | [Applied AI Engineer Internship](https://trendmicro.wd3.myworkdayjobs.com/External/job/Cork/Applied-AI-Engineer-Internship_R0010091) | Cork |  | 3d |
-| **HPE** | [Software Engineering Intern](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Galway-Galway-Ireland/Software-Engineering-Intern_1211006) | Galway, Galway, Ireland (Hybrid) |  | 4d |
-| **Stripe** | [Software Engineer, Intern (Summer)](https://stripe.com/jobs/search?gh_jid=8097801) | Dublin |  | 10d |
+| **HPE** | [Cloud Quality Engineer – Internship](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Galway-Galway-Ireland/Cloud-Quality-Engineer---Internship_1211029) | Galway, Galway, Ireland (Hybrid) |  | 3d |
+| **Trend Micro** | [Applied AI Engineer Internship](https://trendmicro.wd3.myworkdayjobs.com/External/job/Cork/Applied-AI-Engineer-Internship_R0010091) | Cork |  | 4d |
+| **HPE** | [Software Engineering Intern](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Galway-Galway-Ireland/Software-Engineering-Intern_1211006) | Galway, Galway, Ireland (Hybrid) |  | 5d |
+| **Stripe** | [Software Engineer, Intern (Summer)](https://stripe.com/jobs/search?gh_jid=8097801) | Dublin |  | 11d |
 | **Virtu** | [2027 Internship - Software Engineer](https://job-boards.greenhouse.io/virtu/jobs/8551566002) | Dublin, Ireland |  | 1mo |
 | **Amazon** | [2027 Software Dev Engineer Intern](https://www.amazon.jobs/en/jobs/10418355/2027-software-dev-engineer-intern) | IE, Dublin |  | 2mo |
 | **Analog Devices** | [Mechanical and Robotics Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/Ireland-Limerick/Mechanical-and-Robotics-Intern_R258854) | Ireland, Limerick |  | 3mo |
@@ -27,7 +27,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Trend Micro** | [Cyber Security Engineer Internship](https://trendmicro.wd3.myworkdayjobs.com/External/job/Cork/Cyber-Security-Engineer-Internship_R0010093) | Cork |  | 3d |
-| **Trend Micro** | [Security Incident Analyst Internship](https://trendmicro.wd3.myworkdayjobs.com/External/job/Cork/Security-Incident-Analyst-Internship_R0010092) | Cork |  | 3d |
+| **Trend Micro** | [Security Incident Analyst Internship](https://trendmicro.wd3.myworkdayjobs.com/External/job/Cork/Security-Incident-Analyst-Internship_R0010092) | Cork |  | 4d |
+| **Trend Micro** | [Cyber Security Engineer Internship](https://trendmicro.wd3.myworkdayjobs.com/External/job/Cork/Cyber-Security-Engineer-Internship_R0010093) | Cork |  | 4d |
 
 <!-- TABLE_END -->
