@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**12 currently open roles** · Updated **2026-08-30**
+**12 currently open roles** · Updated **2026-08-31**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -15,11 +15,11 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **QIMA** | [AI Engineer - Internship](https://jobs.smartrecruiters.com/QIMA/744000145906434-ai-engineer-internship?oga=true) | Cebu City, Central Visayas, Philippines |  | 3d |
-| **Trend Micro** | [GRID DEVOPS INTERN](https://trendmicro.wd3.myworkdayjobs.com/External/job/Manila/GRID-DEVOPS-INTERN_R0010148) | Manila |  | 3d |
-| **Manulife** | [Network: Automation Engineering Intern](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Quezon-City/Network--Automation-Engineering-Intern_JR26061507) | Quezon City |  | 8d |
-| **Manulife** | [Automation: Software Technical Analysis Intern](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Quezon-City/Automation--Software-Technical-Analysis-Intern_JR26061506) | Quezon City |  | 8d |
-| **Western Digital** | [Intern - Data Analytics](https://jobs.smartrecruiters.com/WesternDigital/744000142781279-intern-data-analytics?oga=true) | Biñan City, LAGUNA, Philippines |  | 19d |
+| **QIMA** | [AI Engineer - Internship](https://jobs.smartrecruiters.com/QIMA/744000145906434-ai-engineer-internship?oga=true) | Cebu City, Central Visayas, Philippines |  | 4d |
+| **Trend Micro** | [GRID DEVOPS INTERN](https://trendmicro.wd3.myworkdayjobs.com/External/job/Manila/GRID-DEVOPS-INTERN_R0010148) | Manila |  | 4d |
+| **Manulife** | [Automation: Software Technical Analysis Intern](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Quezon-City/Automation--Software-Technical-Analysis-Intern_JR26061506) | Quezon City |  | 9d |
+| **Manulife** | [Network: Automation Engineering Intern](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Quezon-City/Network--Automation-Engineering-Intern_JR26061507) | Quezon City |  | 9d |
+| **Western Digital** | [Intern - Data Analytics](https://jobs.smartrecruiters.com/WesternDigital/744000142781279-intern-data-analytics?oga=true) | Biñan City, LAGUNA, Philippines |  | 20d |
 | **WTW** | [Early Careers: 2026 Developer - Intern Program Retirement Technology - …](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202601482) | Taguig, National Capital, Philippines (Hybrid) |  | 1mo |
 | **Manulife** | [Full Stack Engineer Intern](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Makati-City/Full-Stack-Engineer-Intern_JR26061875-1) | Makati City (Hybrid) |  | 2mo |
 | **Amadeus** | [Software Developer Intern](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Taguig-Metro-Manila/Software-Developer-Intern_R31590) | Taguig, Metro Manila |  | 3mo |
@@ -29,8 +29,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Amadeus** | [Junior Information Security Analyst (For Internship Program)](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Taguig-Metro-Manila/Junior-Information-Security-Analyst--For-Internship-Program-_R36909) | Taguig, Metro Manila (Hybrid) |  | 3d |
-| **Manulife** | [Application Security Intern](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Quezon-City/Application-Security-Intern_JR26030033) | Quezon City |  | 8d |
+| **Amadeus** | [Junior Information Security Analyst (For Internship Program)](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Taguig-Metro-Manila/Junior-Information-Security-Analyst--For-Internship-Program-_R36909) | Taguig, Metro Manila (Hybrid) |  | 4d |
+| **Manulife** | [Application Security Intern](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Quezon-City/Application-Security-Intern_JR26051165) | Quezon City |  | 9d |
 | **Amadeus** | [Cybersecurity Intern](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Taguig-Metro-Manila/Cybersecurity-Intern_R31596) | Taguig, Metro Manila |  | 3mo |
 
 <!-- TABLE_END -->

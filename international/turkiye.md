@@ -1,8 +1,8 @@
-# Tech internships in Chile
+# Tech internships in Türkiye
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**1 currently open roles** · Updated **2026-08-30**
+**1 currently open roles** · Updated **2026-08-31**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Mastercard** | [Associate Consultant Intern, 2027 – Santiago, Chile](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Santiago-Chile/Associate-Consultant-Intern--2027---Santiago--Chile_R-282263-1) | Santiago, Chile (Hybrid) |  | 1mo |
+| **GE Aerospace** | [Mechanical Design Engineering Intern (6 months)](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Istanbul/Mechanical-Design-Engineering-Intern--6-months-_R5039351-1) | Istanbul |  | 0d |
 
 <!-- TABLE_END -->

@@ -2,18 +2,19 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**1 currently open roles** · Updated **2026-08-30**
+**2 currently open roles** · Updated **2026-08-31**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Other](#other-1) · 1 roles
+- [Other](#other-2) · 2 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Other (1)
+### Other (2)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
+| **Accenture** | [COOP-Security Managed Services New Associate](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Riyadh/COOP-Security-Managed-Services-New-Associate_R00352594) | Riyadh |  | 0d |
 | **Lucidya** | [Entry-Level Software Engineer (Internship, Fresh Graduate)](https://apply.workable.com/lucidya/j/972E263571/) | Riyadh, Riyadh Province, Saudi Arabia (Hybrid) |  | 2mo |
 
 <!-- TABLE_END -->
