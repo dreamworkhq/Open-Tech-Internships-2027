@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**7 currently open roles** · Updated **2026-08-31**
+**7 currently open roles** · Updated **2026-09-01**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -17,7 +17,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 | --- | --- | --- | --- | --- |
 | **Quberesearchandtechnologies** | [2027 Internship/Graduate - Infrastructure / Cloud Engineer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749918002) | Hong Kong/Singapore/Shanghai |  | 4d |
 | **Quberesearchandtechnologies** | [2027 Internship/Graduate - Data Engineer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749947002) | Hong Kong |  | 4d |
-| **Imc** | [Software Engineer Intern 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4941206101) | Hong Kong, Hong Kong |  | 16d |
+| **Imc** | [Software Engineer Intern 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4941206101) | Hong Kong, Hong Kong |  | 17d |
 | **Schonfeld** | [Quantitative Research / Developer - Intern](https://job-boards.greenhouse.io/schonfeld/jobs/7185553) | Hong Kong, Hong Kong |  | 3mo |
 | **Jump Trading** | [Campus Trading Team Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7565728) | Hong Kong |  | 3mo |
 

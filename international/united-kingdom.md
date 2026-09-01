@@ -2,38 +2,41 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**35 currently open roles** · Updated **2026-08-31**
+**39 currently open roles** · Updated **2026-09-01**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-26) · 26 roles
-- [Data Science](#data-science-5) · 5 roles
+- [Engineering](#engineering-29) · 29 roles
+- [Data Science](#data-science-6) · 6 roles
 - [Other](#other-4) · 4 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (26)
+### Engineering (29)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Amazon** | [2026 Software Dev Engineer Intern - UK](https://www.amazon.jobs/en/jobs/3072061/2026-software-dev-engineer-intern-uk) | GB, London |  | 0d |
-| **Epic Games** | [Web Engineer Intern](https://epicgames.com/careers/jobs/6163851004?gh_jid=6163851004) | London,England,United Kingdom |  | 2d |
-| **Tencent** | [Large Model AI Infrastructure Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom/Large-Model-AI-Infrastructure-Intern_R108093) | United Kingdom |  | 2d |
-| **BNY** | [2027 BNY Internship Program -Engineering (Developer) (Manchester)](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/81318) | Greater Manchester, United Kingdom |  | 7d |
-| **Cisco** | [Software Engineer - Intern](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Harpenden-United-Kingdom/Software-Engineer---Intern_2023625) | Harpenden, United Kingdom |  | 9d |
-| **Cloudflare** | [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855) | In-Office |  | 10d |
+| **JPMorgan Chase** | [2027 Software Engineer Program - Summer Internship - Glasgow & London](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/210774716) | LONDON, LONDON, United Kingdom |  | 0d |
+| **JPMorgan Chase** | [2027 Software Engineer Immersion Program - Summer Internship - Glasgow](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/210774813) | GLASGOW, LANARKSHIRE, United Kingdom |  | 0d |
+| **Stripe** | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130867) | London | $62K | 0d |
+| **Amazon** | [2026 Software Dev Engineer Intern - UK](https://www.amazon.jobs/en/jobs/3072061/2026-software-dev-engineer-intern-uk) | GB, London |  | 1d |
+| **Epic Games** | [Web Engineer Intern](https://epicgames.com/careers/jobs/6163851004?gh_jid=6163851004) | London,England,United Kingdom |  | 3d |
+| **Tencent** | [Large Model AI Infrastructure Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom/Large-Model-AI-Infrastructure-Intern_R108093) | United Kingdom |  | 3d |
+| **BNY** | [2027 BNY Internship Program -Engineering (Developer) (Manchester)](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/81318) | Greater Manchester, United Kingdom |  | 8d |
+| **Cisco** | [Software Engineer - Intern](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Harpenden-United-Kingdom/Software-Engineer---Intern_2023625) | Harpenden, United Kingdom |  | 10d |
+| **Cloudflare** | [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855) | In-Office |  | 11d |
 | **Xantium** | [Quantitative Developer Intern](https://job-boards.greenhouse.io/xantium/jobs/4360768009) | London, England, New York, New York | $192K–$228K | 11d |
-| **Google** | [Software Engineering or SRE, PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/80037545080955590) | London, UK |  | 13d |
-| **Optiverus** | [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002) | London, England, United Kingdom |  | 13d |
-| **NXP Semiconductors** | [Intern AI and Software Engineer - Automotive MPUs](https://nxp.wd3.myworkdayjobs.com/careers/job/Glasgow/Intern-AI-and-Software-Engineer---Automotive-MPUs_R-10065882-1) | Glasgow |  | 14d |
-| **Tencent** | [Software Engineering Intern](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/United-Kingdom-London/Software-Engineering-Intern_R107162) | United Kingdom-London |  | 15d |
-| **Dmgmedia** | [AI Engineer Internship](https://www.dmgmedia.co.uk/careers/jobs/id/8130352?gh_jid=8130352) | London |  | 16d |
-| **Dvtrading** | [Software Engineer Intern - Summer 2027 (DV Commodities)](https://job-boards.greenhouse.io/dvtrading/jobs/4719125005) | London |  | 16d |
+| **Google** | [Software Engineering or SRE, PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/80037545080955590) | London, UK |  | 14d |
+| **Optiverus** | [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002) | London, England, United Kingdom |  | 14d |
+| **NXP Semiconductors** | [Intern AI and Software Engineer - Automotive MPUs](https://nxp.wd3.myworkdayjobs.com/careers/job/Glasgow/Intern-AI-and-Software-Engineer---Automotive-MPUs_R-10065882-1) | Glasgow |  | 15d |
+| **Tencent** | [Software Engineering Intern](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/United-Kingdom-London/Software-Engineering-Intern_R107162) | United Kingdom-London |  | 16d |
+| **Dmgmedia** | [AI Engineer Internship](https://www.dmgmedia.co.uk/careers/jobs/id/8130352?gh_jid=8130352) | London |  | 17d |
+| **Dvtrading** | [Software Engineer Intern - Summer 2027 (DV Commodities)](https://job-boards.greenhouse.io/dvtrading/jobs/4719125005) | London |  | 17d |
 | **Samsara** | [Software Engineering Internship - London](https://www.samsara.com/company/careers/roles/8082093?gh_jid=8082093) | London - UK2 (Hybrid) | $81K | 27d |
 | **Palantir** | [Software Engineer, Internship - Infrastructure](https://jobs.lever.co/palantir/fd3603a9-7016-45c6-9c8d-04c9279ab85e) | London, United Kingdom (Hybrid) |  | 1mo |
 | **Palantir** | [Software Engineer, Internship](https://jobs.lever.co/palantir/76a60923-bb49-40f5-b061-7c7eb1299602) | London, United Kingdom (Hybrid) |  | 1mo |
-| **Palantir** | [Forward Deployed Software Engineer, Internship - UK Government](https://jobs.lever.co/palantir/26e23f5d-083b-45aa-b223-1a6e43d960bf) | London, United Kingdom (Hybrid) |  | 1mo |
 | **Palantir** | [Forward Deployed Software Engineer, Internship - Commercial](https://jobs.lever.co/palantir/599b1907-aba1-4303-837b-66e69a521636) | London, United Kingdom (Hybrid) |  | 1mo |
+| **Palantir** | [Forward Deployed Software Engineer, Internship - UK Government](https://jobs.lever.co/palantir/26e23f5d-083b-45aa-b223-1a6e43d960bf) | London, United Kingdom (Hybrid) |  | 1mo |
 | **HP Inc.** | [Browser Software Engineer Intern](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Cambridge-Cambridgeshire-United-Kingdom/Browser-Software-Engineer-Intern_3160410-1) | Cambridge, Cambridgeshire, United Kingdom |  | 1mo |
 | **Jump Trading** | [Campus Data Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7975008) | London |  | 1mo |
 | **Jump Trading** | [Campus UI Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7974943) | London |  | 1mo |
@@ -43,13 +46,14 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **Apple** | [SoC Performance Modeling Internship - Platform Architecture](https://jobs.apple.com/en-us/details/200629965/soc-performance-modeling-internship-platform-architecture?team=HRDWR) | London |  | 3mo |
 | **Perplexity AI** | [Internship - Search Machine Learning Engineer](https://jobs.ashbyhq.com/perplexity/71168628-1998-47d3-87a9-be7bc56a430d) | London |  | 3mo |
 
-### Data Science (5)
+### Data Science (6)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **BNY** | [2027 BNY Internship Program -Engineering (Data Science) (Manchester)](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/81322) | Greater Manchester, United Kingdom |  | 7d |
-| **Google** | [Data Science PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/73321728058499782) | London, UK |  | 13d |
-| **Tencent** | [Data Product Intern](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/United-Kingdom-London/Data-Product-Intern_R107644) | United Kingdom-London |  | 15d |
+| **JPMorgan Chase** | [2027 Data & AI - Summer Internship - Glasgow & London](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/210774745) | LONDON, LONDON, United Kingdom |  | 0d |
+| **BNY** | [2027 BNY Internship Program -Engineering (Data Science) (Manchester)](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/81322) | Greater Manchester, United Kingdom |  | 8d |
+| **Google** | [Data Science PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/73321728058499782) | London, UK |  | 14d |
+| **Tencent** | [Data Product Intern](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/United-Kingdom-London/Data-Product-Intern_R107644) | United Kingdom-London |  | 16d |
 | **Cc** | [Data Intern – Global Data Program (H/F/X) – September 2026](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/London/Data-Intern---Global-Data-Program--H-F-X----September-2026_JOBREQ00115336) | London |  | 1mo |
 | **Gresearch** | [Data Science Internship](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Data-Science-Internship_R3679) | London, UK |  | 1mo |
 
@@ -57,7 +61,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **SWIFT** | [Standards Strategy & Product Management Intern](https://swift.wd3.myworkdayjobs.com/join-swift/job/London-United-Kingdom/Standards-Strategy---Product-Management-Intern_2026-16374) | London, United Kingdom |  | 12d |
+| **SWIFT** | [Standards Strategy & Product Management Intern](https://swift.wd3.myworkdayjobs.com/join-swift/job/London-United-Kingdom/Standards-Strategy---Product-Management-Intern_2026-16374) | London, United Kingdom |  | 13d |
 | **Palantir** | [Product Designer, Internship](https://jobs.lever.co/palantir/44129013-01e0-4699-8fc1-7a189bb37b63) | London, United Kingdom (Hybrid) |  | 1mo |
 | **Cc** | [Information Security Intern – Governance, Risk & Compliance (GRC)](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/London/Information-Security-Intern---Governance--Risk---Compliance--GRC-_JOBREQ00115341) | London |  | 1mo |
 | **Cc** | [Internship - Cyber Transformation Officer GISEC](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/London/Internship---Cyber-Transformation-Officer-GISEC_JOBREQ00115118) | London |  | 1mo |

@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**5 currently open roles** · Updated **2026-08-31**
+**5 currently open roles** · Updated **2026-09-01**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,10 +14,10 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **SAP** | [Edge Lifecycle Management iXp Intern - Full Stack Developer](https://career5.successfactors.eu/careers?company=SAP&jobId=459323) | Europe, Bulgaria, Sofia (Hybrid) |  | 5d |
-| **SAP** | [SAP iXp Intern - Software Developer for Circular Economy Cloud Applicat…](https://career5.successfactors.eu/careers?company=SAP&jobId=458211) | Europe, Bulgaria, Sofia (Hybrid) |  | 13d |
-| **SAP** | [iXP Intern Developer Security](https://career5.successfactors.eu/careers?company=SAP&jobId=458256) | Europe, Bulgaria, Sofia (Hybrid) |  | 13d |
-| **SAP** | [SAP iXp Intern - DevOps Cloud Software Engineer](https://career5.successfactors.eu/careers?company=SAP&jobId=456856) | Europe, Bulgaria, Sofia (Hybrid) |  | 20d |
-| **Roche** | [Business Analytics & Digital Intern](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Sofia/Business-Analytics---Digital-Intern_202607-119289) | Sofia |  | 20d |
+| **SAP** | [Edge Lifecycle Management iXp Intern - Full Stack Developer](https://career5.successfactors.eu/careers?company=SAP&jobId=459323) | Europe, Bulgaria, Sofia (Hybrid) |  | 6d |
+| **SAP** | [SAP iXp Intern - Software Developer for Circular Economy Cloud Applicat…](https://career5.successfactors.eu/careers?company=SAP&jobId=458211) | Europe, Bulgaria, Sofia (Hybrid) |  | 14d |
+| **SAP** | [iXP Intern Developer Security](https://career5.successfactors.eu/careers?company=SAP&jobId=458256) | Europe, Bulgaria, Sofia (Hybrid) |  | 14d |
+| **SAP** | [SAP iXp Intern - DevOps Cloud Software Engineer](https://career5.successfactors.eu/careers?company=SAP&jobId=456856) | Europe, Bulgaria, Sofia (Hybrid) |  | 21d |
+| **Roche** | [Business Analytics & Digital Intern](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Sofia/Business-Analytics---Digital-Intern_202607-119289) | Sofia |  | 21d |
 
 <!-- TABLE_END -->
