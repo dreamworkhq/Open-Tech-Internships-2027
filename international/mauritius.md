@@ -1,4 +1,4 @@
-# Tech internships in Puerto Rico
+# Tech internships in Mauritius
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Aerospace** | [Puerto Rico - Software Engineering Intern - Summer 2027 (U.S. Person Re…](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/121413) | Puerto Rico | $49K–$51K | 1d |
+| **Accenture** | [Software Engineer Intern](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ebene/Software-Engineer-Intern_R00342918-1) | Ebene |  | 1mo |
 
 <!-- TABLE_END -->
