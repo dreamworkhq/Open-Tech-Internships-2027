@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**9 currently open roles** · Updated **2026-09-02**
+**9 currently open roles** · Updated **2026-09-03**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,14 +14,14 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Stripe** | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130807) | Bucharest | $31K | 1d |
-| **Axpo Group** | [Intern Design Engineer / BIM Modeler (f/m/d)](https://axpogroup.teamtailor.com/jobs/8274149-intern-design-engineer-bim-modeler-f-m-d) | Cluj-Napoca, RO |  | 5d |
-| **Aumovio** | [Internship for Software Test Engineer (Iasi)](https://jobs.smartrecruiters.com/Aumovio/744000144474659-internship-for-software-test-engineer-iasi-?oga=true) | Iași, IS, Romania |  | 13d |
-| **GE Vernova** | [Software Engineering Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bucharest/Software-Engineering-Intern_R5050160-1) | Bucharest |  | 15d |
-| **GE Vernova** | [DevOps (SRE) Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bucharest/DevOps--SRE--Intern_R5049863) | Bucharest |  | 15d |
-| **NXP Semiconductors** | [DevOps Intern](https://nxp.wd3.myworkdayjobs.com/careers/job/Bucharest/DevOps-Intern_R-10066169) | Bucharest (Hybrid) |  | 21d |
+| **Stripe** | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130807) | Bucharest | $31K | 2d |
+| **Axpo Group** | [Intern Design Engineer / BIM Modeler (f/m/d)](https://axpogroup.teamtailor.com/jobs/8274149-intern-design-engineer-bim-modeler-f-m-d) | Cluj-Napoca, RO |  | 6d |
+| **Aumovio** | [Internship for Software Test Engineer (Iasi)](https://jobs.smartrecruiters.com/Aumovio/744000144474659-internship-for-software-test-engineer-iasi-?oga=true) | Iași, IS, Romania |  | 14d |
+| **GE Vernova** | [Software Engineering Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bucharest/Software-Engineering-Intern_R5050162-1) | Bucharest |  | 16d |
+| **GE Vernova** | [DevOps (SRE) Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bucharest/DevOps--SRE--Intern_R5049863) | Bucharest |  | 16d |
+| **NXP Semiconductors** | [DevOps Intern](https://nxp.wd3.myworkdayjobs.com/careers/job/Bucharest/DevOps-Intern_R-10066169) | Bucharest (Hybrid) |  | 22d |
 | **Analog Devices** | [Embedded Software Apps Engineering Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/Romania-Cluj-Napoca/Embedded-Software-Apps-Engineering-Intern_R257261) | Romania, Cluj-Napoca |  | 3mo |
-| **NXP Semiconductors** | [Web Application Developer Intern](https://nxp.wd3.myworkdayjobs.com/careers/job/Sibiu/Web-Application-Developer_R-10062194-1) | Sibiu (Hybrid) |  | 3mo |
 | **NXP Semiconductors** | [Software Intern Student - RealTime Drivers](https://nxp.wd3.myworkdayjobs.com/careers/job/Bucharest/Software-Intern-Student---RealTime-Drivers_R-10062117) | Bucharest (Hybrid) |  | 3mo |
+| **NXP Semiconductors** | [Web Application Developer Intern](https://nxp.wd3.myworkdayjobs.com/careers/job/Sibiu/Web-Application-Developer_R-10062194-1) | Sibiu (Hybrid) |  | 3mo |
 
 <!-- TABLE_END -->
