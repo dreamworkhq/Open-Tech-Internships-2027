@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**1 currently open roles** · Updated **2026-09-03**
+**1 currently open roles** · Updated **2026-09-04**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **NielsenIQ** | [Intern](https://jobs.smartrecruiters.com/NielsenIQ/744000144590294-intern?oga=true) | Guayaquil, G, Ecuador (Hybrid) |  | 13d |
+| **NielsenIQ** | [Intern](https://jobs.smartrecruiters.com/NielsenIQ/744000144590294-intern?oga=true) | Guayaquil, G, Ecuador (Hybrid) |  | 14d |
 
 <!-- TABLE_END -->

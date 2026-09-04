@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**14 currently open roles** · Updated **2026-09-03**
+**14 currently open roles** · Updated **2026-09-04**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -28,8 +28,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Devoteam** | [Software Engineer Internship (AI-Powered Software Factory)](https://jobs.smartrecruiters.com/Devoteam/744000146762399-software-engineer-internship-ai-powered-software-factory-?oga=true) | Machelen, Vlaanderen, Belgium (Hybrid) |  | 1d |
-| **Clarioclinical** | [Intern, AI Prototyping](https://clarioclinical.wd1.myworkdayjobs.com/clarioclinical_careers/job/Leuven-Belgium/Intern--AI-Prototyping_R18061) | Leuven, Belgium (Hybrid) |  | 15d |
+| **Devoteam** | [Software Engineer Internship (AI-Powered Software Factory)](https://jobs.smartrecruiters.com/Devoteam/744000146762399-software-engineer-internship-ai-powered-software-factory-?oga=true) | Machelen, Vlaanderen, Belgium (Hybrid) |  | 2d |
+| **Clarioclinical** | [Intern, AI Prototyping](https://clarioclinical.wd1.myworkdayjobs.com/clarioclinical_careers/job/Leuven-Belgium/Intern--AI-Prototyping_R18061) | Leuven, Belgium (Hybrid) |  | 16d |
 | **TechWolf** | [Internship - Software Engineer](https://careers.techwolf.ai/o/internship-software-engineer) | Ghent, Vlaams Gewest, Belgium |  | 1mo |
 | **1000** | [Engineering Internship - Automation/Mechanical/Mechatronic/Data Science…](https://pg.wd5.myworkdayjobs.com/1000/job/Brussels/Engineering-Internship---Automation-Mechanical-Mechatronic-Data-Science-Chemical_R000154036) | Brussels | $31K | 1mo |
 | **Brainsquare** | [Internship – Java or .NET Software Engineer](https://brainsquare.recruitee.com/o/brainsquare-internship-software-engineer) | Zaventem, Vlaams-Brabant, Belgium (Hybrid) |  | 2mo |
@@ -38,7 +38,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Keysight** | [Cybersecurity Intern](https://jobs.keysight.com/jobs/53691?lang=en-us) | Leuven, Vlaams Brabant, Belgium |  | 1d |
-| **BETUNED** | [PULSE FOUNDATION - Product & Impact Analyst Intern H/F/X](https://europa.eu/eures/portal/jv-se/jv-details/NTkxOTgyNiAy) | Brussels, Belgium (Hybrid) |  | 25d |
+| **Keysight** | [Cybersecurity Intern](https://jobs.keysight.com/jobs/53691?lang=en-us) | Leuven, Vlaams Brabant, Belgium |  | 2d |
+| **BETUNED** | [PULSE FOUNDATION - Product & Impact Analyst Intern H/F/X](https://europa.eu/eures/portal/jv-se/jv-details/NTkxOTgyNiAy) | Brussels, Belgium (Hybrid) |  | 26d |
 
 <!-- TABLE_END -->

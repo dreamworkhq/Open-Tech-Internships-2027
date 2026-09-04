@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**14 currently open roles** · Updated **2026-09-03**
+**14 currently open roles** · Updated **2026-09-04**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -15,24 +15,24 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Lokainc** | [Data Engineering Intern](https://job-boards.greenhouse.io/lokainc/jobs/5226236007) | Remote (Portugal) |  | 0d |
-| **Bosch** | [Extracurricular Internship: Product Compliance Engineer (f/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000146483377-extracurricular-internship-product-compliance-engineer-f-m-div-?oga=true) | Aveiro, , Portugal (Hybrid) |  | 2d |
-| **Bosch** | [Extracurricular Internship: Design for Environment Engineer (f/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000146486158-extracurricular-internship-design-for-environment-engineer-f-m-div-?oga=true) | Aveiro, , Portugal (Hybrid) |  | 2d |
-| **Bosch** | [Extracurricular Internship: AI & Automation Development (f/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000145938412-extracurricular-internship-ai-automation-development-f-m-div-?oga=true) | Aveiro, , Portugal |  | 5d |
-| **Bosch** | [Academic Internship in Software Engineering (f/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000144735299-academic-internship-in-software-engineering-f-m-div-?oga=true) | Braga, Braga, Portugal (Hybrid) |  | 11d |
-| **Bosch** | [Extracurricular Internship: Mechanical Design Engineer (f/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000144607039-extracurricular-internship-mechanical-design-engineer-f-m-div-?oga=true) | Ovar, , Portugal (Hybrid) |  | 13d |
-| **Bosch** | [DevOps Engineer - Internship (f/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000143455469-devops-engineer-internship-f-m-div-?oga=true) | Ovar, , Portugal (Hybrid) |  | 19d |
-| **Bosch** | [C# Developer - Internship (f/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000143454572-c-developer-internship-f-m-div-?oga=true) | Ovar, , Portugal (Hybrid) |  | 19d |
-| **Bosch** | [Extracurricular Internship: Hardware Test Engineer - eBike (f/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000142175270-extracurricular-internship-hardware-test-engineer-ebike-f-m-div-?oga=true) | Ovar, , Portugal (Hybrid) |  | 26d |
+| **Lokainc** | [Data Engineering Intern](https://job-boards.greenhouse.io/lokainc/jobs/5226236007) | Remote (Portugal) |  | 1d |
+| **Bosch** | [Extracurricular Internship: Design for Environment Engineer (f/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000146486158-extracurricular-internship-design-for-environment-engineer-f-m-div-?oga=true) | Aveiro, , Portugal (Hybrid) |  | 3d |
+| **Bosch** | [Extracurricular Internship: Product Compliance Engineer (f/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000146483377-extracurricular-internship-product-compliance-engineer-f-m-div-?oga=true) | Aveiro, , Portugal (Hybrid) |  | 3d |
+| **Bosch** | [Extracurricular Internship: AI & Automation Development (f/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000145938412-extracurricular-internship-ai-automation-development-f-m-div-?oga=true) | Aveiro, , Portugal |  | 6d |
+| **Bosch** | [Academic Internship in Software Engineering (f/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000144735299-academic-internship-in-software-engineering-f-m-div-?oga=true) | Braga, Braga, Portugal (Hybrid) |  | 12d |
+| **Bosch** | [Extracurricular Internship: Mechanical Design Engineer (f/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000144607039-extracurricular-internship-mechanical-design-engineer-f-m-div-?oga=true) | Ovar, , Portugal (Hybrid) |  | 14d |
+| **Bosch** | [DevOps Engineer - Internship (f/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000143455469-devops-engineer-internship-f-m-div-?oga=true) | Ovar, , Portugal (Hybrid) |  | 20d |
+| **Bosch** | [C# Developer - Internship (f/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000143454572-c-developer-internship-f-m-div-?oga=true) | Ovar, , Portugal (Hybrid) |  | 20d |
+| **Bosch** | [Extracurricular Internship: Hardware Test Engineer - eBike (f/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000142175270-extracurricular-internship-hardware-test-engineer-ebike-f-m-div-?oga=true) | Ovar, , Portugal (Hybrid) |  | 27d |
 | **Transperfect** | [Data Engineering \| Intern \| Lisbon](https://transperfect.com/o/data-engineering-intern-lisbon-3) | Lisbon, Lisboa, Portugal (Hybrid) |  | 1mo |
 
 ### Other (4)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Bosch** | [Academic Internship in Service & Visual Communication Designer Intern (…](https://jobs.smartrecruiters.com/BoschGroup/744000146164837-academic-internship-in-service-visual-communication-designer-intern-f-m-div-?oga=true) | Braga, Braga, Portugal (Hybrid) |  | 5d |
-| **Bosch** | [Extracurricular Internship: UX and Product Documentation (f/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000144523649-extracurricular-internship-ux-and-product-documentation-f-m-div-?oga=true) | Aveiro, , Portugal (Hybrid) |  | 13d |
-| **Bosch** | [Academic Internship in Corporate Governance Information Security & Data…](https://jobs.smartrecruiters.com/BoschGroup/744000144588559-academic-internship-in-corporate-governance-information-security-data-protection-f-m-div-?oga=true) | Braga, Braga, Portugal (Hybrid) |  | 13d |
-| **Devoteam** | [Devoteam Cyber Trust \| Cybersecurity Engineer \| IEFP Internship](https://jobs.smartrecruiters.com/Devoteam/744000141674647-devoteam-cyber-trust-cybersecurity-engineer-iefp-internship?oga=true) | Lisboa, Lisboa, Portugal (Hybrid) |  | 29d |
+| **Bosch** | [Academic Internship in Service & Visual Communication Designer Intern (…](https://jobs.smartrecruiters.com/BoschGroup/744000146164837-academic-internship-in-service-visual-communication-designer-intern-f-m-div-?oga=true) | Braga, Braga, Portugal (Hybrid) |  | 6d |
+| **Bosch** | [Extracurricular Internship: UX and Product Documentation (f/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000144523649-extracurricular-internship-ux-and-product-documentation-f-m-div-?oga=true) | Aveiro, , Portugal (Hybrid) |  | 14d |
+| **Bosch** | [Academic Internship in Corporate Governance Information Security & Data…](https://jobs.smartrecruiters.com/BoschGroup/744000144588559-academic-internship-in-corporate-governance-information-security-data-protection-f-m-div-?oga=true) | Braga, Braga, Portugal (Hybrid) |  | 14d |
+| **Devoteam** | [Devoteam Cyber Trust \| Cybersecurity Engineer \| IEFP Internship](https://jobs.smartrecruiters.com/Devoteam/744000141674647-devoteam-cyber-trust-cybersecurity-engineer-iefp-internship?oga=true) | Lisboa, Lisboa, Portugal (Hybrid) |  | 1mo |
 
 <!-- TABLE_END -->

@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**1 currently open roles** · Updated **2026-09-03**
+**1 currently open roles** · Updated **2026-09-04**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **GE Vernova** | [Grid Automation & Software Intern](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Remote/Grid-Automation---Software-Intern_R5049276-2) | Remote |  | 8d |
+| **GE Vernova** | [Grid Automation & Software Intern](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Remote/Grid-Automation---Software-Intern_R5049276-2) | Remote |  | 9d |
 
 <!-- TABLE_END -->
