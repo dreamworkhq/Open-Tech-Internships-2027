@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**8 currently open roles** · Updated **2026-09-05**
+**8 currently open roles** · Updated **2026-09-06**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,9 +14,9 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Tenstorrent** | [Software Engineering Intern (Oct 2026 start)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5221670007) | Belgrade, Serbia |  | 6d |
-| **Epic Games** | [Web Engineer Intern](https://epicgames.com/careers/jobs/6174265004?gh_jid=6174265004) | Novi Sad,Vojvodina,Serbia |  | 7d |
-| **Aumovio** | [Embedded Software Engineer Intern for Commercial and Special Vehicles](https://jobs.smartrecruiters.com/Aumovio/744000145697509-embedded-software-engineer-intern-for-commercial-and-special-vehicles?oga=true) | Novi Sad, Vojvodina, Serbia |  | 9d |
+| **Tenstorrent** | [Software Engineering Intern (Oct 2026 start)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5221670007) | Belgrade, Serbia |  | 7d |
+| **Epic Games** | [Web Engineer Intern](https://epicgames.com/careers/jobs/6174265004?gh_jid=6174265004) | Novi Sad,Vojvodina,Serbia |  | 8d |
+| **Aumovio** | [Embedded Software Engineer Intern for Commercial and Special Vehicles](https://jobs.smartrecruiters.com/Aumovio/744000145697509-embedded-software-engineer-intern-for-commercial-and-special-vehicles?oga=true) | Novi Sad, Vojvodina, Serbia |  | 10d |
 | **Tenstorrent** | [Intern Software Engineer – Low Level SW Engineering](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4668185007) | Belgrade, Serbia |  | 1mo |
 | **Tenstorrent** | [ML Models Implementation & Performance Optimization, Intern (Oct 2026 s…](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5082990007) | Belgrade, Serbia |  | 3mo |
 | **Tenstorrent** | [Inference Server – Product Software Intern (Oct 2026 start)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5065140007) | Belgrade, Serbia (Hybrid) |  | 3mo |

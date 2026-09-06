@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**5 currently open roles** · Updated **2026-09-05**
+**5 currently open roles** · Updated **2026-09-06**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,7 +14,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Assurant** | [Data Modeling Intern](https://assurant.wd1.myworkdayjobs.com/Assurant_Careers/job/Buenos-Aires-Butty/Data-Modeling-Intern_R-114397-1) | Buenos Aires (Butty) |  | 2d |
+| **Assurant** | [Data Modeling Intern](https://assurant.wd1.myworkdayjobs.com/Assurant_Careers/job/Buenos-Aires-Butty/Data-Modeling-Intern_R-114397-1) | Buenos Aires (Butty) |  | 3d |
 | **Marvell Technology** | [Digital IC Design Intern](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Cordoba-Argentina/Digital-IC-Design-Intern_2502731) | Cordoba, Argentina |  | 2mo |
 | **Marvell Technology** | [Analog Design Intern](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Cordoba-Argentina/Analog-Design-Intern_2602163) | Cordoba, Argentina |  | 3mo |
 | **Marvell Technology** | [Software/Firmware Engineering - Intern](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Cordoba-Argentina/Software-Firmware-Engineering---Intern_2502704-1) | Cordoba, Argentina |  | 3mo |
