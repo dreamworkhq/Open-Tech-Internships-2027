@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T21:01:24.551Z",
+  "generatedAt": "2026-09-07T22:07:51.056Z",
   "source": "dreamwork-public-job-index",
   "list": "Open-Tech-Internships-2027",
   "scope": "crypto",
@@ -854,22 +854,6 @@
       "url": "https://job-boards.greenhouse.io/ritual/jobs/4068271007"
     },
     {
-      "id": "37937f7b-4d6d-414c-8f01-9f68979e284b",
-      "title": "Blockchain Developer Intern",
-      "company": "Dialecticch",
-      "companyDomain": "dialectic.ch",
-      "location": "Zug, Switzerland",
-      "locationCountryCode": "CH",
-      "functionPrimary": "Engineering",
-      "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-04-28T08:55:37.000Z",
-      "firstIndexedAt": "2026-05-28T11:53:02.932Z",
-      "url": "https://job-boards.eu.greenhouse.io/dialecticch/jobs/4851646101"
-    },
-    {
       "id": "3171f855-afff-4881-8a5b-bd4dae095248",
       "title": "Data / ML / AI Intern",
       "company": "Dialecticch",
@@ -884,6 +868,22 @@
       "postedAt": "2025-09-11T13:46:03.000Z",
       "firstIndexedAt": "2026-05-28T11:53:02.932Z",
       "url": "https://job-boards.eu.greenhouse.io/dialecticch/jobs/4672644101"
+    },
+    {
+      "id": "37937f7b-4d6d-414c-8f01-9f68979e284b",
+      "title": "Blockchain Developer Intern",
+      "company": "Dialecticch",
+      "companyDomain": "dialectic.ch",
+      "location": "Zug, Switzerland",
+      "locationCountryCode": "CH",
+      "functionPrimary": "Engineering",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-04-28T08:55:37.000Z",
+      "firstIndexedAt": "2026-05-28T11:53:02.932Z",
+      "url": "https://job-boards.eu.greenhouse.io/dialecticch/jobs/4851646101"
     },
     {
       "id": "035a204c-8d01-46b6-9a9c-ff77d9e588e1",
