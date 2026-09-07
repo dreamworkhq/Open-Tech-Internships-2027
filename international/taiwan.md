@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**23 currently open roles** · Updated **2026-09-06**
+**23 currently open roles** · Updated **2026-09-07**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -15,22 +15,22 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Trend Micro** | [QA Automation & Cloud Deployment Intern (V1SPC)](https://trendmicro.wd3.myworkdayjobs.com/External/job/Taipei/QA-Automation---Cloud-Deployment-Intern--V1SPC-_R0010176) | Taipei |  | 1d |
-| **Nvidia** | [Developer Technology Engineering Intern, HPC and AI - 2027](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Taipei/Developer-Technology-Engineering-Intern--HPC-and-AI---2027_JR2024509) | Taiwan, Taipei |  | 5d |
-| **Nvidia** | [ASIC Design Engineer (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Hsinchu/ASIC-Design-Engineer--RDSS-Intern-_JR2024822) | Taiwan, Hsinchu |  | 5d |
-| **Nvidia** | [Design Verification Engineer (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Hsinchu/Design-Verification-Engineer--RDSS-Intern-_JR2024681) | Taiwan, Hsinchu |  | 5d |
-| **Nvidia** | [System Software Engineer (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer--RDSS-Intern-_JR2024500) | Taiwan, Taipei |  | 6d |
-| **Nvidia** | [Android Software Engineer (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Taipei/Android-Software-Engineer--RDSS-Intern-_JR2024408) | Taiwan, Taipei |  | 9d |
-| **Nvidia** | [Diagnostic Network Software Engineer (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Taipei/Diagnostic-Network-Software-Engineer--RDSS-Intern-_JR2024300) | Taiwan, Taipei |  | 10d |
-| **Nvidia** | [System Design Validation Engineer (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Taipei/System-Design-Validation-Engineer--RDSS-Intern-_JR2023644) | Taiwan, Taipei |  | 11d |
-| **Nvidia** | [Enterprise Software Test Development Engineer (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Taipei/Enterprise-Software-Test-Development-Engineer--RDSS-Intern-_JR2023995) | Taiwan, Taipei |  | 11d |
-| **Nvidia** | [ASIC Physical Design Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Hsinchu/ASIC-Physical-Design-Intern---2027_JR2024050) | Taiwan, Hsinchu |  | 12d |
-| **Nvidia** | [ASIC Physical Design Engineer (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Hsinchu/ASIC-Physical-Design-Engineer--RDSS-Intern-_JR2024046) | Taiwan, Hsinchu |  | 12d |
-| **Nvidia** | [System Software Engineer – Embedded Power Management (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---Embedded-Power-Management--RDSS-Intern-_JR2023967) | Taiwan, Taipei |  | 13d |
-| **Shopback 2** | [Software Engineer Intern - QA](https://jobs.lever.co/shopback-2/345e1f49-ca8c-432f-b402-a91452f78116) | Taipei, Taiwan |  | 15d |
-| **Google** | [Software Engineering Intern, PhD, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/104551723757904582) | Taipei, Taiwan, New Taipei, Banqiao Distric… |  | 15d |
-| **Nvidia** | [System Software Engineer – GPU and SOC (2027 RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---GPU-and-SOC--2027-RDSS-Intern-_JR2023628) | Taiwan, Taipei |  | 18d |
-| **Appier** | [Software Engineer Intern, Quality Assurance](https://job-boards.greenhouse.io/appier/jobs/6967119) | Taipei, Taiwan |  | 25d |
+| **Trend Micro** | [QA Automation & Cloud Deployment Intern (V1SPC)](https://trendmicro.wd3.myworkdayjobs.com/External/job/Taipei/QA-Automation---Cloud-Deployment-Intern--V1SPC-_R0010176) | Taipei |  | 2d |
+| **Nvidia** | [Developer Technology Engineering Intern, HPC and AI - 2027](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Taipei/Developer-Technology-Engineering-Intern--HPC-and-AI---2027_JR2024509) | Taiwan, Taipei |  | 6d |
+| **Nvidia** | [Design Verification Engineer (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Hsinchu/Design-Verification-Engineer--RDSS-Intern-_JR2024681) | Taiwan, Hsinchu |  | 6d |
+| **Nvidia** | [ASIC Design Engineer (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Hsinchu/ASIC-Design-Engineer--RDSS-Intern-_JR2024822) | Taiwan, Hsinchu |  | 6d |
+| **Nvidia** | [System Software Engineer (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer--RDSS-Intern-_JR2024500) | Taiwan, Taipei |  | 8d |
+| **Nvidia** | [Android Software Engineer (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Taipei/Android-Software-Engineer--RDSS-Intern-_JR2024408) | Taiwan, Taipei |  | 10d |
+| **Nvidia** | [Diagnostic Network Software Engineer (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Taipei/Diagnostic-Network-Software-Engineer--RDSS-Intern-_JR2024300) | Taiwan, Taipei |  | 11d |
+| **Nvidia** | [System Design Validation Engineer (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Taipei/System-Design-Validation-Engineer--RDSS-Intern-_JR2023644) | Taiwan, Taipei |  | 12d |
+| **Nvidia** | [Enterprise Software Test Development Engineer (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Enterprise-Software-Test-Development-Engineer--RDSS-Intern-_JR2023995) | Taiwan, Taipei |  | 12d |
+| **Nvidia** | [ASIC Physical Design Engineer (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Hsinchu/ASIC-Physical-Design-Engineer--RDSS-Intern-_JR2024046) | Taiwan, Hsinchu |  | 13d |
+| **Nvidia** | [ASIC Physical Design Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Hsinchu/ASIC-Physical-Design-Intern---2027_JR2024050) | Taiwan, Hsinchu |  | 13d |
+| **Nvidia** | [System Software Engineer – Embedded Power Management (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---Embedded-Power-Management--RDSS-Intern-_JR2023967) | Taiwan, Taipei |  | 14d |
+| **Shopback 2** | [Software Engineer Intern - QA](https://jobs.lever.co/shopback-2/345e1f49-ca8c-432f-b402-a91452f78116) | Taipei, Taiwan |  | 16d |
+| **Google** | [Software Engineering Intern, PhD, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/104551723757904582) | Taipei, Taiwan, New Taipei, Banqiao Distric… |  | 16d |
+| **Nvidia** | [System Software Engineer – GPU and SOC (2027 RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---GPU-and-SOC--2027-RDSS-Intern-_JR2023628) | Taiwan, Taipei |  | 19d |
+| **Appier** | [Software Engineer Intern, Quality Assurance](https://job-boards.greenhouse.io/appier/jobs/6967119) | Taipei, Taiwan |  | 26d |
 | **Nvidia** | [System Design Engineer - LDE (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Taipei/System-Design-Engineer---LDE--RDSS-Intern-_JR2021878) | Taiwan, Taipei |  | 1mo |
 | **Apple** | [Product Design Engineering Intern](https://jobs.apple.com/en-us/details/200674739/product-design-engineering-intern?team=HRDWR) | Taipei |  | 1mo |
 | **Nvidia** | [System Design Intern, LDE - 2027](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Taipei/System-Design-Intern--LDE---2027_JR2021952) | Taiwan, Taipei (Hybrid) |  | 1mo |

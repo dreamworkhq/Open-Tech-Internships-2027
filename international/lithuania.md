@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**2 currently open roles** · Updated **2026-09-06**
+**2 currently open roles** · Updated **2026-09-07**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,7 +14,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Wix** | [Software Engineering Internship - Wix Grow](https://jobs.smartrecruiters.com/Wix2/744000146619169-software-engineering-internship-wix-grow?oga=true) | Vilnius, Vilnius County, Lithuania |  | 5d |
+| **Wix** | [Software Engineering Internship - Wix Grow](https://jobs.smartrecruiters.com/Wix2/744000146619169-software-engineering-internship-wix-grow?oga=true) | Vilnius, Vilnius County, Lithuania |  | 6d |
 | **Trimble** | [Software Engineering Intern](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Lithuania---Vilnius/Software-Engineering-Intern_R56614) | Lithuania - Vilnius |  | 2mo |
 
 <!-- TABLE_END -->
