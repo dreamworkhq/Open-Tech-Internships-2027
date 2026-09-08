@@ -2,43 +2,46 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**33 currently open roles** · Updated **2026-09-07**
+**36 currently open roles** · Updated **2026-09-08**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Data Science](#data-science-14) · 14 roles
-- [Engineering](#engineering-11) · 11 roles
+- [Data Science](#data-science-16) · 16 roles
+- [Engineering](#engineering-12) · 12 roles
 - [Other](#other-8) · 8 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Data Science (14)
+### Data Science (16)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Barclays** | [Quantitative Analytics Associate Off Cycle Internship Programme 2027 Pa…](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Paris-52-avenue-Hoche/Quantitative-Analytics-Associate-Off-Cycle-Internship-Programme-2027-Paris_JR-0000124726) | Paris, 52 avenue Hoche | $32K | 0d |
-| **Hrhub** | [Quant Intern](https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Paris/Quant-Intern_R28576) | Paris |  | 2d |
-| **Sia** | [Final year Internship - CIO, Data & AI Advisory](https://jobs.smartrecruiters.com/Sia/744000147535664-final-year-internship-cio-data-ai-advisory?oga=true) | Paris, IDF, France | $31K | 3d |
-| **Sonio** | [Clinical Data Analyst intern](https://jobs.ashbyhq.com/sonio/c2a4c162-9e39-4fc7-9de9-49e03536a121) | Paris office (Hybrid) |  | 12d |
-| **Sia** | [Final year internship - Marketing Data Scientist](https://jobs.smartrecruiters.com/Sia/744000145545719-final-year-internship-marketing-data-scientist?oga=true) | Paris, IDF, France |  | 12d |
-| **Sia** | [Final year internship - Data Scientist & AI Consultant](https://jobs.smartrecruiters.com/Sia/744000145544719-final-year-internship-data-scientist-ai-consultant?oga=true) | Paris, IDF, France |  | 12d |
-| **Sia** | [Final Year Internship Consultant - Data Analyst](https://jobs.smartrecruiters.com/Sia/744000145313950-final-year-internship-consultant-data-analyst?oga=true) | Paris, IDF, France | $26K | 12d |
-| **Sia** | [Final year internship - Operations Research Consultant](https://jobs.smartrecruiters.com/Sia/744000145543644-final-year-internship-operations-research-consultant-?oga=true) | Paris, IDF, France (Hybrid) |  | 12d |
+| **Barclays** | [Quantitative Analytics Associate Off Cycle Internship Programme 2027 Pa…](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Paris-52-avenue-Hoche/Quantitative-Analytics-Associate-Off-Cycle-Internship-Programme-2027-Paris_JR-0000124726) | Paris, 52 avenue Hoche | $32K | 1d |
+| **Hrhub** | [Quant Intern](https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Paris/Quant-Intern_R28576) | Paris |  | 3d |
+| **Sia** | [Final year Internship - CIO, Data & AI Advisory](https://jobs.smartrecruiters.com/Sia/744000147535664-final-year-internship-cio-data-ai-advisory?oga=true) | Paris, IDF, France | $31K | 4d |
+| **Sonio** | [Clinical Data Analyst intern](https://jobs.ashbyhq.com/sonio/c2a4c162-9e39-4fc7-9de9-49e03536a121) | Paris office (Hybrid) |  | 13d |
+| **Sia** | [Final Year Internship Consultant - Data Analyst](https://jobs.smartrecruiters.com/Sia/744000145313950-final-year-internship-consultant-data-analyst?oga=true) | Paris, IDF, France | $26K | 13d |
+| **Sia** | [Final year internship - Marketing Data Scientist](https://jobs.smartrecruiters.com/Sia/744000145545719-final-year-internship-marketing-data-scientist?oga=true) | Paris, IDF, France |  | 13d |
+| **Sia** | [Final year internship - Operations Research Consultant](https://jobs.smartrecruiters.com/Sia/744000145543644-final-year-internship-operations-research-consultant-?oga=true) | Paris, IDF, France (Hybrid) |  | 13d |
+| **Sia** | [Final year internship - Data Scientist & AI Consultant](https://jobs.smartrecruiters.com/Sia/744000145544719-final-year-internship-data-scientist-ai-consultant?oga=true) | Paris, IDF, France |  | 13d |
 | **Teampicnic** | [Commercial Data Analytics Intern (H/F)](https://jobs.picnic.app/nl/vacancies?gh_jid=7110715) | Paris, Paris, France |  | 1mo |
-| **Joko** | [Data Analyst Intern](https://jobs.ashbyhq.com/joko/6aed4a35-456c-4ea4-9e69-c36e04be31db) | Paris (Hybrid) |  | 1mo |
+| **Joko** | [Data Analyst Intern](https://jobs.ashbyhq.com/joko/6aed4a35-456c-4ea4-9e69-c36e04be31db) | Paris (Hybrid) |  | 2mo |
+| **Fifty Five** | [Data Science Consultant Intern (H/F)](https://apply.workable.com/fifty-five/j/D8F4443694/) | Paris, Île-de-France, France (Hybrid) |  | 2mo |
+| **Fifty Five** | [Digital Analytics Consultant Intern - Paris (H/F)](https://apply.workable.com/fifty-five/j/5E038F85EA/) | Paris, Île-de-France, France (Hybrid) |  | 2mo |
 | **Shifttechnology** | [Data Science internship - Spanish speaker (6months)](https://job-boards.greenhouse.io/shifttechnology/jobs/7676940003) | Remote (France - Remote) |  | 3mo |
 | **Docugami** | [Data Science Graduate Student Intern](https://job-boards.greenhouse.io/docugami/jobs/6639057003) | Remote (France) |  | 3mo |
 | **Hellofresh** | [Growth Strategy Data Analyst - Intern (M/F/N)](https://careers.hellofresh.com/global/en/job/7704587?gh_jid=7704587) | Paris, Paris, France |  | 3mo |
 | **Sia** | [Final Year Internship Consultant - Financial Services](https://jobs.smartrecruiters.com/Sia/744000117837228-final-year-internship-consultant-financial-services?oga=true) | Paris, Île-de-France, France |  | 3mo |
 
-### Engineering (11)
+### Engineering (12)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Symphony** | [Intern, Software Developer](https://symphony.com/company/apply?gh_jid=8121111) | Sophia Antipolis | $22K | 2d |
-| **Sia** | [Final year internship - DevOps / Platform Engineer](https://jobs.smartrecruiters.com/Sia/744000144097659-final-year-internship-devops-platform-engineer?oga=true) | Paris, IDF, France |  | 19d |
-| **Frontcareers** | [Software Engineering Intern - Spring/Summer 2027](https://jobs.ashbyhq.com/frontcareers/1026a32c-f8cc-4eee-992b-bacdf771d9fc) | Paris, France (Hybrid) |  | 24d |
+| **Symphony** | [Intern, Software Developer](https://symphony.com/company/apply?gh_jid=8121111) | Sophia Antipolis | $22K | 3d |
+| **Sia** | [Final year internship - DevOps / Platform Engineer](https://jobs.smartrecruiters.com/Sia/744000144097659-final-year-internship-devops-platform-engineer?oga=true) | Paris, IDF, France |  | 20d |
+| **Frontcareers** | [Software Engineering Intern - Spring/Summer 2027](https://jobs.ashbyhq.com/frontcareers/1026a32c-f8cc-4eee-992b-bacdf771d9fc) | Paris, France (Hybrid) |  | 25d |
 | **Hrhub** | [AI Engineering Intern](https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Paris/AI-Engineering-Intern_R28219) | Paris |  | 1mo |
+| **Fifty Five** | [Data & AI Engineer Intern (H/F)](https://apply.workable.com/fifty-five/j/2807A639B7/) | Paris, Île-de-France, France (Hybrid) |  | 1mo |
 | **1000** | [Data Engineering Intern](https://pg.wd5.myworkdayjobs.com/1000/job/PARIS-GO-ASNIERES-SUR-SEINE/Data-Engineering-Intern_R000155891) | PARIS GO-ASNIERES-SUR-SEINE (Hybrid) | $21K | 1mo |
 | **Fortinet** | [Network Performance Security and Preproduction Tester -6 month Internsh…](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22144) | Sophia Antipolis, Alpes-Maritimes, France |  | 1mo |
 | **Malt** | [Data Engineer Intern (September 2026)](https://jobs.lever.co/malt/473946fd-c520-4892-a851-c486af9ed851) | Paris (Hybrid) |  | 2mo |
@@ -51,10 +54,10 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Ubisoft** | [Internship 6 months - Technical Designer (F/M/NB) \[AAA Project\]](https://jobs.smartrecruiters.com/Ubisoft2/744000147274629-internship-6-months-technical-designer-f-m-nb-aaa-project-?oga=true) | Annecy, Auvergne-Rhône-Alpes, France |  | 3d |
-| **Sia** | [Final Year Internship Consultant - Cybersecurity](https://jobs.smartrecruiters.com/Sia/744000146907409-final-year-internship-consultant-cybersecurity?oga=true) | Paris, IDF, France | $35K | 5d |
-| **Fticonsulting** | [2027 Intern, Forensic & Litigation Consulting, Cyber](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Paris-France/XMLNAME-2027-Intern--Forensic---Litigation-Consulting--Cyber_JR260757) | Paris, France (Hybrid) |  | 10d |
-| **GE Vernova** | [Stage - UI Designer Intern (H/F)](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Saint-Herblain/Stage---UI-Designer-Intern--H-F-_R5050375-1) | Saint Herblain |  | 20d |
+| **Ubisoft** | [Internship 6 months - Technical Designer (F/M/NB) \[AAA Project\]](https://jobs.smartrecruiters.com/Ubisoft2/744000147274629-internship-6-months-technical-designer-f-m-nb-aaa-project-?oga=true) | Annecy, Auvergne-Rhône-Alpes, France |  | 4d |
+| **Sia** | [Final Year Internship Consultant - Cybersecurity](https://jobs.smartrecruiters.com/Sia/744000146907409-final-year-internship-consultant-cybersecurity?oga=true) | Paris, IDF, France | $35K | 6d |
+| **Fticonsulting** | [2027 Intern, Forensic & Litigation Consulting, Cyber](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Paris-France/XMLNAME-2027-Intern--Forensic---Litigation-Consulting--Cyber_JR260757) | Paris, France (Hybrid) |  | 11d |
+| **GE Vernova** | [Stage - UI Designer Intern (H/F)](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Saint-Herblain/Stage---UI-Designer-Intern--H-F-_R5050375-1) | Saint Herblain |  | 21d |
 | **Maki** | [Security Engineer - Final year Intern](https://jobs.ashbyhq.com/maki/2bb85d01-0b1b-45d9-b47f-cae2ae72bd10) | Paris (Hybrid) |  | 1mo |
 | **Skello** | [AI Ops PM Intern](https://skello.teamtailor.com/jobs/7911123-ai-ops-pm-intern) | Paris, France |  | 1mo |
 | **Skello** | [Product Manager Intern](https://skello.teamtailor.com/jobs/7910939-product-manager-intern) | Paris, France |  | 1mo |
