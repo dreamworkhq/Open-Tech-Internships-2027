@@ -1,10 +1,42 @@
 {
-  "generatedAt": "2026-09-14T22:26:25.599Z",
+  "generatedAt": "2026-09-15T21:58:40.950Z",
   "source": "dreamwork-public-job-index",
   "list": "Open-Tech-Internships-2027",
   "scope": "crypto",
-  "count": 101,
+  "count": 103,
   "listings": [
+    {
+      "id": "745d733e-4f44-474a-8447-bbbcefa34660",
+      "title": "Crypto Operations Intern (Summer 2027)",
+      "company": "Robinhood",
+      "companyDomain": "robinhood.com",
+      "location": "New York, NY",
+      "locationCountryCode": "US",
+      "functionPrimary": "Operations",
+      "remoteType": "hybrid",
+      "salaryMin": 68640,
+      "salaryMax": 68640,
+      "salaryPeriod": "annual",
+      "postedAt": "2026-09-14T12:00:09.000Z",
+      "firstIndexedAt": "2026-09-15T10:45:16.780Z",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8193484?t=gh_src=&gh_jid=8193484"
+    },
+    {
+      "id": "ff69b4f8-747f-40bc-a219-22db71a69a8d",
+      "title": "Crypto Partnership Intern (Summer 2027)",
+      "company": "Robinhood",
+      "companyDomain": "robinhood.com",
+      "location": "New York, NY",
+      "locationCountryCode": "US",
+      "functionPrimary": "Finance",
+      "remoteType": "hybrid",
+      "salaryMin": 68640,
+      "salaryMax": 68640,
+      "salaryPeriod": "annual",
+      "postedAt": "2026-09-14T12:00:09.000Z",
+      "firstIndexedAt": "2026-09-15T10:45:16.780Z",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8193710?t=gh_src=&gh_jid=8193710"
+    },
     {
       "id": "4609c9f6-4e5c-4a1b-bbc0-cbc2c334b8f3",
       "title": "Smart Contract Security Audit Intern (AI Audit)",
@@ -118,20 +150,36 @@
       "url": "https://jobs.lever.co/binance/f610850c-df60-4c64-9951-23ca130f58eb"
     },
     {
-      "id": "aa313b93-91a3-43c1-a02d-08ac2362c644",
+      "id": "ba4ac05c-2ad7-48cd-bf33-993d86e8b105",
       "title": "[Intern] Test Development Engineer Intern",
       "company": "Bybit",
       "companyDomain": "bybit.com",
-      "location": "Hong Kong SAR",
-      "locationCountryCode": "HK",
+      "location": "Hong Kong SAR; Kuala Lumpur, Malaysia",
+      "locationCountryCode": "MY",
       "functionPrimary": "Engineering",
       "remoteType": "onsite",
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-09-09T07:33:09.000Z",
+      "postedAt": "2026-09-09T06:56:44.000Z",
       "firstIndexedAt": "2026-09-09T15:30:43.343Z",
-      "url": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971542101"
+      "url": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971501101"
+    },
+    {
+      "id": "b32a6e9a-819a-4072-9856-4513512b6348",
+      "title": "[Intern] Test Development Engineer Intern （Trading Engine）",
+      "company": "Bybit",
+      "companyDomain": "bybit.com",
+      "location": "Hong Kong SAR; Kuala Lumpur, Malaysia",
+      "locationCountryCode": "MY",
+      "functionPrimary": "Security",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-09-09T04:26:41.000Z",
+      "firstIndexedAt": "2026-09-09T15:30:43.343Z",
+      "url": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971452101"
     },
     {
       "id": "e992f114-b27d-4bed-a249-8fe992a371fd",
@@ -150,22 +198,6 @@
       "url": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971569101"
     },
     {
-      "id": "f629d222-4507-43ee-ac50-feeca0c75e6c",
-      "title": "[Intern] Test Development Engineer Intern",
-      "company": "Bybit",
-      "companyDomain": "bybit.com",
-      "location": "Hong Kong SAR; Kuala Lumpur, Malaysia",
-      "locationCountryCode": "MY",
-      "functionPrimary": "Engineering",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-09-09T08:26:18.000Z",
-      "firstIndexedAt": "2026-09-09T15:30:43.343Z",
-      "url": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971608101"
-    },
-    {
       "id": "e37426e2-d0d1-4600-b0e1-01f2c0236399",
       "title": "Big Data Development Engineer Intern",
       "company": "Bybit",
@@ -182,20 +214,20 @@
       "url": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971690101"
     },
     {
-      "id": "b32a6e9a-819a-4072-9856-4513512b6348",
-      "title": "[Intern] Test Development Engineer Intern （Trading Engine）",
+      "id": "31f083e9-ba4a-4abe-9e12-ea466a9bd5de",
+      "title": "[Intern] Test Development Engineer Intern",
       "company": "Bybit",
       "companyDomain": "bybit.com",
-      "location": "Hong Kong SAR; Kuala Lumpur, Malaysia",
-      "locationCountryCode": "MY",
-      "functionPrimary": "Security",
+      "location": "Hong Kong SAR",
+      "locationCountryCode": "HK",
+      "functionPrimary": "Engineering",
       "remoteType": "onsite",
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-09-09T04:26:41.000Z",
+      "postedAt": "2026-09-09T07:11:13.000Z",
       "firstIndexedAt": "2026-09-09T15:30:43.343Z",
-      "url": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971452101"
+      "url": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971516101"
     },
     {
       "id": "edeeee59-ade0-46e2-8911-5c7ea7360bfd",
@@ -321,7 +353,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-08-31T13:01:12.539Z",
+      "postedAt": "2026-08-31T19:58:36.593Z",
       "firstIndexedAt": "2026-09-01T21:52:21.114Z",
       "url": "https://nxp.wd3.myworkdayjobs.com/careers/job/Sibiu/Crypto-Quality-SW-Process-Internship_R-10066282"
     },
