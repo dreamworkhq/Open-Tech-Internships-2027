@@ -1,4 +1,4 @@
-# Tech internships in Suriname
+# Tech internships in Morocco
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Rosebelgoldmines** | [RGM Internship Program 2026 - Bachelor Students in Infrastructure & Civ…](https://rosebelgoldmines.recruitee.com/o/rgm-internship-program-2026-bachelor-students-in-infrastructure-civil-engineering) | Rosebel Gold Mines Site, Brokopondo, Surina… |  | 27d |
+| **Capgemini** | [Software Developer Intern](https://career5.successfactors.eu/careers?company=capgemitecP3&jobId=515711) | — |  | 2mo |
 
 <!-- TABLE_END -->

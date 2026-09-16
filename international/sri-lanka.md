@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**3 currently open roles** · Updated **2026-09-08**
+**3 currently open roles** · Updated **2026-09-16**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,8 +14,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **VariosystemsAG** | [IT Infrastructure & Network Support Intern (m/f/d)](https://jobs.smartrecruiters.com/VariosystemsAG/744000142043774-it-infrastructure-network-support-intern-m-f-d-?oga=true) | Badalgama, , Sri Lanka |  | 8d |
-| **Zebra** | [2026(6 months) Internship(Sri Lanka) -Software Engineering](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Colombo-Sri-Lanka/XMLNAME-2026-6-months--Internship-Sri-Lanka---Software-Engineering_JR101824) | Colombo, Sri Lanka (Hybrid) |  | 20d |
-| **Zebra** | [2026(6 months) Internship (Sri Lanka) -Software Engineering](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Colombo-Sri-Lanka/XMLNAME-2026-6-months--Internship--Sri-Lanka---Software-Engineering_JR102526) | Colombo, Sri Lanka (Hybrid) |  | 20d |
+| **Candidateexp** | [Associate, Cloud Engineer (Intern)](https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25829) | Sri Lanka (Hybrid) |  | 0d |
+| **Zebra** | [2026(6 months) Internship(Sri Lanka) -Software Engineering](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Colombo-Sri-Lanka/XMLNAME-2026-6-months--Internship-Sri-Lanka---Software-Engineering_JR101824) | Colombo, Sri Lanka (Hybrid) |  | 28d |
+| **Zebra** | [2026(6 months) Internship (Sri Lanka) -Software Engineering](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Colombo-Sri-Lanka/XMLNAME-2026-6-months--Internship--Sri-Lanka---Software-Engineering_JR102526) | Colombo, Sri Lanka (Hybrid) |  | 28d |
 
 <!-- TABLE_END -->
