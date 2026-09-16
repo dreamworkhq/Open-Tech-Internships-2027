@@ -97,7 +97,7 @@ jobs:
             --label "$label" --limit 20 --json number --jq '.[0].number // empty')"
           body="Daily listings update failed: ${run_url}"
           if [ -n "$number" ]; then
-            gh issue comment "$number" --repo "$GITHUB_REPOSITORY" --body "$body"
+            gh issue edit "$number" --repo "$GITHUB_REPOSITORY" --body "$body"
           else
             issue_body="$(printf '%s\n' "$body" "" "cc @benadamsky")"
             gh issue create --repo "$GITHUB_REPOSITORY" \

@@ -52,6 +52,11 @@ const FETCH_RETRY_MAX_MS = positiveIntegerEnv(
   8_000,
 );
 
+const REQUEST_INTERVAL_MS = positiveIntegerEnv("DREAMWORK_JOB_LIST_REQUEST_INTERVAL_MS", 1100);
+const INVENTORY_TIMEOUT_MS = positiveIntegerEnv("DREAMWORK_JOB_LIST_INVENTORY_TIMEOUT_MS", 30 * 60 * 1000);
+const inventoryDeadline = Date.now() + INVENTORY_TIMEOUT_MS;
+let lastRequestAt = 0;
+
 const US_STATES = new Set([
   "AL","AK","AZ","AR","CA","CO","CT","DE","FL","GA","HI","ID","IL","IN","IA",
   "KS","KY","LA","ME","MD","MA","MI","MN","MS","MO","MT","NE","NV","NH","NJ",
@@ -90,9 +95,24 @@ function networkFailureMessage(error, signal) {
   return `network error: ${error instanceof Error ? error.message : String(error)}`;
 }
 
-async function fetchJson(url) {
+function assertInventoryBudget(deadline, delay = 0) {
+  if (Date.now() + delay >= deadline) {
+    throw new Error("Inventory time budget exceeded; refusing to publish partial output.");
+  }
+}
+
+async function waitWithinBudget(delay, deadline) {
+  assertInventoryBudget(deadline, delay);
+  if (delay > 0) await new Promise(resolveDelay => setTimeout(resolveDelay, delay));
+  assertInventoryBudget(deadline);
+}
+
+async function fetchJson(url, deadline = Infinity) {
   for (let attempt = 1; attempt <= FETCH_MAX_ATTEMPTS; attempt++) {
-    const signal = AbortSignal.timeout(FETCH_TIMEOUT_MS);
+    const delay = Math.max(0, lastRequestAt + REQUEST_INTERVAL_MS - Date.now());
+    await waitWithinBudget(delay, deadline);
+    lastRequestAt = Date.now();
+    const signal = AbortSignal.timeout(Math.min(FETCH_TIMEOUT_MS, deadline - lastRequestAt));
     let res;
 
     try {
@@ -109,22 +129,29 @@ async function fetchJson(url) {
           { cause: error },
         );
       }
-      await new Promise((resolveDelay) => setTimeout(resolveDelay, retryDelay(attempt)));
+      await waitWithinBudget(retryDelay(attempt), deadline);
       continue;
     }
 
     if (!res.ok) {
       const retriableStatus = res.status === 429 || res.status >= 500;
       if (retriableStatus && attempt < FETCH_MAX_ATTEMPTS) {
-        await new Promise((resolveDelay) => setTimeout(resolveDelay, retryDelay(attempt)));
+        const retryAfter = res.headers.get("retry-after");
+        const seconds = Number(retryAfter);
+        const serverDelay = retryAfter === null ? 0 : Number.isFinite(seconds)
+          ? seconds * 1000 : Date.parse(retryAfter) - Date.now();
+        const delay = Math.max(retryDelay(attempt), Number.isFinite(serverDelay) ? serverDelay : 0);
+        if (delay > INVENTORY_TIMEOUT_MS) throw new Error(`GET ${url} retry delay exceeds the generation budget`);
+        await waitWithinBudget(delay, deadline);
         continue;
       }
       const suffix = attempt > 1 ? ` after ${attempt} attempts` : "";
       throw new Error(`GET ${url} -> ${res.status}${suffix}`);
     }
 
+    let data;
     try {
-      return await res.json();
+      data = await res.json();
     } catch (error) {
       if (!isTransientNetworkError(error, signal)) {
         throw new Error(`GET ${url} returned invalid JSON`, { cause: error });
@@ -136,8 +163,11 @@ async function fetchJson(url) {
           { cause: error },
         );
       }
-      await new Promise((resolveDelay) => setTimeout(resolveDelay, retryDelay(attempt)));
+      await waitWithinBudget(retryDelay(attempt), deadline);
+      continue;
     }
+    assertInventoryBudget(deadline);
+    return data;
   }
 
   throw new Error(`GET ${url} exhausted its retry budget`);
@@ -151,16 +181,43 @@ async function fetchSource(source, config) {
   // display cap (plus dedupe headroom) is covered.
   const wanted =
     config.mode === "inventory" ? Infinity : (config.maxRows ?? 600) + 150;
-  for (let page = 0; page < maxPages; page++) {
-    const params = new URLSearchParams({ limit: String(PAGE_SIZE), offset: String(page * PAGE_SIZE) });
+  let cursor;
+  const seenCursors = new Set();
+  let cursorSupported = config.mode === "inventory";
+  for (let page = 0; cursorSupported || page < maxPages; page++) {
+    if (config.mode === "inventory" && Date.now() >= inventoryDeadline) {
+      throw new Error(`Inventory time budget exceeded for ${describeSource(source)}; refusing to publish partial output.`);
+    }
+    const params = new URLSearchParams({ limit: String(PAGE_SIZE) });
+    if (cursorSupported) {
+      params.set("pagination", "cursor");
+      if (cursor !== undefined) params.set("cursor", cursor);
+    } else {
+      params.set("offset", String(page * PAGE_SIZE));
+    }
     for (const [k, v] of Object.entries(source)) {
       if (v !== null && v !== undefined && v !== "") params.set(k, String(v));
     }
-    const data = await fetchJson(`${API_BASE}/listings?${params}`);
-    const rows = data.listings ?? [];
+    const data = await fetchJson(`${API_BASE}/listings?${params}`,
+      config.mode === "inventory" ? inventoryDeadline : Infinity);
+    if (!Array.isArray(data.listings)) throw new Error("Invalid listings response; refusing to publish partial output.");
+    const rows = data.listings;
     for (const row of rows) {
       if (keepRow(row, config, source)) collected.push(row);
     }
+    if (cursorSupported && Object.hasOwn(data, "nextCursor")) {
+      if (data.nextCursor === null) return collected;
+      if (typeof data.nextCursor !== "string" || !data.nextCursor || seenCursors.has(data.nextCursor)) {
+        throw new Error(`Invalid or repeated inventory cursor for ${describeSource(source)}; refusing to publish partial output.`);
+      }
+      seenCursors.add(data.nextCursor);
+      cursor = data.nextCursor;
+      continue;
+    }
+    if (cursor !== undefined) throw new Error("Inventory continuation missing; refusing to publish partial output.");
+    // An older API can still prove an uncapped source complete during a
+    // rolling deploy. A capped response retains the fail-closed boundary.
+    cursorSupported = false;
     const hasExactTotal = data.totalCapped !== true && Number.isFinite(data.total);
     if (config.mode === "inventory" && !hasExactTotal) {
       const sourceLabel = describeSource(source);
@@ -1607,15 +1664,18 @@ let all = [];
 let totalMatching = 0;
 let totalMatchingCapped = false;
 for (const source of config.sources) {
-  const params = new URLSearchParams({ limit: "1" });
-  for (const [k, v] of Object.entries(source)) {
-    if (v !== null && v !== undefined && v !== "") params.set(k, String(v));
+  if (config.mode !== "inventory") {
+    const params = new URLSearchParams({ limit: "1" });
+    for (const [k, v] of Object.entries(source)) {
+      if (v !== null && v !== undefined && v !== "") params.set(k, String(v));
+    }
+    const head = await fetchJson(`${API_BASE}/listings?${params}`);
+    totalMatching += head.total ?? 0;
+    totalMatchingCapped ||= head.totalCapped === true;
   }
-  const head = await fetchJson(`${API_BASE}/listings?${params}`);
-  totalMatching += head.total ?? 0;
-  totalMatchingCapped ||= head.totalCapped === true;
   all = all.concat(await fetchSource(source, config));
 }
+if (config.mode === "inventory") totalMatching = new Set(all.map(row => row.id)).size;
 config.totalMatching = totalMatching;
 config.totalMatchingCapped = totalMatchingCapped;
 
@@ -1647,7 +1707,9 @@ const intlKept = intl?.kept ?? 0;
 config.intlCount = intlKept;
 
 const readme = fitToRenderLimit(readmeRows, (r) => renderReadme(r, config, now));
-const jsonRows = (config.usOnly ? usRows.concat(intlRows.slice(0, intlKept)) : readmeRows).slice(0, 1500);
+const jsonRows = config.mode === "inventory"
+  ? (config.usOnly ? usRows.concat(intl ? intlRows : []) : linkEligibleRows)
+  : (config.usOnly ? usRows.concat(intlRows.slice(0, intlKept)) : readmeRows).slice(0, 1500);
 assertPreviousSnapshotHealth(jsonRows, loadPreviousSnapshot(out, config), config);
 
 // All remote fetch, filtering, rendering, and health checks complete before
