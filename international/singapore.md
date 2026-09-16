@@ -2,21 +2,22 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**166 currently open roles** · Updated **2026-09-16**
+**167 currently open roles** · Updated **2026-09-16**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-114) · 114 roles
+- [Engineering](#engineering-115) · 115 roles
 - [Data Science](#data-science-39) · 39 roles
 - [Security](#security-6) · 6 roles
 - [Other](#other-7) · 7 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (114)
+### Engineering (115)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
+| **Visiersolutionsinc** | [Software Developer Intern (January to June 2027)](https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4711074006) | Singapore |  | 0d |
 | **Amazon** | [Software Developer Intern, Field Innovation, Security Search and Observ…](https://www.amazon.jobs/en/jobs/10544261/software-developer-intern-field-innovation-security-search-and-observability-sso) | SG, Singapore |  | 0d |
 | **AppLovin** | [Machine Learning Engineering Intern (2027 Summer Internship)](https://boards.greenhouse.io/applovin/jobs/4713038006?gh_jid=4713038006) | Singapore |  | 0d |
 | **II VI Aerospace & Defense \| Co…** | [Intern - Engineering (QA)](https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2004/job/2013570) | Singapore |  | 0d |

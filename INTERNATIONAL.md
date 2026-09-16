@@ -2,14 +2,14 @@
 
 [← US internships](README.md) · [Business internships](BUSINESS.md) · [Crypto internships](CRYPTO.md)
 
-**1386 country-located roles** across **61 countries** · **4 explicitly global remote** · Updated **2026-09-16**
+**1387 country-located roles** across **61 countries** · **4 explicitly global remote** · Updated **2026-09-16**
 
 This is the international view of the same verified-open internship corpus. Countries are based on the location in the company posting; unknown locations are excluded instead of being guessed. Every country has its own page so the list stays readable as coverage grows.
 
 | Country | Open roles |
 | --- | ---: |
 | [Canada](international/canada.md) | 270 |
-| [Singapore](international/singapore.md) | 166 |
+| [Singapore](international/singapore.md) | 167 |
 | [China](international/china.md) | 98 |
 | [United Kingdom](international/united-kingdom.md) | 76 |
 | [Germany](international/germany.md) | 65 |

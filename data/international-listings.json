@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-16T21:52:34.319Z",
+  "generatedAt": "2026-09-16T21:58:19.163Z",
   "source": "dreamwork-public-job-index",
   "list": "Open-Tech-Internships-2027",
   "scope": "international",
-  "count": 1387,
+  "count": 1388,
   "countryCounts": {
     "AE": 2,
     "AR": 6,
@@ -57,7 +57,7 @@
     "RU": 2,
     "SA": 1,
     "SE": 4,
-    "SG": 166,
+    "SG": 167,
     "SK": 5,
     "SR": 1,
     "TH": 6,
@@ -69,6 +69,19 @@
   },
   "globalRemoteCount": 4,
   "listings": [
+    {
+      "id": "7f04dabd-4161-43f9-9ff3-3eef68e72178",
+      "title": "Software Developer Intern (January to June 2027)",
+      "company": "Visiersolutionsinc",
+      "companyDomain": "visier.com",
+      "location": "Singapore",
+      "locationCountryCode": "SG",
+      "remoteType": null,
+      "globalRemote": false,
+      "postedAt": "2026-09-14T16:35:15.000Z",
+      "firstIndexedAt": "2026-09-16T22:00:59.333Z",
+      "url": "https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4711074006"
+    },
     {
       "id": "46187c5e-7993-4990-97e2-30fb92c1b2bd",
       "title": "Software Developer Integrator Intern",
