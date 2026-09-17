@@ -2,45 +2,43 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**65 currently open roles** · Updated **2026-09-16**
+**63 currently open roles** · Updated **2026-09-17**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-51) · 51 roles
+- [Engineering](#engineering-49) · 49 roles
 - [Data Science](#data-science-9) · 9 roles
 - [Other](#other-5) · 5 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (51)
+### Engineering (49)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Bosch** | [Internship Machine Learning for Predictive Reliability Analytics - Heat…](https://jobs.smartrecruiters.com/BoschGroup/744000149826650-internship-machine-learning-for-predictive-reliability-analytics-heat-pumps?oga=true) | Wernau (Neckar), BW, Germany (Hybrid) |  | 0d |
+| **Bosch** | [Internship Machine Learning for Predictive Reliability Analytics - Heat…](https://jobs.smartrecruiters.com/BoschGroup/744000149826650-internship-machine-learning-for-predictive-reliability-analytics-heat-pumps?oga=true) | Wernau (Neckar), BW, Germany (Hybrid) |  | 1d |
 | **Agile Robots SE** | [Intern (m/f/d) Vision Software Development](https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964629101) | Munich, Bavaria, Germany |  | 4d |
-| **Rocket Factory Augsburg** | [Intern (m/f/d) Redundant Flight Software Development](https://boards.greenhouse.io/rocketfactoryaugsburgag/jobs/4960401101) | Augsburg, Bavaria, Germany |  | 6d |
-| **Agile Robots SE** | [Intern (m/f/d) Hardware Integration & Robot Control Systems](https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964675101) | Munich, Bavaria, Germany |  | 6d |
-| **Celonis** | [Intern Technology Consultant - Data & AI](https://job-boards.greenhouse.io/celonis/jobs/7977924003?gh_jid=7977924003) | Munich, Germany (Hybrid) |  | 6d |
-| **Celonis** | [Intern Deployment Engineer - Data & AI](https://job-boards.greenhouse.io/celonis/jobs/7990983003?gh_jid=7990983003) | Munich, Germany (Hybrid) |  | 6d |
-| **Bosch** | [Internship in Software Testing - Bosch eBike Systems](https://jobs.smartrecruiters.com/BoschGroup/744000148678479-internship-in-software-testing-bosch-ebike-systems?oga=true) | Reutlingen, BW, Germany |  | 6d |
-| **Bosch** | [Internship AI Engineering Intern - Manufacturing & Logistics](https://jobs.smartrecruiters.com/BoschGroup/744000148452349-internship-ai-engineering-intern-manufacturing-logistics?oga=true) | Berlin, BE, Germany (Hybrid) |  | 7d |
+| **Agile Robots SE** | [Intern (m/f/d) Hardware Integration & Robot Control Systems](https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964675101) | Munich, Bavaria, Germany |  | 7d |
+| **Celonis** | [Intern Technology Consultant - Data & AI](https://job-boards.greenhouse.io/celonis/jobs/7977924003?gh_jid=7977924003) | Munich, Germany (Hybrid) |  | 7d |
+| **Celonis** | [Intern Deployment Engineer - Data & AI](https://job-boards.greenhouse.io/celonis/jobs/7990983003?gh_jid=7990983003) | Munich, Germany (Hybrid) |  | 7d |
+| **Bosch** | [Internship in Software Testing - Bosch eBike Systems](https://jobs.smartrecruiters.com/BoschGroup/744000148678479-internship-in-software-testing-bosch-ebike-systems?oga=true) | Reutlingen, BW, Germany |  | 7d |
+| **Bosch** | [Internship AI Engineering Intern - Manufacturing & Logistics](https://jobs.smartrecruiters.com/BoschGroup/744000148452349-internship-ai-engineering-intern-manufacturing-logistics?oga=true) | Berlin, BE, Germany (Hybrid) |  | 8d |
 | **Apple** | [PMU Design Verification Intern (m/f/d)](https://jobs.apple.com/en-us/details/200682235/pmu-design-verification-intern-m-f-d?team=HRDWR) | Munich |  | 8d |
 | **Apple** | [PMU Silicon Validation Intern (m/f/d)](https://jobs.apple.com/en-us/details/200682232/pmu-silicon-validation-intern-m-f-d?team=HRDWR) | Munich |  | 8d |
 | **Apple** | [PHY Cellular Firmware Engineer Internship](https://jobs.apple.com/en-us/details/200682229/phy-cellular-firmware-engineer-internship?team=HRDWR) | Munich |  | 8d |
 | **Apple** | [Circuit Design Intern (m/f/d)](https://jobs.apple.com/en-us/details/200682404/circuit-design-intern-m-f-d?team=HRDWR) | Munich |  | 8d |
-| **BMW AG** | [Intern Software Engineering with Artificial Intelligence (f/m/x)](https://career5.successfactors.eu/careers?company=bmwag&jobId=193123) | — (Hybrid) |  | 8d |
-| **Apple** | [Platform Engineering Intern](https://jobs.apple.com/en-us/details/200614259/platform-engineering-intern?team=HRDWR) | Munich |  | 13d |
-| **Apple** | [PMU Analog Layout Design Intern (m/f/d)](https://jobs.apple.com/en-us/details/200681245/pmu-analog-layout-design-intern-m-f-d?team=HRDWR) | Munich |  | 14d |
-| **Stryker** | [Internship Software for AI Applications in Robotic-Assisted Surgery – 6…](https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Freiburg-Germany/Internship-Software-for-AI-Applications-in-Robotic-Assisted-Surgery---6-Months---Start-Spring-2027_R572200-1) | Freiburg, Germany | $32K | 16d |
-| **Stryker** | [System Testing Internship for Computer-Assisted Surgery – 6 Months \| S…](https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Freiburg-Germany/System-Testing-Internship-for-Computer-Assisted-Surgery-----6-Months---Start-Spring-2027_R572078) | Freiburg, Germany | $32K | 16d |
-| **Stryker** | [Internship Medical Engineering & Computer-Assisted Surgery – 6 Months \…](https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Berlin-Germany/Internship-Medical-Engineering---Computer-Assisted-Surgery---6-Months---Start-Spring-2027_R572145) | Berlin, Germany | $33K | 16d |
-| **Stryker** | [Master’s Internship Research & Development – Sports Medicine Software E…](https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Freiburg-Germany/Master-s-Internship-Research---Development---Sports-Medicine-Software-Engineering---6-Months---Start-April-2027_R572180) | Freiburg, Germany | $32K | 16d |
-| **Stryker** | [Internship Cloud Applications & Software Engineering – 6 months \| Star…](https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Freiburg-Germany/Internship-Cloud-Applications---Software-Engineering---6-months---Start-Spring-2027_R572269) | Freiburg, Germany | $32K | 16d |
-| **Stryker** | [Internship Software Test Engineering & Medical Technology – 6 Months \|…](https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Freiburg-Germany/Internship-Software-Test-Engineering---Medical-Technology---6-Months---Start-Spring-2027_R572140) | Freiburg, Germany (Hybrid) | $32K | 16d |
-| **Stryker** | [Internship /Praktikum – Computer Vision, Machine Learning & Medical Nav…](https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Freiburg-Germany/Internship--Praktikum---Computer-Vision--Machine-Learning---Medical-Navigation---6-months---Start-Spring-2027---6-Monate-_R572004) | Freiburg, Germany | $32K | 16d |
-| **SAP** | [SAP iXp Intern (f/m/d) - Cloud-native Application Development](https://career5.successfactors.eu/careers?company=SAP&jobId=458620) | Walldorf, Germany (Hybrid) |  | 27d |
+| **BMW AG** | [Intern Software Engineering with Artificial Intelligence (f/m/x)](https://career5.successfactors.eu/careers?company=bmwag&jobId=193123) | — (Hybrid) |  | 9d |
+| **Apple** | [Platform Engineering Intern](https://jobs.apple.com/en-us/details/200614259/platform-engineering-intern?team=HRDWR) | Munich |  | 14d |
+| **Apple** | [PMU Analog Layout Design Intern (m/f/d)](https://jobs.apple.com/en-us/details/200681245/pmu-analog-layout-design-intern-m-f-d?team=HRDWR) | Munich |  | 15d |
+| **Stryker** | [Internship Software for AI Applications in Robotic-Assisted Surgery – 6…](https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Freiburg-Germany/Internship-Software-for-AI-Applications-in-Robotic-Assisted-Surgery---6-Months---Start-Spring-2027_R572200-1) | Freiburg, Germany | $32K | 17d |
+| **Stryker** | [System Testing Internship for Computer-Assisted Surgery – 6 Months \| S…](https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Freiburg-Germany/System-Testing-Internship-for-Computer-Assisted-Surgery-----6-Months---Start-Spring-2027_R572078) | Freiburg, Germany | $32K | 17d |
+| **Stryker** | [Internship Medical Engineering & Computer-Assisted Surgery – 6 Months \…](https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Berlin-Germany/Internship-Medical-Engineering---Computer-Assisted-Surgery---6-Months---Start-Spring-2027_R572145) | Berlin, Germany | $33K | 17d |
+| **Stryker** | [Master’s Internship Research & Development – Sports Medicine Software E…](https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Freiburg-Germany/Master-s-Internship-Research---Development---Sports-Medicine-Software-Engineering---6-Months---Start-April-2027_R572180) | Freiburg, Germany | $32K | 17d |
+| **Stryker** | [Internship Cloud Applications & Software Engineering – 6 months \| Star…](https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Freiburg-Germany/Internship-Cloud-Applications---Software-Engineering---6-months---Start-Spring-2027_R572269) | Freiburg, Germany | $32K | 17d |
+| **Stryker** | [Internship Software Test Engineering & Medical Technology – 6 Months \|…](https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Freiburg-Germany/Internship-Software-Test-Engineering---Medical-Technology---6-Months---Start-Spring-2027_R572140) | Freiburg, Germany (Hybrid) | $32K | 17d |
+| **Stryker** | [Internship /Praktikum – Computer Vision, Machine Learning & Medical Nav…](https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Freiburg-Germany/Internship--Praktikum---Computer-Vision--Machine-Learning---Medical-Navigation---6-months---Start-Spring-2027---6-Monate-_R572004) | Freiburg, Germany | $32K | 17d |
+| **SAP** | [SAP iXp Intern (f/m/d) - Cloud-native Application Development](https://career5.successfactors.eu/careers?company=SAP&jobId=458620) | Walldorf, Germany (Hybrid) |  | 28d |
 | **Huaweiresearchcentergermanyaust…** | [Intern - Algorithm Development for Advanced Driving Systems](https://huaweiresearchcentergermanyaustria.teamtailor.com/jobs/8221749-intern-algorithm-development-for-advanced-driving-systems) | München, Germany |  | 1mo |
-| **Bosch** | [Internship in the Field of Full Stack Engineering](https://jobs.smartrecruiters.com/BoschGroup/744000143271509-internship-in-the-field-of-full-stack-engineering?oga=true) | Ulm, BW, Germany |  | 1mo |
 | **BMW AG** | [Intern AI Engineering Customer Journey Analytics (f/m/x)](https://career5.successfactors.eu/careers?company=bmwag&jobId=194236) | — (Hybrid) |  | 1mo |
 | **Huaweiresearchcentergermanyaust…** | [Intern - AI Agent Platform](https://huaweiresearchcentergermanyaustria.teamtailor.com/jobs/8182682-intern-ai-agent-platform) | München, Germany |  | 1mo |
 | **Nvidia** | [Software Engineering Intern — Replay Tooling and Test Automation - Auto…](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---Replay-Tooling---Test-Automation--Autonomous-Driving_JR2022086) | Germany, Munich |  | 1mo |
@@ -73,8 +71,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
 | **RolandBerger** | [Consulting Intern AI & Data (all genders)](https://jobs.smartrecruiters.com/RolandBerger/744000148170417-consulting-intern-ai-data-all-genders-?oga=true) | Munich, BY, Germany |  | 8d |
-| **Stryker** | [Internship Data Analytics & Process Improvement – 6 Months \| Start Spr…](https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Schnkirchen-Germany/Internship-Data-Analytics---Process-Improvement---6-Months---Start-Spring-2027_R572267) | Schönkirchen, Germany | $29K | 16d |
-| **Bayer** | [Internship Analytics Advisory & Data Democratization / SC&L Analytics (…](https://career5.successfactors.eu/careers?company=C0003153479P&jobId=878737) | Leverkusen, North Rhine Westfalia, Germany | $30K | 22d |
+| **Stryker** | [Internship Data Analytics & Process Improvement – 6 Months \| Start Spr…](https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Schnkirchen-Germany/Internship-Data-Analytics---Process-Improvement---6-Months---Start-Spring-2027_R572267) | Schönkirchen, Germany | $29K | 17d |
+| **Bayer** | [Internship Analytics Advisory & Data Democratization / SC&L Analytics (…](https://career5.successfactors.eu/careers?company=C0003153479P&jobId=878737) | Leverkusen, North Rhine Westfalia, Germany | $30K | 23d |
 | **Trawa** | [Business Analytics Intern](https://jobs.ashbyhq.com/trawa/d5b6a2ad-a4ec-4693-ad06-63f77dad6248) | Berlin HQ |  | 1mo |
 | **BMW AG** | [Intern AI Solutions for Financial Services (f/m/x)](https://career5.successfactors.eu/careers?company=bmwag&jobId=191936) | — (Hybrid) |  | 1mo |
 | **Baker Hughes** | [Intern – Systems & Data Analysis – 2026 (M/F/D)](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/DE-CELLE-BAKER-HUGHES-STRASSE-1/Werkstudent-fr-System--und-Datenanalyse-2026--Celle-_R158064) | DE-CELLE-BAKER-HUGHES-STRASSE 1 (Hybrid) |  | 2mo |

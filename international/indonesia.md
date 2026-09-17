@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**13 currently open roles** · Updated **2026-09-16**
+**13 currently open roles** · Updated **2026-09-17**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -15,8 +15,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Prudential** | [Data Analytics Intern](https://prudential.wd3.myworkdayjobs.com/prudential/job/Jakarta-Prudential-Syariah/Data-Analytics-Intern_26090212) | Jakarta (Prudential Syariah) |  | 0d |
-| **Go To Group** | [Data Analyst Intern](https://jobs.lever.co/GoToGroup/f3566bb7-f2fd-4aef-bf2d-a1e0108d24e3) | Jakarta |  | 12d |
+| **Prudential** | [Data Analytics Intern](https://prudential.wd3.myworkdayjobs.com/prudential/job/Jakarta-Prudential-Syariah/Data-Analytics-Intern_26090212) | Jakarta (Prudential Syariah) |  | 1d |
+| **Go To Group** | [Data Analyst Intern](https://jobs.lever.co/GoToGroup/f3566bb7-f2fd-4aef-bf2d-a1e0108d24e3) | Jakarta |  | 13d |
 | **Dentsuaegis** | [Data Analyst Intern](https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/Jakarta/Data-Analyst-Intern_R1129197) | Jakarta |  | 1mo |
 | **Xendit** | [Data / ML Automation Intern](https://job-boards.greenhouse.io/xendit/jobs/7821208003) | Jakarta, Indonesia |  | 1mo |
 | **Go To Group** | [Data Scientist Intern](https://jobs.lever.co/GoToGroup/dff2a165-d111-4542-bfec-ec3856892275) | Jakarta |  | 2mo |
@@ -28,10 +28,10 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Nttlimited** | [Technical Developer Intern](https://nttlimited.wd3.myworkdayjobs.com/ntt_careers/job/Jakarta-Indonesia/Technical-Developer-Intern_R-150206) | Jakarta, Indonesia |  | 4d |
-| **Nttlimited** | [Data Engineer Intern](https://nttlimited.wd3.myworkdayjobs.com/ntt_careers/job/Jakarta-Indonesia/Data-Engineer-Intern_R-150199) | Jakarta, Indonesia |  | 5d |
+| **Nttlimited** | [Technical Developer Intern](https://nttlimited.wd3.myworkdayjobs.com/ntt_careers/job/Jakarta-Indonesia/Technical-Developer-Intern_R-150206) | Jakarta, Indonesia |  | 5d |
+| **Nttlimited** | [Data Engineer Intern](https://nttlimited.wd3.myworkdayjobs.com/ntt_careers/job/Jakarta-Indonesia/Data-Engineer-Intern_R-150199) | Jakarta, Indonesia |  | 6d |
 | **Global Campus** | [FY 27 - Internship - Enterprise System and Transformation Assurance](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Jakarta/FY-27---Internship---Enterprise-System-and-Transformation-Assurance_754342WD) | Jakarta |  | 25d |
-| **Cermati** | [Software Engineer Intern](https://jobs.smartrecruiters.com/Cermaticom/744000144468230-software-engineer-intern?oga=true) | Jakarta, Jakarta, Indonesia |  | 27d |
+| **Cermati** | [Software Engineer Intern](https://jobs.smartrecruiters.com/Cermaticom/744000144468230-software-engineer-intern?oga=true) | Jakarta, Jakarta, Indonesia |  | 28d |
 | **Xendit** | [Full Stack Developer Intern](https://job-boards.greenhouse.io/xendit/jobs/7821207003) | Jakarta, Indonesia |  | 1mo |
 
 <!-- TABLE_END -->
