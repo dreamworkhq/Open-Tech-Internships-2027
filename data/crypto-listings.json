@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T22:04:15.512Z",
+  "generatedAt": "2026-09-17T22:00:24.313Z",
   "source": "dreamwork-public-job-index",
   "list": "Open-Tech-Internships-2027",
   "scope": "crypto",
@@ -268,7 +268,7 @@
       "companyDomain": "bybit.com",
       "location": "Hong Kong SAR",
       "locationCountryCode": "HK",
-      "functionPrimary": "Data Science",
+      "functionPrimary": "Engineering",
       "remoteType": "onsite",
       "salaryMin": null,
       "salaryMax": null,
@@ -385,7 +385,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-08-31T19:32:34.702Z",
+      "postedAt": "2026-08-31T18:06:05.804Z",
       "firstIndexedAt": "2026-09-01T21:52:21.114Z",
       "url": "https://nxp.wd3.myworkdayjobs.com/careers/job/Sibiu/Crypto-Quality-SW-Process-Internship_R-10066282"
     },
@@ -852,22 +852,6 @@
       "postedAt": "2026-07-24T10:53:37.591Z",
       "firstIndexedAt": "2026-07-24T11:00:25.275Z",
       "url": "https://jobs.lever.co/binance/53f4727b-89a8-4b19-8b1a-65781808c5dd"
-    },
-    {
-      "id": "fca082c6-7b8e-4d3b-8f2a-9895f7b86dc4",
-      "title": "Security Engineering Intern, Red Team",
-      "company": "Coinhako",
-      "companyDomain": "coinhako.com",
-      "location": "Vietnam",
-      "locationCountryCode": "VN",
-      "functionPrimary": "Security",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-07-17T04:55:17.263Z",
-      "firstIndexedAt": "2026-07-17T09:22:58.123Z",
-      "url": "https://jobs.ashbyhq.com/coinhako/363d4ffa-01d4-4c03-a8f8-75e623ad6a49"
     },
     {
       "id": "b88ddd04-68d4-4c12-90f7-cfef0447ce8d",
@@ -1348,6 +1332,22 @@
       "postedAt": "2025-10-29T16:39:02.000Z",
       "firstIndexedAt": "2026-05-23T07:59:48.207Z",
       "url": "https://www.jumptrading.com/hr/job?gh_jid=7362318"
+    },
+    {
+      "id": "4604837d-83cc-4703-a6b1-0c90e904cf80",
+      "title": "Campus Crypto Researcher (Full-Time)",
+      "company": "Jump Trading",
+      "companyDomain": "jumptrading.com",
+      "location": "London",
+      "locationCountryCode": "GB",
+      "functionPrimary": "Research",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2025-10-29T16:39:08.000Z",
+      "firstIndexedAt": "2026-05-23T07:59:48.207Z",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7217856"
     },
     {
       "id": "244545b8-9a3d-4d7a-bc79-6b7d26adc18e",
