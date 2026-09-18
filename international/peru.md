@@ -2,22 +2,23 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**5 currently open roles** · Updated **2026-09-17**
+**6 currently open roles** · Updated **2026-09-18**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Other](#other-5) · 5 roles
+- [Other](#other-6) · 6 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Other (5)
+### Other (6)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Sezzle** | [SRE / Platform Infrastructure Engineer Intern](https://job-boards.greenhouse.io/sezzle/jobs/7906453003) | Remote (Peru) |  | 28d |
-| **Sezzle** | [Software Engineer Intern](https://job-boards.greenhouse.io/sezzle/jobs/7906408003) | Remote (Peru) |  | 28d |
-| **Sezzle** | [Security Infrastructure Engineer Intern](https://job-boards.greenhouse.io/sezzle/jobs/7906517003) | Remote (Peru) |  | 28d |
-| **Sezzle** | [Data Infrastructure Engineer Intern](https://job-boards.greenhouse.io/sezzle/jobs/7906562003) | Remote (Peru) |  | 28d |
-| **Sezzle** | [AI Engineering Intern](https://job-boards.greenhouse.io/sezzle/jobs/7906563003) | Remote (Peru) |  | 28d |
+| **Sezzle** | [Product Management Intern](https://job-boards.greenhouse.io/sezzle/jobs/7998740003) | Remote (Peru) |  | 0d |
+| **Sezzle** | [SRE / Platform Infrastructure Engineer Intern](https://job-boards.greenhouse.io/sezzle/jobs/7906453003) | Remote (Peru) |  | 29d |
+| **Sezzle** | [Software Engineer Intern](https://job-boards.greenhouse.io/sezzle/jobs/7906408003) | Remote (Peru) |  | 29d |
+| **Sezzle** | [Security Infrastructure Engineer Intern](https://job-boards.greenhouse.io/sezzle/jobs/7906517003) | Remote (Peru) |  | 29d |
+| **Sezzle** | [Data Infrastructure Engineer Intern](https://job-boards.greenhouse.io/sezzle/jobs/7906562003) | Remote (Peru) |  | 29d |
+| **Sezzle** | [AI Engineering Intern](https://job-boards.greenhouse.io/sezzle/jobs/7906563003) | Remote (Peru) |  | 29d |
 
 <!-- TABLE_END -->
