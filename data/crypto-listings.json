@@ -1,10 +1,26 @@
 {
-  "generatedAt": "2026-09-17T22:00:24.313Z",
+  "generatedAt": "2026-09-18T21:30:55.564Z",
   "source": "dreamwork-public-job-index",
   "list": "Open-Tech-Internships-2027",
   "scope": "crypto",
-  "count": 106,
+  "count": 108,
   "listings": [
+    {
+      "id": "9e77fa45-c909-4001-aacc-0d8e3fd998ca",
+      "title": "Binance Accelerator Program - Quantitative Trading Strategy Algorithm",
+      "company": "Binance",
+      "companyDomain": "binance.com",
+      "location": "Hong Kong",
+      "locationCountryCode": "HK",
+      "functionPrimary": "Engineering",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-09-17T09:30:34.807Z",
+      "firstIndexedAt": "2026-09-18T13:01:31.607Z",
+      "url": "https://jobs.lever.co/binance/2c4cc156-f1bc-4bfd-b3f3-8b1505d4a5d4"
+    },
     {
       "id": "80beecfb-8abe-4581-bb9d-70b1155b179f",
       "title": "Software Intern Engineer for Crypto and Cross Domain Solutions",
@@ -385,7 +401,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-08-31T18:06:05.804Z",
+      "postedAt": "2026-08-31T20:18:02.956Z",
       "firstIndexedAt": "2026-09-01T21:52:21.114Z",
       "url": "https://nxp.wd3.myworkdayjobs.com/careers/job/Sibiu/Crypto-Quality-SW-Process-Internship_R-10066282"
     },
@@ -636,7 +652,7 @@
       "companyDomain": "certik.com",
       "location": "Europe / Asia",
       "locationCountryCode": null,
-      "functionPrimary": "Security",
+      "functionPrimary": "Engineering",
       "remoteType": "remote",
       "salaryMin": null,
       "salaryMax": null,
@@ -932,22 +948,6 @@
       "postedAt": "2026-07-09T07:09:11.201Z",
       "firstIndexedAt": "2026-07-10T06:11:17.871Z",
       "url": "https://jobs.lever.co/binance/eb8d067d-75be-4b54-848d-0f1bdb3ce63c"
-    },
-    {
-      "id": "04ba16df-b099-480c-bec9-42abda7ad11f",
-      "title": "Binance Accelerator Program - Talent Acquisition",
-      "company": "Binance",
-      "companyDomain": "binance.com",
-      "location": "UAE, Dubai",
-      "locationCountryCode": "AE",
-      "functionPrimary": "HR",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-07-08T15:33:39.653Z",
-      "firstIndexedAt": "2026-07-09T06:02:27.387Z",
-      "url": "https://jobs.lever.co/binance/c98699c0-f0bd-4eb4-a03c-187f218533e8"
     },
     {
       "id": "264fe936-8a95-49a0-8c7a-e629c40fc043",
@@ -1398,6 +1398,22 @@
       "url": "https://jobs.lever.co/binance/6867adf0-87e2-49a1-bb1e-304336c44fe1"
     },
     {
+      "id": "1d1640e5-6b25-4162-b850-cb92a3e612e9",
+      "title": "Binance Accelerator Program - AI Product Manager",
+      "company": "Binance",
+      "companyDomain": "binance.com",
+      "location": "Hong Kong",
+      "locationCountryCode": "HK",
+      "functionPrimary": "Product",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-01-26T06:27:50.305Z",
+      "firstIndexedAt": "2026-05-15T18:04:57.164Z",
+      "url": "https://jobs.lever.co/binance/fc5c7a53-3e41-4946-a37e-22da932abb6f"
+    },
+    {
       "id": "2a08bbf1-54e4-484e-9663-8a4b08dd5449",
       "title": "Binance Accelerator Program - UI/UX Design",
       "company": "Binance",
@@ -1588,6 +1604,22 @@
       "postedAt": "2026-05-13T06:45:44.654Z",
       "firstIndexedAt": "2026-05-15T18:04:56.718Z",
       "url": "https://jobs.lever.co/binance/3785f1c4-3d3a-494a-9d0b-51e68f84ac08"
+    },
+    {
+      "id": "4dff08ac-fd78-4ede-9b85-e190332f8bab",
+      "title": "Binance Accelerator Program - Blockchain Data Scientist (AI/LLM)",
+      "company": "Binance",
+      "companyDomain": "binance.com",
+      "location": "Taiwan, Taipei",
+      "locationCountryCode": "TW",
+      "functionPrimary": "Data Science",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2024-06-28T08:19:49.110Z",
+      "firstIndexedAt": "2026-05-15T18:04:56.718Z",
+      "url": "https://jobs.lever.co/binance/96e8326e-074f-4d1f-89c4-8ed1a6f96014"
     },
     {
       "id": "501a8699-3c72-4359-8579-5f3f6670b57b",
