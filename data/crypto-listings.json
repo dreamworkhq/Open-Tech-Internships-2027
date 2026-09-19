@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-18T21:30:55.564Z",
+  "generatedAt": "2026-09-19T21:18:36.698Z",
   "source": "dreamwork-public-job-index",
   "list": "Open-Tech-Internships-2027",
   "scope": "crypto",
-  "count": 108,
+  "count": 109,
   "listings": [
     {
       "id": "9e77fa45-c909-4001-aacc-0d8e3fd998ca",
@@ -214,22 +214,6 @@
       "url": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971554101"
     },
     {
-      "id": "75198d6b-8b2d-4889-bed3-16cba3d9f1f1",
-      "title": "[Intern] Test Development Engineer Intern",
-      "company": "Bybit",
-      "companyDomain": "bybit.com",
-      "location": "Hong Kong SAR; Kuala Lumpur, Malaysia",
-      "locationCountryCode": "MY",
-      "functionPrimary": "Engineering",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-09-09T05:07:06.000Z",
-      "firstIndexedAt": "2026-09-09T15:30:43.343Z",
-      "url": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971459101"
-    },
-    {
       "id": "b32a6e9a-819a-4072-9856-4513512b6348",
       "title": "[Intern] Test Development Engineer Intern （Trading Engine）",
       "company": "Bybit",
@@ -244,6 +228,22 @@
       "postedAt": "2026-09-09T04:26:41.000Z",
       "firstIndexedAt": "2026-09-09T15:30:43.343Z",
       "url": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971452101"
+    },
+    {
+      "id": "ba4ac05c-2ad7-48cd-bf33-993d86e8b105",
+      "title": "[Intern] Test Development Engineer Intern",
+      "company": "Bybit",
+      "companyDomain": "bybit.com",
+      "location": "Hong Kong SAR; Kuala Lumpur, Malaysia",
+      "locationCountryCode": "MY",
+      "functionPrimary": "Engineering",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-09-09T06:56:44.000Z",
+      "firstIndexedAt": "2026-09-09T15:30:43.343Z",
+      "url": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971501101"
     },
     {
       "id": "e37426e2-d0d1-4600-b0e1-01f2c0236399",
@@ -401,7 +401,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-08-31T20:18:02.956Z",
+      "postedAt": "2026-08-31T15:15:59.988Z",
       "firstIndexedAt": "2026-09-01T21:52:21.114Z",
       "url": "https://nxp.wd3.myworkdayjobs.com/careers/job/Sibiu/Crypto-Quality-SW-Process-Internship_R-10066282"
     },
@@ -743,11 +743,11 @@
     },
     {
       "id": "afada5bd-1851-482f-9140-98c2a78ec41c",
-      "title": "Binance Accelerator Program- CEO Office (Monitorship)",
+      "title": "Binance Accelerator Program- Monitorship",
       "company": "Binance",
       "companyDomain": "binance.com",
-      "location": "Asia",
-      "locationCountryCode": null,
+      "location": "Mexico, Mexico City",
+      "locationCountryCode": "MX",
       "functionPrimary": "Operations",
       "remoteType": "remote",
       "salaryMin": null,
@@ -1220,6 +1220,22 @@
       "postedAt": "2026-03-26T19:40:01.700Z",
       "firstIndexedAt": "2026-05-28T11:03:02.801Z",
       "url": "https://jobs.ashbyhq.com/ellipsislabs/02136b22-35b1-4b3d-8bef-567c3380a849"
+    },
+    {
+      "id": "92894c54-3a6a-481e-b512-618de6c82bc5",
+      "title": "Software Engineer - 2027 New Grads",
+      "company": "Ellipsislabs",
+      "companyDomain": "ellipsislabs.com",
+      "location": "New York, New York",
+      "locationCountryCode": "US",
+      "functionPrimary": "Engineering",
+      "remoteType": "hybrid",
+      "salaryMin": 150000,
+      "salaryMax": 200000,
+      "salaryPeriod": "annual",
+      "postedAt": "2026-03-26T19:41:41.029Z",
+      "firstIndexedAt": "2026-05-28T11:03:02.801Z",
+      "url": "https://jobs.ashbyhq.com/ellipsislabs/256c2ec2-01c8-4ff6-9ad0-b926fe40472d"
     },
     {
       "id": "7f57b282-6729-4c91-82f4-455bd835b694",
