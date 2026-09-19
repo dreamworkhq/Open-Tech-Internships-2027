@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**11 currently open roles** · Updated **2026-09-18**
+**11 currently open roles** · Updated **2026-09-19**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -16,7 +16,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Devoteam** | [Software Engineer Internship (AI-Powered Software Factory)](https://jobs.smartrecruiters.com/Devoteam/744000146762399-software-engineer-internship-ai-powered-software-factory-?oga=true) | Machelen, Vlaanderen, Belgium (Hybrid) |  | 16d |
+| **Devoteam** | [Software Engineer Internship (AI-Powered Software Factory)](https://jobs.smartrecruiters.com/Devoteam/744000146762399-software-engineer-internship-ai-powered-software-factory-?oga=true) | Machelen, Vlaanderen, Belgium (Hybrid) |  | 17d |
 | **Global Campus** | [School Internship in AI Agent Development in Deals M&A (2026-2027)](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Brussels/School-Internship-in-AI-Agent-Development-in-Deals-M-A--2026-2027-_734536WD) | Brussels (Hybrid) |  | 2mo |
 | **TechWolf** | [Internship - Software Engineer](https://careers.techwolf.ai/o/internship-software-engineer) | Ghent, Vlaams Gewest, Belgium |  | 2mo |
 | **1000** | [Engineering Internship - Automation/Mechanical/Mechatronic/Data Science…](https://pg.wd5.myworkdayjobs.com/1000/job/Brussels/Engineering-Internship---Automation-Mechanical-Mechatronic-Data-Science-Chemical_R000154036) | Brussels | $31K | 2mo |
@@ -36,6 +36,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Keysight** | [Cybersecurity Intern](https://jobs.keysight.com/jobs/53691?lang=en-us) | Leuven, Vlaams Brabant, Belgium |  | 16d |
+| **Keysight** | [Cybersecurity Intern](https://jobs.keysight.com/jobs/53691?lang=en-us) | Leuven, Vlaams Brabant, Belgium |  | 17d |
 
 <!-- TABLE_END -->

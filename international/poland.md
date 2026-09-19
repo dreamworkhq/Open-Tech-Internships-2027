@@ -2,12 +2,12 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**23 currently open roles** · Updated **2026-09-18**
+**24 currently open roles** · Updated **2026-09-19**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
 - [Engineering](#engineering-18) · 18 roles
-- [Other](#other-5) · 5 roles
+- [Other](#other-6) · 6 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
@@ -15,17 +15,17 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Ericsson** | [LTE Developer - 1 year internship (Łódź)](https://career2.successfactors.eu/careers?company=Ericsson&jobId=789182) | Łódź, Poland |  | 3d |
-| **Arista Networks** | [Intern Software Engineer - C/C++](https://jobs.smartrecruiters.com/AristaNetworks/744000149101159-intern-software-engineer-c-c-?oga=true) | Remote (Poland - Remote, , Poland) |  | 6d |
-| **Apriorit** | [Intern C++ Developer](https://djinni.co/jobs/847961-intern-c-developer/) | Remote (POL) |  | 6d |
-| **Hitachi** | [Internship - Electrical Design Engineer](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Lodz-Lodz-Poland/Internship---Electrical-Design-Engineer_R0144380-1) | Lodz, Lodz, Poland (Hybrid) |  | 8d |
-| **Solidigm** | [2027 Graduate Firmware Engineering & Validation Internships – Poland](https://jobs.smartrecruiters.com/Solidigm/744000147729888-2027-graduate-firmware-engineering-validation-internships-poland?oga=true) | Gdańsk, Pomeranian Voivodeship, Poland |  | 9d |
-| **Snowflake** | [Applied AI Intern - Warsaw](https://jobs.ashbyhq.com/snowflake/90190b16-fd27-4366-8c10-9c4896157681) | PL-Warsaw-Lixa C |  | 10d |
-| **Google** | [Software Engineering, Site Reliability Engineering BS/MS Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/121543376737575622) | Warsaw, Poland, Kraków, Poland | $39K–$40K | 13d |
-| **Bosch** | [Paid Internship in AI Application Team (f/m)](https://jobs.smartrecruiters.com/BoschGroup/744000145524340-paid-internship-in-ai-application-team-f-m-?oga=true) | Warszawa, Województwo mazowieckie, Poland (Hybrid) |  | 22d |
-| **Hitachi** | [Internship – Full-stack Software Engineer](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Krakow-Lesser-Poland-Poland/Internship---Full-stack-Software-Engineer_R0142565-1) | Krakow, Lesser Poland, Poland (Hybrid) |  | 23d |
-| **Bosch** | [IT Application Support Intern (f/m)](https://jobs.smartrecruiters.com/BoschGroup/744000145212088-it-application-support-intern-f-m-?oga=true) | Warszawa, Województwo mazowieckie, Poland (Hybrid) |  | 24d |
-| **Bosch** | [Engineering IT Support Intern (CAD/PLM Systems) (f/m)](https://jobs.smartrecruiters.com/BoschGroup/744000144262495-engineering-it-support-intern-cad-plm-systems-f-m-?oga=true) | Warszawa, Województwo mazowieckie, Poland (Hybrid) |  | 1mo |
+| **Waymo** | [2027 Summer Intern, MS/PhD, Software Engineer, RO Performance team, Rel…](https://careers.withwaymo.com/jobs?gh_jid=8214729) | Warsaw, Poland (Hybrid) |  | 0d |
+| **Ericsson** | [LTE Developer - 1 year internship (Łódź)](https://career2.successfactors.eu/careers?company=Ericsson&jobId=789182) | Łódź, Poland |  | 4d |
+| **Arista Networks** | [Intern Software Engineer - C/C++](https://jobs.smartrecruiters.com/AristaNetworks/744000149101159-intern-software-engineer-c-c-?oga=true) | Remote (Poland - Remote, , Poland) |  | 7d |
+| **Apriorit** | [Intern C++ Developer](https://djinni.co/jobs/847961-intern-c-developer/) | Remote (POL) |  | 7d |
+| **Hitachi** | [Internship - Electrical Design Engineer](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Lodz-Lodz-Poland/Internship---Electrical-Design-Engineer_R0144380-1) | Lodz, Lodz, Poland (Hybrid) |  | 9d |
+| **Solidigm** | [2027 Graduate Firmware Engineering & Validation Internships – Poland](https://jobs.smartrecruiters.com/Solidigm/744000147729888-2027-graduate-firmware-engineering-validation-internships-poland?oga=true) | Gdańsk, Pomeranian Voivodeship, Poland |  | 10d |
+| **Snowflake** | [Applied AI Intern - Warsaw](https://jobs.ashbyhq.com/snowflake/90190b16-fd27-4366-8c10-9c4896157681) | PL-Warsaw-Lixa C |  | 11d |
+| **Google** | [Software Engineering, Site Reliability Engineering BS/MS Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/121543376737575622) | Warsaw, Poland, Kraków, Poland | $39K–$40K | 14d |
+| **Bosch** | [Paid Internship in AI Application Team (f/m)](https://jobs.smartrecruiters.com/BoschGroup/744000145524340-paid-internship-in-ai-application-team-f-m-?oga=true) | Warszawa, Województwo mazowieckie, Poland (Hybrid) |  | 23d |
+| **Hitachi** | [Internship – Full-stack Software Engineer](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Krakow-Lesser-Poland-Poland/Internship---Full-stack-Software-Engineer_R0142565-1) | Krakow, Lesser Poland, Poland (Hybrid) |  | 24d |
+| **Bosch** | [IT Application Support Intern (f/m)](https://jobs.smartrecruiters.com/BoschGroup/744000145212088-it-application-support-intern-f-m-?oga=true) | Warszawa, Województwo mazowieckie, Poland (Hybrid) |  | 25d |
 | **Google** | [Software Engineering PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/107087730147500742) | Warsaw, Poland, Kraków, Poland |  | 1mo |
 | **Ericsson** | [AI and telecommunication Internship - up to 1 year (Kraków)](https://career2.successfactors.eu/careers?company=Ericsson&jobId=789289) | Kraków, Poland |  | 1mo |
 | **Bosch** | [IT Internship (BackEnd, Java) (f/m)](https://jobs.smartrecruiters.com/BoschGroup/744000143272044-it-internship-backend-java-f-m-?oga=true) | Warszawa, Województwo mazowieckie, Poland (Hybrid) |  | 1mo |
@@ -34,14 +34,15 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **Tenstorrent** | [Infrastructure Automation Engineering Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5165445007) | Warszawa, Masovian Voivodeship, Poland (Hybrid) |  | 3mo |
 | **Cisco** | [Software Development Intern (Cracow, Poland)](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Krakow-Poland/Software-Development-Intern--Cracow--Poland-_2015133) | Krakow, Poland (Hybrid) |  | 4mo |
 
-### Other (5)
+### Other (6)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Masterborn 2** | [Intern Product Designer (AI Prototyping)](https://jobs.lever.co/masterborn-2/452e0679-85a2-40cd-96a8-ed77d0068ea2) | Wrocław or remotely (Hybrid) |  | 6d |
-| **Google** | [Data Science PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/74389446190867142) | Warsaw, Poland | $48K | 13d |
-| **Bosch** | [Paid internship - UX/UI Designer (f/m)](https://jobs.smartrecruiters.com/BoschGroup/744000147258159-paid-internship-ux-ui-designer-f-m-?oga=true) | Warszawa, Województwo mazowieckie, Poland (Hybrid) |  | 15d |
-| **Masterborn 2** | [Intern Product Owner - Join our Product Squad!](https://jobs.lever.co/masterborn-2/7ed42d18-dc36-410b-911f-b175a6f88fb9) | Wrocław |  | 20d |
-| **Accenture** | [Data & AI Internship Program (She/He/They)](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Katowice-Silesia-Business-Park-Bldg-C/Data-Engineer---Data-Analyst-Internship-Program--She-He-They-_R00287786) | Katowice, Silesia Business Park Bldg C (Hybrid) |  | 3mo |
+| **Masterborn 2** | [Intern Product Owner](https://jobs.lever.co/masterborn-2/54feccea-0007-4948-aa85-64da0406a1d1) | Wrocław (Hybrid) |  | 0d |
+| **Masterborn 2** | [Intern Product Designer (AI Prototyping)](https://jobs.lever.co/masterborn-2/452e0679-85a2-40cd-96a8-ed77d0068ea2) | Wrocław or remotely (Hybrid) |  | 7d |
+| **Google** | [Data Science PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/74389446190867142) | Warsaw, Poland | $48K | 14d |
+| **Bosch** | [Paid internship - UX/UI Designer (f/m)](https://jobs.smartrecruiters.com/BoschGroup/744000147258159-paid-internship-ux-ui-designer-f-m-?oga=true) | Warszawa, Województwo mazowieckie, Poland (Hybrid) |  | 16d |
+| **Masterborn 2** | [Intern Product Owner - Join our Product Squad!](https://jobs.lever.co/masterborn-2/7ed42d18-dc36-410b-911f-b175a6f88fb9) | Wrocław |  | 21d |
+| **Accenture** | [Data & AI Internship Program (She/He/They)](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Katowice-Silesia-Business-Park-Bldg-C/Data-Engineer---Data-Analyst-Internship-Program--She-He-They-_R00287786) | Katowice, Silesia Business Park Bldg C (Hybrid) |  | 4mo |
 
 <!-- TABLE_END -->
