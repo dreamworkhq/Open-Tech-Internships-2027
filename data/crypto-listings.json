@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-19T21:18:36.698Z",
+  "generatedAt": "2026-09-20T21:26:11.650Z",
   "source": "dreamwork-public-job-index",
   "list": "Open-Tech-Internships-2027",
   "scope": "crypto",
-  "count": 109,
+  "count": 108,
   "listings": [
     {
       "id": "9e77fa45-c909-4001-aacc-0d8e3fd998ca",
@@ -401,7 +401,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-08-31T15:15:59.988Z",
+      "postedAt": "2026-09-01T03:31:39.297Z",
       "firstIndexedAt": "2026-09-01T21:52:21.114Z",
       "url": "https://nxp.wd3.myworkdayjobs.com/careers/job/Sibiu/Crypto-Quality-SW-Process-Internship_R-10066282"
     },
@@ -1044,22 +1044,6 @@
       "postedAt": "2026-06-25T13:21:37.815Z",
       "firstIndexedAt": "2026-06-26T06:09:46.134Z",
       "url": "https://jobs.lever.co/binance/48432e94-a2c4-4dfc-822c-705bc53d6150"
-    },
-    {
-      "id": "57a42c83-7adb-4b97-9602-17a1a3a3c0bf",
-      "title": "Software Engineering Intern",
-      "company": "Binance.Us",
-      "companyDomain": "binance.us",
-      "location": "U.S.",
-      "locationCountryCode": "US",
-      "functionPrimary": "Engineering",
-      "remoteType": "remote",
-      "salaryMin": 72800,
-      "salaryMax": 72800,
-      "salaryPeriod": "annual",
-      "postedAt": "2026-06-25T00:44:17.446Z",
-      "firstIndexedAt": "2026-06-25T06:04:45.084Z",
-      "url": "https://jobs.ashbyhq.com/binance.us/c23e9aa3-0daa-4170-a5a7-b03aaa031895"
     },
     {
       "id": "6c24c964-5efe-43e5-b730-ccba86de0359",
