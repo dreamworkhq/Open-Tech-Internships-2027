@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**37 currently open roles** · Updated **2026-09-19**
+**37 currently open roles** · Updated **2026-09-20**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -16,21 +16,21 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Keenfinity** | [Research Intern – AI-Based Audio Optimization](https://jobs.smartrecruiters.com/Keenfinity/744000150347490-research-intern-ai-based-audio-optimization?oga=true) | Eindhoven, NB, Netherlands (Hybrid) |  | 0d |
-| **EURES Netherlands** | [Software Tester Intern](https://europa.eu/eures/portal/jv-se/jv-details/NWFmMGY1NWEtMzliZC1kMGViLWUwNjMtNjg5M2IyMGE4MDE2IDQy) | Overijssel, Netherlands |  | 11d |
-| **Thermo Fisher Scientific** | [Intern Software Engineer - Infrastructure as Code](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Eindhoven-Netherlands/Intern-Software-Engineer---Infrastructure-as-Code_R-01366282-1) | Eindhoven, Netherlands |  | 11d |
-| **EURES Netherlands (Professional)** | [Software Tester Intern](https://europa.eu/eures/portal/jv-se/jv-details/NWFmMGY1NWEtMzliZC1kMGViLWUwNjMtNjg5M2IyMGE4MDE2IDQy) | Overijssel, Netherlands |  | 11d |
-| **Kinaxis** | [Intern Software Developer Quality Assurance](https://careers-kinaxis.icims.com/jobs/35310/intern-software-developer-quality-assurance/job) | Rotterdam, NL (Hybrid) |  | 14d |
-| **EURES Netherlands (Professional)** | [AI Intern](https://europa.eu/eures/portal/jv-se/jv-details/NWExM2FkMWEtMGQ1MC03NzM3LWUwNjMtNjg5M2IyMGE2NWNiIDQy) | Noord-Holland, Netherlands |  | 21d |
-| **EURES Netherlands** | [AI Intern](https://europa.eu/eures/portal/jv-se/jv-details/NWExM2FkMWEtMGQ1MC03NzM3LWUwNjMtNjg5M2IyMGE2NWNiIDQy) | Noord-Holland, Netherlands |  | 21d |
-| **Brunswick** | [Software Engineering Intern](https://brunswick.wd1.myworkdayjobs.com/search/job/Amsterdam-Netherlands/Software-Engineering-Intern_JR-051328) | Amsterdam, Netherlands |  | 22d |
-| **Workwize** | [Intern Product Engineer](https://job-boards.eu.greenhouse.io/workwize/jobs/4958238101) | Amsterdam (Hybrid) |  | 28d |
+| **Keenfinity** | [Research Intern – AI-Based Audio Optimization](https://jobs.smartrecruiters.com/Keenfinity/744000150347490-research-intern-ai-based-audio-optimization?oga=true) | Eindhoven, NB, Netherlands (Hybrid) |  | 2d |
+| **EURES Netherlands** | [Software Tester Intern](https://europa.eu/eures/portal/jv-se/jv-details/NWFmMGY1NWEtMzliZC1kMGViLWUwNjMtNjg5M2IyMGE4MDE2IDQy) | Overijssel, Netherlands |  | 12d |
+| **Thermo Fisher Scientific** | [Intern Software Engineer - Infrastructure as Code](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Eindhoven-Netherlands/Intern-Software-Engineer---Infrastructure-as-Code_R-01366282-1) | Eindhoven, Netherlands |  | 12d |
+| **EURES Netherlands (Professional)** | [Software Tester Intern](https://europa.eu/eures/portal/jv-se/jv-details/NWFmMGY1NWEtMzliZC1kMGViLWUwNjMtNjg5M2IyMGE4MDE2IDQy) | Overijssel, Netherlands |  | 12d |
+| **Kinaxis** | [Intern Software Developer Quality Assurance](https://careers-kinaxis.icims.com/jobs/35310/intern-software-developer-quality-assurance/job) | Rotterdam, NL (Hybrid) |  | 15d |
+| **EURES Netherlands (Professional)** | [AI Intern](https://europa.eu/eures/portal/jv-se/jv-details/NWExM2FkMWEtMGQ1MC03NzM3LWUwNjMtNjg5M2IyMGE2NWNiIDQy) | Noord-Holland, Netherlands |  | 22d |
+| **EURES Netherlands** | [AI Intern](https://europa.eu/eures/portal/jv-se/jv-details/NWExM2FkMWEtMGQ1MC03NzM3LWUwNjMtNjg5M2IyMGE2NWNiIDQy) | Noord-Holland, Netherlands |  | 22d |
+| **Brunswick** | [Software Engineering Intern](https://brunswick.wd1.myworkdayjobs.com/search/job/Amsterdam-Netherlands/Software-Engineering-Intern_JR-051328) | Amsterdam, Netherlands |  | 23d |
+| **Workwize** | [Intern Product Engineer](https://job-boards.eu.greenhouse.io/workwize/jobs/4958238101) | Amsterdam (Hybrid) |  | 29d |
 | **Optiverus** | [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713409002/?gh_jid=8713409002) | Amsterdam, North Holland, Netherlands |  | 1mo |
 | **Imc** | [Software Engineer Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4667854101) | Amsterdam, Netherlands |  | 1mo |
 | **Imc** | [Hardware Engineer Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4927149101) | Amsterdam, Netherlands |  | 1mo |
 | **Damen** | [Internship: Solution Developer](https://damen.wd3.myworkdayjobs.com/Damen_Careers/job/Gorinchem/Internship--Solution-Developer_JR0018136) | Gorinchem |  | 1mo |
 | **NXP Semiconductors** | [Internship/Thesis – Signal Processing and AI for autonomous driving](https://nxp.wd3.myworkdayjobs.com/careers/job/Eindhoven/Internship-Thesis---Signal-Processing-and-AI-for-autonomous-driving-_R-10064090) | Eindhoven |  | 1mo |
-| **NXP Semiconductors** | [Internship - Robotics](https://nxp.wd3.myworkdayjobs.com/careers/job/Eindhoven/Internship----Robotics_R-10062364) | Eindhoven |  | 1mo |
+| **NXP Semiconductors** | [Internship - Robotics](https://nxp.wd3.myworkdayjobs.com/careers/job/Eindhoven/Internship----Robotics_R-10062364) | Eindhoven |  | 2mo |
 | **Lighting** | [Vision AI and Robotics Software Engineering Intern](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Vision-AI-and-Robotics-Software-Engineering-Intern_365266) | Eindhoven |  | 2mo |
 | **DRW** | [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/8020364) | Amsterdam |  | 2mo |
 | **Lighting** | [Embedded Software Intern - IoT Gateway (MSc Graduation)](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Embedded-Software-Intern---IoT-Gateway--MSc-Graduation-_364563) | Eindhoven |  | 2mo |
@@ -45,11 +45,11 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Philips** | [Internship: Data Science for Multidimensional Market Modelling](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/Internship--Data-Science-for-Multidimensional-Market-Modelling_590671) | Amsterdam |  | 2d |
-| **Rabobank** | [Intern Data Quality Support](https://rabobank.wd3.myworkdayjobs.com/jobs/job/Utrecht-Croeselaan-18/Intern-Data-Quality-Support_JR_00145568) | Utrecht Croeselaan 18 (Hybrid) |  | 7d |
-| **Nngroup** | [HBO/WO Thesis Internship KPI Analytics](https://nngroup.wd3.myworkdayjobs.com/WDExternal/job/Rotterdam/HBO-WO-Thesis-Internship-KPI-Analytics_REQ2708350) | Rotterdam |  | 13d |
-| **Lely1** | [Internship: Data Analysis & Advisory](https://jobs.smartrecruiters.com/Lely1/744000145954199-internship-data-analysis-advisory?oga=true) | Maassluis, ZH, Netherlands |  | 23d |
-| **Fugro** | [Data & Analytics Internship](https://fugro.wd3.myworkdayjobs.com/Careers/job/Prismastraat-3-Nootdorp-NL/Data---Analytics-Internship_R0031985) | Prismastraat 3 Nootdorp NL |  | 28d |
+| **Philips** | [Internship: Data Science for Multidimensional Market Modelling](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/Internship--Data-Science-for-Multidimensional-Market-Modelling_590671) | Amsterdam |  | 3d |
+| **Rabobank** | [Intern Data Quality Support](https://rabobank.wd3.myworkdayjobs.com/jobs/job/Utrecht-Croeselaan-18/Intern-Data-Quality-Support_JR_00145568) | Utrecht Croeselaan 18 (Hybrid) |  | 8d |
+| **Nngroup** | [HBO/WO Thesis Internship KPI Analytics](https://nngroup.wd3.myworkdayjobs.com/WDExternal/job/Rotterdam/HBO-WO-Thesis-Internship-KPI-Analytics_REQ2708350) | Rotterdam |  | 14d |
+| **Lely1** | [Internship: Data Analysis & Advisory](https://jobs.smartrecruiters.com/Lely1/744000145954199-internship-data-analysis-advisory?oga=true) | Maassluis, ZH, Netherlands |  | 24d |
+| **Fugro** | [Data & Analytics Internship](https://fugro.wd3.myworkdayjobs.com/Careers/job/Prismastraat-3-Nootdorp-NL/Data---Analytics-Internship_R0031985) | Prismastraat 3 Nootdorp NL |  | 29d |
 | **Bynder** | [Customer Analytics Internship](https://jobs.ashbyhq.com/bynder/24955a72-0dc7-495c-8ffd-d48f18ff986b) | Amsterdam (Hybrid) |  | 1mo |
 | **Myhrabc** | [Intern, Data](https://myhrabc.wd5.myworkdayjobs.com/Global/job/WEMEA--Netherlands--Veghel-Campus/Intern--Data_R2611376) | WEMEA > Netherlands > Veghel Campus |  | 1mo |
 | **VARO** | [Commercial Analytics Intern](https://varo.homerun.co/commercial-analytics-intern-2) | Rotterdam, Netherlands |  | 2mo |
