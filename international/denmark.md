@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**6 currently open roles** · Updated **2026-09-20**
+**6 currently open roles** · Updated **2026-09-21**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,11 +14,11 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Dentsuaegis** | [Developer Intern](https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/Aarhus/Developer-Intern_R1130839) | Aarhus |  | 1d |
-| **Dentsuaegis** | [Intern QA Engineer](https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/Aarhus/Intern-QA-Engineer_R1131350) | Aarhus |  | 1d |
-| **BEUMERGroup1** | [Software Engineering Internship, I&D Airport - Spring 2027](https://jobs.smartrecruiters.com/BEUMERGroup1/744000149712438-software-engineering-internship-i-d-airport-spring-2027?oga=true) | Aarhus, , Denmark |  | 4d |
-| **BEUMERGroup1** | [Software Engineering Internship, SW Products – Spring 2027](https://jobs.smartrecruiters.com/BEUMERGroup1/744000149712263-software-engineering-internship-sw-products-spring-2027?oga=true) | Aarhus, , Denmark |  | 4d |
-| **BEUMERGroup1** | [Software Engineering Internship, Simulation & Emulation – Spring 2027](https://jobs.smartrecruiters.com/BEUMERGroup1/744000149712558-software-engineering-internship-simulation-emulation-spring-2027?oga=true) | Aarhus, , Denmark |  | 4d |
-| **Netcompany1** | [Internship for Bachelor of Engineering students, Operations & Infrastru…](https://jobs.smartrecruiters.com/Netcompany1/744000146143059-internship-for-bachelor-of-engineering-students-operations-infrastructure-?oga=true) | Copenhagen, , Denmark |  | 22d |
+| **Dentsuaegis** | [Developer Intern](https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/Aarhus/Developer-Intern_R1130839) | Aarhus |  | 2d |
+| **Dentsuaegis** | [Intern QA Engineer](https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/Aarhus/Intern-QA-Engineer_R1131350) | Aarhus |  | 2d |
+| **BEUMERGroup1** | [Software Engineering Internship, I&D Airport - Spring 2027](https://jobs.smartrecruiters.com/BEUMERGroup1/744000149712438-software-engineering-internship-i-d-airport-spring-2027?oga=true) | Aarhus, , Denmark |  | 5d |
+| **BEUMERGroup1** | [Software Engineering Internship, SW Products – Spring 2027](https://jobs.smartrecruiters.com/BEUMERGroup1/744000149712263-software-engineering-internship-sw-products-spring-2027?oga=true) | Aarhus, , Denmark |  | 5d |
+| **BEUMERGroup1** | [Software Engineering Internship, Simulation & Emulation – Spring 2027](https://jobs.smartrecruiters.com/BEUMERGroup1/744000149712558-software-engineering-internship-simulation-emulation-spring-2027?oga=true) | Aarhus, , Denmark |  | 5d |
+| **Netcompany1** | [Internship for Bachelor of Engineering students, Operations & Infrastru…](https://jobs.smartrecruiters.com/Netcompany1/744000146143059-internship-for-bachelor-of-engineering-students-operations-infrastructure-?oga=true) | Copenhagen, , Denmark |  | 23d |
 
 <!-- TABLE_END -->
