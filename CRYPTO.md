@@ -4,13 +4,13 @@ Verified-open crypto, blockchain, and web3 internships worldwide, updated daily.
 
 [← US tech internships](README.md) · [International internships](INTERNATIONAL.md) · [Business internships](BUSINESS.md)
 
-**108 open internships** · **19 companies** · **0 added in the last 24 hours** · Updated **2026-09-21**
+**113 open internships** · **19 companies** · **1 added in the last 24 hours** · Updated **2026-09-22**
 
 Every role links directly to the company's career page. Indexed from company career pages and maintained by [Dreamwork](https://github.com/dreamworkhq).
 
 - [Engineering](#engineering-50) · 50 roles
+- [Marketing](#marketing-17) · 17 roles
 - [Data Science](#data-science-12) · 12 roles
-- [Marketing](#marketing-12) · 12 roles
 - [Operations](#operations-9) · 9 roles
 - [Security](#security-7) · 7 roles
 - [Research](#research-5) · 5 roles
@@ -22,31 +22,31 @@ Every role links directly to the company's career page. Indexed from company car
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Binance** | [Binance Accelerator Program - Quantitative Trading Strategy Algorithm](https://jobs.lever.co/binance/2c4cc156-f1bc-4bfd-b3f3-8b1505d4a5d4) | Remote (Hong Kong) |  | 3d |
-| **General Dynamics Mission Systems** | [Software Intern Engineer for Crypto and Cross Domain Solutions](https://careers-gdms.icims.com/jobs/74785/software-intern-engineer-for-crypto-and-cross-domain-solutions/job) | Scottsdale, AZ, US |  | 5d |
-| **General Dynamics Mission Systems** | [Hardware EE Intern Engineer for Crypto and Cross Domain Solutions](https://careers-gdms.icims.com/jobs/74787/hardware-ee-intern-engineer-for-crypto-and-cross-domain-solutions/job) | Scottsdale, AZ, US |  | 5d |
-| **Bybit** | [AI Development Engineer Intern](https://job-boards.eu.greenhouse.io/bybit/jobs/4974271101) | Hong Kong SAR |  | 8d |
-| **Binance** | [Binance Accelerator Programm - Software Engineer (Convert)](https://jobs.lever.co/binance/a6651f27-4e58-4841-91ae-5c79e2296d36) | Remote (Asia) |  | 11d |
-| **Binance** | [Binance Accelerator Programm - Software Engineer (Stocks)](https://jobs.lever.co/binance/f1aa0f91-9dac-4eba-bfd7-b39fc4f98cb2) | Remote (Taiwan, Taipei) |  | 11d |
-| **Bybit** | [\[Intern\] Test Development Engineer Intern](https://job-boards.eu.greenhouse.io/bybit/jobs/4971554101) | Hong Kong SAR |  | 12d |
-| **Bybit** | [\[Intern\] Test Development Engineer Intern](https://job-boards.eu.greenhouse.io/bybit/jobs/4971501101) | Hong Kong SAR; Kuala Lumpur, Malaysia |  | 12d |
-| **Bybit** | [Big Data Development Engineer Intern](https://job-boards.eu.greenhouse.io/bybit/jobs/4971690101) | Hong Kong SAR |  | 12d |
-| **Bybit** | [\[Intern\] Test Development Engineer Intern](https://job-boards.eu.greenhouse.io/bybit/jobs/4971569101) | Kuala Lumpur, Malaysia |  | 12d |
-| **Bybit** | [\[Intern\] Big Data Development Engineer Intern](https://job-boards.eu.greenhouse.io/bybit/jobs/4971692101) | Hong Kong SAR |  | 12d |
-| **Binance** | [Binance Accelerator Programm - Software Engineer (Ledger)](https://jobs.lever.co/binance/deb28ea3-d0de-4fa4-ba31-f6f9ead74838) | Remote (Taiwan, Taipei) |  | 18d |
-| **Binance** | [Binance Accelerator Programm - Software Engineer (Reconciliation)](https://jobs.lever.co/binance/aecc4a9f-a131-4eaa-8771-d482168c8ca8) | Taiwan, Taipei |  | 18d |
-| **NXP Semiconductors** | [Crypto Quality SW Process Internship](https://nxp.wd3.myworkdayjobs.com/careers/job/Sibiu/Crypto-Quality-SW-Process-Internship_R-10066282) | Sibiu (Hybrid) |  | 20d |
-| **Binance** | [Binance Accelerator Program - QA Engineer, App testing (Java, SQL)](https://jobs.lever.co/binance/d1aa9019-a6de-4187-a64a-d7c0db657e0f) | Remote (Asia) |  | 25d |
-| **Binance** | [Binance Accelerator Program - QA Engineer, Compliance (Java, SQL)](https://jobs.lever.co/binance/5867e405-db64-4797-ae2b-34d8902212d2) | Remote (Asia) |  | 25d |
+| **Binance** | [Binance Accelerator Program - Quantitative Trading Strategy Algorithm](https://jobs.lever.co/binance/2c4cc156-f1bc-4bfd-b3f3-8b1505d4a5d4) | Remote (Hong Kong) |  | 4d |
+| **General Dynamics Mission Systems** | [Software Intern Engineer for Crypto and Cross Domain Solutions](https://careers-gdms.icims.com/jobs/74785/software-intern-engineer-for-crypto-and-cross-domain-solutions/job) | Scottsdale, AZ, US |  | 6d |
+| **General Dynamics Mission Systems** | [Hardware EE Intern Engineer for Crypto and Cross Domain Solutions](https://careers-gdms.icims.com/jobs/74787/hardware-ee-intern-engineer-for-crypto-and-cross-domain-solutions/job) | Scottsdale, AZ, US |  | 6d |
+| **Bybit** | [AI Development Engineer Intern](https://job-boards.eu.greenhouse.io/bybit/jobs/4974271101) | Hong Kong SAR |  | 9d |
+| **Binance** | [Binance Accelerator Programm - Software Engineer (Convert)](https://jobs.lever.co/binance/a6651f27-4e58-4841-91ae-5c79e2296d36) | Remote (Asia) |  | 12d |
+| **Binance** | [Binance Accelerator Programm - Software Engineer (Stocks)](https://jobs.lever.co/binance/f1aa0f91-9dac-4eba-bfd7-b39fc4f98cb2) | Remote (Taiwan, Taipei) |  | 12d |
+| **Bybit** | [\[Intern\] Test Development Engineer Intern](https://job-boards.eu.greenhouse.io/bybit/jobs/4971554101) | Hong Kong SAR |  | 13d |
+| **Bybit** | [\[Intern\] Test Development Engineer Intern](https://job-boards.eu.greenhouse.io/bybit/jobs/4971501101) | Hong Kong SAR; Kuala Lumpur, Malaysia |  | 13d |
+| **Bybit** | [Big Data Development Engineer Intern](https://job-boards.eu.greenhouse.io/bybit/jobs/4971690101) | Hong Kong SAR |  | 13d |
+| **Bybit** | [\[Intern\] Test Development Engineer Intern](https://job-boards.eu.greenhouse.io/bybit/jobs/4971569101) | Kuala Lumpur, Malaysia |  | 13d |
+| **Bybit** | [\[Intern\] Big Data Development Engineer Intern](https://job-boards.eu.greenhouse.io/bybit/jobs/4971692101) | Hong Kong SAR |  | 13d |
+| **Binance** | [Binance Accelerator Programm - Software Engineer (Ledger)](https://jobs.lever.co/binance/deb28ea3-d0de-4fa4-ba31-f6f9ead74838) | Remote (Taiwan, Taipei) |  | 19d |
+| **Binance** | [Binance Accelerator Programm - Software Engineer (Reconciliation)](https://jobs.lever.co/binance/aecc4a9f-a131-4eaa-8771-d482168c8ca8) | Taiwan, Taipei |  | 19d |
+| **NXP Semiconductors** | [Crypto Quality SW Process Internship](https://nxp.wd3.myworkdayjobs.com/careers/job/Sibiu/Crypto-Quality-SW-Process-Internship_R-10066282) | Sibiu (Hybrid) |  | 21d |
+| **Binance** | [Binance Accelerator Program - QA Engineer, App testing (Java, SQL)](https://jobs.lever.co/binance/d1aa9019-a6de-4187-a64a-d7c0db657e0f) | Remote (Asia) |  | 26d |
+| **Binance** | [Binance Accelerator Program - QA Engineer, Compliance (Java, SQL)](https://jobs.lever.co/binance/5867e405-db64-4797-ae2b-34d8902212d2) | Remote (Asia) |  | 26d |
 | **Binance** | [Binance Accelerator Program - QA (Content)](https://jobs.lever.co/binance/39c9c568-5df9-4bd1-a06f-70d733eafd28) | Remote (Asia) |  | 1mo |
 | **Merklescience** | [Software Engineer(Intern)- Backend](https://jobs.lever.co/merklescience/e663b69b-264a-4bd7-b04d-fb3c0a824a28) | Bangalore (Hybrid) |  | 1mo |
 | **Certik** | [Compliance Engineer Intern](https://jobs.lever.co/certik/0b497f25-210b-408e-b2c3-e005c841d867) | Remote (Europe / Asia) |  | 1mo |
 | **Binance** | [Binance Accelerator Program - Full Stack Engineer (AI Pro / Agent Infra…](https://jobs.lever.co/binance/dc0c742c-847c-4b86-88df-ddac253399a8) | Remote (Asia) |  | 1mo |
-| **Binance** | [Pioneer Talent Program - Full Stack AI Engineer, Backend Oriented (Top …](https://jobs.lever.co/binance/58cacd4c-78f1-423b-b6e4-9bab15e01ba1) | Remote (Asia) |  | 1mo |
-| **Binance** | [Binance Accelerator Program - QA](https://jobs.lever.co/binance/7366f0dd-5f08-4fc5-a677-53fd69ec7239) | Remote (Asia) |  | 1mo |
-| **Binance** | [Binance Accelerator Program - Full Stack Engineer (AI)](https://jobs.lever.co/binance/43c20b4a-fbe2-4b1d-9c0b-7cdbe2bb2aac) | Remote (Asia) |  | 1mo |
-| **Binance** | [Binance Accelerator Program - Software Engineer (Cryptography)](https://jobs.lever.co/binance/46a73996-5e3c-4746-928a-148b754cac5c) | Remote (Asia) |  | 1mo |
-| **Binance** | [Binance Accelerator Program - AI Agent Engineer](https://jobs.lever.co/binance/53f4727b-89a8-4b19-8b1a-65781808c5dd) | Remote (Asia) |  | 1mo |
+| **Binance** | [Pioneer Talent Program - Full Stack AI Engineer, Backend Oriented (Top …](https://jobs.lever.co/binance/58cacd4c-78f1-423b-b6e4-9bab15e01ba1) | Remote (Asia) |  | 2mo |
+| **Binance** | [Binance Accelerator Program - QA](https://jobs.lever.co/binance/7366f0dd-5f08-4fc5-a677-53fd69ec7239) | Remote (Asia) |  | 2mo |
+| **Binance** | [Binance Accelerator Program - Full Stack Engineer (AI)](https://jobs.lever.co/binance/43c20b4a-fbe2-4b1d-9c0b-7cdbe2bb2aac) | Remote (Asia) |  | 2mo |
+| **Binance** | [Binance Accelerator Program - Software Engineer (Cryptography)](https://jobs.lever.co/binance/46a73996-5e3c-4746-928a-148b754cac5c) | Remote (Asia) |  | 2mo |
+| **Binance** | [Binance Accelerator Program - AI Agent Engineer](https://jobs.lever.co/binance/53f4727b-89a8-4b19-8b1a-65781808c5dd) | Remote (Asia) |  | 2mo |
 | **Binance** | [Binance Accelerator Program - LLM Model Training & Data Processing](https://jobs.lever.co/binance/cf2742fc-27f2-410c-a2be-afa32c771c01) | Asia |  | 2mo |
 | **Binance** | [Binance Accelerator Program - QA Automation](https://jobs.lever.co/binance/46adeae7-75cc-42bb-b73c-ba547463e4d8) | Taiwan, Taipei |  | 2mo |
 | **Binance** | [Binance Accelerator Program -AI Agent Observability Engineer](https://jobs.lever.co/binance/10e9173b-7cef-402b-9223-ac61599f005c) | Asia |  | 2mo |
@@ -73,49 +73,54 @@ Every role links directly to the company's career page. Indexed from company car
 | **Binance** | [Binance Accelerator Program - Frontend Engineer (for current students)](https://jobs.lever.co/binance/f539d94a-a8ce-45a4-9cf4-2a84b8e978cd) | Remote (Asia) |  | 4mo |
 | **Binance** | [Binance Accelerator Program - Applied AI Application Engineer](https://jobs.lever.co/binance/ef77ec2f-1ffa-49bc-a18d-9f019ca1edae) | Asia |  | 4mo |
 
-### Data Science (12)
+### Marketing (17)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Coinhako** | [Data Analyst Intern (Finance) - January to May 2027](https://jobs.ashbyhq.com/coinhako/ca138875-277c-4045-858c-3ee0cd5b44ed) | Singapore |  | 9d |
-| **Binance** | [Binance Accelerator Program - Data Analyst](https://jobs.lever.co/binance/f610850c-df60-4c64-9951-23ca130f58eb) | Remote (Asia) |  | 11d |
-| **Binance** | [Binance Acceleration Program - Product Data Analyst](https://jobs.lever.co/binance/7da6496d-6222-4e2c-87a1-214d910f1116) | Hong Kong |  | 1mo |
-| **Binance** | [BAP - Data Analyst](https://jobs.lever.co/binance/c4246256-8696-433b-a1fe-0e569aba9d52) | Hong Kong (Hybrid) |  | 1mo |
-| **Binance** | [Binance Accelerator Program - Data Scientist (User Growth)](https://jobs.lever.co/binance/90f277fe-fd32-4027-be91-960677df96b3) | Asia (Hybrid) |  | 1mo |
-| **Binance** | [Binance Accelerator Program - Data Scientist (KYB/KYC Ops), AI](https://jobs.lever.co/binance/1245204b-d029-4961-9819-bb6fc37d9b16) | Asia |  | 1mo |
-| **Binance** | [Binance Accelerator Program - Data Scientist (Recommendation/Square Com…](https://jobs.lever.co/binance/684ead60-5f7f-4ed9-bfc5-9f69c67af9a6) | Asia |  | 3mo |
-| **Dialecticch** | [Data / ML / AI Intern](https://job-boards.eu.greenhouse.io/dialecticch/jobs/4672644101) | Zug, Switzerland |  | 3mo |
-| **Binance** | [Binance Accelerator Program - Research On Chain Data Analyst](https://jobs.lever.co/binance/fb9d588a-e49e-4496-a464-9c6c5cc4ca46) | Asia |  | 4mo |
-| **Binance** | [Binance Accelerator Program - Blockchain Data Scientist (AI/LLM)](https://jobs.lever.co/binance/96e8326e-074f-4d1f-89c4-8ed1a6f96014) | Taiwan, Taipei |  | 4mo |
-| **Binance** | [Binance Accelerator Program - Applied Data Scientist](https://jobs.lever.co/binance/ae1a07c1-c971-403c-906b-79d8c16e4f2d) | Asia |  | 4mo |
-| **Binance** | [Binance Accelerator Program - Data Scientist (LLM & Trading)](https://jobs.lever.co/binance/da139395-7bd1-4ede-a277-742bacecadcd) | Asia (Hybrid) |  | 4mo |
-
-### Marketing (12)
-
-| Company | Role | Location | Pay | Added |
-| --- | --- | --- | --- | --- |
-| **Binance** | [Binance Accelerator Program - Marketing BD Operations](https://jobs.lever.co/binance/05d495e3-982e-4af7-9d38-f87014984901) | Remote (UAE, Dubai) |  | 13d |
-| **Binance** | [Binance Accelerator Program - Community & Events (Africa)](https://jobs.lever.co/binance/2b09d247-cac6-4032-ab98-c28d88ffef0a) | South Africa, Cape Town |  | 13d |
+| **Binance** | [Binance Accelerator Program - Marketing BD Operations](https://jobs.lever.co/binance/05d495e3-982e-4af7-9d38-f87014984901) | Remote (UAE, Dubai) |  | 14d |
+| **Binance** | [Binance Accelerator Program - Community & Events (Africa)](https://jobs.lever.co/binance/2b09d247-cac6-4032-ab98-c28d88ffef0a) | South Africa, Cape Town |  | 14d |
+| **Binance** | [Binance Accelerator Program - Events](https://jobs.lever.co/binance/b6a7e960-52b6-400c-ac58-f6d578b59fbd) | UAE, Dubai |  | 18d |
 | **Binance** | [Binance Accelerator Program - Global Affiliate BD](https://jobs.lever.co/binance/ef975982-7989-42fc-a9bb-32f1c31aeeae) | Philippines, Manila |  | 1mo |
 | **Binance** | [Binance Accelerator Program - Marketing BD Operations](https://jobs.lever.co/binance/11876cc2-ff4f-44b5-be91-261b6534e55c) | Asia |  | 1mo |
 | **Binance** | [Binance Accelerator Program - Growth Marketing (MENA)](https://jobs.lever.co/binance/dccbadc5-87ce-4696-aa96-3e282b3f52ce) | UAE, Dubai |  | 1mo |
 | **Binance** | [Binance Accelerator Program - Brand KOL](https://jobs.lever.co/binance/9d484107-1c20-4ede-838b-d55125854c40) | Asia |  | 1mo |
+| **Binance** | [Binance Accelerator Program - Content Media](https://jobs.lever.co/binance/608438a8-1cae-4915-9861-05034a418785) | UAE, Dubai |  | 1mo |
 | **Binance** | [Binance Accelerator Program - User Growth Operations](https://jobs.lever.co/binance/3d9efc42-b297-4707-8e00-4c665411a47a) | Hong Kong (Hybrid) |  | 1mo |
-| **Binance** | [Binance Accelerator Program - Global Swag](https://jobs.lever.co/binance/6fa8076d-5abd-4786-a533-3e0568ccbedf) | Hong Kong |  | 1mo |
+| **Binance** | [Binance Accelerator Program - Global Swag](https://jobs.lever.co/binance/6fa8076d-5abd-4786-a533-3e0568ccbedf) | Hong Kong |  | 2mo |
+| **Binance** | [Binance Accelerator Program - PK Social Media](https://jobs.lever.co/binance/3009fd11-526f-468d-bd1e-1437bc476afa) | Remote (Pakistan, Islamabad) |  | 2mo |
 | **Binance** | [Binance Accelerator Program - Lifecycle Operations](https://jobs.lever.co/binance/43baf1b2-998b-4c19-979f-0fc80031c5ac) | Remote (Hong Kong) |  | 2mo |
 | **Binance** | [Binance Accelerator Program - Brand Partnerships](https://jobs.lever.co/binance/99255a0c-61d4-4822-9460-6a45ee1836e9) | Asia |  | 2mo |
+| **Binance** | [Binance Accelerator Program - Paid Ads (Greater China)](https://jobs.lever.co/binance/4d7610ac-4aa3-49b1-83c1-9772d6c243d4) | Asia |  | 3mo |
 | **Binance** | [Binance Accelerator Program - Affiliate BD (Greater China)](https://jobs.lever.co/binance/492e6349-e1c2-4a0c-b5ea-42b81f418192) | Remote (Asia) |  | 3mo |
+| **Binance** | [Binance Accelerator Programme - Campaigns Operations, Binance Square](https://jobs.lever.co/binance/b46a1b43-d138-408d-af45-de505982b47a) | Asia |  | 4mo |
 | **Binance** | [Binance Accelerator Program - SEA Marketing](https://jobs.lever.co/binance/ec10bb42-4cbd-4db8-a38f-7ce1e549fcda) | Philippines, Manila |  | 4mo |
+
+### Data Science (12)
+
+| Company | Role | Location | Pay | Added |
+| --- | --- | --- | --- | --- |
+| **Coinhako** | [Data Analyst Intern (Finance) - January to May 2027](https://jobs.ashbyhq.com/coinhako/ca138875-277c-4045-858c-3ee0cd5b44ed) | Singapore |  | 10d |
+| **Binance** | [Binance Accelerator Program - Data Analyst](https://jobs.lever.co/binance/f610850c-df60-4c64-9951-23ca130f58eb) | Remote (Asia) |  | 12d |
+| **Binance** | [Binance Acceleration Program - Product Data Analyst](https://jobs.lever.co/binance/7da6496d-6222-4e2c-87a1-214d910f1116) | Hong Kong |  | 1mo |
+| **Binance** | [BAP - Data Analyst](https://jobs.lever.co/binance/c4246256-8696-433b-a1fe-0e569aba9d52) | Hong Kong (Hybrid) |  | 1mo |
+| **Binance** | [Binance Accelerator Program - Data Scientist (User Growth)](https://jobs.lever.co/binance/90f277fe-fd32-4027-be91-960677df96b3) | Asia (Hybrid) |  | 1mo |
+| **Binance** | [Binance Accelerator Program - Data Scientist, AI (KYB/KYC Transaction M…](https://jobs.lever.co/binance/1245204b-d029-4961-9819-bb6fc37d9b16) | Asia |  | 1mo |
+| **Binance** | [Binance Accelerator Program - Data Scientist (Recommendation/Square Com…](https://jobs.lever.co/binance/684ead60-5f7f-4ed9-bfc5-9f69c67af9a6) | Asia |  | 3mo |
+| **Dialecticch** | [Data / ML / AI Intern](https://job-boards.eu.greenhouse.io/dialecticch/jobs/4672644101) | Zug, Switzerland |  | 3mo |
+| **Binance** | [Binance Accelerator Program - Research On Chain Data Analyst](https://jobs.lever.co/binance/fb9d588a-e49e-4496-a464-9c6c5cc4ca46) | Asia |  | 4mo |
+| **Binance** | [Binance Accelerator Program - Data Scientist (On Chain background) Full…](https://jobs.lever.co/binance/96e8326e-074f-4d1f-89c4-8ed1a6f96014) | Remote (Taiwan, Taipei) |  | 4mo |
+| **Binance** | [Binance Accelerator Program - Applied Data Scientist](https://jobs.lever.co/binance/ae1a07c1-c971-403c-906b-79d8c16e4f2d) | Asia |  | 4mo |
+| **Binance** | [Binance Accelerator Program - Data Scientist (LLM & Trading)](https://jobs.lever.co/binance/da139395-7bd1-4ede-a277-742bacecadcd) | Asia (Hybrid) |  | 4mo |
 
 ### Operations (9)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Robinhood** | [Crypto Operations Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8193484?t=gh_src=&gh_jid=8193484) | New York, NY (Hybrid) | $69K | 6d |
-| **Robinhood** | [Crypto Partnership Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8193710?t=gh_src=&gh_jid=8193710) | New York, NY (Hybrid) | $69K | 6d |
-| **Binance** | [Binance Accelerator Program - Web3 Operations (for current university s…](https://jobs.lever.co/binance/73a6e166-eb27-4079-8780-a9bf2d211121) | Remote (Asia) |  | 11d |
-| **Coinbase** | [Crypto Inventory Operations Intern](https://www.coinbase.com/careers/positions/8175435?gh_jid=8175435) | Hybrid - New York, NY (Hybrid) | $83K | 12d |
-| **Binance** | [BInance Accelerator Program - Key Account Operations](https://jobs.lever.co/binance/f0dfc773-94e9-4f70-8f77-d7cccc2ab7cf) | Remote (Asia) |  | 19d |
+| **Robinhood** | [Crypto Operations Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8193484?t=gh_src=&gh_jid=8193484) | New York, NY (Hybrid) | $69K | 7d |
+| **Robinhood** | [Crypto Partnership Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8193710?t=gh_src=&gh_jid=8193710) | New York, NY (Hybrid) | $69K | 7d |
+| **Binance** | [Binance Accelerator Program - Web3 Operations (for current university s…](https://jobs.lever.co/binance/73a6e166-eb27-4079-8780-a9bf2d211121) | Remote (Asia) |  | 12d |
+| **Coinbase** | [Crypto Inventory Operations Intern](https://www.coinbase.com/careers/positions/8175435?gh_jid=8175435) | Hybrid - New York, NY (Hybrid) | $83K | 13d |
+| **Binance** | [BInance Accelerator Program - Key Account Operations](https://jobs.lever.co/binance/f0dfc773-94e9-4f70-8f77-d7cccc2ab7cf) | Remote (Asia) |  | 20d |
 | **Binance** | [Binance Accelerator Program - VIP Middle Office](https://jobs.lever.co/binance/9203cf32-910c-4431-be2d-78ecd5b40222) | Hong Kong (Hybrid) |  | 1mo |
 | **Binance** | [Binance Accelerator Program - Operations & PMO (Earn Regulatory & Growt…](https://jobs.lever.co/binance/55aa11bd-6358-482d-926f-71dffe2a1ec2) | Asia |  | 1mo |
 | **Binance** | [Binance Accelerator Program- Monitorship](https://jobs.lever.co/binance/5186735e-4e8a-4962-b402-0fafa00bbde5) | Remote (Mexico, Mexico City) |  | 1mo |
@@ -125,8 +130,8 @@ Every role links directly to the company's career page. Indexed from company car
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Bybit** | [Smart Contract Security Audit Intern (AI Audit)](https://job-boards.eu.greenhouse.io/bybit/jobs/4974605101) | Remote (APAC - Remote; Hong Kong SAR) |  | 8d |
-| **Bybit** | [\[Intern\] Test Development Engineer Intern （Trading Engine）](https://job-boards.eu.greenhouse.io/bybit/jobs/4971452101) | Hong Kong SAR; Kuala Lumpur, Malaysia |  | 12d |
+| **Bybit** | [Smart Contract Security Audit Intern (AI Audit)](https://job-boards.eu.greenhouse.io/bybit/jobs/4974605101) | Remote (APAC - Remote; Hong Kong SAR) |  | 9d |
+| **Bybit** | [\[Intern\] Test Development Engineer Intern （Trading Engine）](https://job-boards.eu.greenhouse.io/bybit/jobs/4971452101) | Hong Kong SAR; Kuala Lumpur, Malaysia |  | 13d |
 | **Skymavis** | [Security Operations Intern](https://jobs.ashbyhq.com/skymavis/077388d7-385f-46e2-b7f0-e870deecd707) | Vietnam |  | 1mo |
 | **Coinhako** | [Security Engineering Intern, GRC](https://jobs.ashbyhq.com/coinhako/f9748d77-e859-4168-bdd3-b023bb64400a) | Vietnam |  | 1mo |
 | **Binance** | [Binance Accelerator Program - DevSecOps Engineer](https://jobs.lever.co/binance/7f4d579c-40f1-4f5e-a595-dcbd86ce6106) | Asia |  | 2mo |
@@ -147,8 +152,9 @@ Every role links directly to the company's career page. Indexed from company car
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Binance** | [Binance Accelerator Program - User Experience Product Manager](https://jobs.lever.co/binance/1b5aa83d-8899-4f65-ba93-eaa32dc0ea7b) | Taiwan, Taipei |  | 27d |
-| **Binance** | [Binance Accelerator Program - HR Talent Acquisition](https://jobs.lever.co/binance/3b91b8f5-e50a-4a41-ac15-3639dc196b6c) | Remote (Asia) |  | 27d |
+| **Binance** | [VIP Sales, SEA (6 months contract)](https://jobs.lever.co/binance/cdaad664-05ea-4813-b7bf-578098a4d049) | Philippines, Manila (Hybrid) |  | 0d |
+| **Binance** | [Binance Accelerator Program - User Experience Product Manager](https://jobs.lever.co/binance/1b5aa83d-8899-4f65-ba93-eaa32dc0ea7b) | Taiwan, Taipei |  | 28d |
+| **Binance** | [Binance Accelerator Program - HR Talent Acquisition](https://jobs.lever.co/binance/3b91b8f5-e50a-4a41-ac15-3639dc196b6c) | Remote (Asia) |  | 28d |
 | **Binance** | [Binance Accelerator Program - Compliance/Sanctions](https://jobs.lever.co/binance/36d0f540-7d25-482a-978e-81452e48c74a) | Asia |  | 1mo |
 | **Binance** | [Binance Accelerator Program - Product Manager AI Agent & Harness](https://jobs.lever.co/binance/3deb7448-cdcc-4590-94d1-3f288c31b557) | Asia |  | 2mo |
 | **Binance** | [Binance Accelerator Program - VIP Support (Gulf Binance)](https://jobs.lever.co/binance/eb8d067d-75be-4b54-848d-0f1bdb3ce63c) | Thailand, Bangkok |  | 2mo |
@@ -158,7 +164,6 @@ Every role links directly to the company's career page. Indexed from company car
 | **Binance** | [Binance Accelerator Program - UX Researcher (Non-technical)](https://jobs.lever.co/binance/6d499098-4a9f-4b16-85fd-24c5b4540a77) | Pakistan, Islamabad (Hybrid) |  | 3mo |
 | **Binance** | [Binance Accelerator Program - AI Product Manager](https://jobs.lever.co/binance/fc5c7a53-3e41-4946-a37e-22da932abb6f) | Hong Kong |  | 4mo |
 | **Binance** | [Binance Accelerator Program - Product Manager (Analytics/Strategy Insig…](https://jobs.lever.co/binance/75139cb7-f1bd-455b-8130-bab4638865df) | Asia |  | 4mo |
-| **Binance** | [Binance Accelerator Program - UI/UX Design](https://jobs.lever.co/binance/84c25f25-a5e3-48e3-b32c-283cdeed0303) | Asia |  | 4mo |
 | **Binance** | [Binance Accelerator Program - Graphic Design (MENA)](https://jobs.lever.co/binance/3785f1c4-3d3a-494a-9d0b-51e68f84ac08) | UAE, Dubai |  | 4mo |
 
 <!-- TABLE_END -->

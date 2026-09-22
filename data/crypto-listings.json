@@ -1,10 +1,26 @@
 {
-  "generatedAt": "2026-09-21T22:35:03.259Z",
+  "generatedAt": "2026-09-22T21:56:48.733Z",
   "source": "dreamwork-public-job-index",
   "list": "Open-Tech-Internships-2027",
   "scope": "crypto",
-  "count": 108,
+  "count": 113,
   "listings": [
+    {
+      "id": "a82da814-f074-4d72-9bc5-62dd27b8f3f6",
+      "title": "VIP Sales, SEA (6 months contract)",
+      "company": "Binance",
+      "companyDomain": "binance.com",
+      "location": "Philippines, Manila",
+      "locationCountryCode": "PH",
+      "functionPrimary": "Sales",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-09-22T10:00:04.919Z",
+      "firstIndexedAt": "2026-09-22T16:16:14.414Z",
+      "url": "https://jobs.lever.co/binance/cdaad664-05ea-4813-b7bf-578098a4d049"
+    },
     {
       "id": "9e77fa45-c909-4001-aacc-0d8e3fd998ca",
       "title": "Binance Accelerator Program - Quantitative Trading Strategy Algorithm",
@@ -342,6 +358,22 @@
       "url": "https://jobs.lever.co/binance/2b09d247-cac6-4032-ab98-c28d88ffef0a"
     },
     {
+      "id": "f3b40f24-aab8-41bb-8e48-a8d501c3ec55",
+      "title": "Binance Accelerator Program - Events",
+      "company": "Binance",
+      "companyDomain": "binance.com",
+      "location": "UAE, Dubai",
+      "locationCountryCode": "AE",
+      "functionPrimary": "Marketing",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-09-03T21:59:53.624Z",
+      "firstIndexedAt": "2026-09-04T06:00:57.623Z",
+      "url": "https://jobs.lever.co/binance/b6a7e960-52b6-400c-ac58-f6d578b59fbd"
+    },
+    {
       "id": "c7db128c-9d38-482e-bfb8-8a18c8630a34",
       "title": "Binance Accelerator Programm - Software Engineer (Ledger)",
       "company": "Binance",
@@ -401,7 +433,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-08-31T21:39:28.981Z",
+      "postedAt": "2026-08-31T17:17:29.713Z",
       "firstIndexedAt": "2026-09-01T21:52:21.114Z",
       "url": "https://nxp.wd3.myworkdayjobs.com/careers/job/Sibiu/Crypto-Quality-SW-Process-Internship_R-10066282"
     },
@@ -679,7 +711,7 @@
     },
     {
       "id": "b0a693a1-d63b-4dc3-b7b9-2c7951346bb4",
-      "title": "Binance Accelerator Program - Data Scientist (KYB/KYC Ops), AI",
+      "title": "Binance Accelerator Program - Data Scientist, AI (KYB/KYC Transaction Monitoring)",
       "company": "Binance",
       "companyDomain": "binance.com",
       "location": "Asia",
@@ -724,6 +756,22 @@
       "postedAt": "2026-07-28T06:12:31.724Z",
       "firstIndexedAt": "2026-07-29T02:45:24.130Z",
       "url": "https://jobs.lever.co/binance/dc0c742c-847c-4b86-88df-ddac253399a8"
+    },
+    {
+      "id": "dc273561-3b82-4249-aa50-20a9cc67c098",
+      "title": "Binance Accelerator Program - Content Media",
+      "company": "Binance",
+      "companyDomain": "binance.com",
+      "location": "UAE, Dubai",
+      "locationCountryCode": "AE",
+      "functionPrimary": "Marketing",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-07-28T07:12:44.094Z",
+      "firstIndexedAt": "2026-07-28T08:30:17.761Z",
+      "url": "https://jobs.lever.co/binance/608438a8-1cae-4915-9861-05034a418785"
     },
     {
       "id": "b9724350-4f5e-49a6-b20e-d5f2d5d43467",
@@ -820,6 +868,22 @@
       "postedAt": "2026-07-22T02:28:05.316Z",
       "firstIndexedAt": "2026-07-24T11:00:31.098Z",
       "url": "https://jobs.lever.co/binance/6fa8076d-5abd-4786-a533-3e0568ccbedf"
+    },
+    {
+      "id": "561ccfcf-b54e-4986-a83b-312ec22f0eb7",
+      "title": "Binance Accelerator Program - PK Social Media",
+      "company": "Binance",
+      "companyDomain": "binance.com",
+      "location": "Pakistan, Islamabad",
+      "locationCountryCode": "PK",
+      "functionPrimary": "Marketing",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-07-24T10:37:39.906Z",
+      "firstIndexedAt": "2026-07-24T11:00:31.098Z",
+      "url": "https://jobs.lever.co/binance/3009fd11-526f-468d-bd1e-1437bc476afa"
     },
     {
       "id": "6ff9bdc3-0b74-4ee2-865d-67f8ca1f051d",
@@ -1060,6 +1124,22 @@
       "postedAt": "2026-06-22T09:21:02.758Z",
       "firstIndexedAt": "2026-06-23T06:11:24.755Z",
       "url": "https://jobs.lever.co/binance/8cd93838-3c12-4386-8dc2-8dfe69873e27"
+    },
+    {
+      "id": "77d37525-4aa0-4806-8f2a-c818d4b27470",
+      "title": "Binance Accelerator Program - Paid Ads (Greater China)",
+      "company": "Binance",
+      "companyDomain": "binance.com",
+      "location": "Asia",
+      "locationCountryCode": null,
+      "functionPrimary": "Marketing",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2025-12-09T15:31:49.023Z",
+      "firstIndexedAt": "2026-06-19T06:11:43.016Z",
+      "url": "https://jobs.lever.co/binance/4d7610ac-4aa3-49b1-83c1-9772d6c243d4"
     },
     {
       "id": "a232a598-0e05-4c1a-ab8d-27900a31beae",
@@ -1414,20 +1494,20 @@
       "url": "https://jobs.lever.co/binance/fc5c7a53-3e41-4946-a37e-22da932abb6f"
     },
     {
-      "id": "2a08bbf1-54e4-484e-9663-8a4b08dd5449",
-      "title": "Binance Accelerator Program - UI/UX Design",
+      "id": "24acb712-0333-45f1-9877-bcf2f6cf6698",
+      "title": "Binance Accelerator Programme - Campaigns Operations, Binance Square",
       "company": "Binance",
       "companyDomain": "binance.com",
       "location": "Asia",
       "locationCountryCode": null,
-      "functionPrimary": "Design",
+      "functionPrimary": "Marketing",
       "remoteType": "onsite",
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-05-13T16:48:14.012Z",
+      "postedAt": "2026-05-07T08:50:50.368Z",
       "firstIndexedAt": "2026-05-15T18:04:57.164Z",
-      "url": "https://jobs.lever.co/binance/84c25f25-a5e3-48e3-b32c-283cdeed0303"
+      "url": "https://jobs.lever.co/binance/b46a1b43-d138-408d-af45-de505982b47a"
     },
     {
       "id": "46d5a797-de3a-4c51-9e14-75abba45af1d",
@@ -1607,13 +1687,13 @@
     },
     {
       "id": "4dff08ac-fd78-4ede-9b85-e190332f8bab",
-      "title": "Binance Accelerator Program - Blockchain Data Scientist (AI/LLM)",
+      "title": "Binance Accelerator Program - Data Scientist (On Chain background) Fully Remote",
       "company": "Binance",
       "companyDomain": "binance.com",
       "location": "Taiwan, Taipei",
       "locationCountryCode": "TW",
       "functionPrimary": "Data Science",
-      "remoteType": "onsite",
+      "remoteType": "remote",
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
