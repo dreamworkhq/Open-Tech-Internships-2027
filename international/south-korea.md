@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**6 currently open roles** · Updated **2026-09-21**
+**6 currently open roles** · Updated **2026-09-22**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -15,7 +15,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **RenesasElectronics** | [Intern - Analog Design Engineer](https://jobs.smartrecruiters.com/RenesasElectronics/744000145410040-intern-analog-design-engineer-?oga=true) | Seongnam-si, Gyeonggi-do, Korea, republic of |  | 26d |
+| **RenesasElectronics** | [Intern - Analog Design Engineer](https://jobs.smartrecruiters.com/RenesasElectronics/744000145410040-intern-analog-design-engineer-?oga=true) | Seongnam-si, Gyeonggi-do, Korea, republic of |  | 27d |
 | **Palantir** | [Forward Deployed Software Engineer, Internship - Commercial](https://jobs.lever.co/palantir/2ad0ab10-34c3-410d-883b-8052864a95cd) | Seoul, South Korea (Hybrid) |  | 1mo |
 | **42dot** | [\[MS/PhD Intern\] AI Engineer (정규직 전환형)](https://jobs.ashbyhq.com/42dot/c4af7536-c24f-4754-9fe9-d92d237403f3) | Pangyo (Software Dream Center), South Korea (Hybrid) |  | 2mo |
 | **Sendbird** | [AI Agent Engineer, Intern](https://sendbird.com/careers?gh_jid=8276676002) | Seoul, South Korea |  | 3mo |
@@ -25,6 +25,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **General Motors** | [Design Program Management Intern](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Incheon-Korea-Republic-of/Design-Program-Management-Intern_JR-202619725) | Incheon, Korea, Republic of |  | 11d |
+| **General Motors** | [Design Program Management Intern](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Incheon-Korea-Republic-of/Design-Program-Management-Intern_JR-202619725) | Incheon, Korea, Republic of |  | 12d |
 
 <!-- TABLE_END -->
