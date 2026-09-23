@@ -1,10 +1,26 @@
 {
-  "generatedAt": "2026-09-22T21:56:48.733Z",
+  "generatedAt": "2026-09-23T22:06:58.569Z",
   "source": "dreamwork-public-job-index",
   "list": "Open-Tech-Internships-2027",
   "scope": "crypto",
-  "count": 113,
+  "count": 115,
   "listings": [
+    {
+      "id": "45e58bcf-8061-4d0a-a750-9222d2231ece",
+      "title": "Binance Accelerator Program - Internal Audit (Technology)",
+      "company": "Binance",
+      "companyDomain": "binance.com",
+      "location": "Asia",
+      "locationCountryCode": null,
+      "functionPrimary": "Security",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-09-23T08:46:41.298Z",
+      "firstIndexedAt": "2026-09-23T10:30:34.545Z",
+      "url": "https://jobs.lever.co/binance/8046ebc2-5708-4396-9aa0-a2ad3d589784"
+    },
     {
       "id": "a82da814-f074-4d72-9bc5-62dd27b8f3f6",
       "title": "VIP Sales, SEA (6 months contract)",
@@ -433,7 +449,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-08-31T17:17:29.713Z",
+      "postedAt": "2026-08-31T20:17:41.778Z",
       "firstIndexedAt": "2026-09-01T21:52:21.114Z",
       "url": "https://nxp.wd3.myworkdayjobs.com/careers/job/Sibiu/Crypto-Quality-SW-Process-Internship_R-10066282"
     },
@@ -796,7 +812,7 @@
       "companyDomain": "binance.com",
       "location": "Mexico, Mexico City",
       "locationCountryCode": "MX",
-      "functionPrimary": "Operations",
+      "functionPrimary": "Legal",
       "remoteType": "remote",
       "salaryMin": null,
       "salaryMax": null,
@@ -1124,6 +1140,22 @@
       "postedAt": "2026-06-22T09:21:02.758Z",
       "firstIndexedAt": "2026-06-23T06:11:24.755Z",
       "url": "https://jobs.lever.co/binance/8cd93838-3c12-4386-8dc2-8dfe69873e27"
+    },
+    {
+      "id": "5ad39246-e05c-4847-b0d4-bdd14b2a689a",
+      "title": "Binance Accelerator Program - Backend Engineer (Web3)",
+      "company": "Binance",
+      "companyDomain": "binance.com",
+      "location": "Asia",
+      "locationCountryCode": null,
+      "functionPrimary": "Engineering",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-06-22T10:47:42.671Z",
+      "firstIndexedAt": "2026-06-23T06:11:24.456Z",
+      "url": "https://jobs.lever.co/binance/9ba4b284-1275-422d-871c-a1a0ed19188b"
     },
     {
       "id": "77d37525-4aa0-4806-8f2a-c818d4b27470",
