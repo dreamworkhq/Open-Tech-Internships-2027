@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**7 currently open roles** · Updated **2026-09-22**
+**7 currently open roles** · Updated **2026-09-23**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,8 +14,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Epic Games** | [Web Engineer Intern](https://epicgames.com/careers/jobs/6174265004?gh_jid=6174265004) | Novi Sad,Vojvodina,Serbia |  | 24d |
-| **Aumovio** | [Embedded Software Engineer Intern for Commercial and Special Vehicles](https://jobs.smartrecruiters.com/Aumovio/744000145697509-embedded-software-engineer-intern-for-commercial-and-special-vehicles?oga=true) | Novi Sad, Vojvodina, Serbia |  | 26d |
+| **Epic Games** | [Web Engineer Intern](https://epicgames.com/careers/jobs/6174265004?gh_jid=6174265004) | Novi Sad,Vojvodina,Serbia |  | 25d |
+| **Aumovio** | [Embedded Software Engineer Intern for Commercial and Special Vehicles](https://jobs.smartrecruiters.com/Aumovio/744000145697509-embedded-software-engineer-intern-for-commercial-and-special-vehicles?oga=true) | Novi Sad, Vojvodina, Serbia |  | 27d |
 | **Tenstorrent** | [Intern Software Engineer – Low Level SW Engineering](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4668185007) | Belgrade, Serbia |  | 2mo |
 | **Tenstorrent** | [Software Engineer Intern, AI Compiler (Serbia)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5080887007) | Belgrade, Serbia |  | 3mo |
 | **Tenstorrent** | [Inference Server – Product Software Intern (Oct 2026 start)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5065140007) | Belgrade, Serbia (Hybrid) |  | 3mo |
