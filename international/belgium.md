@@ -2,20 +2,21 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**10 currently open roles** · Updated **2026-09-23**
+**11 currently open roles** · Updated **2026-09-24**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-5) · 5 roles
+- [Engineering](#engineering-6) · 6 roles
 - [Data Science](#data-science-5) · 5 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (5)
+### Engineering (6)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Devoteam** | [Software Engineer Internship (AI-Powered Software Factory)](https://jobs.smartrecruiters.com/Devoteam/744000146762399-software-engineer-internship-ai-powered-software-factory-?oga=true) | Machelen, Vlaanderen, Belgium (Hybrid) |  | 21d |
+| **Microsoft** | [Cloud Solution Architecture Intern](https://apply.careers.microsoft.com/careers/job/1970393556998387) | Brussels, Belgium |  | 0d |
+| **Devoteam** | [Software Engineer Internship (AI-Powered Software Factory)](https://jobs.smartrecruiters.com/Devoteam/744000146762399-software-engineer-internship-ai-powered-software-factory-?oga=true) | Machelen, Vlaanderen, Belgium (Hybrid) |  | 22d |
 | **Global Campus** | [School Internship in AI Agent Development in Deals M&A (2026-2027)](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Brussels/School-Internship-in-AI-Agent-Development-in-Deals-M-A--2026-2027-_734536WD) | Brussels (Hybrid) |  | 2mo |
 | **TechWolf** | [Internship - Software Engineer](https://careers.techwolf.ai/o/internship-software-engineer) | Ghent, Vlaams Gewest, Belgium |  | 2mo |
 | **1000** | [Engineering Internship - Automation/Mechanical/Mechatronic/Data Science…](https://pg.wd5.myworkdayjobs.com/1000/job/Brussels/Engineering-Internship---Automation-Mechanical-Mechatronic-Data-Science-Chemical_R000154036) | Brussels | $31K | 2mo |

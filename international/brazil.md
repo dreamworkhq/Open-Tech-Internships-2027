@@ -2,36 +2,24 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**22 currently open roles** · Updated **2026-09-23**
+**24 currently open roles** · Updated **2026-09-24**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
+- [Engineering](#engineering-11) · 11 roles
 - [Data Science](#data-science-9) · 9 roles
-- [Engineering](#engineering-9) · 9 roles
 - [Other](#other-4) · 4 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Data Science (9)
+### Engineering (11)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Monks** | [\[Campus Monks\] Data Analytics Intern](https://www.monks.com/careers/6100057004/job?gh_jid=6100057004) | Remote (Brasil ; Sorocaba; São Carlos; São Paulo) |  | 6d |
-| **Telus Digital** | [Data & AI Intern (Brazil) - Year Round 2027](https://jobs.ashbyhq.com/telus-digital/89730055-fa03-444d-aa05-0058946fa436) | Porto Alegre, Brazil (Hybrid) |  | 27d |
-| **SAP** | [SAP iXp Intern - Digital Solution Advisor - BAIP Specialist for SAP Dig…](https://career5.successfactors.eu/careers?company=SAP&jobId=458263) | São Paulo, Brazil (Hybrid) |  | 1mo |
-| **Swiss Re** | [Actuarial Portfolio Management Intern](https://career2.successfactors.eu/careers?company=SwissRe&jobId=138616) | Brazil (Hybrid) |  | 2mo |
-| **Shifttechnology** | [Data Scientist Intern (English Speaker)](https://job-boards.greenhouse.io/shifttechnology/jobs/7794260003) | Brazil - Sao Paulo (Hybrid) |  | 2mo |
-| **Amazon** | [Business Intelligence Intern, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/3126336/business-intelligence-intern-amazon-university-talent-acquisition) | BR, RJ, Rio De Janeiro |  | 2mo |
-| **Amazon** | [Business Intelligence Intern, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/3149400/business-intelligence-intern-amazon-university-talent-acquisition) | BR, SP, Sao Paulo |  | 2mo |
-| **Enova** | [Data Analytics Intern (Hybrid)](https://job-boards.greenhouse.io/enova/jobs/8023514) | São Paulo, São Paulo, Brazil (Hybrid) |  | 3mo |
-| **Amazon** | [Business Intelligence Intern - Cajamar, Amazon University Talent Acquis…](https://www.amazon.jobs/en/jobs/10423543/business-intelligence-intern-cajamar-amazon-university-talent-acquisition) | BR, SP, Cajamar |  | 4mo |
-
-### Engineering (9)
-
-| Company | Role | Location | Pay | Added |
-| --- | --- | --- | --- | --- |
-| **SAP** | [SAP iXp Intern - Support Engineer at Technical Support - Data & Platfor…](https://career5.successfactors.eu/careers?company=SAP&jobId=456901) | São Leopoldo, Brazil (Hybrid) |  | 11d |
-| **Salesforce** | [AI Builder Intern \[Brazil\]](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Brazil---Sao-Paulo/AI-Builder-Intern--Brazil-_JR359969) | Brazil - Sao Paulo |  | 11d |
+| **Aveva** | [Software Developer Intern - Brazil](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Sao-Paulo-Brazil/Software-Developer-Intern---Brazil_R015054) | Sao Paulo, Brazil (Hybrid) |  | 0d |
+| **Cadence Design Systems** | [Intern: Software Engineering: Hardware Verification R&D](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BELO-HORIZONTE/Intern--Software-Engineering--Hardware-Verification-R-D_R56477) | BELO HORIZONTE |  | 0d |
+| **SAP** | [SAP iXp Intern - Support Engineer at Technical Support - Data & Platfor…](https://career5.successfactors.eu/careers?company=SAP&jobId=456901) | São Leopoldo, Brazil (Hybrid) |  | 12d |
+| **Salesforce** | [AI Builder Intern \[Brazil\]](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Brazil---Sao-Paulo/AI-Builder-Intern--Brazil-_JR359969) | Brazil - Sao Paulo |  | 12d |
 | **Telus Digital** | [Software Engineering Intern (Brazil) - Year Round 2027](https://jobs.ashbyhq.com/telus-digital/98495440-1a32-4c7e-8183-f38beebfd1d0) | Porto Alegre, Brazil (Hybrid) |  | 1mo |
 | **Legrand Group Opportunities Joi…** | [Intern Hardware Engineer](https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/509) | Blumenau, SC, Brazil |  | 1mo |
 | **Cadence Design Systems** | [Intern: Software Engineering Jasper R&D](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BELO-HORIZONTE/Intern--Software-Engineering-Jasper-R-D_R55530) | BELO HORIZONTE |  | 2mo |
@@ -40,11 +28,25 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **Amazon** | [Software Development Intern, Intech](https://www.amazon.jobs/en/jobs/3120598/software-development-intern-intech) | BR, Virtual |  | 4mo |
 | **Amazon** | [Software Development Engineer Internship - Vaga para mulheres, IES- LAT…](https://www.amazon.jobs/en/jobs/3139827/software-development-engineer-internship-vaga-para-mulheres-ies-latech) | BR, Virtual |  | 4mo |
 
+### Data Science (9)
+
+| Company | Role | Location | Pay | Added |
+| --- | --- | --- | --- | --- |
+| **Monks** | [\[Campus Monks\] Data Analytics Intern](https://www.monks.com/careers/6100057004/job?gh_jid=6100057004) | Remote (Brasil ; Sorocaba; São Carlos; São Paulo) |  | 7d |
+| **Telus Digital** | [Data & AI Intern (Brazil) - Year Round 2027](https://jobs.ashbyhq.com/telus-digital/89730055-fa03-444d-aa05-0058946fa436) | Porto Alegre, Brazil (Hybrid) |  | 28d |
+| **SAP** | [SAP iXp Intern - Digital Solution Advisor - BAIP Specialist for SAP Dig…](https://career5.successfactors.eu/careers?company=SAP&jobId=458263) | São Paulo, Brazil (Hybrid) |  | 1mo |
+| **Swiss Re** | [Actuarial Portfolio Management Intern](https://career2.successfactors.eu/careers?company=SwissRe&jobId=138616) | Brazil (Hybrid) |  | 2mo |
+| **Shifttechnology** | [Data Scientist Intern (English Speaker)](https://job-boards.greenhouse.io/shifttechnology/jobs/7794260003) | Brazil - Sao Paulo (Hybrid) |  | 2mo |
+| **Amazon** | [Business Intelligence Intern, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/3126336/business-intelligence-intern-amazon-university-talent-acquisition) | BR, RJ, Rio De Janeiro |  | 2mo |
+| **Amazon** | [Business Intelligence Intern, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/3149400/business-intelligence-intern-amazon-university-talent-acquisition) | BR, SP, Sao Paulo |  | 2mo |
+| **Enova** | [Data Analytics Intern (Hybrid)](https://job-boards.greenhouse.io/enova/jobs/8023514) | São Paulo, São Paulo, Brazil (Hybrid) |  | 3mo |
+| **Amazon** | [Business Intelligence Intern - Cajamar, Amazon University Talent Acquis…](https://www.amazon.jobs/en/jobs/10423543/business-intelligence-intern-cajamar-amazon-university-talent-acquisition) | BR, SP, Cajamar |  | 4mo |
+
 ### Other (4)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Sezzle** | [Product Design Intern](https://job-boards.greenhouse.io/sezzle/jobs/7979213003) | Remote (Brazil, Remote) |  | 26d |
+| **Sezzle** | [Product Design Intern](https://job-boards.greenhouse.io/sezzle/jobs/7979213003) | Remote (Brazil, Remote) |  | 27d |
 | **Amazon** | [Product Management Intern, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/10402328/product-management-intern-amazon-university-talent-acquisition) | BR, SP, Sao Paulo |  | 2mo |
 | **Amazon** | [Design Intern , Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/10404485/design-intern-amazon-university-talent-acquisition) | BR, SP, Sao Paulo |  | 2mo |
 | **Amazon** | [Design Intern , Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/10438927/design-intern-amazon-university-talent-acquisition) | BR, RJ, Rio De Janeiro |  | 3mo |
