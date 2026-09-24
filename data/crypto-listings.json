@@ -1,10 +1,42 @@
 {
-  "generatedAt": "2026-09-23T22:06:58.569Z",
+  "generatedAt": "2026-09-24T22:07:57.610Z",
   "source": "dreamwork-public-job-index",
   "list": "Open-Tech-Internships-2027",
   "scope": "crypto",
-  "count": 115,
+  "count": 114,
   "listings": [
+    {
+      "id": "7bc9d166-5b88-467b-bc27-7f00ca698333",
+      "title": "Stage Innovation : Ingénieur Génie logiciel Frontend / Blockchain",
+      "company": "ALTEN",
+      "companyDomain": "alten.com",
+      "location": "Rennes, Brittany, France",
+      "locationCountryCode": "FR",
+      "functionPrimary": "Engineering",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-09-24T14:26:16.039Z",
+      "firstIndexedAt": "2026-09-24T20:01:14.123Z",
+      "url": "https://jobs.smartrecruiters.com/ALTEN/744000151636128-stage-innovation-ingenieur-genie-logiciel-frontend-blockchain?oga=true"
+    },
+    {
+      "id": "c3b2bc65-edb9-42c5-a25f-278a36e9d1da",
+      "title": "Binance Accelerator Program - Data Scientist, Analytics",
+      "company": "Binance",
+      "companyDomain": "binance.com",
+      "location": "Asia",
+      "locationCountryCode": null,
+      "functionPrimary": "Data Science",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-09-23T06:10:54.755Z",
+      "firstIndexedAt": "2026-09-24T15:31:28.583Z",
+      "url": "https://jobs.lever.co/binance/31b3540c-5025-4e1f-9084-9f777ef82b2e"
+    },
     {
       "id": "45e58bcf-8061-4d0a-a750-9222d2231ece",
       "title": "Binance Accelerator Program - Internal Audit (Technology)",
@@ -343,12 +375,12 @@
     },
     {
       "id": "61505216-d836-4e60-a656-33654513790f",
-      "title": "Binance Accelerator Program - Marketing BD Operations",
+      "title": "Binance Accelerator Program - TradFI Business Development",
       "company": "Binance",
       "companyDomain": "binance.com",
       "location": "UAE, Dubai",
       "locationCountryCode": "AE",
-      "functionPrimary": "Marketing",
+      "functionPrimary": "Sales",
       "remoteType": "remote",
       "salaryMin": null,
       "salaryMax": null,
@@ -449,7 +481,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-08-31T20:17:41.778Z",
+      "postedAt": "2026-08-31T19:41:07.303Z",
       "firstIndexedAt": "2026-09-01T21:52:21.114Z",
       "url": "https://nxp.wd3.myworkdayjobs.com/careers/job/Sibiu/Crypto-Quality-SW-Process-Internship_R-10066282"
     },
@@ -662,22 +694,6 @@
       "url": "https://jobs.lever.co/binance/11876cc2-ff4f-44b5-be91-261b6534e55c"
     },
     {
-      "id": "5b2c84f3-57d8-4202-a95d-357da854ac4c",
-      "title": "Binance Accelerator Program - Growth Marketing (MENA)",
-      "company": "Binance",
-      "companyDomain": "binance.com",
-      "location": "UAE, Dubai",
-      "locationCountryCode": "AE",
-      "functionPrimary": "Marketing",
-      "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-08-03T06:49:10.819Z",
-      "firstIndexedAt": "2026-08-09T12:45:09.408Z",
-      "url": "https://jobs.lever.co/binance/dccbadc5-87ce-4696-aa96-3e282b3f52ce"
-    },
-    {
       "id": "d88e7166-f9aa-4e72-93c8-0af02474c590",
       "title": "Binance Accelerator Program - Brand KOL",
       "company": "Binance",
@@ -820,22 +836,6 @@
       "postedAt": "2026-07-27T16:04:27.533Z",
       "firstIndexedAt": "2026-07-28T03:15:18.540Z",
       "url": "https://jobs.lever.co/binance/5186735e-4e8a-4962-b402-0fafa00bbde5"
-    },
-    {
-      "id": "609b0f4c-3147-436d-9556-7088d26e62b9",
-      "title": "Security Engineering Intern, GRC",
-      "company": "Coinhako",
-      "companyDomain": "coinhako.com",
-      "location": "Vietnam",
-      "locationCountryCode": "VN",
-      "functionPrimary": "Security",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-07-24T02:38:52.938Z",
-      "firstIndexedAt": "2026-07-25T10:45:18.545Z",
-      "url": "https://jobs.ashbyhq.com/coinhako/f9748d77-e859-4168-bdd3-b023bb64400a"
     },
     {
       "id": "4a114a42-3b9a-4256-a2e0-b7e80ee28277",
@@ -1060,22 +1060,6 @@
       "postedAt": "2026-07-06T01:58:20.036Z",
       "firstIndexedAt": "2026-07-06T06:05:18.499Z",
       "url": "https://jobs.lever.co/binance/cb698a86-3c5a-4017-b3c2-0e58a1428c9e"
-    },
-    {
-      "id": "d13d0b07-c9a0-4605-a7c8-3dc6a5af1b1c",
-      "title": "Binance Accelerator Program - DevSecOps Engineer",
-      "company": "Binance",
-      "companyDomain": "binance.com",
-      "location": "Asia",
-      "locationCountryCode": null,
-      "functionPrimary": "Security",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-07-03T12:22:28.227Z",
-      "firstIndexedAt": "2026-07-06T06:05:18.102Z",
-      "url": "https://jobs.lever.co/binance/7f4d579c-40f1-4f5e-a595-dcbd86ce6106"
     },
     {
       "id": "9b0b8314-b470-4c13-8bde-26bfc51c8133",
