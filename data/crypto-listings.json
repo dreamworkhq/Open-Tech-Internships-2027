@@ -1,10 +1,42 @@
 {
-  "generatedAt": "2026-09-24T22:07:57.610Z",
+  "generatedAt": "2026-09-25T22:12:06.252Z",
   "source": "dreamwork-public-job-index",
   "list": "Open-Tech-Internships-2027",
   "scope": "crypto",
-  "count": 114,
+  "count": 116,
   "listings": [
+    {
+      "id": "2021f91f-666c-43c5-99fd-1844065b4d0d",
+      "title": "Binance Accelerator Programm - Product Manager (meme)",
+      "company": "Binance",
+      "companyDomain": "binance.com",
+      "location": "Hong Kong",
+      "locationCountryCode": "HK",
+      "functionPrimary": "Product",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-09-25T01:48:36.477Z",
+      "firstIndexedAt": "2026-09-25T05:16:15.824Z",
+      "url": "https://jobs.lever.co/binance/de72d087-7b79-4496-80b6-d6110276b1e6"
+    },
+    {
+      "id": "982fcc38-c005-47dc-b3a6-cd574e00dc2d",
+      "title": "Binance Accelerator Programm - Software Engineer (KYB)",
+      "company": "Binance",
+      "companyDomain": "binance.com",
+      "location": "Asia",
+      "locationCountryCode": null,
+      "functionPrimary": "Engineering",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-09-25T01:44:31.971Z",
+      "firstIndexedAt": "2026-09-25T05:16:15.824Z",
+      "url": "https://jobs.lever.co/binance/0e95f863-3dd6-4ffe-a01d-4a3c2b473aff"
+    },
     {
       "id": "7bc9d166-5b88-467b-bc27-7f00ca698333",
       "title": "Stage Innovation : Ingénieur Génie logiciel Frontend / Blockchain",
@@ -481,7 +513,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-08-31T19:41:07.303Z",
+      "postedAt": "2026-08-31T19:19:36.219Z",
       "firstIndexedAt": "2026-09-01T21:52:21.114Z",
       "url": "https://nxp.wd3.myworkdayjobs.com/careers/job/Sibiu/Crypto-Quality-SW-Process-Internship_R-10066282"
     },
