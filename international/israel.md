@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**8 currently open roles** · Updated **2026-09-24**
+**8 currently open roles** · Updated **2026-09-25**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -15,10 +15,10 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Marvell Technology** | [Design Verification Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Petah-Tikva/Design-Verification-Intern_2604493) | Petah-Tikva |  | 0d |
-| **Marvell Technology** | [Digital IC Design Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/IL---Petah-Tikva/Digital-IC-Design-Intern_2604490) | IL - Petah Tikva |  | 1d |
-| **Marvell Technology** | [AI Infrastructure Engineer Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Petah-Tikva/AI-Infrastructure-Engineer-Intern_2604499) | Petah-Tikva |  | 15d |
-| **Google** | [Part-Time Software Engineering BS/MS Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/103632882076918470) | Tel Aviv, Israel, Haifa, Israel |  | 19d |
+| **Marvell Technology** | [Design Verification Intern](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Petah-Tikva/Design-Verification-Intern_2604493) | Petah-Tikva |  | 1d |
+| **Marvell Technology** | [Digital IC Design Intern](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/IL---Petah-Tikva/Digital-IC-Design-Intern_2604490) | IL - Petah Tikva |  | 2d |
+| **Marvell Technology** | [AI Infrastructure Engineer Intern](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Petah-Tikva/AI-Infrastructure-Engineer-Intern_2604499) | Petah-Tikva |  | 16d |
+| **Google** | [Part-Time Software Engineering BS/MS Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/103632882076918470) | Tel Aviv, Israel, Haifa, Israel |  | 20d |
 | **Google** | [Hardware/Silicon Engineering PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/133355062935069382) | Tel Aviv, Israel |  | 1mo |
 | **Google** | [Part-Time Software Engineering PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/74922616988541638) | Tel Aviv, Israel |  | 1mo |
 | **HPE** | [Backend Intern](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Herzliya-Israel/Backend-Intern_1211019-1) | Herzliya, Israel (Hybrid) |  | 1mo |

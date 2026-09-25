@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**1 currently open roles** · Updated **2026-09-24**
+**1 currently open roles** · Updated **2026-09-25**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Capgemini** | [Software Developer Intern](https://career5.successfactors.eu/careers?company=capgemitecP3&jobId=515711) | — |  | 2mo |
+| **Capgemini** | [Software Developer Intern](https://career5.successfactors.eu/careers?company=capgemitecP3&career_ns=job_listing&career_job_req_id=515711) | — |  | 2mo |
 
 <!-- TABLE_END -->
