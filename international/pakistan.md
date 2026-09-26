@@ -1,4 +1,4 @@
-# Tech internships in Suriname
+# Tech internships in Pakistan
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Rosebelgoldmines** | [RGM Internship Program 2026 - Bachelor Students in Infrastructure & Civ…](https://rosebelgoldmines.recruitee.com/o/rgm-internship-program-2026-bachelor-students-in-infrastructure-civil-engineering) | Rosebel Gold Mines Site, Brokopondo, Surina… |  | 1mo |
+| **Game District** | [Game Design Intern](https://gamedistrict.applytojob.com/apply/T7K1JbVO00/Game-Design-Intern) | Lahore, Pakistan |  | 0d |
 
 <!-- TABLE_END -->

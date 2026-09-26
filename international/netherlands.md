@@ -2,32 +2,33 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**39 currently open roles** · Updated **2026-09-25**
+**40 currently open roles** · Updated **2026-09-26**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-27) · 27 roles
+- [Engineering](#engineering-28) · 28 roles
 - [Data Science](#data-science-7) · 7 roles
 - [Other](#other-5) · 5 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (27)
+### Engineering (28)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Vanderlande** | [Internship: IT Infrastructure & systems](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Veghel-Netherlands/Internship--IT-Infrastructure---systems_JR38223) | Veghel, Netherlands |  | 0d |
-| **ICSGBLCOR** | [Engineering Intern - Agentic AI domain](https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/CDR-Amsterdam---Cedar/Engineering-Intern---Agentic-AI-domain_REQ-10121542-2) | CDR (Amsterdam - Cedar) (Hybrid) |  | 2d |
-| **ICSGBLCOR** | [Internship Data & AI Engineering](https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/CDR-Amsterdam---Cedar/Internship-Data---AI-Engineering_REQ-10121932) | CDR (Amsterdam - Cedar) (Hybrid) |  | 2d |
-| **Axelera** | [Intern - ML Inference Performance Engineer](https://jobs.ashbyhq.com/axelera/5d48cd6c-5c5b-45e2-973e-1017a70a5485) | Eindhoven (hybrid) (Hybrid) |  | 3d |
-| **Keenfinity** | [Research Intern – AI-Based Audio Optimization](https://jobs.smartrecruiters.com/Keenfinity/744000150347490-research-intern-ai-based-audio-optimization?oga=true) | Eindhoven, NB, Netherlands (Hybrid) |  | 7d |
-| **EURES Netherlands** | [Software Tester Intern](https://europa.eu/eures/portal/jv-se/jv-details/NWFmMGY1NWEtMzliZC1kMGViLWUwNjMtNjg5M2IyMGE4MDE2IDQy) | Overijssel, Netherlands |  | 17d |
-| **Thermo Fisher Scientific** | [Intern Software Engineer - Infrastructure as Code](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Eindhoven-Netherlands/Intern-Software-Engineer---Infrastructure-as-Code_R-01366282-1) | Eindhoven, Netherlands |  | 17d |
-| **EURES Netherlands (Professional)** | [Software Tester Intern](https://europa.eu/eures/portal/jv-se/jv-details/NWFmMGY1NWEtMzliZC1kMGViLWUwNjMtNjg5M2IyMGE4MDE2IDQy) | Overijssel, Netherlands |  | 17d |
-| **Kinaxis** | [Intern Software Developer Quality Assurance](https://careers-kinaxis.icims.com/jobs/35310/intern-software-developer-quality-assurance/job) | Rotterdam, NL (Hybrid) |  | 20d |
-| **EURES Netherlands (Professional)** | [AI Intern](https://europa.eu/eures/portal/jv-se/jv-details/NWExM2FkMWEtMGQ1MC03NzM3LWUwNjMtNjg5M2IyMGE2NWNiIDQy) | Noord-Holland, Netherlands |  | 27d |
-| **EURES Netherlands** | [AI Intern](https://europa.eu/eures/portal/jv-se/jv-details/NWExM2FkMWEtMGQ1MC03NzM3LWUwNjMtNjg5M2IyMGE2NWNiIDQy) | Noord-Holland, Netherlands |  | 27d |
-| **Brunswick** | [Software Engineering Intern](https://brunswick.wd1.myworkdayjobs.com/search/job/Amsterdam-Netherlands/Software-Engineering-Intern_JR-051328) | Amsterdam, Netherlands |  | 28d |
+| **Philips** | [Internship: Generative AI Engineer](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Internship--Generative-AI-Engineer_591593) | Eindhoven |  | 0d |
+| **Vanderlande** | [Internship: IT Infrastructure & systems](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Veghel-Netherlands/Internship--IT-Infrastructure---systems_JR38223) | Veghel, Netherlands |  | 1d |
+| **ICSGBLCOR** | [Engineering Intern - Agentic AI domain](https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/CDR-Amsterdam---Cedar/Engineering-Intern---Agentic-AI-domain_REQ-10121542-2) | CDR (Amsterdam - Cedar) (Hybrid) |  | 3d |
+| **ICSGBLCOR** | [Internship Data & AI Engineering](https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/CDR-Amsterdam---Cedar/Internship-Data---AI-Engineering_REQ-10121932) | CDR (Amsterdam - Cedar) (Hybrid) |  | 3d |
+| **Axelera** | [Intern - ML Inference Performance Engineer](https://jobs.ashbyhq.com/axelera/5d48cd6c-5c5b-45e2-973e-1017a70a5485) | Eindhoven (hybrid) (Hybrid) |  | 4d |
+| **Keenfinity** | [Research Intern – AI-Based Audio Optimization](https://jobs.smartrecruiters.com/Keenfinity/744000150347490-research-intern-ai-based-audio-optimization?oga=true) | Eindhoven, NB, Netherlands (Hybrid) |  | 8d |
+| **EURES Netherlands** | [Software Tester Intern](https://europa.eu/eures/portal/jv-se/jv-details/NWFmMGY1NWEtMzliZC1kMGViLWUwNjMtNjg5M2IyMGE4MDE2IDQy) | Overijssel, Netherlands |  | 18d |
+| **Thermo Fisher Scientific** | [Intern Software Engineer - Infrastructure as Code](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Eindhoven-Netherlands/Intern-Software-Engineer---Infrastructure-as-Code_R-01366282-1) | Eindhoven, Netherlands |  | 18d |
+| **EURES Netherlands (Professional)** | [Software Tester Intern](https://europa.eu/eures/portal/jv-se/jv-details/NWFmMGY1NWEtMzliZC1kMGViLWUwNjMtNjg5M2IyMGE4MDE2IDQy) | Overijssel, Netherlands |  | 18d |
+| **Kinaxis** | [Intern Software Developer Quality Assurance](https://careers-kinaxis.icims.com/jobs/35310/intern-software-developer-quality-assurance/job) | Rotterdam, NL (Hybrid) |  | 21d |
+| **EURES Netherlands (Professional)** | [AI Intern](https://europa.eu/eures/portal/jv-se/jv-details/NWExM2FkMWEtMGQ1MC03NzM3LWUwNjMtNjg5M2IyMGE2NWNiIDQy) | Noord-Holland, Netherlands |  | 28d |
+| **EURES Netherlands** | [AI Intern](https://europa.eu/eures/portal/jv-se/jv-details/NWExM2FkMWEtMGQ1MC03NzM3LWUwNjMtNjg5M2IyMGE2NWNiIDQy) | Noord-Holland, Netherlands |  | 28d |
+| **Brunswick** | [Software Engineering Intern](https://brunswick.wd1.myworkdayjobs.com/search/job/Amsterdam-Netherlands/Software-Engineering-Intern_JR-051328) | Amsterdam, Netherlands |  | 29d |
 | **Workwize** | [Intern Product Engineer](https://job-boards.eu.greenhouse.io/workwize/jobs/4958238101) | Amsterdam (Hybrid) |  | 1mo |
 | **Optiverus** | [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713409002/?gh_jid=8713409002) | Amsterdam, North Holland, Netherlands |  | 1mo |
 | **Imc** | [Software Engineer Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4667854101) | Amsterdam, Netherlands |  | 1mo |
@@ -48,9 +49,9 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Lighting** | [Data Analyst Intern](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Data-Analyst-Intern_366375) | Eindhoven (Hybrid) |  | 0d |
-| **Philips** | [Internship: Data Science for Multidimensional Market Modelling](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/Internship--Data-Science-for-Multidimensional-Market-Modelling_590671) | Amsterdam |  | 8d |
-| **Lely1** | [Internship: Data Analysis & Advisory](https://jobs.smartrecruiters.com/Lely1/744000145954199-internship-data-analysis-advisory?oga=true) | Maassluis, ZH, Netherlands |  | 29d |
+| **Lighting** | [Data Analyst Intern](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Data-Analyst-Intern_366375) | Eindhoven (Hybrid) |  | 1d |
+| **Philips** | [Internship: Data Science for Multidimensional Market Modelling](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/Internship--Data-Science-for-Multidimensional-Market-Modelling_590671) | Amsterdam |  | 9d |
+| **Lely1** | [Internship: Data Analysis & Advisory](https://jobs.smartrecruiters.com/Lely1/744000145954199-internship-data-analysis-advisory?oga=true) | Maassluis, ZH, Netherlands |  | 1mo |
 | **Bynder** | [Customer Analytics Internship](https://jobs.ashbyhq.com/bynder/24955a72-0dc7-495c-8ffd-d48f18ff986b) | Amsterdam (Hybrid) |  | 1mo |
 | **Myhrabc** | [Intern, Data](https://myhrabc.wd5.myworkdayjobs.com/Global/job/WEMEA--Netherlands--Veghel-Campus/Intern--Data_R2611376) | WEMEA > Netherlands > Veghel Campus |  | 1mo |
 | **Philips** | [Data Analytics Graduate Internship](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/Data-Analytics-Graduate-Internship_587665) | Amsterdam |  | 2mo |
@@ -60,7 +61,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Monday Merch** | [Graphic Design \| Internship 2027 \| Fast growing scale-up](https://mondaymerch.recruitee.com/o/graphic-design-internship-2027-fast-growing-scale-up) | Schiedamsedijk 38 Rotterdam, ZH, 3011 ED Ne… |  | 1d |
+| **Monday Merch** | [Graphic Design \| Internship 2027 \| Fast growing scale-up](https://mondaymerch.recruitee.com/o/graphic-design-internship-2027-fast-growing-scale-up) | Schiedamsedijk 38 Rotterdam, ZH, 3011 ED Ne… |  | 2d |
 | **Tencent** | [Product Manager Intern, Game Performance Optimization](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/Netherlands-Amsterdam/Product-Manager-Intern--gaming_R107173) | Netherlands-Amsterdam |  | 1mo |
 | **Philips** | [Internship: AI & Automation (non-thesis)](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Best/Internship--AI---Automation--non-thesis-_588475) | Best |  | 1mo |
 | **Philips** | [Product Innovation & AI Prototyping Internship – Philips Avent Experien…](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Product-Innovation---AI-Powered-Video-Creation-Internship---Philips-Avent-Experience-Innovation_586187) | Eindhoven |  | 2mo |

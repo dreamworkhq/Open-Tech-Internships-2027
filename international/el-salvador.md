@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**1 currently open roles** · Updated **2026-09-25**
+**1 currently open roles** · Updated **2026-09-26**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **RSMCareers** | [Software Developer Intern](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/San-Salvador/Software-Developer-Intern_JR119685) | San Salvador |  | 0d |
+| **RSMCareers** | [Software Developer Intern](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/San-Salvador/Software-Developer-Intern_JR119685) | San Salvador |  | 1d |
 
 <!-- TABLE_END -->
