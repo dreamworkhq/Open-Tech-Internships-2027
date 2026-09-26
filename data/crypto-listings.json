@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-25T22:12:06.252Z",
+  "generatedAt": "2026-09-26T21:47:50.321Z",
   "source": "dreamwork-public-job-index",
   "list": "Open-Tech-Internships-2027",
   "scope": "crypto",
-  "count": 116,
+  "count": 115,
   "listings": [
     {
       "id": "2021f91f-666c-43c5-99fd-1844065b4d0d",
@@ -513,7 +513,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-08-31T19:19:36.219Z",
+      "postedAt": "2026-08-31T14:07:45.414Z",
       "firstIndexedAt": "2026-09-01T21:52:21.114Z",
       "url": "https://nxp.wd3.myworkdayjobs.com/careers/job/Sibiu/Crypto-Quality-SW-Process-Internship_R-10066282"
     },
@@ -1284,22 +1284,6 @@
       "postedAt": "2023-11-07T14:21:38.000Z",
       "firstIndexedAt": "2026-05-28T12:37:18.850Z",
       "url": "https://job-boards.greenhouse.io/ritual/jobs/4068271007"
-    },
-    {
-      "id": "3171f855-afff-4881-8a5b-bd4dae095248",
-      "title": "Data / ML / AI Intern",
-      "company": "Dialecticch",
-      "companyDomain": "dialectic.ch",
-      "location": "Zug, Switzerland",
-      "locationCountryCode": "CH",
-      "functionPrimary": "Data Science",
-      "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2025-09-11T13:46:03.000Z",
-      "firstIndexedAt": "2026-05-28T11:53:02.932Z",
-      "url": "https://job-boards.eu.greenhouse.io/dialecticch/jobs/4672644101"
     },
     {
       "id": "37937f7b-4d6d-414c-8f01-9f68979e284b",
