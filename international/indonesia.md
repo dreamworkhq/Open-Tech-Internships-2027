@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**10 currently open roles** · Updated **2026-09-26**
+**10 currently open roles** · Updated **2026-09-27**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -15,7 +15,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Go To Group** | [Data Analyst Intern](https://jobs.lever.co/GoToGroup/f3566bb7-f2fd-4aef-bf2d-a1e0108d24e3) | Jakarta |  | 22d |
+| **Go To Group** | [Data Analyst Intern](https://jobs.lever.co/GoToGroup/f3566bb7-f2fd-4aef-bf2d-a1e0108d24e3) | Jakarta |  | 23d |
 | **Xendit** | [Data / ML Automation Intern](https://job-boards.greenhouse.io/xendit/jobs/7821208003) | Jakarta, Indonesia |  | 1mo |
 | **Go To Group** | [Data Scientist Intern](https://jobs.lever.co/GoToGroup/dff2a165-d111-4542-bfec-ec3856892275) | Jakarta |  | 2mo |
 | **Artefact** | [Data Scientist Intern (2024)](https://job-boards.greenhouse.io/artefact/jobs/8564128002) | Jakarta, Jakarta, Indonesia |  | 4mo |
@@ -26,8 +26,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Global Campus** | [Internship - Digital, Cloud, Data - IT Strategy Stream](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Jakarta/Internship---Digital--Cloud--Data---IT-Strategy-Stream_764264WD) | Jakarta |  | 0d |
-| **Cermati** | [Software Engineer Intern](https://jobs.smartrecruiters.com/Cermaticom/744000150645669-software-engineer-intern?oga=true) | Jakarta, Jakarta, Indonesia |  | 3d |
+| **Global Campus** | [Internship - Digital, Cloud, Data - IT Strategy Stream](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Jakarta/Internship---Digital--Cloud--Data---IT-Strategy-Stream_764264WD) | Jakarta |  | 1d |
+| **Cermati** | [Software Engineer Intern](https://jobs.smartrecruiters.com/Cermaticom/744000150645669-software-engineer-intern?oga=true) | Jakarta, Jakarta, Indonesia |  | 4d |
 | **Global Campus** | [FY 27 - Internship - Enterprise System and Transformation Assurance](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Jakarta/FY-27---Internship---Enterprise-System-and-Transformation-Assurance_754342WD) | Jakarta |  | 1mo |
 | **Xendit** | [Full Stack Developer Intern](https://job-boards.greenhouse.io/xendit/jobs/7821207003) | Jakarta, Indonesia |  | 1mo |
 

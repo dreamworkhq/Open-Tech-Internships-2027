@@ -2,25 +2,23 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**13 currently open roles** · Updated **2026-09-26**
+**11 currently open roles** · Updated **2026-09-27**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-13) · 13 roles
+- [Engineering](#engineering-11) · 11 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (13)
+### Engineering (11)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Sigma Software** | [DevOps Engineer Intern](https://djinni.co/jobs/741361-devops-engineer-intern/) | Vinnytsia, Dnipro, Zhytomyr, Ukraine |  | 1d |
-| **Playtech** | [QA Engineer (Intern)](https://jobs.smartrecruiters.com/Playtech/744000151615200-qa-engineer-intern-?oga=true) | Kyiv, , Ukraine |  | 1d |
-| **Preply** | [AI Talent Accelerator (6-month internship)](https://jobs.ashbyhq.com/preply/dd2f1173-58d8-4ad2-9e0f-17fe2698c4c9) | Kyiv (Hybrid) |  | 10d |
-| **Playtech** | [QA Engineer (Intern)](https://djinni.co/jobs/848356-qa-engineer-intern/) | Kyiv, Ukraine |  | 11d |
-| **Luxoft** | [Java Developer Intern](https://djinni.co/jobs/846024-java-developer-intern/) | Remote (Ukraine) |  | 25d |
-| **TenThousand** | [Intern Frontend developer](https://djinni.co/jobs/845409-intern-frontend-developer/) | Remote (Europe) |  | 29d |
-| **Areon Consulting** | [Siebel Developer - Training Internship Program](https://djinni.co/jobs/845448-siebel-developer-training-internship-program/) | Kyiv, Ukraine |  | 29d |
+| **Sigma Software** | [DevOps Engineer Intern](https://djinni.co/jobs/741361-devops-engineer-intern/) | Vinnytsia, Dnipro, Zhytomyr, Ukraine |  | 2d |
+| **Playtech** | [QA Engineer (Intern)](https://jobs.smartrecruiters.com/Playtech/744000151615200-qa-engineer-intern-?oga=true) | Kyiv, , Ukraine |  | 2d |
+| **Preply** | [AI Talent Accelerator (6-month internship)](https://jobs.ashbyhq.com/preply/dd2f1173-58d8-4ad2-9e0f-17fe2698c4c9) | Kyiv (Hybrid) |  | 11d |
+| **Playtech** | [QA Engineer (Intern)](https://djinni.co/jobs/848356-qa-engineer-intern/) | Kyiv, Ukraine |  | 12d |
+| **Luxoft** | [Java Developer Intern](https://djinni.co/jobs/846024-java-developer-intern/) | Remote (Ukraine) |  | 26d |
 | **VReal Soft** | [Developer (Intern) MS Dynamics 365 Power Platform](https://djinni.co/jobs/844036-developer-intern-ms-dynamics-365-power-platfo/) | Dnipro, Cherkasy, Ukraine |  | 1mo |
 | **SysGears** | [Intern Manual QA — індивідуальне стажування](https://djinni.co/jobs/840587-intern-manual-qa-individual-ne-stazhuvannia/) | Dnipro, Lviv, Ukraine |  | 1mo |
 | **King Group** | [Intern QA Manual](https://djinni.co/jobs/840677-intern-qa-manual/) | Kyiv, Ukraine |  | 1mo |
