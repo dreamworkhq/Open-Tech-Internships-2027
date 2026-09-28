@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-27T21:57:46.198Z",
+  "generatedAt": "2026-09-28T23:53:35.331Z",
   "source": "dreamwork-public-job-index",
   "list": "Open-Tech-Internships-2027",
   "scope": "crypto",
-  "count": 111,
+  "count": 108,
   "listings": [
     {
       "id": "2021f91f-666c-43c5-99fd-1844065b4d0d",
@@ -326,22 +326,6 @@
       "url": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971452101"
     },
     {
-      "id": "ba4ac05c-2ad7-48cd-bf33-993d86e8b105",
-      "title": "[Intern] Test Development Engineer Intern",
-      "company": "Bybit",
-      "companyDomain": "bybit.com",
-      "location": "Hong Kong SAR; Kuala Lumpur, Malaysia",
-      "locationCountryCode": "MY",
-      "functionPrimary": "Engineering",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-09-09T06:56:44.000Z",
-      "firstIndexedAt": "2026-09-09T15:30:43.343Z",
-      "url": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971501101"
-    },
-    {
       "id": "e37426e2-d0d1-4600-b0e1-01f2c0236399",
       "title": "Big Data Development Engineer Intern",
       "company": "Bybit",
@@ -390,6 +374,22 @@
       "url": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971692101"
     },
     {
+      "id": "f629d222-4507-43ee-ac50-feeca0c75e6c",
+      "title": "[Intern] Test Development Engineer Intern",
+      "company": "Bybit",
+      "companyDomain": "bybit.com",
+      "location": "Hong Kong SAR; Kuala Lumpur, Malaysia",
+      "locationCountryCode": "MY",
+      "functionPrimary": "Engineering",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-09-09T08:26:18.000Z",
+      "firstIndexedAt": "2026-09-09T15:30:43.343Z",
+      "url": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971608101"
+    },
+    {
       "id": "21b93a50-079a-4f39-84a3-49c22693ccc1",
       "title": "Crypto Inventory Operations Intern",
       "company": "Coinbase",
@@ -436,22 +436,6 @@
       "postedAt": "2026-09-04T14:46:40.936Z",
       "firstIndexedAt": "2026-09-08T10:45:36.557Z",
       "url": "https://jobs.lever.co/binance/2b09d247-cac6-4032-ab98-c28d88ffef0a"
-    },
-    {
-      "id": "f3b40f24-aab8-41bb-8e48-a8d501c3ec55",
-      "title": "Binance Accelerator Program - Events",
-      "company": "Binance",
-      "companyDomain": "binance.com",
-      "location": "UAE, Dubai",
-      "locationCountryCode": "AE",
-      "functionPrimary": "Marketing",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-09-03T21:59:53.624Z",
-      "firstIndexedAt": "2026-09-04T06:00:57.623Z",
-      "url": "https://jobs.lever.co/binance/b6a7e960-52b6-400c-ac58-f6d578b59fbd"
     },
     {
       "id": "c7db128c-9d38-482e-bfb8-8a18c8630a34",
@@ -513,7 +497,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-08-31T18:37:59.101Z",
+      "postedAt": "2026-08-31T23:11:44.689Z",
       "firstIndexedAt": "2026-09-01T21:52:21.114Z",
       "url": "https://nxp.wd3.myworkdayjobs.com/careers/job/Sibiu/Crypto-Quality-SW-Process-Internship_R-10066282"
     },
@@ -774,22 +758,6 @@
       "url": "https://jobs.lever.co/binance/dc0c742c-847c-4b86-88df-ddac253399a8"
     },
     {
-      "id": "dc273561-3b82-4249-aa50-20a9cc67c098",
-      "title": "Binance Accelerator Program - Content Media",
-      "company": "Binance",
-      "companyDomain": "binance.com",
-      "location": "UAE, Dubai",
-      "locationCountryCode": "AE",
-      "functionPrimary": "Marketing",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-07-28T07:12:44.094Z",
-      "firstIndexedAt": "2026-07-28T08:30:17.761Z",
-      "url": "https://jobs.lever.co/binance/608438a8-1cae-4915-9861-05034a418785"
-    },
-    {
       "id": "b9724350-4f5e-49a6-b20e-d5f2d5d43467",
       "title": "Binance Accelerator Program - User Growth Operations",
       "company": "Binance",
@@ -868,22 +836,6 @@
       "postedAt": "2026-07-22T02:28:05.316Z",
       "firstIndexedAt": "2026-07-24T11:00:31.098Z",
       "url": "https://jobs.lever.co/binance/6fa8076d-5abd-4786-a533-3e0568ccbedf"
-    },
-    {
-      "id": "561ccfcf-b54e-4986-a83b-312ec22f0eb7",
-      "title": "Binance Accelerator Program - PK Social Media",
-      "company": "Binance",
-      "companyDomain": "binance.com",
-      "location": "Pakistan, Islamabad",
-      "locationCountryCode": "PK",
-      "functionPrimary": "Marketing",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-07-24T10:37:39.906Z",
-      "firstIndexedAt": "2026-07-24T11:00:31.098Z",
-      "url": "https://jobs.lever.co/binance/3009fd11-526f-468d-bd1e-1437bc476afa"
     },
     {
       "id": "6ff9bdc3-0b74-4ee2-865d-67f8ca1f051d",
