@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**11 currently open roles** · Updated **2026-09-27**
+**11 currently open roles** · Updated **2026-09-28**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,11 +14,11 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Sigma Software** | [DevOps Engineer Intern](https://djinni.co/jobs/741361-devops-engineer-intern/) | Vinnytsia, Dnipro, Zhytomyr, Ukraine |  | 2d |
-| **Playtech** | [QA Engineer (Intern)](https://jobs.smartrecruiters.com/Playtech/744000151615200-qa-engineer-intern-?oga=true) | Kyiv, , Ukraine |  | 2d |
-| **Preply** | [AI Talent Accelerator (6-month internship)](https://jobs.ashbyhq.com/preply/dd2f1173-58d8-4ad2-9e0f-17fe2698c4c9) | Kyiv (Hybrid) |  | 11d |
-| **Playtech** | [QA Engineer (Intern)](https://djinni.co/jobs/848356-qa-engineer-intern/) | Kyiv, Ukraine |  | 12d |
-| **Luxoft** | [Java Developer Intern](https://djinni.co/jobs/846024-java-developer-intern/) | Remote (Ukraine) |  | 26d |
+| **Sigma Software** | [DevOps Engineer Intern](https://djinni.co/jobs/741361-devops-engineer-intern/) | Vinnytsia, Dnipro, Zhytomyr, Ukraine |  | 3d |
+| **Playtech** | [QA Engineer (Intern)](https://jobs.smartrecruiters.com/Playtech/744000151615200-qa-engineer-intern-?oga=true) | Kyiv, , Ukraine |  | 3d |
+| **Preply** | [AI Talent Accelerator (6-month internship)](https://jobs.ashbyhq.com/preply/dd2f1173-58d8-4ad2-9e0f-17fe2698c4c9) | Kyiv (Hybrid) |  | 12d |
+| **Playtech** | [QA Engineer (Intern)](https://djinni.co/jobs/848356-qa-engineer-intern/) | Kyiv, Ukraine |  | 13d |
+| **Luxoft** | [Java Developer Intern](https://djinni.co/jobs/846024-java-developer-intern/) | Remote (Ukraine) |  | 27d |
 | **VReal Soft** | [Developer (Intern) MS Dynamics 365 Power Platform](https://djinni.co/jobs/844036-developer-intern-ms-dynamics-365-power-platfo/) | Dnipro, Cherkasy, Ukraine |  | 1mo |
 | **SysGears** | [Intern Manual QA — індивідуальне стажування](https://djinni.co/jobs/840587-intern-manual-qa-individual-ne-stazhuvannia/) | Dnipro, Lviv, Ukraine |  | 1mo |
 | **King Group** | [Intern QA Manual](https://djinni.co/jobs/840677-intern-qa-manual/) | Kyiv, Ukraine |  | 1mo |

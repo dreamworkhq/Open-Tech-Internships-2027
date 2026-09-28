@@ -1,4 +1,4 @@
-# Tech internships in Saudi Arabia
+# Tech internships in Kenya
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **HPE** | [00440K - Data Solutions and Storage Intern (COOP)](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Riyadh-Riyadh-Saudi-Arabia/XMLNAME-00440K---Data-Solutions-and-Storage-Intern--COOP-_1212412) | Riyadh, Riyadh, Saudi Arabia (Hybrid) |  | 8d |
+| **QATestLab** | [Intern QA Engineer (Web)](https://djinni.co/jobs/850425-intern-qa-engineer-web/) | Remote (KEN) |  | 0d |
 
 <!-- TABLE_END -->
