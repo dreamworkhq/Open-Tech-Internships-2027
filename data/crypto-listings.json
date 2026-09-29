@@ -1,10 +1,26 @@
 {
-  "generatedAt": "2026-09-28T23:53:35.331Z",
+  "generatedAt": "2026-09-29T22:53:31.104Z",
   "source": "dreamwork-public-job-index",
   "list": "Open-Tech-Internships-2027",
   "scope": "crypto",
-  "count": 108,
+  "count": 109,
   "listings": [
+    {
+      "id": "3bd3233a-009b-420c-bbb0-9c895bc5ad40",
+      "title": "Software Engineer - Intern (Frontend)",
+      "company": "Merklescience",
+      "companyDomain": "merklescience.com",
+      "location": "Bangalore",
+      "locationCountryCode": "IN",
+      "functionPrimary": "Engineering",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-09-28T18:34:13.631Z",
+      "firstIndexedAt": "2026-09-29T17:31:18.767Z",
+      "url": "https://jobs.lever.co/merklescience/20675d00-156c-4f3f-a9bf-4cacee176bc2"
+    },
     {
       "id": "2021f91f-666c-43c5-99fd-1844065b4d0d",
       "title": "Binance Accelerator Programm - Product Manager (meme)",
@@ -497,7 +513,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-08-31T23:11:44.689Z",
+      "postedAt": "2026-08-31T20:52:03.571Z",
       "firstIndexedAt": "2026-09-01T21:52:21.114Z",
       "url": "https://nxp.wd3.myworkdayjobs.com/careers/job/Sibiu/Crypto-Quality-SW-Process-Internship_R-10066282"
     },
