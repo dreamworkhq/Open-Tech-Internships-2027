@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**2 currently open roles** · Updated **2026-09-28**
+**2 currently open roles** · Updated **2026-09-29**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,7 +14,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Moody's** | [Let's begin! Software Engineer Intern](https://career8.successfactors.com/career?career_ns=job_listing&company=MoodysProd&career_job_req_id=14695) | Heredia - East Tower |  | 2d |
-| **JCI** | [Security Application Intern](https://jci.wd5.myworkdayjobs.com/JCI/job/San-Jose-San-Jose-Costa-Rica/Security-Application-Intern_WD30279078) | San Jose-San Jose-Costa Rica |  | 23d |
+| **Moody's** | [Let's begin! Software Engineer Intern](https://career8.successfactors.com/career?career_ns=job_listing&company=MoodysProd&career_job_req_id=14695) | Heredia - East Tower |  | 3d |
+| **JCI** | [Security Application Intern](https://jci.wd5.myworkdayjobs.com/JCI/job/San-Jose-San-Jose-Costa-Rica/Security-Application-Intern_WD30279078) | San Jose-San Jose-Costa Rica |  | 24d |
 
 <!-- TABLE_END -->

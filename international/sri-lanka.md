@@ -2,22 +2,23 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**5 currently open roles** · Updated **2026-09-28**
+**6 currently open roles** · Updated **2026-09-29**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-5) · 5 roles
+- [Engineering](#engineering-6) · 6 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (5)
+### Engineering (6)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Sysco** | [Intern - Software Engineering](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-LABS-----Sri-Lanka/Intern---Software-Engineering_R258865) | Sysco LABS - Sri Lanka |  | 5d |
-| **Sysco** | [Intern - Site Reliability Engineering](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-LABS-----Sri-Lanka/Intern---Site-Reliability-Engineering_R226398) | Sysco LABS - Sri Lanka |  | 5d |
-| **Sysco** | [Intern - DevOps](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-LABS-----Sri-Lanka/Intern---DevOps_R265566) | Sysco LABS - Sri Lanka |  | 5d |
+| **Sysco** | [Intern - Software Engineering](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-LABS-----Sri-Lanka/Intern---Software-Engineering_R258865) | Sysco LABS - Sri Lanka |  | 6d |
+| **Sysco** | [Intern - Site Reliability Engineering](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-LABS-----Sri-Lanka/Intern---Site-Reliability-Engineering_R226398) | Sysco LABS - Sri Lanka |  | 6d |
+| **Sysco** | [Intern - DevOps](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-LABS-----Sri-Lanka/Intern---DevOps_R265566) | Sysco LABS - Sri Lanka |  | 6d |
 | **Zebra** | [2026(6 months) Internship(Sri Lanka) -Software Engineering](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Colombo-Sri-Lanka/XMLNAME-2026-6-months--Internship-Sri-Lanka---Software-Engineering_JR101824) | Colombo, Sri Lanka (Hybrid) |  | 1mo |
 | **Zebra** | [2026(6 months) Internship (Sri Lanka) -Software Engineering](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Colombo-Sri-Lanka/XMLNAME-2026-6-months--Internship--Sri-Lanka---Software-Engineering_JR102526) | Colombo, Sri Lanka (Hybrid) |  | 1mo |
+| **LSEG** | [Engineering Intern - DevOps](https://lseg.wd3.myworkdayjobs.com/Careers/job/Colombo-Sri-Lanka/Engineering-Intern---DevOps_R0122196-2) | Colombo, Sri Lanka |  | 1mo |
 
 <!-- TABLE_END -->

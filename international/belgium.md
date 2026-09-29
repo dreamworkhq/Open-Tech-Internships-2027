@@ -2,26 +2,27 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**11 currently open roles** · Updated **2026-09-28**
+**12 currently open roles** · Updated **2026-09-29**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-7) · 7 roles
+- [Engineering](#engineering-8) · 8 roles
 - [Other](#other-4) · 4 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (7)
+### Engineering (8)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Devoteam** | [Internship Platform for containerized applications](https://jobs.smartrecruiters.com/Devoteam/744000151568394-internship-platform-for-containerized-applications?oga=true) | Machelen, Vlaams Gewest, Belgium (Hybrid) |  | 3d |
-| **Microsoft** | [Cloud Solution Architecture Intern](https://apply.careers.microsoft.com/careers/job/1970393556998387) | Brussels, Belgium |  | 4d |
+| **team blue** | [Internship/Stage Full Stack Developer (Java & React)](https://teamblue.teamtailor.com/jobs/8462962-internship-stage-full-stack-developer-java-react) | Gent, Belgium |  | 0d |
+| **Devoteam** | [Internship Platform for containerized applications](https://jobs.smartrecruiters.com/Devoteam/744000151568394-internship-platform-for-containerized-applications?oga=true) | Machelen, Vlaams Gewest, Belgium (Hybrid) |  | 4d |
+| **Microsoft** | [Cloud Solution Architecture Intern](https://apply.careers.microsoft.com/careers/job/1970393556998387) | Brussels, Belgium |  | 5d |
 | **Devoteam** | [Software Engineer Internship (AI-Powered Software Factory)](https://jobs.smartrecruiters.com/Devoteam/744000146762399-software-engineer-internship-ai-powered-software-factory-?oga=true) | Machelen, Vlaanderen, Belgium (Hybrid) |  | 27d |
 | **Global Campus** | [School Internship in AI Agent Development in Deals M&A (2026-2027)](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Brussels/School-Internship-in-AI-Agent-Development-in-Deals-M-A--2026-2027-_734536WD) | Brussels (Hybrid) |  | 2mo |
 | **TechWolf** | [Internship - Software Engineer](https://careers.techwolf.ai/o/internship-software-engineer) | Ghent, Vlaams Gewest, Belgium |  | 2mo |
 | **1000** | [Engineering Internship - Automation/Mechanical/Mechatronic/Data Science…](https://pg.wd5.myworkdayjobs.com/1000/job/Brussels/Engineering-Internship---Automation-Mechanical-Mechatronic-Data-Science-Chemical_R000154036) | Brussels | $31K | 2mo |
-| **Brainsquare** | [Internship – Java or .NET Software Engineer](https://brainsquare.recruitee.com/o/brainsquare-internship-software-engineer) | Zaventem, Vlaams-Brabant, Belgium (Hybrid) |  | 2mo |
+| **Brainsquare** | [Internship – Java or .NET Software Engineer](https://brainsquare.recruitee.com/o/brainsquare-internship-software-engineer) | Zaventem, Vlaams-Brabant, Belgium (Hybrid) |  | 3mo |
 
 ### Other (4)
 
