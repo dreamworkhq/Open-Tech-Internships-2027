@@ -1,4 +1,4 @@
-# Tech internships in Saudi Arabia
+# Tech internships in Mauritius
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **HPE** | [00440K - Data Solutions and Storage Intern (COOP)](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Riyadh-Riyadh-Saudi-Arabia/XMLNAME-00440K---Data-Solutions-and-Storage-Intern--COOP-_1212412) | Riyadh, Riyadh, Saudi Arabia (Hybrid) |  | 10d |
+| **Accenture** | [Software Engineer Intern](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ebene/Software-Engineer-Intern_R00342918-1) | Ebene |  | 2mo |
 
 <!-- TABLE_END -->

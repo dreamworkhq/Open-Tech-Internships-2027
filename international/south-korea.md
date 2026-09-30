@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**6 currently open roles** · Updated **2026-09-29**
+**6 currently open roles** · Updated **2026-09-30**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,7 +14,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Moloco** | [Software Engineer Intern (3 months)](https://job-boards.greenhouse.io/moloco/jobs/8007407003) | Seoul, Korea |  | 0d |
+| **Moloco** | [Software Engineer Intern (3 months)](https://job-boards.greenhouse.io/moloco/jobs/8007407003) | Seoul, Korea |  | 1d |
 | **RenesasElectronics** | [Intern - Analog Design Engineer](https://jobs.smartrecruiters.com/RenesasElectronics/744000145410040-intern-analog-design-engineer-?oga=true) | Seongnam-si, Gyeonggi-do, Korea, republic of |  | 1mo |
 | **Palantir** | [Forward Deployed Software Engineer, Internship - Commercial](https://jobs.lever.co/palantir/2ad0ab10-34c3-410d-883b-8052864a95cd) | Seoul, South Korea (Hybrid) |  | 1mo |
 | **42dot** | [\[MS/PhD Intern\] AI Engineer (정규직 전환형)](https://jobs.ashbyhq.com/42dot/c4af7536-c24f-4754-9fe9-d92d237403f3) | Pangyo (Software Dream Center), South Korea (Hybrid) |  | 2mo |

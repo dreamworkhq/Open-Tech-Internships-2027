@@ -2,48 +2,47 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**64 currently open roles** · Updated **2026-09-29**
+**64 currently open roles** · Updated **2026-09-30**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-39) · 39 roles
+- [Engineering](#engineering-38) · 38 roles
 - [Design](#design-10) · 10 roles
-- [Data Science](#data-science-7) · 7 roles
+- [Data Science](#data-science-8) · 8 roles
 - [Product](#product-5) · 5 roles
 - [Other](#other-3) · 3 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (39)
+### Engineering (38)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Merklescience** | [Software Engineer - Intern (Frontend)](https://jobs.lever.co/merklescience/20675d00-156c-4f3f-a9bf-4cacee176bc2) | Bangalore |  | 0d |
-| **Q2ebanking** | [Data Migration Engineer - Intern](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Bangalore-India/Data-Migration-Engineer---Intern_REQ-12810) | Bangalore, India |  | 0d |
-| **Kaleris** | [Associate Software Engineer Intern](https://kaleris.wd501.myworkdayjobs.com/kaleris_careers/job/chennai/associate-software-engineer-intern_r-100658) | Chennai |  | 0d |
-| **Kaleris** | [Engineering Intern – Transport Analytics](https://kaleris.wd501.myworkdayjobs.com/kaleris_careers/job/chennai/engineering-intern---transport-analytics_r-100656) | Chennai |  | 0d |
-| **MDB General Referrals** | [2027 - Winter Automation Engineer Intern, Gurugram](https://boards.greenhouse.io/mdbgeneralreferrals/jobs/8127606) | gurugram |  | 0d |
-| **Kaleris** | [Associate Software Engineer Intern - YMS](https://kaleris.wd501.myworkdayjobs.com/kaleris_careers/job/chennai/associate-software-engineer-intern---yms_r-100657) | Chennai |  | 0d |
-| **Fampay** | [Data Engineering Intern](https://jobs.lever.co/fampay/984b6eab-0d12-4009-b692-20a4de00fa55) | Bengaluru |  | 0d |
-| **Bright Money** | [SDE Intern - Backend](https://careers.kula.ai/brightmoney/49904-sde-intern-backend) | Bangalore Division, Karnataka, India |  | 2d |
-| **Sprinklr** | [ML Intern](https://sprinklr.wd1.myworkdayjobs.com/careers/job/india---haryana---gurgaon/ml-intern_113518-job) | India - Haryana - Gurgaon |  | 3d |
-| **AbhiBus** | [AI-Native Full Stack Developer Intern](https://jobs.smartrecruiters.com/abhibus/744000151541999) | Cyber Pearl Driveway, Phase 2, HITEC City, … |  | 3d |
-| **Smytten** | [Software Development Engineer Intern – Backend](https://app.pyjamahr.com/careers?company=Smytten&job_id=408913&company_uuid=015AED5A92) | Bengaluru, Karnataka, India |  | 3d |
-| **Marvell Technology** | [Intern, Software Engineer](https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/hyderabad/intern--software-engineer_2603879) | IN - Hyderabad |  | 4d |
-| **Aerospace** | [Intern Masters Embedded Eng](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/124439) | Bengaluru, Karnataka, India |  | 5d |
-| **Irossa Technologies** | [Developer Intern– React.js / Next.js \| React Native \| Python Full Sta…](https://irossatech.zohorecruit.in/jobs/careers/212911000000723153) | Kandukur, Andhra Pradesh, 523105, India |  | 6d |
-| **Cloudsek** | [SDE Intern - Frontend](https://job-boards.greenhouse.io/cloudsek/jobs/6200261004) | Bengaluru, Karnataka, India (Hybrid) |  | 7d |
-| **Apple** | [PhD Intern, Apple Ads (Machine Learning)](https://jobs.apple.com/en-us/details/200684719/phd-intern-apple-ads-machine-learning?team=SFTWR) | Hyderabad |  | 8d |
-| **Altera** | [AI Automation Intern](https://altera.wd1.myworkdayjobs.com/Altera/job/Bengaluru-Karnataka-India/AI-Automation-Intern_R03117) | Remote (Bengaluru, Karnataka, India) |  | 10d |
-| **Thoughtworksreferral** | [Developer (Vapasi) - Intern](https://www.thoughtworks.com/careers/jobs/8210384?gh_jid=8210384) | Bangalore, India |  | 11d |
-| **Google** | [Silicon Engineering Intern, PhD, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/109375266236572358) | Bengaluru, Karnataka, India, Hyderabad, Tel… |  | 20d |
-| **Google** | [Software Engineering PhD Intern, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/109976286780105414) | Bengaluru, Karnataka, India, Hyderabad, Tel… |  | 20d |
-| **Ultraviolette Automotive** | [Intern - Data Engineer (Aftersales)](https://ultraviolette.zohorecruit.in/jobs/Careers/89246000009513106) | Bengaluru, India |  | 20d |
-| **Galaxeye Space Solutions** | [Embedded Firmware Intern](https://galaxeye-pranitgalaxeyespace.zohorecruit.in/jobs/Careers/214465000000371331) | Bangalore North, India |  | 20d |
-| **Galaxeye Space Solutions** | [AR/VR Developer Intern](https://galaxeye-pranitgalaxeyespace.zohorecruit.in/jobs/Careers/214465000004130931) | Bengaluru, India |  | 20d |
-| **Galaxeye Space Solutions** | [Embedded Hardware Intern](https://galaxeye-pranitgalaxeyespace.zohorecruit.in/jobs/Careers/214465000000360243) | Bangalore North, India |  | 20d |
-| **Rubrik** | [Software Engineer (CPD) - Winter Intern](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) | Bangalore |  | 23d |
-| **Rubrik** | [Software Engineer - Winter Intern](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) | Bangalore |  | 23d |
+| **Smytten** | [Software Development Engineer Intern – Backend](https://app.pyjamahr.com/careers?company=Smytten&job_id=411287&company_uuid=015AED5A92) | Bengaluru, Karnataka, India |  | 0d |
+| **Chord Tech Services** | [Zoho Developer Intern](https://zochord.zohorecruit.in/jobs/careers/176997000002711049) | Gurgaon and Hyderabad, Telangana, 122007, I… |  | 0d |
+| **Merklescience** | [Software Engineer - Intern (Frontend)](https://jobs.lever.co/merklescience/20675d00-156c-4f3f-a9bf-4cacee176bc2) | Bangalore |  | 1d |
+| **Q2ebanking** | [Data Migration Engineer - Intern](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Bangalore-India/Data-Migration-Engineer---Intern_REQ-12810) | Bangalore, India |  | 1d |
+| **Kaleris** | [Associate Software Engineer Intern](https://kaleris.wd501.myworkdayjobs.com/kaleris_careers/job/chennai/associate-software-engineer-intern_r-100658) | Chennai |  | 1d |
+| **Kaleris** | [Engineering Intern – Transport Analytics](https://kaleris.wd501.myworkdayjobs.com/kaleris_careers/job/chennai/engineering-intern---transport-analytics_r-100656) | Chennai |  | 1d |
+| **MDB General Referrals** | [2027 - Winter Automation Engineer Intern, Gurugram](https://boards.greenhouse.io/mdbgeneralreferrals/jobs/8127606) | gurugram |  | 1d |
+| **Kaleris** | [Associate Software Engineer Intern - YMS](https://kaleris.wd501.myworkdayjobs.com/kaleris_careers/job/chennai/associate-software-engineer-intern---yms_r-100657) | Chennai |  | 1d |
+| **Fampay** | [Data Engineering Intern](https://jobs.lever.co/fampay/984b6eab-0d12-4009-b692-20a4de00fa55) | Bengaluru |  | 1d |
+| **Bright Money** | [SDE Intern - Backend](https://careers.kula.ai/brightmoney/49904-sde-intern-backend) | Bangalore Division, Karnataka, India |  | 3d |
+| **Sprinklr** | [ML Intern](https://sprinklr.wd1.myworkdayjobs.com/careers/job/india---haryana---gurgaon/ml-intern_113518-job) | India - Haryana - Gurgaon |  | 4d |
+| **AbhiBus** | [AI-Native Full Stack Developer Intern](https://jobs.smartrecruiters.com/abhibus/744000151541999) | Cyber Pearl Driveway, Phase 2, HITEC City, … |  | 4d |
+| **Marvell Technology** | [Intern, Software Engineer](https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/hyderabad/intern--software-engineer_2603879) | IN - Hyderabad |  | 5d |
+| **Cloudsek** | [SDE Intern - Frontend](https://job-boards.greenhouse.io/cloudsek/jobs/6200261004) | Bengaluru, Karnataka, India (Hybrid) |  | 8d |
+| **Apple** | [PhD Intern, Apple Ads (Machine Learning)](https://jobs.apple.com/en-us/details/200684719/phd-intern-apple-ads-machine-learning?team=SFTWR) | Hyderabad |  | 9d |
+| **Altera** | [AI Automation Intern](https://altera.wd1.myworkdayjobs.com/Altera/job/Bengaluru-Karnataka-India/AI-Automation-Intern_R03117) | Remote (Bengaluru, Karnataka, India) |  | 11d |
+| **Thoughtworksreferral** | [Developer (Vapasi) - Intern](https://www.thoughtworks.com/careers/jobs/8210384?gh_jid=8210384) | Bangalore, India |  | 12d |
+| **Google** | [Silicon Engineering Intern, PhD, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/109375266236572358) | Bengaluru, Karnataka, India, Hyderabad, Tel… |  | 21d |
+| **Google** | [Software Engineering PhD Intern, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/109976286780105414) | Bengaluru, Karnataka, India, Hyderabad, Tel… |  | 21d |
+| **Ultraviolette Automotive** | [Intern - Data Engineer (Aftersales)](https://ultraviolette.zohorecruit.in/jobs/Careers/89246000009513106) | Bengaluru, India |  | 21d |
+| **Galaxeye Space Solutions** | [Embedded Firmware Intern](https://galaxeye-pranitgalaxeyespace.zohorecruit.in/jobs/Careers/214465000000371331) | Bangalore North, India |  | 21d |
+| **Galaxeye Space Solutions** | [AR/VR Developer Intern](https://galaxeye-pranitgalaxeyespace.zohorecruit.in/jobs/Careers/214465000004130931) | Bengaluru, India |  | 21d |
+| **Galaxeye Space Solutions** | [Embedded Hardware Intern](https://galaxeye-pranitgalaxeyespace.zohorecruit.in/jobs/Careers/214465000000360243) | Bangalore North, India |  | 21d |
+| **Rubrik** | [Software Engineer (CPD) - Winter Intern](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) | Bangalore |  | 24d |
+| **Rubrik** | [Software Engineer - Winter Intern](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) | Bangalore |  | 24d |
 | **Cloudsek** | [DevOps Intern](https://job-boards.greenhouse.io/cloudsek/jobs/6149788004) | Bengaluru, Karnataka, India |  | 1mo |
 | **Instawork** | [Hardware Intern — Robotics & AI](https://job-boards.greenhouse.io/instawork/jobs/4706444006) | Bengaluru, Karnataka, India |  | 1mo |
 | **Momentumfinancialservicesgroup** | [QA Test Engineering Intern](https://job-boards.greenhouse.io/momentumfinancialservicesgroup/jobs/5397912008) | Remote (Hyderabad (Remote)) |  | 1mo |
@@ -62,45 +61,46 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **IPE Global** | [UI/UX-Intern](https://ipeglobal.openings.co/ipeglobal/jobview/ui-ux-intern-delhi-india-2025112017075149?id=718318) | Delhi, India (Hybrid) |  | 1d |
-| **NOT Drones Innovations** | [Visual Design Intern](https://electrobotic.frappe.cloud/jobs/not_drones_innovations_private_limited/visual-design-intern) | Ahmedabad |  | 2d |
-| **Bright Money** | [Motion Designer - Intern](https://careers.kula.ai/brightmoney/52820-motion-designer-intern) | Bangalore Division, Karnataka, India |  | 2d |
-| **VE3** | [Graphics Design Intern](https://ve3.zohorecruit.in/jobs/careers/80399000019158156) | Pune City, Maharashtra, 411001, India |  | 3d |
-| **AppsForBharat** | [Video Editor Intern](https://careers.kula.ai/appsforbharat/3189-video-editor-intern) | Bangalore Division, Karnataka, India |  | 3d |
-| **Juno** | [Product Design Intern](https://careers.kula.ai/juno/446-product-design-intern) | Bengaluru, Karnataka, India |  | 3d |
-| **Council on Energy, Environment …** | [Editorial Design Intern](https://ceew.zohorecruit.in/jobs/Careers/12115000013401117) | New Delhi, India (Hybrid) |  | 20d |
-| **Council on Energy, Environment …** | [Communications Design Intern](https://ceew.zohorecruit.in/jobs/Careers/12115000016645222) | New Delhi, India (Hybrid) |  | 20d |
+| **IPE Global** | [UI/UX-Intern](https://ipeglobal.openings.co/ipeglobal/jobview/ui-ux-intern-delhi-india-2025112017075149?id=718318) | Delhi, India (Hybrid) |  | 2d |
+| **NOT Drones Innovations** | [Visual Design Intern](https://electrobotic.frappe.cloud/jobs/not_drones_innovations_private_limited/visual-design-intern) | Ahmedabad |  | 3d |
+| **Bright Money** | [Motion Designer - Intern](https://careers.kula.ai/brightmoney/52820-motion-designer-intern) | Bangalore Division, Karnataka, India |  | 3d |
+| **VE3** | [Graphics Design Intern](https://ve3.zohorecruit.in/jobs/careers/80399000019158156) | Pune City, Maharashtra, 411001, India |  | 4d |
+| **AppsForBharat** | [Video Editor Intern](https://careers.kula.ai/appsforbharat/3189-video-editor-intern) | Bangalore Division, Karnataka, India |  | 4d |
+| **Juno** | [Product Design Intern](https://careers.kula.ai/juno/446-product-design-intern) | Bengaluru, Karnataka, India |  | 4d |
+| **Council on Energy, Environment …** | [Editorial Design Intern](https://ceew.zohorecruit.in/jobs/Careers/12115000013401117) | New Delhi, India (Hybrid) |  | 21d |
+| **Council on Energy, Environment …** | [Communications Design Intern](https://ceew.zohorecruit.in/jobs/Careers/12115000016645222) | New Delhi, India (Hybrid) |  | 21d |
 | **Hevodata** | [UX Design Intern](https://jobs.lever.co/hevodata/433ffdef-3125-48ed-a131-52c697c321ee) | Bangalore, India |  | 2mo |
 | **Glance** | [UX Design - Intern](https://job-boards.greenhouse.io/glance/jobs/7916115) | Bengaluru |  | 3mo |
 
-### Data Science (7)
+### Data Science (8)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **GE Aerospace** | [Data Science Intern](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/bengaluru/data-science-intern_r5040691-1) | Bengaluru |  | 0d |
-| **GE Aerospace** | [Data Science -Intern](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/bengaluru/data-science--intern_r5040692-1) | Bengaluru |  | 0d |
-| **BP** | [Summer Internship - Digital - Engineering - Pune](https://bpinternational.wd3.myworkdayjobs.com/bpprivateexternalcareerssite/job/india---pune/summer-internship---digital---data---ai---pune_rq116429) | IN: Pune - Building 5 |  | 2d |
-| **Digantara** | [AI/ML Data Annotation Intern](https://careers.kula.ai/digantara/54842-ai-ml-data-annotation-intern) | Bengaluru, Karnataka, India |  | 2d |
-| **Sage Software Solutions** | [Data Analyst Intern](https://ess.pockethrms.com/Recruitment/Recruitment/JobDetail?schema=tym4xOwiuAVjyHbaa5i9dg==&company=l/wT6mBGv0OS/ZOoUn2RDw==&Id=I63414MSyHkeNAhOG+Y1LA==) | Navi Mumbai, Maharashtra, INDIA |  | 2d |
-| **Galaxeye Space Solutions** | [Data Annotation Intern](https://galaxeye-pranitgalaxeyespace.zohorecruit.in/jobs/Careers/214465000003464584) | Bangalore North, India |  | 20d |
+| **GE Aerospace** | [Data Science Intern](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/bengaluru/data-science-intern_r5040691-1) | Bengaluru |  | 1d |
+| **GE Aerospace** | [Data Science -Intern](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/bengaluru/data-science--intern_r5040692-1) | Bengaluru |  | 1d |
+| **BP** | [Summer Internship - Digital - Engineering - Pune](https://bpinternational.wd3.myworkdayjobs.com/bpprivateexternalcareerssite/job/india---pune/summer-internship---digital---data---ai---pune_rq116429) | IN: Pune - Building 5 |  | 3d |
+| **Digantara** | [AI/ML Data Annotation Intern](https://careers.kula.ai/digantara/54842-ai-ml-data-annotation-intern) | Bengaluru, Karnataka, India |  | 3d |
+| **Sage Software Solutions** | [Data Analyst Intern](https://ess.pockethrms.com/Recruitment/Recruitment/JobDetail?schema=tym4xOwiuAVjyHbaa5i9dg==&company=l/wT6mBGv0OS/ZOoUn2RDw==&Id=I63414MSyHkeNAhOG+Y1LA==) | Navi Mumbai, Maharashtra, INDIA |  | 3d |
+| **Galaxeye Space Solutions** | [Data Annotation Intern](https://galaxeye-pranitgalaxeyespace.zohorecruit.in/jobs/Careers/214465000003464584) | Bangalore North, India |  | 21d |
 | **Epifi** | [DS/ML Intern](https://jobs.lever.co/epifi/08fc1577-4593-4b94-b66b-08e638d29f37) | Bangalore |  | 2mo |
+| **Karya** | [Data Curation Intern](https://job-boards.greenhouse.io/karya/jobs/5215559008) | Bengaluru |  | 4mo |
 
 ### Product (5)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Kaleris** | [Associate Product Manager Intern - YMS](https://kaleris.wd501.myworkdayjobs.com/kaleris_careers/job/chennai/associate-product-manager-intern---yms_r-100661) | Chennai |  | 0d |
-| **Jar** | [Growth Intern - Gold](https://changejar.applytojob.com/apply/hnR8g5JP9i/Growth-Intern-Gold) | Bengaluru, Karnataka, India |  | 2d |
-| **Upstox** | [Product Intern (CX)](https://upstox.darwinbox.in/ms/candidatev2/main/careers/jobDetails/a6ab4df685ac20) | Sunshine Tower, Mumbai, Maharashtra, India (Hybrid) |  | 3d |
-| **Slice** | [Product Manager Intern](https://careers.kula.ai/slice/51307-product-manager-intern) | Bengaluru, Karnataka, India |  | 3d |
-| **Icertis** | [Intern, Technical Writer](https://iaaviz.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7710) | Pune, Maharashtra, India (Hybrid) |  | 8d |
+| **Kaleris** | [Associate Product Manager Intern - YMS](https://kaleris.wd501.myworkdayjobs.com/kaleris_careers/job/chennai/associate-product-manager-intern---yms_r-100661) | Chennai |  | 1d |
+| **Jar** | [Growth Intern - Gold](https://changejar.applytojob.com/apply/hnR8g5JP9i/Growth-Intern-Gold) | Bengaluru, Karnataka, India |  | 3d |
+| **Upstox** | [Product Intern (CX)](https://upstox.darwinbox.in/ms/candidatev2/main/careers/jobDetails/a6ab4df685ac20) | Sunshine Tower, Mumbai, Maharashtra, India (Hybrid) |  | 4d |
+| **Slice** | [Product Manager Intern](https://careers.kula.ai/slice/51307-product-manager-intern) | Bengaluru, Karnataka, India |  | 4d |
+| **Icertis** | [Intern, Technical Writer](https://iaaviz.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7710) | Pune, Maharashtra, India (Hybrid) |  | 9d |
 
 ### Other (3)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Snsin** | [SOC Intern](https://snsin.zohorecruit.in/jobs/careers/75805000017855260) | Chennai, Tamil Nadu, 600034, India |  | 3d |
-| **Fampay** | [Security Engineer Intern](https://jobs.lever.co/fampay/bbbbbfd2-1855-4991-82d5-84ef57607c24) | Bengaluru |  | 5d |
+| **Snsin** | [SOC Intern](https://snsin.zohorecruit.in/jobs/careers/75805000017855260) | Chennai, Tamil Nadu, 600034, India |  | 4d |
+| **Fampay** | [Security Engineer Intern](https://jobs.lever.co/fampay/bbbbbfd2-1855-4991-82d5-84ef57607c24) | Bengaluru |  | 6d |
 | **Cloudsek** | [Security Consultant Intern](https://job-boards.greenhouse.io/cloudsek/jobs/6115382004) | Bengaluru, Karnataka, India |  | 2mo |
 
 <!-- TABLE_END -->
