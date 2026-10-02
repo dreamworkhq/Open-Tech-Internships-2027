@@ -2,23 +2,22 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**10 currently open roles** · Updated **2026-09-30**
+**9 currently open roles** · Updated **2026-10-02**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-8) · 8 roles
+- [Engineering](#engineering-7) · 7 roles
 - [Other](#other-2) · 2 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (8)
+### Engineering (7)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Sentry** | [Software Engineer, Intern (Summer 2027)](https://jobs.ashbyhq.com/sentry/fa522ac5-fc9f-4ce1-a191-842496a235a2) | Vienna, Austria (Hybrid) | $43K | 18d |
-| **NXP Semiconductors** | [Internship: Software Application Developer - Cryptographic Validation S…](https://nxp.wd3.myworkdayjobs.com/careers/job/Gratkorn/Internship--Software-Application-Developer---Cryptographic-Validation-System--m-f-d-_R-10066725) | Gratkorn | $36K | 19d |
-| **NXP Semiconductors** | [Internship: Software Test Engineer - JavaCard Applications (m/f/d)](https://nxp.wd3.myworkdayjobs.com/careers/job/Gratkorn/Internship--Software-Developer---Tools--m-f-d-_R-10060873-1) | Gratkorn (Hybrid) | $36K | 19d |
-| **SAP** | [Intern / Working Student (f/m/d): Software Development in Supply Chain …](https://career5.successfactors.eu/careers?company=SAP&career_ns=job_listing&career_job_req_id=457932) | Vienna, Austria (Hybrid) |  | 1mo |
+| **Sentry** | [Software Engineer, Intern (Summer 2027)](https://jobs.ashbyhq.com/sentry/fa522ac5-fc9f-4ce1-a191-842496a235a2) | Vienna, Austria (Hybrid) | $43K | 20d |
+| **NXP Semiconductors** | [Internship: Software Application Developer - Cryptographic Validation S…](https://nxp.wd3.myworkdayjobs.com/careers/job/Gratkorn/Internship--Software-Application-Developer---Cryptographic-Validation-System--m-f-d-_R-10066725) | Gratkorn | $36K | 21d |
+| **NXP Semiconductors** | [Internship: Software Test Engineer - JavaCard Applications (m/f/d)](https://nxp.wd3.myworkdayjobs.com/careers/job/Gratkorn/Internship--Software-Developer---Tools--m-f-d-_R-10060873-1) | Gratkorn (Hybrid) | $36K | 21d |
 | **NXP Semiconductors** | [Internship: Automotive Customer Application Software Engineer (m/f/d)](https://nxp.wd3.myworkdayjobs.com/careers/job/Gratkorn/Internship--Automotive-Customer-Application-Software-Engineer--m-f-d-_R-10064842) | Gratkorn (Hybrid) | $36K | 2mo |
 | **NXP Semiconductors** | [Internship – Digital Verification & Generative AI Support (m/f/d)](https://nxp.wd3.myworkdayjobs.com/careers/job/Gratkorn/Internship---Digital-Verification---Generative-AI-Support--m-f-d-_R-10064593) | Gratkorn (Hybrid) | $36K | 2mo |
 | **NXP Semiconductors** | [Internship – Digital Design & Generative AI Support (m/f/d)](https://nxp.wd3.myworkdayjobs.com/careers/job/Gratkorn/Internship---Digital-Design---Generative-AI-Support--m-f-d-_R-10064592) | Gratkorn (Hybrid) | $36K | 2mo |
@@ -28,7 +27,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **RedBull** | [Internship Data Science](https://jobs.smartrecruiters.com/RedBull/744000148756269-internship-data-science?oga=true) | Elsbethen, Salzburg, Austria | $29K | 19d |
+| **RedBull** | [Internship Data Science](https://jobs.smartrecruiters.com/RedBull/744000148756269-internship-data-science?oga=true) | Elsbethen, Salzburg, Austria | $29K | 21d |
 | **1000** | [Data Activation & Asset Management Internship (m/w/d)](https://pg.wd5.myworkdayjobs.com/1000/job/SPITTAL-AD-DRAU-PLANT/Data-Activation---Asset-Management-Internship--m-w-d-_R000150400) | SPITTAL A.D. DRAU PLANT |  | 2mo |
 
 <!-- TABLE_END -->

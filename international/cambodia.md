@@ -1,8 +1,8 @@
-# Tech internships in Pakistan
+# Tech internships in Cambodia
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**1 currently open roles** · Updated **2026-09-30**
+**1 currently open roles** · Updated **2026-10-02**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Game District** | [Game Design Intern](https://gamedistrict.applytojob.com/apply/T7K1JbVO00/Game-Design-Intern) | Lahore, Pakistan |  | 4d |
+| **Grab** | [Intern, Product Support](https://jobs.smartrecruiters.com/Grab/744000152841949-intern-product-support?oga=true) | Phnom Penh, , Cambodia |  | 1d |
 
 <!-- TABLE_END -->
