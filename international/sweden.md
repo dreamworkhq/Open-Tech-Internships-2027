@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**2 currently open roles** · Updated **2026-10-02**
+**2 currently open roles** · Updated **2026-10-03**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,7 +14,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Redpine** | [Technical Intern, Frontend Development](https://jobs.ashbyhq.com/redpine/34b70ffb-3afd-4189-92ba-f375b4c956bd) | Redpine HQ, central Stockholm |  | 22d |
-| **Google** | [Software Engineering, Site Reliability Engineering BS/MS Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/142747733357142726) | Zürich, Switzerland, Munich, Germany, Paris… |  | 27d |
+| **Redpine** | [Technical Intern, Frontend Development](https://jobs.ashbyhq.com/redpine/34b70ffb-3afd-4189-92ba-f375b4c956bd) | Redpine HQ, central Stockholm |  | 23d |
+| **Google** | [Software Engineering, Site Reliability Engineering BS/MS Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/142747733357142726) | Zürich, Switzerland, Munich, Germany, Paris… |  | 28d |
 
 <!-- TABLE_END -->
