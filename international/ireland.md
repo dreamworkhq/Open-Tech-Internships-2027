@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**33 currently open roles** · Updated **2026-10-03**
+**33 currently open roles** · Updated **2026-10-04**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -15,26 +15,26 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Amazon** | [Cloud Support Associate Internship - April 2027 start, Support Engineer…](https://www.amazon.jobs/en/jobs/10567711/cloud-support-associate-internship-april-2027-start-support-engineering) | IE, D, Dublin |  | 1d |
-| **Pinterest** | [Software Engineering Intern 2027 (Dublin)](https://www.pinterestcareers.com/jobs/?gh_jid=8138034) | Dublin, IE (Hybrid) | $45K–$48K | 1d |
-| **Stage** | [2027 Trinity College Dublin - AI, Data, and Platform Engineering Intern…](https://www.kkr.com/careers/career-opportunities/post?gh_jid=6211801004) | Dublin |  | 2d |
-| **Stage** | [2027 Trinity College Dublin Software Engineering Internship](https://www.kkr.com/careers/career-opportunities/post?gh_jid=6211728004) | Dublin |  | 2d |
-| **Td** | [2027 Technology Internship - Valuation Services Software Engineer - 6-m…](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Dublin-Ireland/XMLNAME-2027-Technology-Internship---Valuation-Services-Software-Engineer---6-month-Internship--January---July-_R_1513793) | Dublin, Ireland (Hybrid) | $43K | 3d |
-| **Td** | [2027 Technology Internship - AI-Native Data Platform Engineering - 6-mo…](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Dublin-Ireland/XMLNAME-2027-Technology-Internship---AI-Native-Data-Platform-Engineering---6-month-Internship--January---July-_R_1513790-1) | Dublin, Ireland (Hybrid) | $43K | 3d |
-| **Red Hat** | [Software Engineering Internship (Ireland)](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Waterford-City/Software-Engineering-Internship--Ireland-_R-059589) | Waterford City (Hybrid) |  | 3d |
-| **Arista Networks** | [Software Engineer Intern 2026/2027](https://jobs.smartrecruiters.com/AristaNetworks/744000152369329-software-engineer-intern-2026-2027?oga=true) | Dublin, County Dublin, Ireland |  | 4d |
-| **SOTI** | [Software Development & QA Intern Opportunities 26/27](https://soti.wd3.myworkdayjobs.com/Careers/job/Galway-Ireland/Software-Development---QA-Intern-Opportunities-26-27_R10547) | Galway, Ireland |  | 9d |
-| **Sunlife** | [Cloud CCoE Intern](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Waterford-Waterford-Ireland/Cloud-CCoE-Intern_JR00127890) | Waterford, Waterford, Ireland |  | 14d |
-| **Sunlife** | [Data Engineering Intern](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Waterford-Waterford-Ireland/Data-Engineering-Intern_JR00127686) | Waterford, Waterford, Ireland |  | 14d |
-| **Sunlife** | [Jr. Analytics and Automation Developer Intern](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Waterford-Waterford-Ireland/Jr-Analytics-and-Automation-Developer-Intern_JR00128023) | Waterford, Waterford, Ireland |  | 14d |
-| **Cadence Design Systems** | [AI Intern - Technical Communications (System Design Analysis Group)](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/CORK-01/AI-Intern---Technical-Communications--System-Design-Analysis-Group-_R55571-1) | CORK 01 |  | 15d |
-| **Cadence Design Systems** | [Intern Position (Custom IC Product Group)](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/CORK-01/Intern-Position--Custom-IC-Product-Group-_R55625) | CORK 01 |  | 15d |
-| **Cadence Design Systems** | [Intern - IC Design](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/GALWAY-01/Intern---IC-Design_R56002) | GALWAY 01 |  | 15d |
-| **HPE** | [Systems/Software Engineer - Internship (C++/Linux)](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Galway-Galway-Ireland/Systems-Software-Engineer---Internship--C---Linux-_1213130) | Galway, Galway, Ireland (Hybrid) |  | 17d |
-| **Toast** | [Software Engineering Intern](https://careers.toasttab.com/jobs?gh_jid=8187654) | Dublin, Ireland (Hybrid) |  | 23d |
-| **Intel** | [Software Solutions Eng PhD Intern](https://intel.wd1.myworkdayjobs.com/External/job/Ireland-Leixlip/Software-Solutions-Eng-PhD-Intern_JR0286944) | Ireland, Leixlip | $38K | 25d |
-| **HPE** | [Hybrid Cloud Innovation AI Internship](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Galway-Galway-Ireland/Hybrid-Cloud-Innovation-AI-Internship_1210999) | Galway, Galway, Ireland (Hybrid) |  | 28d |
-| **Cisco** | [Software Engineer Intern](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Galway-Ireland/Software-Engineer-Intern_2024810) | Galway, Ireland |  | 29d |
+| **Amazon** | [Cloud Support Associate Internship - April 2027 start, Support Engineer…](https://www.amazon.jobs/en/jobs/10567711/cloud-support-associate-internship-april-2027-start-support-engineering) | IE, D, Dublin |  | 2d |
+| **Pinterest** | [Software Engineering Intern 2027 (Dublin)](https://www.pinterestcareers.com/jobs/?gh_jid=8138034) | Dublin, IE (Hybrid) | $45K–$48K | 2d |
+| **Stage** | [2027 Trinity College Dublin - AI, Data, and Platform Engineering Intern…](https://www.kkr.com/careers/career-opportunities/post?gh_jid=6211801004) | Dublin |  | 3d |
+| **Stage** | [2027 Trinity College Dublin Software Engineering Internship](https://www.kkr.com/careers/career-opportunities/post?gh_jid=6211728004) | Dublin |  | 3d |
+| **Td** | [2027 Technology Internship - Valuation Services Software Engineer - 6-m…](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Dublin-Ireland/XMLNAME-2027-Technology-Internship---Valuation-Services-Software-Engineer---6-month-Internship--January---July-_R_1513793) | Dublin, Ireland (Hybrid) | $43K | 4d |
+| **Td** | [2027 Technology Internship - AI-Native Data Platform Engineering - 6-mo…](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Dublin-Ireland/XMLNAME-2027-Technology-Internship---AI-Native-Data-Platform-Engineering---6-month-Internship--January---July-_R_1513790-1) | Dublin, Ireland (Hybrid) | $43K | 4d |
+| **Red Hat** | [Software Engineering Internship (Ireland)](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Waterford-City/Software-Engineering-Internship--Ireland-_R-059589) | Waterford City (Hybrid) |  | 4d |
+| **Arista Networks** | [Software Engineer Intern 2026/2027](https://jobs.smartrecruiters.com/AristaNetworks/744000152369329-software-engineer-intern-2026-2027?oga=true) | Dublin, County Dublin, Ireland |  | 5d |
+| **SOTI** | [Software Development & QA Intern Opportunities 26/27](https://soti.wd3.myworkdayjobs.com/Careers/job/Galway-Ireland/Software-Development---QA-Intern-Opportunities-26-27_R10547) | Galway, Ireland |  | 10d |
+| **Sunlife** | [Cloud CCoE Intern](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Waterford-Waterford-Ireland/Cloud-CCoE-Intern_JR00127890) | Waterford, Waterford, Ireland |  | 15d |
+| **Sunlife** | [Data Engineering Intern](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Waterford-Waterford-Ireland/Data-Engineering-Intern_JR00127686) | Waterford, Waterford, Ireland |  | 15d |
+| **Sunlife** | [Jr. Analytics and Automation Developer Intern](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Waterford-Waterford-Ireland/Jr-Analytics-and-Automation-Developer-Intern_JR00128023) | Waterford, Waterford, Ireland |  | 15d |
+| **Cadence Design Systems** | [AI Intern - Technical Communications (System Design Analysis Group)](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/CORK-01/AI-Intern---Technical-Communications--System-Design-Analysis-Group-_R55571-1) | CORK 01 |  | 16d |
+| **Cadence Design Systems** | [Intern Position (Custom IC Product Group)](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/CORK-01/Intern-Position--Custom-IC-Product-Group-_R55625) | CORK 01 |  | 16d |
+| **Cadence Design Systems** | [Intern - IC Design](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/GALWAY-01/Intern---IC-Design_R56002) | GALWAY 01 |  | 16d |
+| **HPE** | [Systems/Software Engineer - Internship (C++/Linux)](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Galway-Galway-Ireland/Systems-Software-Engineer---Internship--C---Linux-_1213130) | Galway, Galway, Ireland (Hybrid) |  | 18d |
+| **Toast** | [Software Engineering Intern](https://careers.toasttab.com/jobs?gh_jid=8187654) | Dublin, Ireland (Hybrid) |  | 24d |
+| **Intel** | [Software Solutions Eng PhD Intern](https://intel.wd1.myworkdayjobs.com/External/job/Ireland-Leixlip/Software-Solutions-Eng-PhD-Intern_JR0286944) | Ireland, Leixlip | $38K | 26d |
+| **HPE** | [Hybrid Cloud Innovation AI Internship](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Galway-Galway-Ireland/Hybrid-Cloud-Innovation-AI-Internship_1210999) | Galway, Galway, Ireland (Hybrid) |  | 29d |
+| **Cisco** | [Software Engineer Intern](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Galway-Ireland/Software-Engineer-Intern_2024810) | Galway, Ireland |  | 1mo |
 | **HPE** | [Internship - Cloud Dev Engineering](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Galway-Galway-Ireland/Internship---Cloud-Dev-Engineering_1211017) | Galway, Galway, Ireland (Hybrid) |  | 1mo |
 | **HPE** | [Cloud Developer Internship](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Galway-Galway-Ireland/Cloud-Developer-Internship_1211001) | Galway, Galway, Ireland (Hybrid) |  | 1mo |
 | **Stryker** | [Electrical Design Co-Op Placement 2027](https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Carrigtwohill-Ireland/Electrical-Design-Co-Op_R572192) | Carrigtwohill, Ireland | $32K | 1mo |
@@ -49,9 +49,9 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Google** | [Business Analyst MBA Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/82600333812867782) | Dublin, Ireland | $81K | 0d |
-| **Sunlife** | [Data Engineering – Intern](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Waterford-Waterford-Ireland/Data-Engineering---Intern_JR00127412) | Waterford, Waterford, Ireland |  | 14d |
-| **Sunlife** | [Defensive Security Intern](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Waterford-Waterford-Ireland/Defensive-Security-Intern_JR00127445) | Waterford, Waterford, Ireland |  | 14d |
-| **Stryker** | [Data Analytics Co-op Placement 2027](https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Carrigtwohill-Ireland/Data-Analytics-Co-op-Placement-2027_R572164) | Carrigtwohill, Ireland | $32K | 22d |
+| **Google** | [Business Analyst MBA Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/82600333812867782) | Dublin, Ireland | $81K | 1d |
+| **Sunlife** | [Data Engineering – Intern](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Waterford-Waterford-Ireland/Data-Engineering---Intern_JR00127412) | Waterford, Waterford, Ireland |  | 15d |
+| **Sunlife** | [Defensive Security Intern](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Waterford-Waterford-Ireland/Defensive-Security-Intern_JR00127445) | Waterford, Waterford, Ireland |  | 15d |
+| **Stryker** | [Data Analytics Co-op Placement 2027](https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Carrigtwohill-Ireland/Data-Analytics-Co-op-Placement-2027_R572164) | Carrigtwohill, Ireland | $32K | 23d |
 
 <!-- TABLE_END -->
