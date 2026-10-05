@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**9 currently open roles** · Updated **2026-10-04**
+**9 currently open roles** · Updated **2026-10-05**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,11 +14,11 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Sigma Software** | [Java Developer Intern](https://djinni.co/jobs/740397-java-developer-intern/) | Remote (Ukraine) |  | 1d |
-| **Sigma Software** | [Java Developer Intern](https://jobs.smartrecruiters.com/SigmaSoftware2/744000153176088-java-developer-intern?oga=true) | Remote (Lviv, Lviv Oblast, Ukraine) |  | 1d |
-| **Playtech** | [QA Engineer (Intern)](https://jobs.smartrecruiters.com/Playtech/744000151615200-qa-engineer-intern-?oga=true) | Kyiv, , Ukraine |  | 9d |
-| **Preply** | [AI Talent Accelerator (6-month internship)](https://jobs.ashbyhq.com/preply/dd2f1173-58d8-4ad2-9e0f-17fe2698c4c9) | Kyiv (Hybrid) |  | 18d |
-| **Playtech** | [QA Engineer (Intern)](https://djinni.co/jobs/848356-qa-engineer-intern/) | Kyiv, Ukraine |  | 19d |
+| **Sigma Software** | [Java Developer Intern](https://djinni.co/jobs/740397-java-developer-intern/) | Remote (Ukraine) |  | 2d |
+| **Sigma Software** | [Java Developer Intern](https://jobs.smartrecruiters.com/SigmaSoftware2/744000153176088-java-developer-intern?oga=true) | Remote (Lviv, Lviv Oblast, Ukraine) |  | 3d |
+| **Playtech** | [QA Engineer (Intern)](https://jobs.smartrecruiters.com/Playtech/744000151615200-qa-engineer-intern-?oga=true) | Kyiv, , Ukraine |  | 10d |
+| **Preply** | [AI Talent Accelerator (6-month internship)](https://jobs.ashbyhq.com/preply/dd2f1173-58d8-4ad2-9e0f-17fe2698c4c9) | Kyiv (Hybrid) |  | 19d |
+| **Playtech** | [QA Engineer (Intern)](https://djinni.co/jobs/848356-qa-engineer-intern/) | Kyiv, Ukraine |  | 20d |
 | **King Group** | [Intern QA Manual](https://djinni.co/jobs/840677-intern-qa-manual/) | Kyiv, Ukraine |  | 2mo |
 | **King Group** | [Intern front-end developer](https://djinni.co/jobs/787644-intern-front-end-developer/) | Kyiv, Ukraine |  | 2mo |
 | **King Group** | [Intern/Trainee QA Engineer](https://djinni.co/jobs/747216-intern-trainee-qa-engineer/) | Kyiv, Ukraine |  | 2mo |

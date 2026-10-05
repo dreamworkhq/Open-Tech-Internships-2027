@@ -2,12 +2,12 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**23 currently open roles** · Updated **2026-10-04**
+**24 currently open roles** · Updated **2026-10-05**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
 - [Engineering](#engineering-12) · 12 roles
-- [Data Science](#data-science-5) · 5 roles
+- [Data Science](#data-science-6) · 6 roles
 - [Other](#other-6) · 6 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
@@ -16,12 +16,12 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Fa Evmr Saasfaprod1** | [Developer DevOps Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40736) | Brazil (Hybrid) |  | 4d |
-| **Cadence Design Systems** | [Intern Product Validation Engineering: AI Quality Assurance (QA)](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BELO-HORIZONTE/Intern-Product-Validation-Engineering--AI-Quality-Assurance--QA-_R56591) | BELO HORIZONTE |  | 4d |
-| **Aveva** | [Software Developer Intern - Brazil](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Sao-Paulo-Brazil/Software-Developer-Intern---Brazil_R015054) | Sao Paulo, Brazil (Hybrid) |  | 10d |
-| **Cadence Design Systems** | [Intern: Software Engineering: Hardware Verification R&D](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BELO-HORIZONTE/Intern--Software-Engineering--Hardware-Verification-R-D_R56477) | BELO HORIZONTE |  | 10d |
-| **SAP** | [SAP iXp Intern - Support Engineer at Technical Support - Data & Platfor…](https://career5.successfactors.eu/careers?company=SAP&career_ns=job_listing&career_job_req_id=456901) | São Leopoldo, Brazil (Hybrid) |  | 22d |
-| **Salesforce** | [AI Builder Intern \[Brazil\]](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Brazil---Sao-Paulo/AI-Builder-Intern--Brazil-_JR359969) | Brazil - Sao Paulo |  | 22d |
+| **Fa Evmr Saasfaprod1** | [Developer DevOps Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40736) | Brazil (Hybrid) |  | 5d |
+| **Cadence Design Systems** | [Intern Product Validation Engineering: AI Quality Assurance (QA)](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BELO-HORIZONTE/Intern-Product-Validation-Engineering--AI-Quality-Assurance--QA-_R56591) | BELO HORIZONTE |  | 6d |
+| **Aveva** | [Software Developer Intern - Brazil](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Sao-Paulo-Brazil/Software-Developer-Intern---Brazil_R015054) | Sao Paulo, Brazil (Hybrid) |  | 11d |
+| **Cadence Design Systems** | [Intern: Software Engineering: Hardware Verification R&D](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BELO-HORIZONTE/Intern--Software-Engineering--Hardware-Verification-R-D_R56477) | BELO HORIZONTE |  | 11d |
+| **SAP** | [SAP iXp Intern - Support Engineer at Technical Support - Data & Platfor…](https://career5.successfactors.eu/careers?company=SAP&career_ns=job_listing&career_job_req_id=456901) | São Leopoldo, Brazil (Hybrid) |  | 23d |
+| **Salesforce** | [AI Builder Intern \[Brazil\]](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Brazil---Sao-Paulo/AI-Builder-Intern--Brazil-_JR359969) | Brazil - Sao Paulo |  | 23d |
 | **Telus Digital** | [Software Engineering Intern (Brazil) - Year Round 2027](https://jobs.ashbyhq.com/telus-digital/98495440-1a32-4c7e-8183-f38beebfd1d0) | Porto Alegre, Brazil (Hybrid) |  | 1mo |
 | **Legrand Group Opportunities Joi…** | [Intern Hardware Engineer](https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/509) | Blumenau, SC, Brazil |  | 2mo |
 | **Cadence Design Systems** | [Intern: Software Engineering Jasper R&D](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BELO-HORIZONTE/Intern--Software-Engineering-Jasper-R-D_R55530) | BELO HORIZONTE |  | 2mo |
@@ -29,22 +29,23 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **Amazon** | [Software Development Intern, Intech](https://www.amazon.jobs/en/jobs/3120598/software-development-intern-intech) | BR, Virtual |  | 4mo |
 | **Amazon** | [Software Development Engineer Internship - Vaga para mulheres, IES- LAT…](https://www.amazon.jobs/en/jobs/3139827/software-development-engineer-internship-vaga-para-mulheres-ies-latech) | BR, Virtual |  | 4mo |
 
-### Data Science (5)
+### Data Science (6)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **4flow** | [Business Intelligence Intern](https://4flow.wd3.myworkdayjobs.com/4flow/job/Campinas/Business-Intelligence-Intern_R4559) | Campinas (Hybrid) |  | 2d |
+| **4flow** | [Business Intelligence Intern](https://4flow.wd3.myworkdayjobs.com/4flow/job/Campinas/Business-Intelligence-Intern_R4559) | Campinas (Hybrid) |  | 3d |
 | **Telus Digital** | [Data & AI Intern (Brazil) - Year Round 2027](https://jobs.ashbyhq.com/telus-digital/89730055-fa03-444d-aa05-0058946fa436) | Porto Alegre, Brazil (Hybrid) |  | 1mo |
 | **Shifttechnology** | [Data Scientist Intern (English Speaker)](https://job-boards.greenhouse.io/shifttechnology/jobs/7794260003) | Brazil - Sao Paulo (Hybrid) |  | 3mo |
 | **Amazon** | [Business Intelligence Intern, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/3126336/business-intelligence-intern-amazon-university-talent-acquisition) | BR, RJ, Rio De Janeiro |  | 3mo |
+| **Enova** | [Data Analytics Intern (Hybrid)](https://job-boards.greenhouse.io/enova/jobs/8023514) | São Paulo, São Paulo, Brazil (Hybrid) |  | 3mo |
 | **Amazon** | [Business Intelligence Intern - Cajamar, Amazon University Talent Acquis…](https://www.amazon.jobs/en/jobs/10423543/business-intelligence-intern-cajamar-amazon-university-talent-acquisition) | BR, SP, Cajamar |  | 4mo |
 
 ### Other (6)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Toradex** | [Intern - Product Manager Software](https://job-boards.greenhouse.io/toradex/jobs/8004517003) | Campinas, São Paulo, Brazil |  | 9d |
-| **Sezzle** | [Product Management Intern](https://job-boards.greenhouse.io/sezzle/jobs/8003948003) | Remote (Brazil, Remote) |  | 9d |
+| **Toradex** | [Intern - Product Manager Software](https://job-boards.greenhouse.io/toradex/jobs/8004517003) | Campinas, São Paulo, Brazil |  | 10d |
+| **Sezzle** | [Product Management Intern](https://job-boards.greenhouse.io/sezzle/jobs/8003948003) | Remote (Brazil, Remote) |  | 10d |
 | **Sezzle** | [Product Design Intern](https://job-boards.greenhouse.io/sezzle/jobs/7979213003) | Remote (Brazil, Remote) |  | 1mo |
 | **Amazon** | [Product Management Intern, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/10402328/product-management-intern-amazon-university-talent-acquisition) | BR, SP, Sao Paulo |  | 3mo |
 | **Amazon** | [Design Intern , Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/10404485/design-intern-amazon-university-talent-acquisition) | BR, SP, Sao Paulo |  | 3mo |

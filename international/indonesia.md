@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**8 currently open roles** · Updated **2026-10-04**
+**8 currently open roles** · Updated **2026-10-05**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -25,8 +25,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Global Campus** | [Internship - Digital, Cloud, Data - IT Strategy Stream](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Jakarta/Internship---Digital--Cloud--Data---IT-Strategy-Stream_764264WD) | Jakarta |  | 8d |
-| **Cermati** | [Software Engineer Intern](https://jobs.smartrecruiters.com/Cermaticom/744000150645669-software-engineer-intern?oga=true) | Jakarta, Jakarta, Indonesia |  | 11d |
+| **Global Campus** | [Internship - Digital, Cloud, Data - IT Strategy Stream](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Jakarta/Internship---Digital--Cloud--Data---IT-Strategy-Stream_764264WD) | Jakarta |  | 10d |
+| **Cermati** | [Software Engineer Intern](https://jobs.smartrecruiters.com/Cermaticom/744000150645669-software-engineer-intern?oga=true) | Jakarta, Jakarta, Indonesia |  | 13d |
 | **Global Campus** | [FY 27 - Internship - Enterprise System and Transformation Assurance](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Jakarta/FY-27---Internship---Enterprise-System-and-Transformation-Assurance_754342WD) | Jakarta |  | 1mo |
 
 <!-- TABLE_END -->
