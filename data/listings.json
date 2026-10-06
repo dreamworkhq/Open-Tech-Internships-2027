@@ -1,9 +1,24 @@
 {
-  "generatedAt": "2026-10-06T01:50:31.967Z",
+  "generatedAt": "2026-10-06T02:35:36.508Z",
   "source": "dreamwork-public-job-index",
   "list": "Open-Tech-Internships-2027",
-  "count": 1734,
+  "count": 1735,
   "listings": [
+    {
+      "id": "a019a149-1706-498a-8d18-f1d2c105ff7d",
+      "title": "2027 Summer Intern, MS/PhD, Software Engineer, Eval Data Infra",
+      "company": "Waymo",
+      "companyDomain": null,
+      "location": "Mountain View, CA, USA",
+      "remoteType": "hybrid",
+      "salaryMin": 145600,
+      "salaryMax": 145600,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-10-05T23:54:56.000Z",
+      "firstIndexedAt": "2026-10-06T02:32:56.670Z",
+      "url": "https://boards.greenhouse.io/waymo/jobs/8257205"
+    },
     {
       "id": "ceab9396-8fef-4fe9-b767-c1421184e544",
       "title": "SOC Security Internship- Summer 2027",
@@ -30,7 +45,7 @@
       "salaryMax": 104400,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-06T00:50:37.373Z",
+      "postedAt": "2026-10-06T02:04:57.638Z",
       "firstIndexedAt": "2026-10-05T23:36:36.241Z",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--ADAS-Software-Engineer--ADPT_JR-202621820"
     },
@@ -45,7 +60,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "ai_first",
-      "postedAt": "2026-10-06T00:50:38.548Z",
+      "postedAt": "2026-10-06T02:04:59.808Z",
       "firstIndexedAt": "2026-10-05T23:36:36.241Z",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping_JR-202621778"
     },
@@ -60,7 +75,7 @@
       "salaryMax": 104400,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-10-06T00:50:38.573Z",
+      "postedAt": "2026-10-06T02:04:59.897Z",
       "firstIndexedAt": "2026-10-05T23:36:36.241Z",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756"
     },
@@ -75,7 +90,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-06T00:50:39.048Z",
+      "postedAt": "2026-10-06T02:05:00.799Z",
       "firstIndexedAt": "2026-10-05T23:36:36.241Z",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Summer-2027-Intern---Industrial-Design_JR-202621626"
     },
@@ -315,7 +330,7 @@
       "salaryMax": 74360,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_first",
-      "postedAt": "2026-10-01T00:35:07.158Z",
+      "postedAt": "2026-10-01T02:04:50.961Z",
       "firstIndexedAt": "2026-10-04T12:32:19.267Z",
       "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---St-Paul/XMLNAME-2027-Winter-PhD-Co-op---Clinical-Affairs-AI-ML_31163025"
     },
@@ -900,7 +915,7 @@
       "salaryMax": 52000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-02T23:15:10.513Z",
+      "postedAt": "2026-10-03T02:02:50.712Z",
       "firstIndexedAt": "2026-10-03T03:21:00.342Z",
       "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---IT-Software-Engineer-NET--Summer-2027-_R23198"
     },
@@ -1185,7 +1200,7 @@
       "salaryMax": 47840,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-03T00:29:41.102Z",
+      "postedAt": "2026-10-03T01:58:17.796Z",
       "firstIndexedAt": "2026-10-02T23:43:50.584Z",
       "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Product-Design---Licensed-Toys-Intern--Spring-2027_10160441"
     },
@@ -1425,7 +1440,7 @@
       "salaryMax": 141600,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_first",
-      "postedAt": "2026-10-03T00:50:39.678Z",
+      "postedAt": "2026-10-03T02:05:01.821Z",
       "firstIndexedAt": "2026-10-02T22:19:46.618Z",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695"
     },
@@ -1440,7 +1455,7 @@
       "salaryMax": 123600,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-03T00:50:39.729Z",
+      "postedAt": "2026-10-03T02:05:01.809Z",
       "firstIndexedAt": "2026-10-02T22:19:46.618Z",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/GM-Automation---Sunnyvale---GM-Automation---Sunnyvale/XMLNAME-2027-Summer-Intern---Software-Engineer--AV-AI-Platform_JR-202621696"
     },
@@ -1455,7 +1470,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-03T00:50:39.651Z",
+      "postedAt": "2026-10-03T02:05:01.804Z",
       "firstIndexedAt": "2026-10-02T22:19:46.618Z",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Verification-Engineer--AV-AI-Platform_JR-202621697"
     },
@@ -1515,7 +1530,7 @@
       "salaryMax": 104400,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-03T00:50:40.306Z",
+      "postedAt": "2026-10-03T02:05:01.821Z",
       "firstIndexedAt": "2026-10-02T19:54:54.868Z",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Proving-Ground---Bldg-104A/XMLNAME-2027-Summer-Intern--Radar-Hardware-Development-Engineer---ASD_JR-202621645"
     },
@@ -1980,7 +1995,7 @@
       "salaryMax": 115200,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_first",
-      "postedAt": "2026-10-02T00:50:41.328Z",
+      "postedAt": "2026-10-02T02:05:01.821Z",
       "firstIndexedAt": "2026-10-02T03:10:09.341Z",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508"
     },
@@ -1995,7 +2010,7 @@
       "salaryMax": 175200,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_first",
-      "postedAt": "2026-10-02T00:50:41.293Z",
+      "postedAt": "2026-10-02T02:05:01.821Z",
       "firstIndexedAt": "2026-10-02T03:10:09.341Z",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicles--Simulation--PhD-_JR-202621511"
     },
@@ -2850,7 +2865,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-02T00:50:43.689Z",
+      "postedAt": "2026-10-02T02:05:01.822Z",
       "firstIndexedAt": "2026-10-01T12:41:02.827Z",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Summer-2027-Intern---Computational-Design-Intern_JR-202621454"
     },
@@ -4605,7 +4620,7 @@
       "salaryMax": 47840,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-29T00:29:44.973Z",
+      "postedAt": "2026-09-29T01:58:21.441Z",
       "firstIndexedAt": "2026-09-29T17:39:10.212Z",
       "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Marvel-and-Lucasfilm-Product-Design--Hardlines--Intern--Spring-2027_10160439"
     },
@@ -4620,7 +4635,7 @@
       "salaryMax": 47840,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-29T00:29:45.043Z",
+      "postedAt": "2026-09-29T01:58:21.764Z",
       "firstIndexedAt": "2026-09-29T17:39:10.212Z",
       "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Product-Design--Accessories--Intern--Spring-2027_10160436"
     },
@@ -7710,7 +7725,7 @@
       "salaryMax": 62400,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-23T00:28:25.306Z",
+      "postedAt": "2026-09-23T02:22:14.259Z",
       "firstIndexedAt": "2026-09-23T00:11:02.558Z",
       "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Product-Management-Intern--Summer-2027---St-Louis--MO--US-_R-287625-1"
     },
@@ -8154,13 +8169,13 @@
       "title": "2027 Summer Intern - Digital Product: Embedded and Systems Engineering",
       "company": "General Motors",
       "companyDomain": "generalmotors.com",
-      "location": "Warren, Michigan, United States of America",
+      "location": "4 Locations",
       "remoteType": "hybrid",
       "salaryMin": 76800,
       "salaryMax": 123600,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-24T00:50:52.620Z",
+      "postedAt": "2026-09-24T02:05:01.823Z",
       "firstIndexedAt": "2026-09-22T00:39:27.050Z",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Embedded-and-Systems-Engineering_JR-202620513"
     },
@@ -8169,13 +8184,13 @@
       "title": "2027 Summer Intern - Digital Product: Software Engineering",
       "company": "General Motors",
       "companyDomain": "generalmotors.com",
-      "location": "Warren, Michigan, United States of America",
+      "location": "5 Locations",
       "remoteType": "hybrid",
       "salaryMin": 76800,
       "salaryMax": 123600,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-24T00:50:52.823Z",
+      "postedAt": "2026-09-24T02:05:01.823Z",
       "firstIndexedAt": "2026-09-22T00:39:20.450Z",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546"
     },
@@ -8370,7 +8385,7 @@
       "salaryMax": 47840,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-30T00:29:44.668Z",
+      "postedAt": "2026-09-30T01:58:21.053Z",
       "firstIndexedAt": "2026-09-19T19:28:15.652Z",
       "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/FX-Design---VFX-Intern--Spring-2027_10160082"
     },
@@ -8760,7 +8775,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-19T00:50:56.130Z",
+      "postedAt": "2026-09-19T02:05:01.823Z",
       "firstIndexedAt": "2026-09-18T22:28:49.463Z",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Product-Management--MBA-_JR-202620538"
     },
@@ -11490,7 +11505,7 @@
       "salaryMax": 52000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-28T23:15:11.320Z",
+      "postedAt": "2026-09-29T02:02:51.154Z",
       "firstIndexedAt": "2026-09-15T17:05:42.529Z",
       "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Madison-WI/XMLNAME-2026-Summer-Intern---IT-Software-Engineer---NET-Web_R23106"
     },
@@ -11505,7 +11520,7 @@
       "salaryMax": 52000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-28T23:15:11.145Z",
+      "postedAt": "2026-09-29T02:02:50.986Z",
       "firstIndexedAt": "2026-09-15T17:05:42.529Z",
       "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Madison-WI/Intern---UX-UI-Designer_R23119"
     },
@@ -11910,7 +11925,7 @@
       "salaryMax": 45760,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-30T00:29:44.874Z",
+      "postedAt": "2026-09-30T01:58:21.147Z",
       "firstIndexedAt": "2026-09-15T01:51:13.103Z",
       "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Disney-Live-Entertainment-Costume-Production-Intern--Spring-2027_10159481"
     },
@@ -11925,7 +11940,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-29T00:50:49.489Z",
+      "postedAt": "2026-09-29T02:05:01.823Z",
       "firstIndexedAt": "2026-09-15T01:16:43.355Z",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---IndyCar-Race-Strategy---Analytics_JR-202619990"
     },
@@ -11940,7 +11955,7 @@
       "salaryMax": 73200,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-15T00:50:56.131Z",
+      "postedAt": "2026-09-15T02:05:01.824Z",
       "firstIndexedAt": "2026-09-15T01:16:43.355Z",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Creative-Design--Interior-Exterior-_JR-202619314"
     },
@@ -11955,7 +11970,7 @@
       "salaryMax": 73200,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-15T00:50:56.131Z",
+      "postedAt": "2026-09-15T02:05:01.824Z",
       "firstIndexedAt": "2026-09-15T01:16:43.355Z",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Sculpting_JR-202619286"
     },
@@ -11970,7 +11985,7 @@
       "salaryMax": 73200,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-15T00:50:56.131Z",
+      "postedAt": "2026-09-15T02:05:01.824Z",
       "firstIndexedAt": "2026-09-15T01:16:43.355Z",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Clay-Sculpting_JR-202619287"
     },
@@ -11985,7 +12000,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-15T00:50:56.131Z",
+      "postedAt": "2026-09-15T02:05:01.824Z",
       "firstIndexedAt": "2026-09-15T01:16:43.355Z",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Human-Interface-Design_JR-202619285"
     },
@@ -15300,7 +15315,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-09T00:50:56.131Z",
+      "postedAt": "2026-09-09T02:05:01.824Z",
       "firstIndexedAt": "2026-09-09T00:03:42.455Z",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---OnStar-Super-Cruise-Monetization-Intern-_JR-202617899"
     },
@@ -20130,7 +20145,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-28T23:15:11.020Z",
+      "postedAt": "2026-09-29T02:02:50.989Z",
       "firstIndexedAt": "2026-08-28T20:04:37.842Z",
       "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---Instructional-Design-and-Training-Development_R23044"
     },

@@ -2,9 +2,9 @@
 
 Verified-open US software, data, security, product, and design internships linked directly to company career pages, updated daily.
 
-**1734 open internships** · **553 companies** · **19 added in the last 24 hours** · Updated **2026-10-06**
+**1735 open internships** · **553 companies** · **19 added in the last 24 hours** · Updated **2026-10-06**
 
-Indexed from company career pages and maintained by [Dreamwork](https://github.com/dreamworkhq).
+Indexed from company career pages and maintained by [Dreamwork](https://github.com/dreamworkhq), which crawls 1.4M+ live jobs.
 
 Looking outside the US? Browse [International internships](INTERNATIONAL.md), organized by country and refreshed separately.
 
@@ -13,7 +13,7 @@ Looking beyond technical roles? Browse [Business internships](BUSINESS.md) in fi
 Interested in crypto? Browse [Crypto internships](CRYPTO.md) across blockchain, web3, and digital-currency companies worldwide.
 
 
-- [Engineering](#engineering-1019) · 1019 roles
+- [Engineering](#engineering-1020) · 1020 roles
 - [Data Science](#data-science-346) · 346 roles
 - [Security](#security-168) · 168 roles
 - [Design](#design-109) · 109 roles
@@ -21,10 +21,11 @@ Interested in crypto? Browse [Crypto internships](CRYPTO.md) across blockchain, 
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (1019)
+### Engineering (1020)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
+| **Waymo** | [2027 Summer Intern, MS/PhD, Software Engineer, Eval Data Infra](https://boards.greenhouse.io/waymo/jobs/8257205) | Mountain View, CA, USA (Hybrid) | $146K | 0d |
 | **General Motors** | [2027 Summer Intern- ADAS Software Engineer, ADPT](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--ADAS-Software-Engineer--ADPT_JR-202621820) | Warren, Michigan, United States of America (Hybrid) | $97K–$104K | 0d |
 | **General Motors** | [2027 Summer Intern, AI/ML Engineer, Mapping](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping_JR-202621778) | Warren, Michigan, United States of America (Hybrid) |  | 0d |
 | **Mastercontrol** | [DevOps Engineering Intern](https://www.mastercontrol.com/careers/job-listings/role/?role=4738483005&gh_jid=4738483005) | Hybrid (Hybrid) | $62K–$104K | 0d |
@@ -37,14 +38,14 @@ Interested in crypto? Browse [Crypto internships](CRYPTO.md) across blockchain, 
 | **Intel** | [CPU Core Physical Design Technical Graduate Intern, Spring](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/CPU-Core-Physical-Design-Technical-Graduate-Intern--Spring_JR0287613) | US, California, Folsom (Hybrid) | $106K–$106K | 0d |
 | **HPE** | [VLSI Design Verification Internship](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/VLSI-Design-Verification-Internship_1213400) | Chippewa Falls, Wisconsin, United States of… (Hybrid) | $73K–$85K | 0d |
 | **Revvity** | [Software Integration Co-Op (Spring 2027)](https://revvity.wd103.myworkdayjobs.com/External/job/Akron/Software-Integration-Co-Op--Spring-2027-_JR-045618) | Akron | $42K | 0d |
-| **Brennan Center for Justice** | [Spring 2027 IT Undergraduate Internship](https://brennancenter.applytojob.com/apply/feW5jI7XfP/Spring-2027-IT-Undergraduate-Internship) | Washington D.C., DC | $38K | 0d |
+| **Brennan Center for Justice** | [Spring 2027 IT Undergraduate Internship](https://brennancenter.applytojob.com/apply/feW5jI7XfP/Spring-2027-IT-Undergraduate-Internship) | Washington D.C., DC | $38K | 1d |
 | **RTX (Raytheon)** | [Co-Op - AI DSP Applied Research](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Co-Op---AI-DSP-Applied-Research_01873016) | US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE … (Hybrid) | $37K–$82K | 1d |
 | **Mastercontrol** | [AI Engineering Intern](https://www.mastercontrol.com/careers/job-listings/role/?role=4738478005&gh_jid=4738478005) | Hybrid (Hybrid) | $62K–$104K | 1d |
 | **Delsys** | [Software Engineer - UI/UX (Spring 27' Intern)](https://delsys.zohorecruit.com/jobs/careers/701152000007004002) | Natick, Massachusetts, 01760, United States | $58K–$67K | 1d |
 | **Moody's** | [Let's begin! Ratings Technology - Data Engineering Summer Intern](https://career8.successfactors.com/career?career_ns=job_listing&company=MoodysProd&career_job_req_id=14566) | Charlotte - 1414 S Tryon Street | $73K | 1d |
 | **Arc Boats** | [Software Engineering Intern](https://boards.greenhouse.io/arcboatcompany/jobs/5442881008) | Torrance, CA | $87K | 1d |
 | **Allied Mineral Products Holding…** | [Intern - Design Engineering (Summer 2027)](https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8acf1691456a6cb00145900a5b8e150e&id=8a7883aca0c941c501a0f3c176fa7fc2) | Columbus, OH |  | 1d |
-| **Riot Games University Programs** | [Software Engineering Intern - Summer 2027 (Remote)](https://boards.greenhouse.io/riotgamesup/jobs/8222015) | Remote (Los Angeles, USA) | $121K | 1d |
+| **Riot Games University Programs** | [Software Engineering Intern - Summer 2027 (Remote)](https://boards.greenhouse.io/riotgamesup/jobs/8222015) | Remote (Los Angeles, USA) | $121K | 2d |
 | **Range** | [Software Engineering Intern](https://jobs.ashbyhq.com/range/5fe3697d-b5b3-4772-9de4-1551cb726718) | McLean, VA |  | 2d |
 | **Regeneron** | [2027 Co-op Downstream Purification, Analytics, & Bioconjugate Process D…](https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Co-op-Downstream-Purification--Analytics----Bioconjugate-Process-Development_R51018) | TARRYTOWN | $37K–$106K | 2d |
 | **Regeneron** | [2027 Co-op Laboratory Automation & Robotics Engineering](https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Co-op-Laboratory-Automation---Robotics-Engineering_R51030-1) | TARRYTOWN | $37K–$106K | 2d |
@@ -63,11 +64,11 @@ Interested in crypto? Browse [Crypto internships](CRYPTO.md) across blockchain, 
 | **xAI** | [Spring 2027 Software Engineering Internship/Co-op](https://job-boards.greenhouse.io/xai/jobs/5252108007) | Palo Alto, CA | $62K | 2d |
 | **Nelnet** | [Intern - IT Software Engineer .NET (Summer 2027)](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---IT-Software-Engineer-NET--Summer-2027-_R23198) | Lincoln, NE | $44K–$52K | 2d |
 | **Cryptic Vector** | [Summer 2027 Cyber Engineering Internship Program](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4551019) | Fredericksburg, VA |  | 2d |
-| **Harvey AI** | [Software Engineering Intern (Summer 2027)](https://jobs.ashbyhq.com/harvey/3a34578d-d42e-45bb-ac5c-0c3357e8cbb7) | San Francisco (Hybrid) | $129K–$150K | 2d |
-| **Harvey AI** | [Software Engineering Intern (Summer 2027)](https://jobs.ashbyhq.com/harvey/06d64648-b84b-48ae-94a2-d9c06dfdcb5d) | New York (Hybrid) | $129K–$150K | 2d |
-| **Allegion** | [Summer Intern - Hardware Engineering](https://allegion.wd5.myworkdayjobs.com/EarlyTalent_Careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Hardware-Engineering_JR37413) | Indianapolis, IN - Hague Rd |  | 2d |
-| **AMD** | [Spring/Summer 2027 Masters Photonics Design Engineering Co-Op](https://careers.amd.com/jobs/91633?lang=en-us) | San Jose, California, United States (Hybrid) |  | 2d |
-| **Meta** | [Mechanical Engineering Intern, Infrastructure](https://www.metacareers.com/profile/job_details/921722064324989) | Menlo Park, CAUniversity Grad - Engineering… | $80K–$143K | 2d |
+| **Harvey AI** | [Software Engineering Intern (Summer 2027)](https://jobs.ashbyhq.com/harvey/3a34578d-d42e-45bb-ac5c-0c3357e8cbb7) | San Francisco (Hybrid) | $129K–$150K | 3d |
+| **Harvey AI** | [Software Engineering Intern (Summer 2027)](https://jobs.ashbyhq.com/harvey/06d64648-b84b-48ae-94a2-d9c06dfdcb5d) | New York (Hybrid) | $129K–$150K | 3d |
+| **Allegion** | [Summer Intern - Hardware Engineering](https://allegion.wd5.myworkdayjobs.com/EarlyTalent_Careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Hardware-Engineering_JR37413) | Indianapolis, IN - Hague Rd |  | 3d |
+| **AMD** | [Spring/Summer 2027 Masters Photonics Design Engineering Co-Op](https://careers.amd.com/jobs/91633?lang=en-us) | San Jose, California, United States (Hybrid) |  | 3d |
+| **Meta** | [Mechanical Engineering Intern, Infrastructure](https://www.metacareers.com/profile/job_details/921722064324989) | Menlo Park, CAUniversity Grad - Engineering… | $80K–$143K | 3d |
 | **RTX (Raytheon)** | [Systems Engineering Co-Op (2027 Summer/Fall) – SOA CAAS Mainline Platfo…](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Systems-Engineering-Co-Op--2027-Summer-Fall----SOA-CAAS-Mainline-Platform--Onsite-_01879934) | US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne… (Hybrid) | $37K–$82K | 3d |
 | **HP Inc.** | [AI Applied Engineering Intern](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Vancouver-Washington-United-States-of-America/AI-Applied-Engineering-Intern_UNI4670-2) | Vancouver, Washington, United States of Ame… | $60K–$73K | 3d |
 | **CACI** | [Software Development Intern - Summer 2027](https://caci.wd1.myworkdayjobs.com/External/job/Ashburn-VA-US/Software-Development-Intern---Summer-2027_333051) | Ashburn, VA, US (Hybrid) | $46K–$92K | 3d |
@@ -108,7 +109,7 @@ Interested in crypto? Browse [Crypto internships](CRYPTO.md) across blockchain, 
 | **Paciv** | [Summer Internship - Automation & Controls Engineering](https://paciv.applytojob.com/apply/vVRTA0P8Kp/Summer-Internship-Automation-Controls-Engineering) | Indianapolis, IN |  | 3d |
 | **Swire Coca Cola** | [Intern - Information Technology](https://jobs.dayforcehcm.com/swirecc/candidateportal/jobs/117748) | Draper, UT, USA |  | 3d |
 | **Wellmark** | [Software Engineer Internship – Metadata Enablement Team](https://jobs.smartrecruiters.com/wellmarkinc/744000152679699) | Des Moines, IA, USA (Hybrid) |  | 3d |
-| **GenScript ProBio** | [AI Intern, Enterprise Agent Development](https://boards.greenhouse.io/genscript/jobs/5253581007) | Piscataway, New Jersey, United States | $62K–$83K | 3d |
+| **GenScript ProBio** | [AI Intern, Enterprise Agent Development](https://boards.greenhouse.io/genscript/jobs/5253581007) | Piscataway, New Jersey, United States | $62K–$83K | 4d |
 | **Boston Materials** | [Design Engineering Co-op — Mechanical Engineering](https://jobs.lever.co/boston-materials/eb3f233a-fd1c-4768-9a11-c89847731f8a) | Billerica, MA | $50K–$71K | 4d |
 | **Bayer** | [Radiology Software Verification Co-Op](https://career5.successfactors.eu/careers?company=C0003153479P&career_ns=job_listing&career_job_req_id=883392) | Indianola, Pennsylvania, United States | $50K–$95K | 4d |
 | **Veeamsoftware** | [Competitive Intelligence AI Engineering Intern - Summer 2027](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955279101) | Remote (Remote, Georgia, USA) | $42K–$52K | 4d |
@@ -190,16 +191,16 @@ Interested in crypto? Browse [Crypto internships](CRYPTO.md) across blockchain, 
 | **Wellmark** | [Software Engineer Internship – Marketing and Digital Team](https://jobs.smartrecruiters.com/wellmarkinc/744000152260188) | Des Moines, IA, USA (Hybrid) |  | 5d |
 | **Shopify** | [US Software Engineering Internships Summer 2027](https://shopify.com/careers/_2c62d9d7-3f52-42b3-a51d-3a7f3ed03679) | Remote (Americas) | $85K–$94K | 5d |
 | **Apple** | [Analog Design Automation and Functional Verification Intern](https://jobs.apple.com/en-us/details/200686117) | Munich, Bavaria-Bayern, 80335, United States |  | 5d |
-| **CGI** | [Software Developer Intern – Summer Internship Program](https://clients.njoyn.com/corp/xweb/xweb.asp?page=jobdetails&clid=021001&jobid=j0926-2370) | Reno, Nevada, United States | $52K–$62K | 5d |
-| **Shopify** | [US Applied Machine Learning Engineering Internships Summer 2027](https://shopify.com/careers/_83c64a5b-6fb8-4785-a4b0-2e3e2f8b7e6e) | Remote (Americas) | $103K–$111K | 5d |
-| **RTX (Raytheon)** | [Mechanical Design Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CO-COLORADO-SPRINGS-1275--1275-N-Newport-Rd--NEWPORT/Mechanical-Design-Engineering-Intern--Summer-2027-_01873545) | US-CO-COLORADO SPRINGS-1275 ~ 1275 N Newpor… (Hybrid) | $37K–$82K | 5d |
-| **RTX (Raytheon)** | [Electrical Design Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Electrical-Design-Intern--Summer-2027-_01876761) | US-CT-WINDSOR LOCKS-B1 ~ 1 Hamilton Rd ~ BL… (Hybrid) | $37K–$82K | 5d |
-| **RTX (Raytheon)** | [Software Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Software-Engineering-Intern--Summer-2027-_01876848) | US-IL-ROCKFORD-P6 ~ 4747 Harrison Ave ~ 474… (Hybrid) | $37K–$82K | 5d |
-| **RTX (Raytheon)** | [Software Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineering--Intern--Summer-2027-_01877561) | US-MA-WOBURN-WB1 ~ 235 Presidential Way ~ S… (Hybrid) | $37K–$82K | 5d |
-| **RTX (Raytheon)** | [Electrical Design Engineer Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Electrical-Design-Engineer-Intern--Summer-2027-_01877254) | US-CT-WINDSOR LOCKS-B1 ~ 1 Hamilton Rd ~ BL… (Hybrid) | $37K–$82K | 5d |
-| **RTX (Raytheon)** | [Software Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Intern--Summer-2027-_01876388) | US-IA-CEDAR RAPIDS-166 ~ 855 35Th St NE ~ B… (Hybrid) | $37K–$82K | 5d |
-| **RTX (Raytheon)** | [Software Engineering Co-op (Spring/Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Co-op---Embedded-Linux--Spring-Summer-2027-_01876384) | US-IA-CEDAR RAPIDS-166 ~ 855 35Th St NE ~ B… (Hybrid) | $37K–$82K | 5d |
-| **Providence** | [Structural Engineering Intern/Co-op – Infrastructure (Summer 2027)](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008077) | New Haven, CT, United States | $49K–$72K | 5d |
+| **CGI** | [Software Developer Intern – Summer Internship Program](https://clients.njoyn.com/corp/xweb/xweb.asp?page=jobdetails&clid=021001&jobid=j0926-2370) | Reno, Nevada, United States | $52K–$62K | 6d |
+| **Shopify** | [US Applied Machine Learning Engineering Internships Summer 2027](https://shopify.com/careers/_83c64a5b-6fb8-4785-a4b0-2e3e2f8b7e6e) | Remote (Americas) | $103K–$111K | 6d |
+| **RTX (Raytheon)** | [Mechanical Design Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CO-COLORADO-SPRINGS-1275--1275-N-Newport-Rd--NEWPORT/Mechanical-Design-Engineering-Intern--Summer-2027-_01873545) | US-CO-COLORADO SPRINGS-1275 ~ 1275 N Newpor… (Hybrid) | $37K–$82K | 6d |
+| **RTX (Raytheon)** | [Electrical Design Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Electrical-Design-Intern--Summer-2027-_01876761) | US-CT-WINDSOR LOCKS-B1 ~ 1 Hamilton Rd ~ BL… (Hybrid) | $37K–$82K | 6d |
+| **RTX (Raytheon)** | [Software Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Software-Engineering-Intern--Summer-2027-_01876848) | US-IL-ROCKFORD-P6 ~ 4747 Harrison Ave ~ 474… (Hybrid) | $37K–$82K | 6d |
+| **RTX (Raytheon)** | [Software Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineering--Intern--Summer-2027-_01877561) | US-MA-WOBURN-WB1 ~ 235 Presidential Way ~ S… (Hybrid) | $37K–$82K | 6d |
+| **RTX (Raytheon)** | [Electrical Design Engineer Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Electrical-Design-Engineer-Intern--Summer-2027-_01877254) | US-CT-WINDSOR LOCKS-B1 ~ 1 Hamilton Rd ~ BL… (Hybrid) | $37K–$82K | 6d |
+| **RTX (Raytheon)** | [Software Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Intern--Summer-2027-_01876388) | US-IA-CEDAR RAPIDS-166 ~ 855 35Th St NE ~ B… (Hybrid) | $37K–$82K | 6d |
+| **RTX (Raytheon)** | [Software Engineering Co-op (Spring/Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Co-op---Embedded-Linux--Spring-Summer-2027-_01876384) | US-IA-CEDAR RAPIDS-166 ~ 855 35Th St NE ~ B… (Hybrid) | $37K–$82K | 6d |
+| **Providence** | [Structural Engineering Intern/Co-op – Infrastructure (Summer 2027)](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008077) | New Haven, CT, United States | $49K–$72K | 6d |
 | **Cisco** | [Firmware Engineer II (Co-op) - United States](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Firmware-Engineer-II--Co-op----United-States_2026913) | Maynard, Massachusetts, US | $44K–$185K | 6d |
 | **Cisco** | [Physical Design Engineer I (Co-op) - United States](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Physical-Design-Engineer-I--Co-op----United-States_2026763) | Maynard, Massachusetts, US | $44K–$185K | 6d |
 | **Micron** | [Intern - HBM Design Development Technical Leadership (DDTL)](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern----HBM-Design-Development-Technical-Leadership--DDTL-_JR112565) | Richardson, TX |  | 6d |
@@ -241,7 +242,7 @@ Interested in crypto? Browse [Crypto internships](CRYPTO.md) across blockchain, 
 | **RTX (Raytheon)** | [Flight Controls Hardware Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Controls-Hardware-Engineering-Intern--Summer-2027-_01870408) | US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE… (Hybrid) | $37K–$82K | 7d |
 | **RTX (Raytheon)** | [Mechanical Design Engineering Co-op (Summer/Fall 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Mechanical-Design-Engineering-Co-op--Summer-Fall-2027-_01873226) | US-IL-ROCKFORD-P6 ~ 4747 Harrison Ave ~ 474… (Hybrid) | $37K–$82K | 7d |
 | **RTX (Raytheon)** | [Platform Systems Engineering Co-Op (Spring/Summer 2027) - Onsite](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Platform-Systems-Engineering-Co-Op--Spring-Summer-2027----Onsite_01870366) | US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne… | $37K–$82K | 7d |
-| **Vertiv** | [Software Engineering Test Intern (Summer 2027)](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20279305) | Delaware, OH, United States |  | 7d |
+| **Vertiv** | [Software Engineering Test Intern (Summer 2027)](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20279305) | Delaware, OH, United States |  | 8d |
 | **RTX (Raytheon)** | [Mechanical Design Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-FAIRFIELD-3530--3530-Branscombe-Rd--BRANSCOMBE/Mechanical-Design-Engineering-Intern--Summer-2027-_01874679) | US-CA-FAIRFIELD-3530 ~ 3530 Branscombe Rd ~… (Hybrid) | $42K–$88K | 8d |
 | **Copart** | [Data & AI Intern](https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Data---AI-Intern_JR111596) | Dallas, TX - Headquarters |  | 9d |
 | **Waymo** | [2027 Summer Intern, BS, Software Engineer, Driver Refinement Foundations](https://careers.withwaymo.com/jobs?gh_jid=8224900) | Mountain View, CA, USA (Hybrid) | $125K | 9d |
@@ -329,7 +330,7 @@ Interested in crypto? Browse [Crypto internships](CRYPTO.md) across blockchain, 
 | **Jj** | [Software Test Engineering Co-op (RLM)](https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-op--RLM-_R-098669) | Danvers, Massachusetts, United States of Am… | $49K–$109K | 11d |
 | **Jj** | [Heart Recovery Software R&D Co-Op](https://jj.wd5.myworkdayjobs.com/JJ/job/Halethorpe-Maryland-United-States-of-America/Heart-Recovery-Software-R-D-Co-Op_R-101393) | Halethorpe, Maryland, United States of Amer… | $49K–$109K | 11d |
 | **Astranis** | [Software Defined Radio Hardware Intern (Summer 2027)](https://job-boards.greenhouse.io/astranis/jobs/4716088006) | San Francisco | $60K | 11d |
-| **Growtherapy** | [Software Engineering Intern (Summer 2027)](https://jobs.ashbyhq.com/grow-therapy/92bfe88a-4c23-48c8-8f7b-4959ab6cd8d8) | New York City (Hybrid) | $104K | 11d |
+| **Growtherapy** | [Software Engineering Intern (Summer 2027)](https://jobs.ashbyhq.com/grow-therapy/92bfe88a-4c23-48c8-8f7b-4959ab6cd8d8) | New York City (Hybrid) | $104K | 12d |
 | **Cisco** | [Hardware Engineer II Intern - United States](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-II-Intern---United-States_2024757) | 4 Locations | $44K–$185K | 12d |
 | **Providence** | [Civil Engineering Intern/Co-op - Infrastructure (Summer 2027)](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007956) | New York, NY, United States | $49K–$72K | 12d |
 | **Continental** | [2027 Internship – Tire Engineering & Product Development (Hoosier Racin…](https://jobs.smartrecruiters.com/Continental/744000151462349-2027-internship-tire-engineering-product-development-hoosier-racing-tire-?oga=true) | Plymouth, IN, United States |  | 12d |
@@ -381,8 +382,8 @@ Interested in crypto? Browse [Crypto internships](CRYPTO.md) across blockchain, 
 | **Cisco** | [Software Engineer Full Stack / Backend I (Intern) – United States](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Intern----United-States_2025924) | 4 Locations (Hybrid) | $44K–$185K | 13d |
 | **Cisco** | [Software Engineer Embedded Systems I (Intern) – United States](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Intern----United-States_2025926) | 4 Locations (Hybrid) | $44K–$185K | 13d |
 | **Marvell Technology** | [Digital IC Design Intern, BS - Summer 2027](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Santa-Clara-CA/Digital-IC-Design-Intern--BS---Summer-2027_2604827-1) | 5 Locations | $62K–$123K | 14d |
-| **General Motors** | [2027 Summer Intern - Digital Product: Embedded and Systems Engineering](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Embedded-and-Systems-Engineering_JR-202620513) | Warren, Michigan, United States of America (Hybrid) | $77K–$124K | 14d |
-| **General Motors** | [2027 Summer Intern - Digital Product: Software Engineering](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546) | Warren, Michigan, United States of America (Hybrid) | $77K–$124K | 14d |
+| **General Motors** | [2027 Summer Intern - Digital Product: Embedded and Systems Engineering](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Embedded-and-Systems-Engineering_JR-202620513) | 4 Locations (Hybrid) | $77K–$124K | 14d |
+| **General Motors** | [2027 Summer Intern - Digital Product: Software Engineering](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546) | 5 Locations (Hybrid) | $77K–$124K | 14d |
 | **Micron** | [Intern – DRAM Technology Physical Design and Block-Level PPA Optimizati…](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Technology-Physical-Design-and-Block-Level-PPA-Optimization_JR109584) | Boise, ID - Main Site |  | 14d |
 | **WellmarkInc** | [Software Engineer Internship - Technology Healthcare Innovation](https://jobs.smartrecruiters.com/WellmarkInc/744000150732768-software-engineer-internship-technology-healthcare-innovation?oga=true) | Des Moines, IA, United States (Hybrid) |  | 14d |
 | **Bayer** | [IT Co-Op](https://career5.successfactors.eu/careers?company=C0003153479P&career_ns=job_listing&career_job_req_id=883376) | Creve Coeur, Whippany, Residence Based, Mis… | $47K–$95K | 14d |
@@ -399,7 +400,7 @@ Interested in crypto? Browse [Crypto internships](CRYPTO.md) across blockchain, 
 | **Honeywell** | [Software Engineer Co-Op - Spring/Summer 2027](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/158088) | Pittsford, NY, United States | $42K–$94K | 16d |
 | **Keysight** | [R&D Embedded Software Intern](https://jobs.keysight.com/jobs/54353?lang=en-us) | Colorado Springs, Colorado, United States | $63K–$68K | 16d |
 | **Flex** | [Automation/Controls Engineering Co-Op - Spring 2027](https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-IL-Libertyville/Automation-Controls-Engineering-Co-Op---Spring-2027_WD229698) | USA, IL, Libertyville | $42K–$71K | 16d |
-| **CME Group** | [Software Engineering Internship - Summer 2027](https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Chicago---20-S-Wacker/Software-Engineering-Internship---Summer-2027_34821) | Chicago - 20 S. Wacker (Hybrid) | $45K–$75K | 16d |
+| **CME Group** | [Software Engineering Internship - Summer 2027](https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Chicago---20-S-Wacker/Software-Engineering-Internship---Summer-2027_34821) | Chicago - 20 S. Wacker (Hybrid) | $45K–$75K | 17d |
 | **Fa Evmr Saasfaprod1** | [AI Assisted Software Development Co-op](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40535) | United States |  | 17d |
 | **Bayer** | [Radiology Software Development Co-Op](https://career5.successfactors.eu/careers?company=C0003153479P&career_ns=job_listing&career_job_req_id=883382) | Indianola, Pennsylvania, United States (Hybrid) | $50K–$95K | 17d |
 | **Zekelman** | [AI Intern](https://zekelman.wd12.myworkdayjobs.com/Careers/job/Wheatland-PA---Council-Ave/AI-Intern_JR002752) | Wheatland, PA - Council Ave |  | 17d |
@@ -429,7 +430,7 @@ Interested in crypto? Browse [Crypto internships](CRYPTO.md) across blockchain, 
 | **Bedrock Robotics** | [2027 Internship Software Engineer, Fleet Platform](https://jobs.ashbyhq.com/bedrock-robotics/8927dd7e-a48d-49a2-92eb-09ec059432f4) | New York, NY |  | 17d |
 | **Gecko Robotics** | [Embedded Software Engineering Intern](https://jobs.ashbyhq.com/gecko-robotics/24561868-f075-4edf-a991-59ff0174e92a) | Pittsburgh |  | 17d |
 | **RTX (Raytheon)** | [Software Development Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01875413) | US-MA-TEWKSBURY-TB3 ~ 50 Apple Hill Dr ~ CO… (Hybrid) | $37K–$82K | 17d |
-| **Keysight** | [Semiconductor Process Development Engineering Intern](https://jobs.keysight.com/jobs/54323?lang=en-us) | Santa Rosa, California, United States | $90K–$118K | 17d |
+| **Keysight** | [Semiconductor Process Development Engineering Intern](https://jobs.keysight.com/jobs/54323?lang=en-us) | Santa Rosa, California, United States | $90K–$118K | 18d |
 | **Resonetics** | [New Product Introduction (NPI) Engineering Co-op](https://careers-resonetics.icims.com/jobs/5455/new-product-introduction-%28npi%29-engineering-co-op/job) | Dayton, OH, US |  | 18d |
 | **Labcorp** | [Intern – Network Infrastructure & Automation Engineering](https://labcorp.wd1.myworkdayjobs.com/External/job/Durham-NC/Intern---Network-Infrastructure---Automation-Engineering_2632795) | Durham NC (Hybrid) |  | 18d |
 | **Nanopathinc** | [Software Development Co-op (Jan '27 Start)](https://job-boards.greenhouse.io/nanopathinc/jobs/4732881005) | Cambridge, MA |  | 18d |
@@ -567,8 +568,8 @@ Interested in crypto? Browse [Crypto internships](CRYPTO.md) across blockchain, 
 | **RTX (Raytheon)** | [Co-Op, Software Engineer- Onsite](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-109--400-Collins-Rd-NE--BLDG-109/Co-Op--Software-Engineer--Onsite_01871298) | US-IA-CEDAR RAPIDS-109 ~ 400 Collins Rd NE … | $37K–$82K | 24d |
 | **Schonfeld** | [2027 Platform Engineering Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171699) | New York, New York, United States | $100K–$110K | 24d |
 | **Hearst** | [Software Engineering Intern](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2027455) | Indianapolis, IN, United States |  | 24d |
-| **Nisc** | [Intern - Database Conversion Programming](https://job-boards.greenhouse.io/nisc/jobs/8094408) | Lake St. Louis, MO or Mandan, ND |  | 24d |
-| **Nisc** | [Intern - Technical (IT) Services](https://job-boards.greenhouse.io/nisc/jobs/8191366) | Any NISC Location |  | 24d |
+| **Nisc** | [Intern - Database Conversion Programming](https://job-boards.greenhouse.io/nisc/jobs/8094408) | Lake St. Louis, MO or Mandan, ND |  | 25d |
+| **Nisc** | [Intern - Technical (IT) Services](https://job-boards.greenhouse.io/nisc/jobs/8191366) | Any NISC Location |  | 25d |
 | **Waymo** | [2027 Summer Intern, PhD, Machine Learning, Computer Vision](https://careers.withwaymo.com/jobs?gh_jid=8193295) | Mountain View, California (Hybrid) | $177K | 25d |
 | **Emerson** | [Software Engineering Co-op (Jun-Dec 2027)](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/26010738) | Eden Prairie, MN, United States (Hybrid) | $50K–$58K | 25d |
 | **Bedrock Robotics** | [2027 Internship Behavior Machine Learning Engineer, World Models](https://jobs.ashbyhq.com/bedrock-robotics/c51d682e-58ee-44de-886f-4cfacb56d2e1) | San Francisco, CA |  | 25d |
@@ -1062,7 +1063,7 @@ Interested in crypto? Browse [Crypto internships](CRYPTO.md) across blockchain, 
 | **Keysight** | [Data Scientist, Intern](https://jobs.keysight.com/jobs/54570?lang=en-us) | Santa Rosa, California, United States |  | 2d |
 | **Graphcore** | [Machine Learning and Data Science Engineering Intern](https://job-boards.greenhouse.io/graphcore/jobs/8862951002) | Austin, Texas, United States |  | 2d |
 | **Redventures** | [2027 Launch Program: Data Science Intern \| RVPR](https://www.redventures.com/careers/positions/open?gh_jid=8247217) | Remote (San Juan, PR) |  | 2d |
-| **Swire Coca Cola** | [Intern, Strategy & Planning Analytics](https://jobs.dayforcehcm.com/swirecc/candidateportal/jobs/117904) | Draper, UT, USA |  | 2d |
+| **Swire Coca Cola** | [Intern, Strategy & Planning Analytics](https://jobs.dayforcehcm.com/swirecc/candidateportal/jobs/117904) | Draper, UT, USA |  | 3d |
 | **Bose** | [Data Science Co-Op (NLP & GenAI)](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Data-Science-Co-Op--NLP---GenAI-_R29251) | US, MA - Framingham | $46K–$66K | 3d |
 | **External Career CBOE** | [Quant & Data Analytics Intern](https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Chicago-IL/Quant---Data-Analytics-Intern_R-4708) | Chicago, IL (Hybrid) | $46K–$87K | 3d |
 | **Seatgeek** | [Data Analyst - Internship](https://seatgeek.com/jobs/8247554?gh_jid=8247554) | New York, New York (Hybrid) | $94K | 3d |
@@ -1414,9 +1415,9 @@ Interested in crypto? Browse [Crypto internships](CRYPTO.md) across blockchain, 
 | **Rb** | [TS - Application Security Intern - 2027](https://rb.wd5.myworkdayjobs.com/FRS/job/Cleveland-OH/TS---Application-Security-Intern---2027_R-0000033625) | Cleveland, OH | $43K–$54K | 3d |
 | **Rb** | [Summer 2027 Intern-Cybersecurity and Information Security](https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Summer-2027-Intern-Cybersecurity-and-Information-Security_R-0000033612-1) | Chicago, IL | $42K–$69K | 3d |
 | **Wellmark** | [Security Analyst Internship](https://jobs.smartrecruiters.com/wellmarkinc/744000152694203) | Des Moines, IA, USA (Hybrid) |  | 3d |
-| **State of Michigan** | [Internship / SSB / IOD / Cyber Section West / NCMEC / Lansing](https://governmentjobs.com/jobs/5497085) | Lansing, MI |  | 3d |
-| **State of Michigan** | [Internship / SSB / IOD / Cyber Section North / Marquette/Sault Ste. Mar…](https://governmentjobs.com/jobs/5497093) | Marquette, MI |  | 3d |
-| **State of Michigan** | [Internship / SSB / IOD / Cyber Section East / Livonia CCU](https://governmentjobs.com/jobs/5497076) | Livonia, MI |  | 3d |
+| **State of Michigan** | [Internship / SSB / IOD / Cyber Section West / NCMEC / Lansing](https://governmentjobs.com/jobs/5497085) | Lansing, MI |  | 4d |
+| **State of Michigan** | [Internship / SSB / IOD / Cyber Section North / Marquette/Sault Ste. Mar…](https://governmentjobs.com/jobs/5497093) | Marquette, MI |  | 4d |
+| **State of Michigan** | [Internship / SSB / IOD / Cyber Section East / Livonia CCU](https://governmentjobs.com/jobs/5497076) | Livonia, MI |  | 4d |
 | **CrowdStrike** | [Professional Services Explorer Intern - Summer 2027 (Arlington, VA)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Arlington-VA/Professional-Services-Explorer-Intern---Summer-2027--Arlington--VA-_R30155) | USA - Arlington, VA (Hybrid) |  | 4d |
 | **Varda Space** | [Cybersecurity Internship - Summer 2027](https://job-boards.greenhouse.io/vardaspace/jobs/8005821003) | El Segundo, California, United States | $69K | 4d |
 | **Globalhr** | [Summer 2027 Cyber Intern - Onsite](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN05--10--50-Moulton-St--MOULTON-B5/Summer-2027-Cyber-Intern---Onsite_01879253) | US-MA-CAMBRIDGE-BBN05 ~ 10 & 50 Moulton St … (Hybrid) | $37K–$82K | 4d |
@@ -1473,7 +1474,7 @@ Interested in crypto? Browse [Crypto internships](CRYPTO.md) across blockchain, 
 | **Td** | [2027 Spring Co-op - Global Technology & Solutions - Cyber Security](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Cyber-Security_R_1510103) | Mount Laurel, New Jersey | $64K | 24d |
 | **Crestoperations** | [Security Intern](https://jobs.lever.co/crestoperations/c0be0317-9219-454b-bb32-f2cd471a3efd) | Pineville, Louisiana |  | 24d |
 | **Zachry Group** | [Cyber Security Specialist I - Intern](https://fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1029/job/15624) | Stonington, CT, United States |  | 24d |
-| **Nisc** | [Intern - Information Security (Cybersecurity)](https://job-boards.greenhouse.io/nisc/jobs/8191724) | Lake St. Louis, MO or Mandan, ND |  | 24d |
+| **Nisc** | [Intern - Information Security (Cybersecurity)](https://job-boards.greenhouse.io/nisc/jobs/8191724) | Lake St. Louis, MO or Mandan, ND |  | 25d |
 | **American Systems** | [SkillBridge Industrial/Personnel Security Intern (Transitioning Militar…](https://careers-americansystems.icims.com/jobs/4932/skillbridge-industrial-personnel-security-intern-%28transitioning-military%29/job) | Arlington, VA, US |  | 25d |
 | **Booz Allen Hamilton** | [Enterprise Cybersecurity Data Loss Prevention Intern](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249131-1) | McLean, VA (Hybrid) | $53K–$108K | 25d |
 | **Entegris** | [Cyber Threat Analyst Co-Op](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Chaska-MN/Cyber-Threat-Analyst-Co-Op_REQ-14505) | Chaska, MN | $42K–$62K | 25d |
@@ -1575,12 +1576,12 @@ Interested in crypto? Browse [Crypto internships](CRYPTO.md) across blockchain, 
 | --- | --- | --- | --- | --- |
 | **General Motors** | [Summer 2027 Intern - Industrial Design](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Summer-2027-Intern---Industrial-Design_JR-202621626) | Warren, Michigan, United States of America |  | 0d |
 | **The Berg Group** | [Internship, Design](https://paycomonline.net/v4/ats/web.php/portal/518ed74c395caf675060b0d42b5d5a9f/jobs/374049) | Remote (1225 Lakeview Drive Chaska, Minnesota, …) | $42K–$52K | 1d |
-| **Gemini** | [Brand Design Intern (Winter 2027)](https://boards.greenhouse.io/embed/job_app?for=gemini&token=8243097&gh_jid=8243097) | New York, New York (Hybrid) | $79K | 1d |
+| **Gemini** | [Brand Design Intern (Winter 2027)](https://boards.greenhouse.io/embed/job_app?for=gemini&token=8243097&gh_jid=8243097) | New York, New York (Hybrid) | $79K | 2d |
 | **Dlrgroup** | [Landscape Architecture Intern \| Summer 2027](https://boards.greenhouse.io/dlrgroup/jobs/5441426008) | Dallas, Texas, United States; Los Angeles, … (Hybrid) | $37K–$54K | 2d |
 | **Dlrgroup** | [Lighting Design Intern \| Summer 2027](https://boards.greenhouse.io/dlrgroup/jobs/5441280008) | Cleveland, Ohio, United States; Denver, Col… (Hybrid) | $42K–$54K | 2d |
 | **Dlrgroup** | [Acoustic Design Intern \| Summer 2027](https://boards.greenhouse.io/dlrgroup/jobs/5441203008) | Cleveland, Ohio, United States; Lincoln, Ne… (Hybrid) | $42K–$54K | 2d |
 | **Dlrgroup** | [Theater Planning Intern \| Summer 2027](https://boards.greenhouse.io/dlrgroup/jobs/5441685008) | Los Angeles, California, United States (Hybrid) | $42K–$54K | 2d |
-| **Western National Group & Umiali…** | [UX Intern](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4553976) | Edina, MN | $42K | 2d |
+| **Western National Group & Umiali…** | [UX Intern](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4553976) | Edina, MN | $42K | 3d |
 | **Disney** | [Product Design - Licensed Toys Intern, Spring 2027](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Product-Design---Licensed-Toys-Intern--Spring-2027_10160441) | Glendale, CA, USA | $48K | 3d |
 | **GEHC External Site** | [Instructional Design Intern](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Instructional-Design-Intern_R4047208-1) | Remote |  | 3d |
 | **General Motors** | [Summer 2027 Intern - Computational Design Intern](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Summer-2027-Intern---Computational-Design-Intern_JR-202621454) | Warren, Michigan, United States of America |  | 4d |
@@ -1592,7 +1593,7 @@ Interested in crypto? Browse [Crypto internships](CRYPTO.md) across blockchain, 
 | **BMW AG** | [Intern, Industrial Design - Spring 2027](https://career5.successfactors.eu/careers?company=bmwag&career_ns=job_listing&career_job_req_id=192988) | — (Hybrid) | $53K–$67K | 5d |
 | **AFL** | [Graphic Design Intern- Spring 2027](https://recruiting.ultipro.com/afl1002/jobboard/d535bad2-e3ea-c8c8-2fb2-63621892e293/opportunitydetail?opportunityid=572f8cae-5a94-4b14-8ba0-0c00f6cc2675) | Duncan, South Carolina, 29334, United States |  | 5d |
 | **Country Music Foundation** | [Spring 2027 Creative (Paid) Intern](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4539997) | Nashville, TN | $31K | 5d |
-| **Wolf Trap Foundation For The Pe…** | [Intern, Graphic Design (Spring 2027)](https://paycomonline.net/v4/ats/web.php/portal/8c8dd61bf1ac64c540603ed66b8cd134/jobs/380222) | 1645 Trap Rd Vienna, Virginia, 22182 United… (Hybrid) | $29K | 5d |
+| **Wolf Trap Foundation For The Pe…** | [Intern, Graphic Design (Spring 2027)](https://paycomonline.net/v4/ats/web.php/portal/8c8dd61bf1ac64c540603ed66b8cd134/jobs/380222) | 1645 Trap Rd Vienna, Virginia, 22182 United… (Hybrid) | $29K | 6d |
 | **Disney** | [Marvel and Lucasfilm Product Design (Hardlines) Intern, Spring 2027](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Marvel-and-Lucasfilm-Product-Design--Hardlines--Intern--Spring-2027_10160439) | Glendale, CA, USA | $48K | 6d |
 | **Disney** | [Product Design (Accessories) Intern, Spring 2027](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Product-Design--Accessories--Intern--Spring-2027_10160436) | Glendale, CA, USA | $48K | 6d |
 | **Gannettfleming** | [Intern - Architecture](https://careers-gannettfleming.icims.com/jobs/14802/intern---architecture/job) | Philadelphia, PA, US (Hybrid) | $44K–$58K | 8d |
@@ -1637,7 +1638,7 @@ Interested in crypto? Browse [Crypto internships](CRYPTO.md) across blockchain, 
 | **Nelnet** | [Intern - UX/UI Designer - Starting Spring 2027](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Madison-WI/Intern---UX-UI-Designer_R23119) | Madison, WI | $44K–$52K | 20d |
 | **Google** | [User Experience Design Intern, BS/MS, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/100798001798095558) | Mountain View, CA, USA, Ann Arbor, MI, USA,… | $88K–$117K | 20d |
 | **Google** | [Product Design Engineering Intern, BS/MS, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/135755874491605702) | Mountain View, CA, USA, Ann Arbor, MI, USA,… | $86K–$115K | 20d |
-| **Disney** | [Disney Live Entertainment Costume Production Intern, Spring 2027](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Disney-Live-Entertainment-Costume-Production-Intern--Spring-2027_10159481) | Anaheim, CA, USA | $46K | 20d |
+| **Disney** | [Disney Live Entertainment Costume Production Intern, Spring 2027](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Disney-Live-Entertainment-Costume-Production-Intern--Spring-2027_10159481) | Anaheim, CA, USA | $46K | 21d |
 | **General Motors** | [2027 Summer Intern - Creative Design (Interior/Exterior)](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Creative-Design--Interior-Exterior-_JR-202619314) | 2 Locations | $73K | 21d |
 | **General Motors** | [2027 Summer Intern - Digital Sculpting](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Sculpting_JR-202619286) | 2 Locations | $73K | 21d |
 | **General Motors** | [2027 Summer Intern - Clay Sculpting](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Clay-Sculpting_JR-202619287) | 2 Locations | $73K | 21d |
