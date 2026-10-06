@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**4 currently open roles** · Updated **2026-10-05**
+**4 currently open roles** · Updated **2026-10-06**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,9 +14,9 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Bertelsmann-Jobs** | [Internship in Information Security Services](https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000151659959-internship-in-information-security-services-?oga=true) | Luxembourg, , Luxembourg |  | 10d |
-| **Amazon** | [Business Intelligence Intern Luxembourg](https://www.amazon.jobs/en/jobs/10557454/business-intelligence-intern-luxembourg) | LU, Luxembourg |  | 12d |
-| **Amazon** | [2027 Software Dev Engineer Intern - Luxembourg](https://www.amazon.jobs/en/jobs/10554706/2027-software-dev-engineer-intern-luxembourg) | LU, Luxembourg |  | 13d |
+| **Bertelsmann-Jobs** | [Internship in Information Security Services](https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000151659959-internship-in-information-security-services-?oga=true) | Luxembourg, , Luxembourg |  | 11d |
+| **Amazon** | [Business Intelligence Intern Luxembourg](https://www.amazon.jobs/en/jobs/10557454/business-intelligence-intern-luxembourg) | LU, Luxembourg |  | 13d |
+| **Amazon** | [2027 Software Dev Engineer Intern - Luxembourg](https://www.amazon.jobs/en/jobs/10554706/2027-software-dev-engineer-intern-luxembourg) | LU, Luxembourg |  | 14d |
 | **ICSGBLCOR** | [INTERNSHIP - IT Network Infrastructure & Cybersecurity](https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/Luxembourg-Sige-Lux-House/INTERNSHIP---IT-Network-Infrastructure---Cybersecurity_REQ-10117688) | Luxembourg (Siège Lux House) (Hybrid) |  | 3mo |
 
 <!-- TABLE_END -->

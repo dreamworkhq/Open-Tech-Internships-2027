@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**16 currently open roles** · Updated **2026-10-05**
+**16 currently open roles** · Updated **2026-10-06**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -15,12 +15,12 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Rocket Lab** | [Data Engineering Intern](https://www.seek.co.nz/job/94812887) | Auckland |  | 12d |
-| **Swallowing Technologies Limited** | [Embedded Systems Engineering Intern](https://www.seek.co.nz/job/94661206) | Christchurch Central, Canterbury | $35K | 19d |
-| **Energyline** | [AI Development Intern](https://www.seek.co.nz/job/94445208) | Christchurch Central, Canterbury |  | 27d |
+| **Rocket Lab** | [Data Engineering Intern](https://www.seek.co.nz/job/94812887) | Auckland |  | 13d |
+| **Swallowing Technologies Limited** | [Embedded Systems Engineering Intern](https://www.seek.co.nz/job/94661206) | Christchurch Central, Canterbury | $35K | 20d |
+| **Energyline** | [AI Development Intern](https://www.seek.co.nz/job/94445208) | Christchurch Central, Canterbury |  | 28d |
 | **Rocket Lab** | [CAD Data Intern](https://job-boards.greenhouse.io/rocketlab/jobs/7963751003) | Auckland, NZ |  | 1mo |
 | **Tencent** | [Game Backend Development Intern](https://tencent.wd1.myworkdayjobs.com/Lightspeed/job/New-Zealand-Auckland/Game-Backend-Development-Intern_R106470) | New Zealand-Auckland |  | 1mo |
-| **Rocket Lab** | [Launch Safety Software Intern](https://job-boards.greenhouse.io/rocketlab/jobs/7827254003) | Auckland, NZ |  | 1mo |
+| **Rocket Lab** | [Launch Safety Software Intern](https://job-boards.greenhouse.io/rocketlab/jobs/7827254003) | Auckland, NZ |  | 2mo |
 | **Rocket Lab** | [Web Services Intern](https://job-boards.greenhouse.io/rocketlab/jobs/7821120003) | Auckland, NZ |  | 2mo |
 | **Rocket Lab** | [Data Engineering Intern](https://job-boards.greenhouse.io/rocketlab/jobs/7819722003) | Auckland, NZ |  | 2mo |
 | **Partly.Com** | [ML Research Engineer Intern/Graduate, NZ](https://jobs.ashbyhq.com/partly.com/49cc37df-a604-4c7e-910b-e4e9bcf35e46) | Christchurch |  | 3mo |
@@ -31,10 +31,10 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **RTX (Raytheon)** | [Intern - Data Analyst](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/NZ-CAN-CHRISTCHURCH-115-1--115-Orchard-Rd--V2500-WORKSHOP/Intern---Data-Analyst_01873132) | NZ-CAN-CHRISTCHURCH-115-1 ~ 115 Orchard Rd … |  | 11d |
+| **Comvita** | [Summer Internship 2026/27](https://www.seek.co.nz/job/95069881) | Paengaroa, Bay of Plenty | $35K | 0d |
+| **RTX (Raytheon)** | [Intern - Data Analyst](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/NZ-CAN-CHRISTCHURCH-115-1--115-Orchard-Rd--V2500-WORKSHOP/Intern---Data-Analyst_01873132) | NZ-CAN-CHRISTCHURCH-115-1 ~ 115 Orchard Rd … |  | 12d |
 | **RTX (Raytheon)** | [Intern - CFT Data Analysist](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/NZ-CAN-CHRISTCHURCH-115-1--115-Orchard-Rd--V2500-WORKSHOP/Intern---CFT-Data-Analysist_01873241) | NZ-CAN-CHRISTCHURCH-115-1 ~ 115 Orchard Rd … |  | 12d |
-| **Christchurch Engine Centre** | [Intern - Customer Focus Team Data Analysist](https://www.seek.co.nz/job/94822366) | Christchurch Central, Canterbury |  | 12d |
-| **Xtracta** | [Data Science Intern](https://www.seek.co.nz/job/94388188) | Penrose, Auckland |  | 1mo |
+| **Christchurch Engine Centre** | [Intern - Customer Focus Team Data Analysist](https://www.seek.co.nz/job/94822366) | Christchurch Central, Canterbury |  | 13d |
 | **Partly.Com** | [Data Science Intern/Graduate, NZ](https://jobs.ashbyhq.com/partly.com/89e575f0-c26d-4caf-beec-d98840eb2619) | Christchurch |  | 3mo |
 
 <!-- TABLE_END -->

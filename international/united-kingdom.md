@@ -2,60 +2,59 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**95 currently open roles** · Updated **2026-10-05**
+**97 currently open roles** · Updated **2026-10-06**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-64) · 64 roles
+- [Engineering](#engineering-63) · 63 roles
 - [Data Science](#data-science-17) · 17 roles
-- [Security](#security-8) · 8 roles
-- [Product](#product-5) · 5 roles
-- [Other](#other-1) · 1 roles
+- [Product](#product-7) · 7 roles
+- [Security](#security-7) · 7 roles
+- [Other](#other-3) · 3 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (64)
+### Engineering (63)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **SAS** | [Software Developer Intern- 2027 Glasgow Summer R&D Internship](https://global-sas.icims.com/jobs/42731/software-developer-intern--2027-glasgow-summer-r%26d-internship/job) | Glasgow, UK (Hybrid) |  | 1d |
-| **Google** | [Data Center Technician Intern, 2027](https://google.com/about/careers/applications/jobs/results/142308488125522630) | London, UK |  | 1d |
-| **TTP** | [Summer Internship - Cyber / AI Consultant - 2027](https://jobs.smartrecruiters.com/ttp1/744000153148930) | Melbourn, Royston, UK |  | 1d |
-| **Moody's** | [Let's begin! Software Engineering Summer Intern](https://career8.successfactors.com/career?career_ns=job_listing&company=MoodysProd&career_job_req_id=14588) | Edinburgh - 7 Exchange Crescent (Hybrid) |  | 1d |
+| **SAS** | [Software Developer Intern- 2027 Glasgow Summer R&D Internship](https://global-sas.icims.com/jobs/42731/software-developer-intern--2027-glasgow-summer-r%26d-internship/job) | Glasgow, UK (Hybrid) |  | 2d |
+| **Google** | [Data Center Technician Intern, 2027](https://google.com/about/careers/applications/jobs/results/142308488125522630) | London, UK |  | 2d |
+| **TTP** | [Summer Internship - Cyber / AI Consultant - 2027](https://jobs.smartrecruiters.com/ttp1/744000153148930) | Melbourn, Royston, UK |  | 2d |
+| **Moody's** | [Let's begin! Software Engineering Summer Intern](https://career8.successfactors.com/career?career_ns=job_listing&company=MoodysProd&career_job_req_id=14588) | Edinburgh - 7 Exchange Crescent (Hybrid) |  | 2d |
 | **Databricks** | [Software Engineering Intern (2027 Start) - London](https://databricks.com/company/careers/open-positions/job?gh_jid=8847738002) | London, United Kingdom |  | 3d |
-| **AMD** | [Summer 2027 Software Engineer Intern](https://careers.amd.com/jobs/93127?lang=en-us) | Penicuik, United Kingdom (Hybrid) |  | 5d |
-| **AMD** | [Summer 2027 Hardware Engineer Intern](https://careers.amd.com/jobs/93125?lang=en-us) | Penicuik, United Kingdom (Hybrid) |  | 5d |
-| **Stryker** | [Software Engineering Co-Op](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Belfast-United-Kingdom/Software-Engineering-Co-Op_R572094) | Belfast, United Kingdom | $32K | 6d |
-| **Monzo** | [Associate Software Engineer - Intern](https://job-boards.greenhouse.io/monzo/jobs/8156261) | London (Hybrid) | $54K | 7d |
-| **Crane Company** | [Mechanical Design Engineer Intern](https://cranecompany.wd5.myworkdayjobs.com/careers/job/Leicester-UK/Intern_JR101881) | Leicester, UK |  | 10d |
-| **Muller UK & Ireland** | [Automation OT Engineer Intern](https://www.reed.co.uk/jobs/automation-ot-engineer-intern/57389314) | Market Drayton |  | 11d |
-| **Gresearch** | [Software Engineering Internship](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Software-Engineering-Intern_R3746) | London, UK |  | 12d |
-| **HPE** | [Software Engineering Internship (Placement Year)](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bristol-Avon-United-Kingdom/Software-Engineering-Internship--Placement-Year-_1215804) | Bristol, Avon, United Kingdom (Hybrid) |  | 12d |
-| **Amazon** | [2027 Software Dev Engineer Intern - United Kingdom](https://www.amazon.jobs/en/jobs/10554586/2027-software-dev-engineer-intern-united-kingdom) | GB, London |  | 14d |
-| **Waymo** | [2027 Summer Intern, MS/PhD, Sim-Realism ML Infrastructure](https://careers.withwaymo.com/jobs?gh_jid=8205680) | London, England, United Kingdom (Hybrid) | $83K | 16d |
-| **Schonfeld** | [2027 DMFI Quant Developer Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8207942) | London, England, United Kingdom |  | 16d |
-| **Talos Trading** | [Software Engineer Intern, Infrastructure](https://jobs.ashbyhq.com/Talos-Trading/f2a0aaa2-af88-4715-9f2d-8f61bd5e2935) | London (Hybrid) |  | 17d |
-| **Talos Trading** | [Software Engineer Intern, Trading](https://jobs.ashbyhq.com/Talos-Trading/42cad756-c312-4142-a9b7-18ed76f61c5d) | London (Hybrid) |  | 17d |
-| **Waymo** | [2027 Summer Intern, MS/PhD, Machine Learning, Simulation Realism](https://careers.withwaymo.com/jobs?gh_jid=8208465) | London, England, United Kingdom (Hybrid) | $83K | 17d |
+| **AMD** | [Summer 2027 Software Engineer Intern](https://careers.amd.com/jobs/93127?lang=en-us) | Penicuik, United Kingdom (Hybrid) |  | 6d |
+| **AMD** | [Summer 2027 Hardware Engineer Intern](https://careers.amd.com/jobs/93125?lang=en-us) | Penicuik, United Kingdom (Hybrid) |  | 6d |
+| **Stryker** | [Software Engineering Co-Op](https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Belfast-United-Kingdom/Software-Engineering-Co-Op_R572094) | Belfast, United Kingdom | $32K | 7d |
+| **Monzo** | [Associate Software Engineer - Intern](https://job-boards.greenhouse.io/monzo/jobs/8156261) | London (Hybrid) | $54K | 8d |
+| **Crane Company** | [Mechanical Design Engineer Intern](https://cranecompany.wd5.myworkdayjobs.com/careers/job/Leicester-UK/Intern_JR101881) | Leicester, UK |  | 11d |
+| **Muller UK & Ireland** | [Automation OT Engineer Intern](https://www.reed.co.uk/jobs/automation-ot-engineer-intern/57389314) | Market Drayton |  | 12d |
+| **Gresearch** | [Software Engineering Internship](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Software-Engineering-Intern_R3746) | London, UK |  | 13d |
+| **HPE** | [Software Engineering Internship (Placement Year)](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bristol-Avon-United-Kingdom/Software-Engineering-Internship--Placement-Year-_1215804) | Bristol, Avon, United Kingdom (Hybrid) |  | 13d |
+| **Amazon** | [2027 Software Dev Engineer Intern - United Kingdom](https://www.amazon.jobs/en/jobs/10554586/2027-software-dev-engineer-intern-united-kingdom) | GB, London |  | 15d |
+| **Waymo** | [2027 Summer Intern, MS/PhD, Sim-Realism ML Infrastructure](https://careers.withwaymo.com/jobs?gh_jid=8205680) | London, England, United Kingdom (Hybrid) | $83K | 17d |
+| **Schonfeld** | [2027 DMFI Quant Developer Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8207942) | London, England, United Kingdom |  | 17d |
+| **Talos Trading** | [Software Engineer Intern, Infrastructure](https://jobs.ashbyhq.com/Talos-Trading/f2a0aaa2-af88-4715-9f2d-8f61bd5e2935) | London (Hybrid) |  | 18d |
+| **Talos Trading** | [Software Engineer Intern, Trading](https://jobs.ashbyhq.com/Talos-Trading/42cad756-c312-4142-a9b7-18ed76f61c5d) | London (Hybrid) |  | 18d |
+| **Waymo** | [2027 Summer Intern, MS/PhD, Machine Learning, Simulation Realism](https://careers.withwaymo.com/jobs?gh_jid=8208465) | London, England, United Kingdom (Hybrid) | $83K | 18d |
 | **Fanvue.Com** | [Software Engineer (Intern)](https://jobs.ashbyhq.com/fanvue.com/9ba53c5b-dcc7-4e6c-8ecc-0647a62761ce) | Hybrid (London) (Hybrid) |  | 18d |
-| **Clearwater Analytics** | [Software Development Intern](https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---London/Software-Development-Intern_R12097) | Office - London |  | 19d |
-| **American Express** | [Campus - Internship Programme - Undergraduate - Software Engineer - 202…](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013769) | LONDON, United Kingdom (Hybrid) |  | 19d |
-| **American Express** | [Campus - Internship Programme - Undergraduate - AI Engineer - 2027 (UK …](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013758) | LONDON, United Kingdom (Hybrid) |  | 19d |
-| **American Express** | [Campus - Internship Programme - Undergraduate - Software Engineer - 202…](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013771) | BURGESS HILL, WEST SUSSEX, United Kingdom (Hybrid) |  | 19d |
-| **American Express** | [Campus - Internship Programme - Undergraduate - AI Engineer - 2027 (UK …](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013756) | BURGESS HILL, WEST SUSSEX, United Kingdom (Hybrid) |  | 19d |
-| **Scale AI** | [Software Engineering Intern (Summer 2027)](https://job-boards.greenhouse.io/scaleai/jobs/4730846005) | London, UK |  | 20d |
-| **Apple** | [PMU Design Verification Intern](https://jobs.apple.com/en-us/details/200683293/pmu-design-verification-intern?team=HRDWR) | Swindon |  | 20d |
-| **Figma** | [Software Engineer Intern (London, United Kingdom) (Summer 2027)](https://boards.greenhouse.io/figma/jobs/6152695004?gh_jid=6152695004) | London, England |  | 20d |
-| **Spaice Tech** | [Software Engineering Intern](https://jobs.ashbyhq.com/spaice-tech/16468d27-11e9-498c-87b6-3469f5f4ee12) | London |  | 21d |
-| **Light Inc** | [AI Engineering Intern](https://jobs.ashbyhq.com/light-inc/9079d1ba-a35a-4e4b-9b07-820e85d921b9) | London |  | 21d |
-| **Boeing** | [Support Engineering Data Intern- Summer 2027](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Welwyn-Garden-City-UK/Support-Engineering-Data-Intern--Summer-2027_JR2026524227) | GBR - Welwyn Garden City, UK (Hybrid) |  | 24d |
-| **Boeing** | [Support Engineering Data Intern- 12 Month Placement](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Welwyn-Garden-City-UK/Support-Engineering-Data-Intern--12-Month-Placement_JR2026520888) | GBR - Welwyn Garden City, UK (Hybrid) |  | 24d |
+| **Clearwater Analytics** | [Software Development Intern](https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---London/Software-Development-Intern_R12097) | Office - London |  | 20d |
+| **American Express** | [Campus - Internship Programme - Undergraduate - Software Engineer - 202…](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013769) | LONDON, United Kingdom (Hybrid) |  | 20d |
+| **American Express** | [Campus - Internship Programme - Undergraduate - AI Engineer - 2027 (UK …](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013758) | LONDON, United Kingdom (Hybrid) |  | 20d |
+| **American Express** | [Campus - Internship Programme - Undergraduate - Software Engineer - 202…](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013771) | BURGESS HILL, WEST SUSSEX, United Kingdom (Hybrid) |  | 20d |
+| **American Express** | [Campus - Internship Programme - Undergraduate - AI Engineer - 2027 (UK …](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013756) | BURGESS HILL, WEST SUSSEX, United Kingdom (Hybrid) |  | 20d |
+| **Scale AI** | [Software Engineering Intern (Summer 2027)](https://job-boards.greenhouse.io/scaleai/jobs/4730846005) | London, UK |  | 21d |
+| **Apple** | [PMU Design Verification Intern](https://jobs.apple.com/en-us/details/200683293/pmu-design-verification-intern?team=HRDWR) | Swindon |  | 21d |
+| **Figma** | [Software Engineer Intern (London, United Kingdom) (Summer 2027)](https://boards.greenhouse.io/figma/jobs/6152695004?gh_jid=6152695004) | London, England |  | 21d |
+| **Spaice Tech** | [Software Engineering Intern](https://jobs.ashbyhq.com/spaice-tech/16468d27-11e9-498c-87b6-3469f5f4ee12) | London |  | 22d |
+| **Light Inc** | [AI Engineering Intern](https://jobs.ashbyhq.com/light-inc/9079d1ba-a35a-4e4b-9b07-820e85d921b9) | London |  | 22d |
+| **Boeing** | [Support Engineering Data Intern- Summer 2027](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Welwyn-Garden-City-UK/Support-Engineering-Data-Intern--Summer-2027_JR2026524227) | GBR - Welwyn Garden City, UK (Hybrid) |  | 25d |
+| **Boeing** | [Support Engineering Data Intern- 12 Month Placement](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Welwyn-Garden-City-UK/Support-Engineering-Data-Intern--12-Month-Placement_JR2026520888) | GBR - Welwyn Garden City, UK (Hybrid) |  | 25d |
 | **Barclays** | [2027 Technology Developer Summer Internship Programme Glasgow](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Glasgow_JR-0000129387) | Glasgow Campus (Hybrid) |  | 26d |
 | **Barclays** | [2027 Technology Developer Summer Internship Programme Knutsford](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Knutsford_JR-0000129381) | Knutsford, Radbroke Hall |  | 26d |
 | **Barclays** | [2027 Technology Developer Summer Internship Programme Northampton](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Northampton_JR-0000129379) | Northampton, Barclays Campus, Pavilion Drive |  | 26d |
-| **Barclays** | [2027 Technology Developer Summer Internship Programme London](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-London_JR-0000129397) | Canary Wharf, 1 Churchill Place |  | 26d |
-| **Quberesearchandtechnologies** | [2027 – Graduate or Internship, Infrastructure Engineer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773447002) | London, Paris |  | 27d |
-| **Quberesearchandtechnologies** | [2027 - Internship, Software Engineering and Quantitative Development](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773084002) | London, Paris, Wrocław, Zurich, Dubai, Aarh… |  | 27d |
+| **Quberesearchandtechnologies** | [2027 – Graduate or Internship, Infrastructure Engineer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773447002) | London, Paris |  | 28d |
+| **Quberesearchandtechnologies** | [2027 - Internship, Software Engineering and Quantitative Development](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773084002) | London, Paris, Wrocław, Zurich, Dubai, Aarh… |  | 28d |
 | **Google** | [Software Engineering, Site Reliability Engineering BS/MS Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/100028133205254854) | London, UK |  | 1mo |
 | **Mavensecuritiesholdingltd** | [Software Developer Summer Internship London 2027](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7806987) | London |  | 1mo |
 | **Pimco** | [2027 Summer Intern - Technology Analyst, Software Engineering, EMEA](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering--EMEA_R106800) | London, GBR |  | 1mo |
@@ -87,17 +86,17 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **NBCUniversal** | [Data Analytics Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000153459110-data-analytics-intern?oga=true) | London, England, United Kingdom (Hybrid) |  | 0d |
-| **NBCUniversal** | [Business Data (Film IT) Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000153373649-business-data-film-it-intern?oga=true) | London, England, United Kingdom (Hybrid) |  | 0d |
-| **CME Group** | [AI Analyst - Placement year internship](https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Belfast---Millennium-House/AI-Analyst---Placement-year-internship_34865) | Belfast - Millennium House (Hybrid) |  | 2d |
-| **Amazon** | [Business Intelligence Intern London](https://www.amazon.jobs/en/jobs/10567687/business-intelligence-intern-london) | GB, London |  | 3d |
-| **1000** | [Consumer Analytics & Insights Summer Internship 2027](https://pg.wd5.myworkdayjobs.com/1000/job/BROOKLANDS-GO/Consumer-Analytics---Insights-Summer-Internship-2027_R000160023) | BROOKLANDS GO (Hybrid) | $40K | 4d |
-| **Monzo** | [Associate Data Scientist - Intern](https://job-boards.greenhouse.io/monzo/jobs/8232726) | London (Hybrid) | $54K | 7d |
-| **Hudson River Trading** | [Data Scientist Intern - 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8222413) | London, United Kingdom | $287K | 12d |
-| **WTW** | [2027 Data Scientist Internship Programme - P&C Insurance - London/Reiga…](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605997) | London, London, United Kingdom |  | 16d |
-| **Ekimetrics** | [2027 Internship (6 Months) - Data Science & Marketing Effectiveness, Lo…](https://jobs.lever.co/ekimetrics/8df1a768-c6b0-4082-9c41-b3171c0fb548) | London (Hybrid) |  | 19d |
-| **Boeing** | [Data Analytics Intern - 12 Month Placement](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Bristol-UK/Data-Analytics-Intern---12-Month-Placement_JR2026523726) | GBR - Bristol, UK |  | 24d |
-| **Boeing** | [Data Analytics Intern - 6 Months](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Bristol-UK/Data-Analytics-Intern---6-Months_JR2026523727-1) | GBR - Bristol, UK |  | 24d |
+| **NBCUniversal** | [Data Analytics Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000153459110-data-analytics-intern?oga=true) | London, England, United Kingdom (Hybrid) |  | 1d |
+| **NBCUniversal** | [Business Data (Film IT) Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000153373649-business-data-film-it-intern?oga=true) | London, England, United Kingdom (Hybrid) |  | 1d |
+| **CME Group** | [AI Analyst - Placement year internship](https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Belfast---Millennium-House/AI-Analyst---Placement-year-internship_34865) | Belfast - Millennium House (Hybrid) |  | 3d |
+| **Amazon** | [Business Intelligence Intern London](https://www.amazon.jobs/en/jobs/10567687/business-intelligence-intern-london) | GB, London |  | 4d |
+| **1000** | [Consumer Analytics & Insights Summer Internship 2027](https://pg.wd5.myworkdayjobs.com/1000/job/BROOKLANDS-GO/Consumer-Analytics---Insights-Summer-Internship-2027_R000160023) | BROOKLANDS GO (Hybrid) | $40K | 5d |
+| **Monzo** | [Associate Data Scientist - Intern](https://job-boards.greenhouse.io/monzo/jobs/8232726) | London (Hybrid) | $54K | 8d |
+| **Hudson River Trading** | [Data Scientist Intern - 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8222413) | London, United Kingdom | $287K | 13d |
+| **WTW** | [2027 Data Scientist Internship Programme - P&C Insurance - London/Reiga…](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605997) | London, London, United Kingdom |  | 17d |
+| **Ekimetrics** | [2027 Internship (6 Months) - Data Science & Marketing Effectiveness, Lo…](https://jobs.lever.co/ekimetrics/8df1a768-c6b0-4082-9c41-b3171c0fb548) | London (Hybrid) |  | 20d |
+| **Boeing** | [Data Analytics Intern - 12 Month Placement](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Bristol-UK/Data-Analytics-Intern---12-Month-Placement_JR2026523726) | GBR - Bristol, UK |  | 25d |
+| **Boeing** | [Data Analytics Intern - 6 Months](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Bristol-UK/Data-Analytics-Intern---6-Months_JR2026523727-1) | GBR - Bristol, UK |  | 25d |
 | **Barclays** | [2027 Customer and Digital - Data and Analytics Summer Internship Progra…](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Customer-and-Digital---Data-and-Analytics-Summer-Internship-Programme-London_JR-0000129280) | Canary Wharf, 1 Churchill Place |  | 26d |
 | **Barclays** | [2027 Customer and Digital - Data and Analytics Summer Internship Progra…](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Customer-and-Digital---Data-and-Analytics-Summer-Internship-Programme-Glasgow_JR-0000129278) | Glasgow Campus (Hybrid) |  | 26d |
 | **Pimco** | [2027 Summer Intern - Client Solutions & Analytics Quantitative Research…](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Strategist--London--MBA-_R106804) | London, GBR |  | 1mo |
@@ -105,33 +104,36 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **Google** | [Data Science PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/73321728058499782) | London, UK |  | 1mo |
 | **Gresearch** | [Data Science Internship](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Data-Science-Internship_R3679) | London, UK |  | 2mo |
 
-### Security (8)
+### Product (7)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Dvtrading** | [Security Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4736603005) | London |  | 12d |
-| **American Express** | [Campus - Internship Programme - Undergraduate - Information Security En…](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013761) | BURGESS HILL, WEST SUSSEX, United Kingdom (Hybrid) |  | 19d |
-| **Tencent** | [Cyber Security Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/Cyber-Security-Intern_R108126) | United Kingdom-London |  | 23d |
+| **NBCUniversal** | [Media Product Intern](https://jobs.smartrecruiters.com/nbcuniversal3/744000153373389) | St. Giles High Street,1 Central St. Giles, … |  | 0d |
+| **NBCUniversal** | [Product Intern (Hayu)](https://jobs.smartrecruiters.com/nbcuniversal3/744000153372229) | St. Giles High Street,1 Central St. Giles, … (Hybrid) |  | 0d |
+| **Google** | [Associate Product Manager BS/MS Intern, 2027](https://google.com/about/careers/applications/jobs/results/103464941339452102) | London, UK |  | 2d |
+| **Clearwater Analytics** | [Technical Product Management Intern](https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---London/Technical-Product-Management-Intern_R12197) | Office - London |  | 20d |
+| **Clearwater Analytics** | [Product Management Intern](https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---London/Product-Management-Intern_R12199) | Office - London |  | 20d |
+| **American Express** | [Campus - Internship Programme - Undergraduate - Product Manager - 2027 …](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013764) | BURGESS HILL, WEST SUSSEX, United Kingdom (Hybrid) |  | 20d |
+| **American Express** | [Campus - Internship Programme - Undergraduate - Product Manager - 2027 …](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013766) | LONDON, United Kingdom (Hybrid) |  | 20d |
+
+### Security (7)
+
+| Company | Role | Location | Pay | Added |
+| --- | --- | --- | --- | --- |
+| **Dvtrading** | [Security Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4736603005) | London |  | 13d |
+| **American Express** | [Campus - Internship Programme - Undergraduate - Information Security En…](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013761) | BURGESS HILL, WEST SUSSEX, United Kingdom (Hybrid) |  | 20d |
+| **Tencent** | [Cyber Security Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/Cyber-Security-Intern_R108126) | United Kingdom-London |  | 24d |
 | **Barclays** | [2027 Technology Cyber and Security Summer Internship Programme Knutsford](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Cyber-and-Security-Summer-Internship-Programme-Knutsford_JR-0000129173) | Knutsford, Radbroke Hall |  | 26d |
-| **Quberesearchandtechnologies** | [2027 Internship – Security Engineer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8777760002) | London, Paris, New York |  | 27d |
+| **Quberesearchandtechnologies** | [2027 Internship – Security Engineer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8777760002) | London, Paris, New York |  | 28d |
 | **Cc** | [Information Security Intern – Governance, Risk & Compliance (GRC)](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/London/Information-Security-Intern---Governance--Risk---Compliance--GRC-_JOBREQ00115341) | London |  | 2mo |
 | **Cc** | [Internship - Cyber Transformation Officer GISEC](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/London/Internship---Cyber-Transformation-Officer-GISEC_JOBREQ00115118) | London |  | 2mo |
-| **HP Inc.** | [Software Security Research Intern](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bristol-Bristol-City-of-United-Kingdom/Software-Security-Research-Intern_UNI3785-1) | Bristol, Bristol, City of, United Kingdom |  | 2mo |
 
-### Product (5)
-
-| Company | Role | Location | Pay | Added |
-| --- | --- | --- | --- | --- |
-| **Google** | [Associate Product Manager BS/MS Intern, 2027](https://google.com/about/careers/applications/jobs/results/103464941339452102) | London, UK |  | 1d |
-| **Clearwater Analytics** | [Technical Product Management Intern](https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---London/Technical-Product-Management-Intern_R12197) | Office - London |  | 19d |
-| **Clearwater Analytics** | [Product Management Intern](https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---London/Product-Management-Intern_R12199) | Office - London |  | 19d |
-| **American Express** | [Campus - Internship Programme - Undergraduate - Product Manager - 2027 …](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013764) | BURGESS HILL, WEST SUSSEX, United Kingdom (Hybrid) |  | 19d |
-| **American Express** | [Campus - Internship Programme - Undergraduate - Product Manager - 2027 …](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013766) | LONDON, United Kingdom (Hybrid) |  | 19d |
-
-### Other (1)
+### Other (3)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
+| **NBCUniversal** | [Creative Intern](https://jobs.smartrecruiters.com/nbcuniversal3/744000153372634) | St. Giles High Street,1 Central St. Giles, … (Hybrid) |  | 0d |
+| **NBCUniversal** | [Creative Production Intern](https://jobs.smartrecruiters.com/nbcuniversal3/744000153373799) | St. Giles High Street,1 Central St. Giles, … (Hybrid) |  | 0d |
 | **Palantir** | [Product Designer, Internship](https://jobs.lever.co/palantir/44129013-01e0-4699-8fc1-7a189bb37b63) | London, United Kingdom (Hybrid) |  | 2mo |
 
 <!-- TABLE_END -->

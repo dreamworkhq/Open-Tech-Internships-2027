@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**7 currently open roles** · Updated **2026-10-05**
+**7 currently open roles** · Updated **2026-10-06**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,9 +14,9 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Amazon** | [2027 Software Dev Engineer Intern - Iași, Romania](https://www.amazon.jobs/en/jobs/10554652/2027-software-dev-engineer-intern-ia-i-romania) | RO, Iasi |  | 14d |
-| **Amazon** | [2027 Software Dev Engineer Intern - Bucharest, Romania](https://www.amazon.jobs/en/jobs/10554669/2027-software-dev-engineer-intern-bucharest-romania) | RO, Bucharest |  | 14d |
-| **NXP Semiconductors** | [Intern Software Engineer – Embedded Benchmarking & Thermal Characteriza…](https://nxp.wd3.myworkdayjobs.com/careers/job/Bucharest/Intern-Software-Engineer---Embedded-Benchmarking---Thermal-Characterization_R-10066624-1) | Bucharest (Hybrid) |  | 26d |
+| **Amazon** | [2027 Software Dev Engineer Intern - Iași, Romania](https://www.amazon.jobs/en/jobs/10554652/2027-software-dev-engineer-intern-ia-i-romania) | RO, Iasi |  | 15d |
+| **Amazon** | [2027 Software Dev Engineer Intern - Bucharest, Romania](https://www.amazon.jobs/en/jobs/10554669/2027-software-dev-engineer-intern-bucharest-romania) | RO, Bucharest |  | 15d |
+| **NXP Semiconductors** | [Intern Software Engineer – Embedded Benchmarking & Thermal Characteriza…](https://nxp.wd3.myworkdayjobs.com/careers/job/Bucharest/Intern-Software-Engineer---Embedded-Benchmarking---Thermal-Characterization_R-10066624-1) | Bucharest (Hybrid) |  | 27d |
 | **Google** | [Software Engineering BS/MS Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/83199557986329286) | Bucharest, Romania |  | 1mo |
 | **Stripe** | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130807) | Bucharest | $31K | 1mo |
 | **NXP Semiconductors** | [Web Application Developer Intern](https://nxp.wd3.myworkdayjobs.com/careers/job/Sibiu/Web-Application-Developer_R-10062194-1) | Sibiu (Hybrid) |  | 4mo |

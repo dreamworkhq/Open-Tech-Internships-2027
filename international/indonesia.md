@@ -2,12 +2,12 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**8 currently open roles** · Updated **2026-10-05**
+**7 currently open roles** · Updated **2026-10-06**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
 - [Data Science](#data-science-5) · 5 roles
-- [Other](#other-3) · 3 roles
+- [Other](#other-2) · 2 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
@@ -21,12 +21,11 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **Artefact** | [Data Consultant Intern - (Indonesia, Jakarta)](https://job-boards.greenhouse.io/artefact/jobs/8076828002) | Jakarta, Jakarta, Indonesia |  | 4mo |
 | **Go To Group** | [AI Linguistic Voice Intern](https://jobs.lever.co/GoToGroup/63930a77-80c3-40ad-a933-a6aff7dac3ac) | Jakarta |  | 4mo |
 
-### Other (3)
+### Other (2)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
 | **Global Campus** | [Internship - Digital, Cloud, Data - IT Strategy Stream](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Jakarta/Internship---Digital--Cloud--Data---IT-Strategy-Stream_764264WD) | Jakarta |  | 10d |
 | **Cermati** | [Software Engineer Intern](https://jobs.smartrecruiters.com/Cermaticom/744000150645669-software-engineer-intern?oga=true) | Jakarta, Jakarta, Indonesia |  | 13d |
-| **Global Campus** | [FY 27 - Internship - Enterprise System and Transformation Assurance](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Jakarta/FY-27---Internship---Enterprise-System-and-Transformation-Assurance_754342WD) | Jakarta |  | 1mo |
 
 <!-- TABLE_END -->
