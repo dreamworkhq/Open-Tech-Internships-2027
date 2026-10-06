@@ -1,9 +1,144 @@
 {
-  "generatedAt": "2026-10-05T19:55:05.101Z",
+  "generatedAt": "2026-10-06T01:50:31.967Z",
   "source": "dreamwork-public-job-index",
   "list": "Open-Tech-Internships-2027",
-  "count": 1736,
+  "count": 1734,
   "listings": [
+    {
+      "id": "ceab9396-8fef-4fe9-b767-c1421184e544",
+      "title": "SOC Security Internship- Summer 2027",
+      "company": "Wipfli",
+      "companyDomain": "wipfli.com",
+      "location": "Minneapolis, MN, US",
+      "remoteType": "hybrid",
+      "salaryMin": 39520,
+      "salaryMax": 39520,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-05T04:00:00.000Z",
+      "firstIndexedAt": "2026-10-06T01:15:36.143Z",
+      "url": "https://careers-wipfli.icims.com/jobs/8457/soc-security-internship--summer-2027/job"
+    },
+    {
+      "id": "050e9b01-e02b-45cf-abb5-2fb4ccad449f",
+      "title": "2027 Summer Intern- ADAS Software Engineer, ADPT",
+      "company": "General Motors",
+      "companyDomain": "generalmotors.com",
+      "location": "Warren, Michigan, United States of America",
+      "remoteType": "hybrid",
+      "salaryMin": 97200,
+      "salaryMax": 104400,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-06T00:50:37.373Z",
+      "firstIndexedAt": "2026-10-05T23:36:36.241Z",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--ADAS-Software-Engineer--ADPT_JR-202621820"
+    },
+    {
+      "id": "291a8fc0-7097-432f-bf37-f3d6522fed79",
+      "title": "2027 Summer Intern, AI/ML Engineer, Mapping",
+      "company": "General Motors",
+      "companyDomain": "generalmotors.com",
+      "location": "Warren, Michigan, United States of America",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_first",
+      "postedAt": "2026-10-06T00:50:38.548Z",
+      "firstIndexedAt": "2026-10-05T23:36:36.241Z",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping_JR-202621778"
+    },
+    {
+      "id": "ece3b23d-31b4-4f49-ad70-b2dff10cf2e8",
+      "title": "2027 Summer Intern – AI & Hardware Analytics, ADPT",
+      "company": "General Motors",
+      "companyDomain": "generalmotors.com",
+      "location": "Warren, Michigan, United States of America",
+      "remoteType": "onsite",
+      "salaryMin": 97200,
+      "salaryMax": 104400,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-10-06T00:50:38.573Z",
+      "firstIndexedAt": "2026-10-05T23:36:36.241Z",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756"
+    },
+    {
+      "id": "89f299bf-5fba-49e5-92ca-3065e16d4375",
+      "title": "Summer 2027 Intern - Industrial Design",
+      "company": "General Motors",
+      "companyDomain": "generalmotors.com",
+      "location": "Warren, Michigan, United States of America",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-06T00:50:39.048Z",
+      "firstIndexedAt": "2026-10-05T23:36:36.241Z",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Summer-2027-Intern---Industrial-Design_JR-202621626"
+    },
+    {
+      "id": "070a16db-6c56-4370-88ad-56f1a3afe044",
+      "title": "DevOps Engineering Intern",
+      "company": "Mastercontrol",
+      "companyDomain": "mastercontrol.com",
+      "location": "Hybrid",
+      "remoteType": "hybrid",
+      "salaryMin": 62400,
+      "salaryMax": 104000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-05T15:25:49.000Z",
+      "firstIndexedAt": "2026-10-05T21:45:37.387Z",
+      "url": "https://www.mastercontrol.com/careers/job-listings/role/?role=4738483005&gh_jid=4738483005"
+    },
+    {
+      "id": "886e5a35-1634-4c83-9471-acdd01c6da4b",
+      "title": "Software Developer Intern",
+      "company": "Leidos",
+      "companyDomain": "leidos.com",
+      "location": "Annapolis Junction, MD",
+      "remoteType": null,
+      "salaryMin": 48100,
+      "salaryMax": 86950,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-06T01:23:28.651Z",
+      "firstIndexedAt": "2026-10-05T21:08:22.077Z",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00193914"
+    },
+    {
+      "id": "48ed8221-e332-4852-a9a2-972a214fe350",
+      "title": "2027 Software Development Intern",
+      "company": "Simventions",
+      "companyDomain": "simventions.com",
+      "location": "Fredericksburg, VA, US",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-09-15T04:00:00.000Z",
+      "firstIndexedAt": "2026-10-05T20:31:33.863Z",
+      "url": "https://careers-simventions.icims.com/jobs/1631/2027-software-development-intern/job"
+    },
+    {
+      "id": "20052366-fdef-46b7-a320-235dc83bbc46",
+      "title": "Air Systems Design & Integration Intern (Summer 2027) (Onsite)",
+      "company": "RTX (Raytheon)",
+      "companyDomain": "rtx.com",
+      "location": "US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC",
+      "remoteType": "hybrid",
+      "salaryMin": 37000,
+      "salaryMax": 82000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-05T20:14:09.827Z",
+      "firstIndexedAt": "2026-10-05T20:14:38.651Z",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Air-Systems-Design---Integration-Intern--Summer-2027---Onsite-_01872885"
+    },
     {
       "id": "c4960f19-e234-4698-8d45-153a91e8b705",
       "title": "Intern - Design Engineer, HBM",
@@ -60,7 +195,7 @@
       "salaryMax": 105702,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-05T19:34:09.158Z",
+      "postedAt": "2026-10-06T00:48:19.796Z",
       "firstIndexedAt": "2026-10-05T17:46:59.944Z",
       "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/CPU-Core-Physical-Design-Technical-Graduate-Intern--Spring_JR0287613"
     },
@@ -75,7 +210,7 @@
       "salaryMax": 85280,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-04T19:17:31.706Z",
+      "postedAt": "2026-10-05T00:32:17.412Z",
       "firstIndexedAt": "2026-10-05T10:33:41.171Z",
       "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/VLSI-Design-Verification-Internship_1213400"
     },
@@ -90,7 +225,7 @@
       "salaryMax": 41600,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-03T10:19:55.864Z",
+      "postedAt": "2026-10-03T22:37:55.223Z",
       "firstIndexedAt": "2026-10-05T06:40:03.269Z",
       "url": "https://revvity.wd103.myworkdayjobs.com/External/job/Akron/Software-Integration-Co-Op--Spring-2027-_JR-045618"
     },
@@ -105,7 +240,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-05T19:45:54.797Z",
+      "postedAt": "2026-10-05T23:32:13.333Z",
       "firstIndexedAt": "2026-10-05T04:46:18.617Z",
       "url": "https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Science-Intern_JR-125225"
     },
@@ -120,7 +255,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-05T19:45:54.704Z",
+      "postedAt": "2026-10-05T23:32:13.115Z",
       "firstIndexedAt": "2026-10-05T04:46:18.617Z",
       "url": "https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Analytics-Intern_JR-125220"
     },
@@ -135,7 +270,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-05T19:45:55.004Z",
+      "postedAt": "2026-10-05T23:32:13.721Z",
       "firstIndexedAt": "2026-10-05T04:46:18.617Z",
       "url": "https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Information-Systems-Audit-Intern_JR-125336"
     },
@@ -165,7 +300,7 @@
       "salaryMax": 82000,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_first",
-      "postedAt": "2026-10-03T07:57:00.132Z",
+      "postedAt": "2026-10-03T20:14:22.267Z",
       "firstIndexedAt": "2026-10-04T18:21:59.241Z",
       "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Co-Op---AI-DSP-Applied-Research_01873016"
     },
@@ -180,13 +315,13 @@
       "salaryMax": 74360,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_first",
-      "postedAt": "2026-09-30T19:18:43.873Z",
+      "postedAt": "2026-10-01T00:35:07.158Z",
       "firstIndexedAt": "2026-10-04T12:32:19.267Z",
       "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---St-Paul/XMLNAME-2027-Winter-PhD-Co-op---Clinical-Affairs-AI-ML_31163025"
     },
     {
       "id": "54d14c91-12f9-428b-abef-821b4e2d9d09",
-      "title": "AI/ML Engineering Intern",
+      "title": "AI Engineering Intern",
       "company": "Mastercontrol",
       "companyDomain": "mastercontrol.com",
       "location": "Hybrid",
@@ -210,7 +345,7 @@
       "salaryMax": 72800,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-03T19:45:50.124Z",
+      "postedAt": "2026-10-03T21:46:04.136Z",
       "firstIndexedAt": "2026-10-04T03:48:31.011Z",
       "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Data---Analytics-Office-Intern_R160769-1"
     },
@@ -515,21 +650,6 @@
       "url": "https://job-boards.greenhouse.io/profluent/jobs/5441955008"
     },
     {
-      "id": "2ab682a6-3335-44e4-b88f-e96b1aa13f37",
-      "title": "Software Developer Intern",
-      "company": "Leidos",
-      "companyDomain": "leidos.com",
-      "location": "Annapolis Junction, MD",
-      "remoteType": "onsite",
-      "salaryMin": 48100,
-      "salaryMax": 86950,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-02T17:23:05.855Z",
-      "firstIndexedAt": "2026-10-03T13:36:17.337Z",
-      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00193804"
-    },
-    {
       "id": "4ffaa623-595f-4c35-87ca-9709b913dd2b",
       "title": "Product Management Intern",
       "company": "Trimble",
@@ -540,7 +660,7 @@
       "salaryMax": 58906,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-02T18:48:45.475Z",
+      "postedAt": "2026-10-02T20:22:55.930Z",
       "firstIndexedAt": "2026-10-03T12:08:14.203Z",
       "url": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Product-Management-Intern_R57893"
     },
@@ -780,7 +900,7 @@
       "salaryMax": 52000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-02T10:55:40.530Z",
+      "postedAt": "2026-10-02T23:15:10.513Z",
       "firstIndexedAt": "2026-10-03T03:21:00.342Z",
       "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---IT-Software-Engineer-NET--Summer-2027-_R23198"
     },
@@ -1020,7 +1140,7 @@
       "salaryMax": 82000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-02T07:57:00.395Z",
+      "postedAt": "2026-10-02T20:14:22.685Z",
       "firstIndexedAt": "2026-10-03T01:47:32.493Z",
       "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Systems-Engineering-Co-Op--2027-Summer-Fall----SOA-CAAS-Mainline-Platform--Onsite-_01879934"
     },
@@ -1065,7 +1185,7 @@
       "salaryMax": 47840,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-02T10:49:04.367Z",
+      "postedAt": "2026-10-03T00:29:41.102Z",
       "firstIndexedAt": "2026-10-02T23:43:50.584Z",
       "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Product-Design---Licensed-Toys-Intern--Spring-2027_10160441"
     },
@@ -1080,7 +1200,7 @@
       "salaryMax": 72800,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_first",
-      "postedAt": "2026-10-02T19:47:58.922Z",
+      "postedAt": "2026-10-02T22:57:47.940Z",
       "firstIndexedAt": "2026-10-02T23:38:10.759Z",
       "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Vancouver-Washington-United-States-of-America/AI-Applied-Engineering-Intern_UNI4670-2"
     },
@@ -1170,7 +1290,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-01T07:57:05.092Z",
+      "postedAt": "2026-10-01T20:14:31.945Z",
       "firstIndexedAt": "2026-10-02T23:02:08.047Z",
       "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/MCAD-Drafting-Services---Product-Definition-Co-Op--January-2027---Hybrid-_01873510"
     },
@@ -1185,7 +1305,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-01T07:57:05.885Z",
+      "postedAt": "2026-10-01T20:14:38.481Z",
       "firstIndexedAt": "2026-10-02T23:02:08.047Z",
       "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Aftermarket-and-Sustainment-Engineering---Repair-Design-Engineer-Co-Op--January-2027---Hybrid-_01874095"
     },
@@ -1200,7 +1320,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-01T07:57:05.604Z",
+      "postedAt": "2026-10-01T20:14:32.579Z",
       "firstIndexedAt": "2026-10-02T23:02:08.047Z",
       "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineering-Co-Op--January-2027---Hybrid-_01874122"
     },
@@ -1215,7 +1335,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-01T07:57:05.191Z",
+      "postedAt": "2026-10-01T20:14:31.998Z",
       "firstIndexedAt": "2026-10-02T23:02:08.047Z",
       "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer--DevSecOps-Co-Op--Summer-Fall-2027---Hybrid-_01873555"
     },
@@ -1230,7 +1350,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-01T07:57:05.001Z",
+      "postedAt": "2026-10-01T20:14:31.751Z",
       "firstIndexedAt": "2026-10-02T23:02:08.047Z",
       "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineering-Co-Op--Avionics---Summer-Fall-2027---Hybrid-_01874664"
     },
@@ -1245,7 +1365,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-01T07:57:05.606Z",
+      "postedAt": "2026-10-01T20:14:32.837Z",
       "firstIndexedAt": "2026-10-02T23:02:08.047Z",
       "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Product-Safety--Certification--and-Validation-Engineering---Co-Op--January-2027---Hybrid-_01873772"
     },
@@ -1260,7 +1380,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-01T07:57:06.128Z",
+      "postedAt": "2026-10-01T20:14:38.481Z",
       "firstIndexedAt": "2026-10-02T23:02:08.047Z",
       "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Aftermarket-and-Sustainment-Engineering---CE-Design-Engineer-Co-Op--January-2027---Hybrid-_01872853"
     },
@@ -1275,7 +1395,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-01T07:57:05.416Z",
+      "postedAt": "2026-10-01T20:14:32.419Z",
       "firstIndexedAt": "2026-10-02T23:02:08.047Z",
       "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Electrical-Engineer-COOP--RF-and-Digital-Design---January-2027---Hybrid-_01874113"
     },
@@ -1290,7 +1410,7 @@
       "salaryMax": 82000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-02T07:57:00.589Z",
+      "postedAt": "2026-10-02T20:14:22.792Z",
       "firstIndexedAt": "2026-10-02T23:01:58.040Z",
       "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-OH-UNIONTOWN-1555--1555-Corporate-Woods-Pkwy--CORP-WOODS/Mechanical-Design-Engineering-Co-op--Spring-2027-_01874486"
     },
@@ -1305,7 +1425,7 @@
       "salaryMax": 141600,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_first",
-      "postedAt": "2026-10-02T11:18:08.943Z",
+      "postedAt": "2026-10-03T00:50:39.678Z",
       "firstIndexedAt": "2026-10-02T22:19:46.618Z",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695"
     },
@@ -1320,7 +1440,7 @@
       "salaryMax": 123600,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-02T11:18:08.934Z",
+      "postedAt": "2026-10-03T00:50:39.729Z",
       "firstIndexedAt": "2026-10-02T22:19:46.618Z",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/GM-Automation---Sunnyvale---GM-Automation---Sunnyvale/XMLNAME-2027-Summer-Intern---Software-Engineer--AV-AI-Platform_JR-202621696"
     },
@@ -1335,7 +1455,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-02T11:18:08.879Z",
+      "postedAt": "2026-10-03T00:50:39.651Z",
       "firstIndexedAt": "2026-10-02T22:19:46.618Z",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Verification-Engineer--AV-AI-Platform_JR-202621697"
     },
@@ -1395,7 +1515,7 @@
       "salaryMax": 104400,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-02T11:18:10.243Z",
+      "postedAt": "2026-10-03T00:50:40.306Z",
       "firstIndexedAt": "2026-10-02T19:54:54.868Z",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Proving-Ground---Bldg-104A/XMLNAME-2027-Summer-Intern--Radar-Hardware-Development-Engineer---ASD_JR-202621645"
     },
@@ -1860,7 +1980,7 @@
       "salaryMax": 115200,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_first",
-      "postedAt": "2026-10-01T11:18:11.910Z",
+      "postedAt": "2026-10-02T00:50:41.328Z",
       "firstIndexedAt": "2026-10-02T03:10:09.341Z",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508"
     },
@@ -1875,7 +1995,7 @@
       "salaryMax": 175200,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_first",
-      "postedAt": "2026-10-01T11:18:11.894Z",
+      "postedAt": "2026-10-02T00:50:41.293Z",
       "firstIndexedAt": "2026-10-02T03:10:09.341Z",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicles--Simulation--PhD-_JR-202621511"
     },
@@ -2160,7 +2280,7 @@
       "salaryMax": 149602,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-02T19:34:10.494Z",
+      "postedAt": "2026-10-03T00:48:20.783Z",
       "firstIndexedAt": "2026-10-01T22:27:00.317Z",
       "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Engineering-PhD-Intern-New-2027_JR0287458-1"
     },
@@ -2205,24 +2325,9 @@
       "salaryMax": 82000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-01T07:57:11.643Z",
+      "postedAt": "2026-10-01T20:14:38.481Z",
       "firstIndexedAt": "2026-10-01T21:15:57.692Z",
       "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Software-Engineering-Intern--Summer-2027-_01873235"
-    },
-    {
-      "id": "fa2b1457-c12b-4c31-90bc-576e4a973fd3",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "company": "RTX (Raytheon)",
-      "companyDomain": "rtx.com",
-      "location": "US-CA-EL SEGUNDO-R01 ~ 2000 E Imperial Hwy ~ BLDG R01",
-      "remoteType": "hybrid",
-      "salaryMin": 42000,
-      "salaryMax": 88000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-01T07:57:11.643Z",
-      "firstIndexedAt": "2026-10-01T21:15:57.692Z",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Software-Engineering-Intern--Summer-2027-_01878820"
     },
     {
       "id": "c506110e-bddd-495c-adf7-7319be31ee4c",
@@ -2235,7 +2340,7 @@
       "salaryMax": 82000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-01T07:57:11.252Z",
+      "postedAt": "2026-10-01T20:14:38.481Z",
       "firstIndexedAt": "2026-10-01T21:15:51.657Z",
       "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01870343"
     },
@@ -2250,7 +2355,7 @@
       "salaryMax": 82000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-01T07:57:08.158Z",
+      "postedAt": "2026-10-01T20:14:38.481Z",
       "firstIndexedAt": "2026-10-01T21:15:48.159Z",
       "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineering-Intern--Summer-2027---Open-_01870974"
     },
@@ -2265,7 +2370,7 @@
       "salaryMax": 82000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-01T07:57:08.591Z",
+      "postedAt": "2026-10-01T20:14:38.481Z",
       "firstIndexedAt": "2026-10-01T21:15:48.159Z",
       "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Product-Quality-Engineering-Co-Op--Summer-Fall-2027-_01879021"
     },
@@ -2280,7 +2385,7 @@
       "salaryMax": 82000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-01T07:57:08.509Z",
+      "postedAt": "2026-10-01T20:14:38.481Z",
       "firstIndexedAt": "2026-10-01T21:15:48.159Z",
       "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Product-Quality-Engineering-Co-Op--Summer-Fall-2027-_01878918"
     },
@@ -2745,7 +2850,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-01T11:18:15.579Z",
+      "postedAt": "2026-10-02T00:50:43.689Z",
       "firstIndexedAt": "2026-10-01T12:41:02.827Z",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Summer-2027-Intern---Computational-Design-Intern_JR-202621454"
     },
@@ -3135,7 +3240,7 @@
       "salaryMax": 49920,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-30T18:43:01.052Z",
+      "postedAt": "2026-10-01T00:30:58.318Z",
       "firstIndexedAt": "2026-09-30T23:54:55.815Z",
       "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Product-Definition-Engineering-Intern--Commercial---Summer-2027_R5040755-2"
     },
@@ -3180,7 +3285,7 @@
       "salaryMax": 116480,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-30T10:16:23.018Z",
+      "postedAt": "2026-09-30T22:35:02.278Z",
       "firstIndexedAt": "2026-09-30T23:06:15.896Z",
       "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-Development-Engineer-Intern_2641772-2"
     },
@@ -3195,7 +3300,7 @@
       "salaryMax": 101920,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-30T10:16:23.018Z",
+      "postedAt": "2026-09-30T22:35:02.481Z",
       "firstIndexedAt": "2026-09-30T23:06:15.896Z",
       "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineering-Intern_2641572-1"
     },
@@ -3270,7 +3375,7 @@
       "salaryMax": 86950,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-30T19:52:21.229Z",
+      "postedAt": "2026-10-01T01:23:36.633Z",
       "firstIndexedAt": "2026-09-30T21:31:15.877Z",
       "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Embedded-Design-Engineering-Intern---Firmware_R-00193574"
     },
@@ -3285,7 +3390,7 @@
       "salaryMax": 104000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-30T18:36:09.953Z",
+      "postedAt": "2026-09-30T22:53:01.767Z",
       "firstIndexedAt": "2026-09-30T20:07:15.149Z",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-MBA-Intern---Product-Manager_R172261"
     },
@@ -3330,7 +3435,7 @@
       "salaryMax": 70720,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-30T18:47:33.258Z",
+      "postedAt": "2026-10-01T00:13:18.083Z",
       "firstIndexedAt": "2026-09-30T18:48:24.412Z",
       "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Fort-Smith-Arkansas-United-States-of-America/Electrical-Design-Engineer-Intern--Summer-2027_JR00045726"
     },
@@ -3345,7 +3450,7 @@
       "salaryMax": 70720,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-30T18:47:33.216Z",
+      "postedAt": "2026-10-01T00:13:18.087Z",
       "firstIndexedAt": "2026-09-30T18:48:24.412Z",
       "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Fort-Smith-Arkansas-United-States-of-America/Mechanical-Design-Engineer-Intern--Summer-2027_JR00045727"
     },
@@ -3380,21 +3485,6 @@
       "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152737589-data-analytics-intern-engineering-sap-operations?oga=true"
     },
     {
-      "id": "faa147c0-02b7-4f9d-b020-85045dfbf393",
-      "title": "Embedded Software Security Eng. Intern - S3E",
-      "company": "Globalhr",
-      "companyDomain": "globalhr.app",
-      "location": "US-AZ-TUCSON-801 ~ 1151 E Hermans Rd ~ BLDG 801 (External Site)",
-      "remoteType": "hybrid",
-      "salaryMin": 37000,
-      "salaryMax": 82000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-30T16:09:33.280Z",
-      "firstIndexedAt": "2026-09-30T17:30:33.284Z",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Embedded-Software-Security-Eng-Intern---S3E_01878712"
-    },
-    {
       "id": "02a1d234-107c-4937-911c-10d697540aba",
       "title": "AI SOC Power Delivery Pathfinding PhD Intern",
       "company": "Intel",
@@ -3405,7 +3495,7 @@
       "salaryMax": 142002,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-30T19:34:12.356Z",
+      "postedAt": "2026-10-01T00:48:21.936Z",
       "firstIndexedAt": "2026-09-30T16:57:50.683Z",
       "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-SOC-Power-Delivery-Pathfinding-PhD-Intern_JR0287538"
     },
@@ -3570,7 +3660,7 @@
       "salaryMax": 82000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-30T07:57:11.644Z",
+      "postedAt": "2026-09-30T20:14:38.482Z",
       "firstIndexedAt": "2026-09-30T10:31:31.433Z",
       "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering--Intern--Summer-2027-_01878986"
     },
@@ -3675,7 +3765,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "ai_first",
-      "postedAt": "2026-09-28T11:50:27.750Z",
+      "postedAt": "2026-09-29T01:39:37.987Z",
       "firstIndexedAt": "2026-09-30T04:58:03.793Z",
       "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/Data-Scientist-Intern_R2613623"
     },
@@ -3690,7 +3780,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-28T11:50:27.750Z",
+      "postedAt": "2026-09-29T01:39:37.682Z",
       "firstIndexedAt": "2026-09-30T04:58:03.793Z",
       "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/Intern--Business-Analyst_R2613712"
     },
@@ -3945,7 +4035,7 @@
       "salaryMax": 82000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-29T07:57:11.645Z",
+      "postedAt": "2026-09-29T20:14:38.482Z",
       "firstIndexedAt": "2026-09-30T02:17:58.187Z",
       "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Electrical-Design-Intern--Summer-2027-_01876761"
     },
@@ -3960,7 +4050,7 @@
       "salaryMax": 82000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-29T07:57:11.645Z",
+      "postedAt": "2026-09-29T20:14:38.482Z",
       "firstIndexedAt": "2026-09-30T02:17:55.725Z",
       "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Software-Engineering-Intern--Summer-2027-_01876848"
     },
@@ -3990,7 +4080,7 @@
       "salaryMax": 82000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-29T07:57:11.645Z",
+      "postedAt": "2026-09-29T20:14:38.482Z",
       "firstIndexedAt": "2026-09-30T02:17:53.623Z",
       "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Electrical-Design-Engineer-Intern--Summer-2027-_01877254"
     },
@@ -4470,7 +4560,7 @@
       "salaryMax": 108160,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-28T19:31:34.133Z",
+      "postedAt": "2026-09-29T01:47:20.267Z",
       "firstIndexedAt": "2026-09-29T17:46:28.934Z",
       "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Corvallis-Oregon-United-States-of-America/Electrical-Hardware-Engineering-Intern_UNI4760-1"
     },
@@ -4515,7 +4605,7 @@
       "salaryMax": 47840,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-28T10:49:06.186Z",
+      "postedAt": "2026-09-29T00:29:44.973Z",
       "firstIndexedAt": "2026-09-29T17:39:10.212Z",
       "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Marvel-and-Lucasfilm-Product-Design--Hardlines--Intern--Spring-2027_10160439"
     },
@@ -4530,7 +4620,7 @@
       "salaryMax": 47840,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-28T10:49:06.186Z",
+      "postedAt": "2026-09-29T00:29:45.043Z",
       "firstIndexedAt": "2026-09-29T17:39:10.212Z",
       "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Product-Design--Accessories--Intern--Spring-2027_10160436"
     },
@@ -4740,7 +4830,7 @@
       "salaryMax": 86950,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-28T19:52:22.547Z",
+      "postedAt": "2026-09-29T01:23:40.168Z",
       "firstIndexedAt": "2026-09-29T04:19:27.708Z",
       "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Data-Center-Design-Intern_R-00193261"
     },
@@ -4754,8 +4844,8 @@
       "salaryMin": 37000,
       "salaryMax": 82000,
       "salaryPeriod": "annual",
-      "aiRoleKind": "ai_first",
-      "postedAt": "2026-09-29T03:46:37.345Z",
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-10-05T20:14:10.284Z",
       "firstIndexedAt": "2026-09-29T01:38:47.498Z",
       "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Intern--Summer-2027-_01874556"
     },
@@ -4785,7 +4875,7 @@
       "salaryMax": 82000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-28T07:57:11.645Z",
+      "postedAt": "2026-09-28T20:14:38.482Z",
       "firstIndexedAt": "2026-09-29T01:38:46.131Z",
       "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineering-Intern--Summer-2027-_01871040"
     },
@@ -4815,7 +4905,7 @@
       "salaryMax": 82000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-28T07:57:11.645Z",
+      "postedAt": "2026-09-28T20:14:38.482Z",
       "firstIndexedAt": "2026-09-29T01:38:44.426Z",
       "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/XMLNAME-2027-Summer-Fall-Co-op--AGS-Software-Engineering--Onsite-_01871646"
     },
@@ -4830,7 +4920,7 @@
       "salaryMax": 82000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-28T07:57:11.645Z",
+      "postedAt": "2026-09-28T20:14:38.482Z",
       "firstIndexedAt": "2026-09-29T01:38:44.426Z",
       "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Research-Internship--Summer-2027----Onsite_01872177"
     },
@@ -4845,7 +4935,7 @@
       "salaryMax": 82000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-28T07:57:11.645Z",
+      "postedAt": "2026-09-28T20:14:38.482Z",
       "firstIndexedAt": "2026-09-29T01:38:40.573Z",
       "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Intern-----Summer-2027-_01867602"
     },
@@ -4875,7 +4965,7 @@
       "salaryMax": 82000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-28T07:57:11.645Z",
+      "postedAt": "2026-09-28T20:14:38.482Z",
       "firstIndexedAt": "2026-09-29T01:38:40.573Z",
       "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Intern--Summer-2027-_01869486"
     },
@@ -4995,7 +5085,7 @@
       "salaryMax": 82000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-28T07:57:11.646Z",
+      "postedAt": "2026-09-28T20:14:38.482Z",
       "firstIndexedAt": "2026-09-28T12:03:29.506Z",
       "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Platform-Systems-Engineering-Co-Op--Spring-Summer-2027----Onsite_01870366"
     },
@@ -5265,7 +5355,7 @@
       "salaryMax": 66560,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-09-25T18:44:39.848Z",
+      "postedAt": "2026-09-26T00:35:44.058Z",
       "firstIndexedAt": "2026-09-26T08:31:24.115Z",
       "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--AI-Software-Engineering--June-August-2027-_R26-6980-1"
     },
@@ -5280,7 +5370,7 @@
       "salaryMax": 66560,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-09-25T18:44:40.109Z",
+      "postedAt": "2026-09-26T00:35:43.721Z",
       "firstIndexedAt": "2026-09-26T08:31:24.115Z",
       "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Co-op--AI-Software-Engineering--6-8-months-_R26-6982-1"
     },
@@ -5580,7 +5670,7 @@
       "salaryMax": 149602,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-25T19:34:17.007Z",
+      "postedAt": "2026-09-26T00:48:23.650Z",
       "firstIndexedAt": "2026-09-25T20:43:53.132Z",
       "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/System-Software-Engineering---PhD-Intern_JR0287457"
     },
@@ -5595,7 +5685,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-25T11:50:27.750Z",
+      "postedAt": "2026-09-26T01:39:39.153Z",
       "firstIndexedAt": "2026-09-25T20:37:25.512Z",
       "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/EDI-IT-Software-Developer-Intern_R2612376"
     },
@@ -5604,13 +5694,13 @@
       "title": "Business Analytics Intern",
       "company": "Myhrabc",
       "companyDomain": "cencora.com",
-      "location": "2 Locations",
+      "location": "Remote, USA",
       "remoteType": "remote",
       "salaryMin": 37752,
       "salaryMax": 56650,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-25T11:50:27.750Z",
+      "postedAt": "2026-09-26T01:39:38.979Z",
       "firstIndexedAt": "2026-09-25T20:37:25.512Z",
       "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-USA/Business-Analytics-Intern_R2616423"
     },
@@ -5925,7 +6015,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-25T11:50:27.750Z",
+      "postedAt": "2026-09-26T01:39:39.998Z",
       "firstIndexedAt": "2026-09-25T09:40:44.707Z",
       "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Carrollton-TX/Intern-Technical-Business-Analyst---Product-Owner_R2613660"
     },
@@ -6855,7 +6945,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-23T19:09:58.459Z",
+      "postedAt": "2026-09-23T22:55:54.793Z",
       "firstIndexedAt": "2026-09-23T21:09:24.487Z",
       "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Data-Engineering-Intern_J2465581"
     },
@@ -6930,7 +7020,7 @@
       "salaryMax": 82000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-22T07:57:11.647Z",
+      "postedAt": "2026-09-22T20:14:38.483Z",
       "firstIndexedAt": "2026-09-23T20:16:10.877Z",
       "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Avionics-Computer-Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01872715"
     },
@@ -7620,7 +7710,7 @@
       "salaryMax": 62400,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-22T19:49:55.513Z",
+      "postedAt": "2026-09-23T00:28:25.306Z",
       "firstIndexedAt": "2026-09-23T00:11:02.558Z",
       "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Product-Management-Intern--Summer-2027---St-Louis--MO--US-_R-287625-1"
     },
@@ -8055,7 +8145,7 @@
       "salaryMax": 49920,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-09-21T18:43:06.979Z",
+      "postedAt": "2026-09-22T00:31:03.727Z",
       "firstIndexedAt": "2026-09-22T01:11:41.690Z",
       "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Austin/SaaS---Flight-Analytics-Platform---Data-Science-Co-op---Spring-2027_R5040450-2"
     },
@@ -8064,13 +8154,13 @@
       "title": "2027 Summer Intern - Digital Product: Embedded and Systems Engineering",
       "company": "General Motors",
       "companyDomain": "generalmotors.com",
-      "location": "4 Locations",
+      "location": "Warren, Michigan, United States of America",
       "remoteType": "hybrid",
       "salaryMin": 76800,
       "salaryMax": 123600,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-23T11:18:26.754Z",
+      "postedAt": "2026-09-24T00:50:52.620Z",
       "firstIndexedAt": "2026-09-22T00:39:27.050Z",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Embedded-and-Systems-Engineering_JR-202620513"
     },
@@ -8079,13 +8169,13 @@
       "title": "2027 Summer Intern - Digital Product: Software Engineering",
       "company": "General Motors",
       "companyDomain": "generalmotors.com",
-      "location": "5 Locations",
+      "location": "Warren, Michigan, United States of America",
       "remoteType": "hybrid",
       "salaryMin": 76800,
       "salaryMax": 123600,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-23T11:18:26.754Z",
+      "postedAt": "2026-09-24T00:50:52.823Z",
       "firstIndexedAt": "2026-09-22T00:39:20.450Z",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546"
     },
@@ -8280,7 +8370,7 @@
       "salaryMax": 47840,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-29T10:49:06.186Z",
+      "postedAt": "2026-09-30T00:29:44.668Z",
       "firstIndexedAt": "2026-09-19T19:28:15.652Z",
       "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/FX-Design---VFX-Intern--Spring-2027_10160082"
     },
@@ -8670,7 +8760,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-18T11:18:26.754Z",
+      "postedAt": "2026-09-19T00:50:56.130Z",
       "firstIndexedAt": "2026-09-18T22:28:49.463Z",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Product-Management--MBA-_JR-202620538"
     },
@@ -9240,7 +9330,7 @@
       "salaryMax": 82000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-28T07:57:11.646Z",
+      "postedAt": "2026-09-28T20:14:38.482Z",
       "firstIndexedAt": "2026-09-18T02:55:02.013Z",
       "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01875413"
     },
@@ -9450,7 +9540,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-09-17T17:55:37.694Z",
+      "postedAt": "2026-09-18T01:28:58.523Z",
       "firstIndexedAt": "2026-09-17T18:01:45.074Z",
       "url": "https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/Data-Science-Intern--Summer-2027-_WD50211"
     },
@@ -9650,21 +9740,6 @@
       "url": "https://jobs.ashbyhq.com/mercor/11516609-e54b-4087-87c2-e84a8bafbb5a"
     },
     {
-      "id": "f96e6943-addb-466c-9137-dc3ee9f348df",
-      "title": "Software Developer/ Engineer Intern - 2027 Summer Internship",
-      "company": "Nasdaq",
-      "companyDomain": "nasdaq.com",
-      "location": "GA - Glenridge Point",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-16T16:08:56.749Z",
-      "firstIndexedAt": "2026-09-17T09:53:23.060Z",
-      "url": "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/GA---Glenridge-Point/Software-Developer--Engineer-Intern---2027-Summer-Internship_R0026972"
-    },
-    {
       "id": "bcafac74-25b0-4d06-beb4-cf8663fdc1a3",
       "title": "Product Owner Intern - 2027 Summer Internship",
       "company": "Nasdaq",
@@ -9780,7 +9855,7 @@
       "salaryMax": 133502,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-09-16T19:34:17.008Z",
+      "postedAt": "2026-09-17T00:48:28.667Z",
       "firstIndexedAt": "2026-09-17T05:25:16.042Z",
       "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Operations-Research--Engineering-Analytics-Graduate-Intern_JR0286502"
     },
@@ -10140,7 +10215,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-16T11:07:12.768Z",
+      "postedAt": "2026-09-17T01:33:09.339Z",
       "firstIndexedAt": "2026-09-16T20:54:28.942Z",
       "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Sioux-Falls-South-Dakota/Data-Processing-Systems-Engineer-Intern_R2130060"
     },
@@ -10875,7 +10950,7 @@
       "salaryMax": 82000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-25T07:57:11.646Z",
+      "postedAt": "2026-09-25T20:14:38.483Z",
       "firstIndexedAt": "2026-09-16T03:24:49.641Z",
       "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Internship---Raytheon-Systems-Security-Engineer--Onsite_01874703"
     },
@@ -10890,7 +10965,7 @@
       "salaryMax": 82000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-25T07:57:11.646Z",
+      "postedAt": "2026-09-25T20:14:38.483Z",
       "firstIndexedAt": "2026-09-16T03:24:49.641Z",
       "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Internship---Raytheon-Systems-Security-Engineer--Onsite_01874700"
     },
@@ -10905,7 +10980,7 @@
       "salaryMax": 82000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-25T07:57:11.646Z",
+      "postedAt": "2026-09-25T20:14:38.483Z",
       "firstIndexedAt": "2026-09-16T03:24:48.159Z",
       "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/Internship---Raytheon-Systems-Security-Engineer-Onsite_01874705"
     },
@@ -10920,7 +10995,7 @@
       "salaryMax": 82000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-25T07:57:11.646Z",
+      "postedAt": "2026-09-25T20:14:38.483Z",
       "firstIndexedAt": "2026-09-16T03:24:48.159Z",
       "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Internship---Raytheon-Systems-Security-Engineer--Onsite_01874702"
     },
@@ -11370,7 +11445,7 @@
       "salaryMax": 64584,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-15T09:52:30.912Z",
+      "postedAt": "2026-09-15T23:17:30.065Z",
       "firstIndexedAt": "2026-09-15T18:10:53.216Z",
       "url": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228404"
     },
@@ -11415,7 +11490,7 @@
       "salaryMax": 52000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-28T10:55:40.834Z",
+      "postedAt": "2026-09-28T23:15:11.320Z",
       "firstIndexedAt": "2026-09-15T17:05:42.529Z",
       "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Madison-WI/XMLNAME-2026-Summer-Intern---IT-Software-Engineer---NET-Web_R23106"
     },
@@ -11430,7 +11505,7 @@
       "salaryMax": 52000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-28T10:55:40.815Z",
+      "postedAt": "2026-09-28T23:15:11.145Z",
       "firstIndexedAt": "2026-09-15T17:05:42.529Z",
       "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Madison-WI/Intern---UX-UI-Designer_R23119"
     },
@@ -11445,7 +11520,7 @@
       "salaryMax": 85696,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-09-14T17:23:14.345Z",
+      "postedAt": "2026-09-14T23:10:50.686Z",
       "firstIndexedAt": "2026-09-15T16:51:07.471Z",
       "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Grad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255744"
     },
@@ -11460,7 +11535,7 @@
       "salaryMax": 60050,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_enabled",
-      "postedAt": "2026-09-14T17:23:14.498Z",
+      "postedAt": "2026-09-14T23:10:50.646Z",
       "firstIndexedAt": "2026-09-15T16:51:07.471Z",
       "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Undergrad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255711"
     },
@@ -11469,13 +11544,13 @@
       "title": "Information Technology Intern",
       "company": "Analog Devices",
       "companyDomain": "analog.com",
-      "location": "2 Locations",
+      "location": "US, MA, Wilmington",
       "remoteType": "onsite",
       "salaryMin": 45760,
       "salaryMax": 85280,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-15T19:25:28.995Z",
+      "postedAt": "2026-09-15T20:37:15.608Z",
       "firstIndexedAt": "2026-09-15T15:20:27.491Z",
       "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Information-Technology-Intern_R266137"
     },
@@ -11484,13 +11559,13 @@
       "title": "Embedded Software Engineer Intern",
       "company": "Analog Devices",
       "companyDomain": "analog.com",
-      "location": "3 Locations",
+      "location": "US, MA, Wilmington",
       "remoteType": "onsite",
       "salaryMin": 45760,
       "salaryMax": 85280,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-15T19:25:28.995Z",
+      "postedAt": "2026-09-15T20:37:15.857Z",
       "firstIndexedAt": "2026-09-15T15:20:27.491Z",
       "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Embedded-Software-Engineer-Intern_R266132"
     },
@@ -11835,7 +11910,7 @@
       "salaryMax": 45760,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-29T10:49:06.186Z",
+      "postedAt": "2026-09-30T00:29:44.874Z",
       "firstIndexedAt": "2026-09-15T01:51:13.103Z",
       "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Disney-Live-Entertainment-Costume-Production-Intern--Spring-2027_10159481"
     },
@@ -11850,7 +11925,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-28T11:18:26.754Z",
+      "postedAt": "2026-09-29T00:50:49.489Z",
       "firstIndexedAt": "2026-09-15T01:16:43.355Z",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---IndyCar-Race-Strategy---Analytics_JR-202619990"
     },
@@ -11865,7 +11940,7 @@
       "salaryMax": 73200,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-14T11:18:26.755Z",
+      "postedAt": "2026-09-15T00:50:56.131Z",
       "firstIndexedAt": "2026-09-15T01:16:43.355Z",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Creative-Design--Interior-Exterior-_JR-202619314"
     },
@@ -11880,7 +11955,7 @@
       "salaryMax": 73200,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-14T11:18:26.755Z",
+      "postedAt": "2026-09-15T00:50:56.131Z",
       "firstIndexedAt": "2026-09-15T01:16:43.355Z",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Sculpting_JR-202619286"
     },
@@ -11895,7 +11970,7 @@
       "salaryMax": 73200,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-14T11:18:26.755Z",
+      "postedAt": "2026-09-15T00:50:56.131Z",
       "firstIndexedAt": "2026-09-15T01:16:43.355Z",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Clay-Sculpting_JR-202619287"
     },
@@ -11910,7 +11985,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-14T11:18:26.755Z",
+      "postedAt": "2026-09-15T00:50:56.131Z",
       "firstIndexedAt": "2026-09-15T01:16:43.355Z",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Human-Interface-Design_JR-202619285"
     },
@@ -12090,7 +12165,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-09-14T17:55:38.568Z",
+      "postedAt": "2026-09-15T01:28:58.960Z",
       "firstIndexedAt": "2026-09-14T19:11:34.937Z",
       "url": "https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/People-Analytics---AI-Intern--Summer-2027-_WD50216"
     },
@@ -12195,7 +12270,7 @@
       "salaryMax": 54080,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-11T09:46:46.210Z",
+      "postedAt": "2026-09-12T01:21:12.667Z",
       "firstIndexedAt": "2026-09-12T19:35:05.159Z",
       "url": "https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/P-C-Product-Management-Analyst-Intern_R0120949"
     },
@@ -12530,21 +12605,6 @@
       "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000148918178-cyber-security-internship-?oga=true"
     },
     {
-      "id": "e0ad8664-8fe1-4363-9787-3d7c56443c89",
-      "title": "Design Engineer Co-op",
-      "company": "Crane Company",
-      "companyDomain": "cranecompany.com",
-      "location": "Spartanburg, South Carolina",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-10T03:34:52.946Z",
-      "firstIndexedAt": "2026-09-12T09:00:53.359Z",
-      "url": "https://cranecompany.wd5.myworkdayjobs.com/careers/job/Spartanburg-South-Carolina/Design-Engineer-Co-op_JR102425"
-    },
-    {
       "id": "74ed724b-8585-44c0-b0c9-4905526d5f54",
       "title": "Data Engineer Intern",
       "company": "Oshkosh Corporation",
@@ -12675,7 +12735,7 @@
       "salaryMax": 74880,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-18T09:46:46.027Z",
+      "postedAt": "2026-09-19T01:21:12.505Z",
       "firstIndexedAt": "2026-09-12T03:08:47.354Z",
       "url": "https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Decision-Science-Analyst-Intern_R0120923"
     },
@@ -12780,7 +12840,7 @@
       "salaryMax": 85696,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_first",
-      "postedAt": "2026-09-14T17:23:14.418Z",
+      "postedAt": "2026-09-14T23:10:50.648Z",
       "firstIndexedAt": "2026-09-11T22:38:55.590Z",
       "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Grad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255743"
     },
@@ -12795,7 +12855,7 @@
       "salaryMax": 85696,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-09-14T17:23:14.344Z",
+      "postedAt": "2026-09-14T23:10:50.492Z",
       "firstIndexedAt": "2026-09-11T22:38:55.590Z",
       "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Grad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255745"
     },
@@ -12900,7 +12960,7 @@
       "salaryMax": 60050,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_first",
-      "postedAt": "2026-09-14T17:23:14.305Z",
+      "postedAt": "2026-09-14T23:10:50.610Z",
       "firstIndexedAt": "2026-09-11T18:37:07.592Z",
       "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Undergrad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255709"
     },
@@ -12915,7 +12975,7 @@
       "salaryMax": 60050,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-09-14T17:23:14.454Z",
+      "postedAt": "2026-09-14T23:10:50.695Z",
       "firstIndexedAt": "2026-09-11T18:37:07.592Z",
       "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Undergrad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255719"
     },
@@ -12930,7 +12990,7 @@
       "salaryMax": 85696,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-09-23T17:23:12.227Z",
+      "postedAt": "2026-09-23T23:10:48.170Z",
       "firstIndexedAt": "2026-09-11T18:37:07.592Z",
       "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Grad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255722"
     },
@@ -12945,7 +13005,7 @@
       "salaryMax": 60050,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-09-14T17:23:14.306Z",
+      "postedAt": "2026-09-14T23:10:51.337Z",
       "firstIndexedAt": "2026-09-11T18:37:07.592Z",
       "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Undergrad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255704"
     },
@@ -13410,7 +13470,7 @@
       "salaryMax": 82000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-10T07:57:11.651Z",
+      "postedAt": "2026-09-10T20:14:38.486Z",
       "firstIndexedAt": "2026-09-11T03:45:54.440Z",
       "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineer-Co-Op---Onsite_01871478"
     },
@@ -13425,7 +13485,7 @@
       "salaryMax": 82000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-10T07:57:11.651Z",
+      "postedAt": "2026-09-10T20:14:38.486Z",
       "firstIndexedAt": "2026-09-11T03:45:54.440Z",
       "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-109--400-Collins-Rd-NE--BLDG-109/Co-Op--Software-Engineer--Onsite_01871298"
     },
@@ -13740,7 +13800,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-10T08:48:13.546Z",
+      "postedAt": "2026-09-10T23:48:14.333Z",
       "firstIndexedAt": "2026-09-10T23:16:26.557Z",
       "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Instructional-Design-Intern---Spring-Summer-2027_R251139-1"
     },
@@ -14000,21 +14060,6 @@
       "url": "https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Bedford-MA/Design-and-Process-Engineering-Co-Op_REQ-14491"
     },
     {
-      "id": "e0e7d141-5ff5-49ce-b484-b307217336c3",
-      "title": "AI Continuous Improvement Co-Op",
-      "company": "Entegris",
-      "companyDomain": "entegris.com",
-      "location": "Decatur, TX",
-      "remoteType": "onsite",
-      "salaryMin": 41600,
-      "salaryMax": 62400,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-09-09T12:46:04.619Z",
-      "firstIndexedAt": "2026-09-10T15:26:36.060Z",
-      "url": "https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Decatur-TX/AI-Continuous-Improvement-Co-Op_REQ-14509"
-    },
-    {
       "id": "dd32269a-f85e-430f-af64-5f618fb15f70",
       "title": "Data Science Intern - Summer 2027",
       "company": "Meijer",
@@ -14025,7 +14070,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-09-08T19:47:04.487Z",
+      "postedAt": "2026-09-09T00:30:34.647Z",
       "firstIndexedAt": "2026-09-10T14:22:33.393Z",
       "url": "https://meijer.wd5.myworkdayjobs.com/Meijer/job/Grand-Rapids-MI/Data-Science-Intern---Summer-2027_R000699579"
     },
@@ -14040,7 +14085,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-08T19:47:05.335Z",
+      "postedAt": "2026-09-09T00:30:34.497Z",
       "firstIndexedAt": "2026-09-10T14:22:33.393Z",
       "url": "https://meijer.wd5.myworkdayjobs.com/Meijer/job/Grand-Rapids-MI/Information-Security-Intern--Summer-2027_R000698302"
     },
@@ -14115,7 +14160,7 @@
       "salaryMax": 82000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-09T07:57:11.651Z",
+      "postedAt": "2026-09-09T20:14:38.486Z",
       "firstIndexedAt": "2026-09-10T04:06:54.276Z",
       "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Co-op---Spring-Summer-2027-_01872230"
     },
@@ -14130,7 +14175,7 @@
       "salaryMax": 82000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-09T07:57:11.651Z",
+      "postedAt": "2026-09-09T20:14:38.486Z",
       "firstIndexedAt": "2026-09-10T04:06:54.276Z",
       "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Co-op--Summer-Fall-2027-_01872236"
     },
@@ -14175,7 +14220,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-09T08:48:13.546Z",
+      "postedAt": "2026-09-09T23:48:14.333Z",
       "firstIndexedAt": "2026-09-10T03:12:42.056Z",
       "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Loss-Prevention-Intern---Summer-2027_R250999"
     },
@@ -14280,7 +14325,7 @@
       "salaryMax": 74880,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-09T09:46:46.398Z",
+      "postedAt": "2026-09-10T01:21:13.086Z",
       "firstIndexedAt": "2026-09-10T00:36:13.015Z",
       "url": "https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Digital-Technical-Product-Management-Intern_R0120759"
     },
@@ -14880,7 +14925,7 @@
       "salaryMax": 68640,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-09T13:20:49.531Z",
+      "postedAt": "2026-09-10T01:51:32.805Z",
       "firstIndexedAt": "2026-09-09T11:31:29.081Z",
       "url": "https://amat.wd1.myworkdayjobs.com/external/job/GloucesterMA/XMLNAME-2027-Spring-Product-Quality-Engineer-Co-op----Bachelor-s--Gloucester--MA-_R2628291"
     },
@@ -14940,7 +14985,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-08T18:48:50.580Z",
+      "postedAt": "2026-09-08T20:23:00.303Z",
       "firstIndexedAt": "2026-09-09T09:20:17.947Z",
       "url": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Hardware-Software-Testing-Intern_R57677-1"
     },
@@ -14955,7 +15000,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-08T18:48:50.833Z",
+      "postedAt": "2026-09-08T20:23:00.484Z",
       "firstIndexedAt": "2026-09-09T09:20:17.947Z",
       "url": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676"
     },
@@ -14970,7 +15015,7 @@
       "salaryMax": 82000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-14T07:57:11.650Z",
+      "postedAt": "2026-09-14T20:14:38.485Z",
       "firstIndexedAt": "2026-09-09T09:13:53.907Z",
       "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineer-Intern---Summer-2027-_01870613"
     },
@@ -14985,7 +15030,7 @@
       "salaryMax": 82000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-08T07:57:11.651Z",
+      "postedAt": "2026-09-08T20:14:38.486Z",
       "firstIndexedAt": "2026-09-09T09:13:53.907Z",
       "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-Co-op--Summer-Fall-2027----Onsite_01871347"
     },
@@ -15000,7 +15045,7 @@
       "salaryMax": 82000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-08T07:57:11.652Z",
+      "postedAt": "2026-09-08T20:14:38.486Z",
       "firstIndexedAt": "2026-09-09T09:13:53.907Z",
       "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-192--1205-Continental-Place-NE--BLDG-192/KC-135-Platform-Systems-Engineering-Co-Op--Spring-Summer----Onsite_01870355"
     },
@@ -15015,7 +15060,7 @@
       "salaryMax": 82000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-25T07:57:11.646Z",
+      "postedAt": "2026-09-25T20:14:38.483Z",
       "firstIndexedAt": "2026-09-09T09:13:51.947Z",
       "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineering-Co-op--Fall-Spring-2027-_01872683"
     },
@@ -15255,7 +15300,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-08T11:18:26.755Z",
+      "postedAt": "2026-09-09T00:50:56.131Z",
       "firstIndexedAt": "2026-09-09T00:03:42.455Z",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---OnStar-Super-Cruise-Monetization-Intern-_JR-202617899"
     },
@@ -15360,7 +15405,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-08T10:18:39.519Z",
+      "postedAt": "2026-09-09T00:26:36.610Z",
       "firstIndexedAt": "2026-09-08T21:18:43.129Z",
       "url": "https://redhat.wd5.myworkdayjobs.com/Jobs/job/Raleigh/Software-Engineer-Co-op_R-059039"
     },
@@ -15375,7 +15420,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-08T10:18:39.264Z",
+      "postedAt": "2026-09-09T00:26:36.092Z",
       "firstIndexedAt": "2026-09-08T21:18:43.129Z",
       "url": "https://redhat.wd5.myworkdayjobs.com/Jobs/job/Raleigh/Technical-Product-Intern_R-059526-1"
     },
@@ -15390,7 +15435,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-08T10:18:39.490Z",
+      "postedAt": "2026-09-09T00:26:36.217Z",
       "firstIndexedAt": "2026-09-08T21:18:43.129Z",
       "url": "https://redhat.wd5.myworkdayjobs.com/Jobs/job/Raleigh/Product-Manager-Intern_R-059060"
     },
@@ -15570,7 +15615,7 @@
       "salaryMax": 68640,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_enabled",
-      "postedAt": "2026-09-08T19:31:39.137Z",
+      "postedAt": "2026-09-09T01:47:23.986Z",
       "firstIndexedAt": "2026-09-08T15:05:18.580Z",
       "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-Washington-United-States-of-America/Business-Intelligence-and-Infrastructure-Analysts--Intern_UNI4669-1"
     },
@@ -15585,7 +15630,7 @@
       "salaryMax": 83200,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-07T19:31:39.161Z",
+      "postedAt": "2026-09-08T01:47:24.091Z",
       "firstIndexedAt": "2026-09-08T15:05:18.580Z",
       "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer-Intern_UNI4740-1"
     },
@@ -15600,7 +15645,7 @@
       "salaryMax": 85280,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-09-06T19:17:51.653Z",
+      "postedAt": "2026-09-07T00:32:34.886Z",
       "firstIndexedAt": "2026-09-07T16:43:08.861Z",
       "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bloomington-Minnesota-United-States-of-America/HPC-AI-Systems-Administrator-Intern_1213396"
     },
@@ -16110,7 +16155,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-28T08:48:13.542Z",
+      "postedAt": "2026-09-28T23:48:14.332Z",
       "firstIndexedAt": "2026-09-04T22:49:38.939Z",
       "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Data-Analytics-Intern---Summer-2027_R250146"
     },
@@ -16125,7 +16170,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-28T08:48:13.542Z",
+      "postedAt": "2026-09-28T23:48:14.332Z",
       "firstIndexedAt": "2026-09-04T22:49:38.939Z",
       "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Data-Integration-Intern---Summer-2027_R250148"
     },
@@ -16140,7 +16185,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-28T08:48:13.542Z",
+      "postedAt": "2026-09-28T23:48:14.332Z",
       "firstIndexedAt": "2026-09-04T22:49:38.939Z",
       "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Cyber-Security-Intern--Summer-2027_R250153"
     },
@@ -16155,7 +16200,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-28T08:48:13.542Z",
+      "postedAt": "2026-09-28T23:48:14.332Z",
       "firstIndexedAt": "2026-09-04T22:49:38.939Z",
       "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/IT-Security-Loss-Prevention-Intern---Summer-2027_R250154"
     },
@@ -16170,39 +16215,9 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-28T08:48:13.542Z",
+      "postedAt": "2026-09-28T23:48:14.332Z",
       "firstIndexedAt": "2026-09-04T22:49:38.939Z",
       "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/UX-Design-Intern---Summer-2027_R250150"
-    },
-    {
-      "id": "2c51c1f3-bea9-47ec-8324-d49a777b3cda",
-      "title": "Data & Analytics Consulting Internship - Summer 2027",
-      "company": "Wipfli",
-      "companyDomain": "wipfli.com",
-      "location": "Radnor, PA, US",
-      "remoteType": "hybrid",
-      "salaryMin": 66560,
-      "salaryMax": 66560,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-03T04:00:00.000Z",
-      "firstIndexedAt": "2026-09-04T21:30:24.680Z",
-      "url": "https://careers-wipfli.icims.com/jobs/8296/data-%26-analytics-consulting-internship---summer-2027/job"
-    },
-    {
-      "id": "51bccf8b-5268-47d4-ab90-85b3c4e4603a",
-      "title": "Data & Analytics Consulting Internship - Summer 2027",
-      "company": "Wipfli",
-      "companyDomain": "wipfli.com",
-      "location": "Chicago, IL, US",
-      "remoteType": "hybrid",
-      "salaryMin": 66560,
-      "salaryMax": 66560,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-03T04:00:00.000Z",
-      "firstIndexedAt": "2026-09-04T21:30:24.680Z",
-      "url": "https://careers-wipfli.icims.com/jobs/8297/data-%26-analytics-consulting-internship---summer-2027/job"
     },
     {
       "id": "00161144-dd4f-420c-91e6-8feffd8bfe53",
@@ -16233,21 +16248,6 @@
       "postedAt": "2026-09-03T04:00:00.000Z",
       "firstIndexedAt": "2026-09-04T21:30:24.680Z",
       "url": "https://careers-wipfli.icims.com/jobs/8300/product-implementation-internship---summer-2027/job"
-    },
-    {
-      "id": "ea60770b-3ce3-4a01-b706-0fd09c5e0c56",
-      "title": "Product Implementation Internship - Summer 2027",
-      "company": "Wipfli",
-      "companyDomain": "wipfli.com",
-      "location": "Chicago, IL, US",
-      "remoteType": "hybrid",
-      "salaryMin": 66560,
-      "salaryMax": 66560,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-03T04:00:00.000Z",
-      "firstIndexedAt": "2026-09-04T21:30:24.680Z",
-      "url": "https://careers-wipfli.icims.com/jobs/8301/product-implementation-internship---summer-2027/job"
     },
     {
       "id": "0d4a9c54-5dd7-4b2b-8440-7d545ab2285b",
@@ -17004,13 +17004,13 @@
       "title": "2027 Intern - Software Engineer",
       "company": "Adobe",
       "companyDomain": "adobe.com",
-      "location": "7 Locations",
+      "location": "San Jose",
       "remoteType": "hybrid",
       "salaryMin": 79040,
       "salaryMax": 106080,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-18T18:36:10.016Z",
+      "postedAt": "2026-09-18T22:53:09.248Z",
       "firstIndexedAt": "2026-09-03T17:34:21.703Z",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666"
     },
@@ -19320,7 +19320,7 @@
       "salaryMax": 114400,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_first",
-      "postedAt": "2026-10-01T18:36:09.566Z",
+      "postedAt": "2026-10-01T22:53:01.803Z",
       "firstIndexedAt": "2026-09-01T14:35:46.918Z",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519"
     },
@@ -20085,7 +20085,7 @@
       "salaryMax": 72800,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-01T19:48:00.309Z",
+      "postedAt": "2026-10-01T22:57:49.551Z",
       "firstIndexedAt": "2026-08-28T20:40:14.082Z",
       "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Corvallis-Oregon-United-States-of-America/Software-and-Engineering-Intern-Roles---Imaging-and-Print_3168142"
     },
@@ -20130,7 +20130,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-28T10:55:40.749Z",
+      "postedAt": "2026-09-28T23:15:11.020Z",
       "firstIndexedAt": "2026-08-28T20:04:37.842Z",
       "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---Instructional-Design-and-Training-Development_R23044"
     },
@@ -20223,21 +20223,6 @@
       "postedAt": "2026-09-04T14:20:15.015Z",
       "firstIndexedAt": "2026-08-28T16:37:40.234Z",
       "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Atlanta-GA/University---2027-Summer-Games-Software-Developer-Intern---Atlanta--GA_R0248138"
-    },
-    {
-      "id": "fab7ac13-401a-4a2d-a59f-d21bb5a4fae4",
-      "title": "University - 2027 Summer Games Software Developer Intern - Charleston, SC",
-      "company": "Booz Allen Hamilton",
-      "companyDomain": "boozallen.com",
-      "location": "Charleston, SC",
-      "remoteType": "hybrid",
-      "salaryMin": 52900,
-      "salaryMax": 108000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-09-04T14:20:15.015Z",
-      "firstIndexedAt": "2026-08-28T16:37:40.234Z",
-      "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Charleston-SC/University---2027-Summer-Games-Software-Developer-Intern_R0248134"
     },
     {
       "id": "03cf5823-53fa-4574-a147-0bb4c81dd2b9",
@@ -20595,7 +20580,7 @@
       "salaryMax": 86950,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-17T19:52:22.548Z",
+      "postedAt": "2026-09-18T01:23:43.198Z",
       "firstIndexedAt": "2026-08-28T02:04:29.258Z",
       "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Software-Developer-Co-op_R-00190766"
     },
@@ -20610,7 +20595,7 @@
       "salaryMax": 86950,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-10T19:52:22.548Z",
+      "postedAt": "2026-09-11T01:23:43.198Z",
       "firstIndexedAt": "2026-08-28T02:04:29.258Z",
       "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Cybersecurity-Engineer-Co-op_R-00190764"
     },
@@ -21684,13 +21669,13 @@
       "title": "Analog Design Engineer Intern",
       "company": "Analog Devices",
       "companyDomain": "analog.com",
-      "location": "3 Locations",
+      "location": "US, MA, Wilmington",
       "remoteType": "onsite",
       "salaryMin": 45760,
       "salaryMax": 85280,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-16T19:25:28.995Z",
+      "postedAt": "2026-09-16T20:37:15.089Z",
       "firstIndexedAt": "2026-08-21T18:37:08.342Z",
       "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Analog-Design-Engineer-Intern_R265297"
     },
@@ -22653,21 +22638,6 @@
       "postedAt": "2026-08-18T14:00:24.000Z",
       "firstIndexedAt": "2026-08-18T18:30:51.322Z",
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012627"
-    },
-    {
-      "id": "ff62f26c-394d-41b8-99d4-f7833ea945d8",
-      "title": "Information Security Intern",
-      "company": "Myhrabc",
-      "companyDomain": "cencora.com",
-      "location": "2 Locations",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-18T15:42:31.629Z",
-      "firstIndexedAt": "2026-08-18T16:10:46.299Z",
-      "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/Information-Security-Intern_R2613700"
     },
     {
       "id": "00e044d2-0a09-4095-88e3-d397743344a0",
