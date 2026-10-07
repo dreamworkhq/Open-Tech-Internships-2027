@@ -1,4 +1,4 @@
-# Tech internships in Malta
+# Tech internships in Azerbaijan
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Betsson** | [AI Engineering Intern](https://job-boards.greenhouse.io/betsson/jobs/8176518) | Malta |  | 8d |
+| **Xsolla** | [AI-First Engineering Intern](https://jobs.lever.co/xsolla/b2615794-a2c1-4224-9d95-46a890f2a125) | Baku |  | 0d |
 
 <!-- TABLE_END -->
