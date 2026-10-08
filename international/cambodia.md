@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**1 currently open roles** · Updated **2026-10-07**
+**1 currently open roles** · Updated **2026-10-08**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Grab** | [Intern, Product Support](https://jobs.smartrecruiters.com/Grab/744000152841949-intern-product-support?oga=true) | Phnom Penh, , Cambodia |  | 6d |
+| **Grab** | [Intern, Product Support](https://jobs.smartrecruiters.com/Grab/744000152841949-intern-product-support?oga=true) | Phnom Penh, , Cambodia |  | 7d |
 
 <!-- TABLE_END -->

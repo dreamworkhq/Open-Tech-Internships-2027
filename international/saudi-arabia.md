@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**2 currently open roles** · Updated **2026-10-07**
+**2 currently open roles** · Updated **2026-10-08**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,7 +14,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Mastercard** | [Global Markets Summer Internship 2027- Product Management Intern & Sale…](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Riyadh-Saudi-Arabia/Global-Markets-Summer-Internship-2027--Product-Management-Intern---Sales-Analyst-Intern---Riyadh--Saudi-Arabia_R-292933-2) | Riyadh, Saudi Arabia |  | 0d |
-| **HPE** | [Data Solutions and Storage Intern (COOP)](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Riyadh-Riyadh-Saudi-Arabia/XMLNAME-00440K---Data-Solutions-and-Storage-Intern--COOP-_1212412) | Riyadh, Riyadh, Saudi Arabia (Hybrid) |  | 17d |
+| **Mastercard** | [Global Markets Summer Internship 2027- Product Management Intern & Sale…](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Riyadh-Saudi-Arabia/Global-Markets-Summer-Internship-2027--Product-Management-Intern---Sales-Analyst-Intern---Riyadh--Saudi-Arabia_R-292933-2) | Riyadh, Saudi Arabia |  | 1d |
+| **HPE** | [Data Solutions and Storage Intern (COOP)](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Riyadh-Riyadh-Saudi-Arabia/XMLNAME-00440K---Data-Solutions-and-Storage-Intern--COOP-_1212412) | Riyadh, Riyadh, Saudi Arabia (Hybrid) |  | 18d |
 
 <!-- TABLE_END -->
