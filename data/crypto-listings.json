@@ -1,10 +1,26 @@
 {
-  "generatedAt": "2026-10-07T23:42:22.715Z",
+  "generatedAt": "2026-10-08T23:58:06.873Z",
   "source": "dreamwork-public-job-index",
   "list": "Open-Tech-Internships-2027",
   "scope": "crypto",
-  "count": 115,
+  "count": 113,
   "listings": [
+    {
+      "id": "2da71c24-18b6-4746-aca8-3cadb391fc84",
+      "title": "Binance Accelerator Program - System Performance Engineer (AI)",
+      "company": "Binance",
+      "companyDomain": "binance.com",
+      "location": "Asia",
+      "locationCountryCode": null,
+      "functionPrimary": "Engineering",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-10-08T06:17:19.487Z",
+      "firstIndexedAt": "2026-10-08T07:15:39.855Z",
+      "url": "https://jobs.lever.co/binance/6b151b33-c7c6-4860-bb83-e800a75f7c29"
+    },
     {
       "id": "efa3c43c-68c7-4686-9ff3-ca05fa741791",
       "title": "Binance Accelerator Program - Ads Implementation",
@@ -588,7 +604,7 @@
       "companyDomain": "nxp.com",
       "location": "Sibiu",
       "locationCountryCode": "RO",
-      "functionPrimary": "Engineering",
+      "functionPrimary": "Operations",
       "remoteType": "hybrid",
       "salaryMin": null,
       "salaryMax": null,
@@ -742,22 +758,6 @@
       "url": "https://jobs.lever.co/binance/90f277fe-fd32-4027-be91-960677df96b3"
     },
     {
-      "id": "4c28ed6c-face-4835-9860-6c84c94e3627",
-      "title": "Binance Accelerator Program - Marketing BD Operations",
-      "company": "Binance",
-      "companyDomain": "binance.com",
-      "location": "Asia",
-      "locationCountryCode": null,
-      "functionPrimary": "Marketing",
-      "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-08-06T13:01:11.057Z",
-      "firstIndexedAt": "2026-08-09T12:45:09.408Z",
-      "url": "https://jobs.lever.co/binance/11876cc2-ff4f-44b5-be91-261b6534e55c"
-    },
-    {
       "id": "d88e7166-f9aa-4e72-93c8-0af02474c590",
       "title": "Binance Accelerator Program - Brand KOL",
       "company": "Binance",
@@ -788,22 +788,6 @@
       "postedAt": "2026-07-22T21:07:49.866Z",
       "firstIndexedAt": "2026-08-02T11:15:10.918Z",
       "url": "https://jobs.lever.co/certik/0b497f25-210b-408e-b2c3-e005c841d867"
-    },
-    {
-      "id": "2c91cb27-77df-48e9-818b-34e01320d8e0",
-      "title": "Binance Accelerator Program - VIP Middle Office",
-      "company": "Binance",
-      "companyDomain": "binance.com",
-      "location": "Hong Kong",
-      "locationCountryCode": "HK",
-      "functionPrimary": "Operations",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-07-29T10:12:20.423Z",
-      "firstIndexedAt": "2026-07-30T15:45:24.680Z",
-      "url": "https://jobs.lever.co/binance/9203cf32-910c-4431-be2d-78ecd5b40222"
     },
     {
       "id": "b0a693a1-d63b-4dc3-b7b9-2c7951346bb4",
@@ -1044,22 +1028,6 @@
       "postedAt": "2025-11-27T11:05:31.000Z",
       "firstIndexedAt": "2026-07-11T14:32:16.875Z",
       "url": "https://careers.tether.io/o/research-engineer-intern-videomultimodal-llm-remote"
-    },
-    {
-      "id": "90d39fd8-f9dc-47d7-aac0-f7bffa370760",
-      "title": "Binance Accelerator Program - VIP Support (Gulf Binance)",
-      "company": "Binance",
-      "companyDomain": "binance.com",
-      "location": "Thailand, Bangkok",
-      "locationCountryCode": "TH",
-      "functionPrimary": "Customer Success",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-07-09T07:09:11.201Z",
-      "firstIndexedAt": "2026-07-10T06:11:17.871Z",
-      "url": "https://jobs.lever.co/binance/eb8d067d-75be-4b54-848d-0f1bdb3ce63c"
     },
     {
       "id": "264fe936-8a95-49a0-8c7a-e629c40fc043",
