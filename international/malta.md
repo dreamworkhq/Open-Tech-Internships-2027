@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**1 currently open roles** · Updated **2026-10-08**
+**1 currently open roles** · Updated **2026-10-09**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Betsson** | [AI Engineering Intern](https://job-boards.greenhouse.io/betsson/jobs/8176518) | Malta |  | 9d |
+| **Betsson** | [AI Engineering Intern](https://job-boards.greenhouse.io/betsson/jobs/8176518) | Malta |  | 10d |
 
 <!-- TABLE_END -->
