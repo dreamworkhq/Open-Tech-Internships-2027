@@ -2,19 +2,20 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**14 currently open roles** · Updated **2026-10-09**
+**15 currently open roles** · Updated **2026-10-10**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-5) · 5 roles
+- [Engineering](#engineering-6) · 6 roles
 - [Other](#other-9) · 9 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (5)
+### Engineering (6)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
+| **Ericsson** | [Services Professional Intern IT - SENA](https://career2.successfactors.eu/careers?company=Ericsson&career_ns=job_listing&career_job_req_id=787344) | Distrito Capital, Cundinamarca, Colombia |  | 0d |
 | **Rockwell Automation** | [Intern Developer](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Medellin-Antioquia-Colombia/Intern-Developer_R26-7072) | Medellin, Antioquia, Colombia (Hybrid) |  | 1mo |
 | **Viamericas** | [Infrastructure Intern](https://jobs.lever.co/viamericas/440b7bc7-8733-46a5-99c6-4051fe9bb25b) | Medellin, Antioquia |  | 1mo |
 | **Sezzle** | [Software Engineer Intern](https://job-boards.greenhouse.io/sezzle/jobs/6233081003) | Remote (Colombia, Remote) |  | 4mo |
@@ -25,8 +26,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Sezzle** | [Product Intern](https://job-boards.greenhouse.io/sezzle/jobs/7695762003) | Remote (Bogota, Colombia) |  | 14d |
-| **Sezzle** | [Graphic Design Intern](https://job-boards.greenhouse.io/sezzle/jobs/8003784003) | Remote (Bogota, Colombia) |  | 14d |
+| **Sezzle** | [Product Intern](https://job-boards.greenhouse.io/sezzle/jobs/7695762003) | Remote (Bogota, Colombia) |  | 15d |
+| **Sezzle** | [Graphic Design Intern](https://job-boards.greenhouse.io/sezzle/jobs/8003784003) | Remote (Bogota, Colombia) |  | 15d |
 | **NielsenIQ** | [Intern Inteligencia de Mercados - Bogotá - Cali o Medellin](https://jobs.smartrecruiters.com/NielsenIQ/744000147546459-intern-inteligencia-de-mercados-bogota-cali-o-medellin?oga=true) | Bogotá, Bogota, Colombia (Hybrid) |  | 1mo |
 | **Sezzle** | [Product Design Intern](https://job-boards.greenhouse.io/sezzle/jobs/7559727003) | Remote (Colombia, Remote) |  | 1mo |
 | **Sezzle** | [Product Data Intern](https://job-boards.greenhouse.io/sezzle/jobs/6685976003) | Remote (Colombia, Remote) |  | 1mo |

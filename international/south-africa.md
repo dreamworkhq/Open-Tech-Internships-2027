@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**2 currently open roles** · Updated **2026-10-09**
+**2 currently open roles** · Updated **2026-10-10**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,7 +14,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Amazon** | [2027 IT Support Engineering Intern, Amazon Operations Technology Soluti…](https://www.amazon.jobs/en/jobs/10571842/2027-it-support-engineering-intern-amazon-operations-technology-solutions) | ZA, Johannesburg |  | 2d |
+| **Amazon** | [2027 IT Support Engineering Intern, Amazon Operations Technology Soluti…](https://www.amazon.jobs/en/jobs/10571842/2027-it-support-engineering-intern-amazon-operations-technology-solutions) | ZA, Johannesburg |  | 3d |
 | **Amazon** | [2027 Program/Product Manager Intern](https://www.amazon.jobs/en/jobs/10499684/2027-program-product-manager-intern) | ZA, Cape Town |  | 1mo |
 
 <!-- TABLE_END -->

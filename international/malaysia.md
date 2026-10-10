@@ -2,32 +2,34 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**56 currently open roles** · Updated **2026-10-09**
+**60 currently open roles** · Updated **2026-10-10**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-37) · 37 roles
-- [Data Science](#data-science-13) · 13 roles
+- [Engineering](#engineering-41) · 41 roles
+- [Data Science](#data-science-12) · 12 roles
 - [Security](#security-5) · 5 roles
-- [Other](#other-1) · 1 roles
+- [Other](#other-2) · 2 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (37)
+### Engineering (41)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **DXC Technology** | [Network / Infrastructure Engineer Internship (2026 Intake)](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MYS---PETALING-JAYA/Network---Infrastructure-Engineer-Internship--2026-Intake-_51580569) | MYS - PETALING JAYA |  | 1d |
-| **Eurofins** | [Internship - IT (Software)](https://jobs.smartrecruiters.com/Eurofins/744000153085752-internship-it-software-?oga=true) | Bukit Mertajam, Penang, Malaysia |  | 7d |
-| **PETRONAS** | [Internship for PDSB Sec Corporate AI, Data & Architecture, PETRONAS Dig…](https://epuc.fa.ap1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/job/30382) | Wilayah Persekutuan Kuala Lumpur, Malaysia |  | 7d |
-| **Astro** | [Astro Family Internship Programme 2027 – Technology & Data](https://astro.wd3.myworkdayjobs.com/Astro_Careers/job/All-Asia-Broadcast-Centre/Astro-Family-Internship-Programme-2027---Technology---Data_JR09939) | All Asia Broadcast Centre |  | 9d |
-| **Micron** | [Intern-Automation Engineer](https://micron.wd1.myworkdayjobs.com/External/job/Penang-Malaysia---Grande/Intern-Automation-Engineer_JR111391) | Penang, Malaysia - Grande |  | 9d |
-| **Experian** | [AI Developer Intern](https://jobs.smartrecruiters.com/Experian/744000152493589-ai-developer-intern?oga=true) | Cyberjaya, Selangor, Malaysia (Hybrid) |  | 9d |
-| **DXC Technology** | [Hybrid Cloud & Migration Services Intern](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MY012---Petaling-JayaMalaysiaMY012/Hybrid-Cloud---Migration-Services-Intern_51590044) | MY012 - Petaling Jaya,Malaysia(MY012) (Hybrid) |  | 10d |
-| **PETRONAS** | [Internship at Engineering Data Management (EDM) 2026 #1](https://epuc.fa.ap1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/job/29133) | Wilayah Persekutuan Kuala Lumpur, Malaysia |  | 18d |
-| **Careerseng Teleperformance** | [AI & Automation Intern - Penang](https://careerseng-teleperformance.icims.com/jobs/88608/ai-%26-automation-intern---penang/job) | MY |  | 20d |
-| **Careerseng Teleperformance** | [AI & Automation Intern - KL](https://careerseng-teleperformance.icims.com/jobs/88607/ai-%26-automation-intern---kl/job) | MY |  | 20d |
-| **Micron** | [Intern – NAND Intrinsic Reliability & Data Analytics](https://micron.wd1.myworkdayjobs.com/External/job/Penang-Malaysia---Grande/Intern---NAND-Intrinsic-Reliability---Data-Analytics_JR111279) | Penang, Malaysia - Grande |  | 23d |
+| **Razer** | [Product Engineer Intern](https://razer.wd3.myworkdayjobs.com/Careers/job/Shah-Alam/Product-Engineer-Intern_JR2026007903) | Shah Alam |  | 0d |
+| **AIA** | [Intern, Data Engineer](https://aia.wd3.myworkdayjobs.com/External/job/Kuala-Lumpur-AIA-Digital-Malaysia/Intern--Data-Engineer_JR-69839-1) | Kuala Lumpur, AIA Digital+ Malaysia |  | 0d |
+| **DXC Technology** | [Network / Infrastructure Engineer Internship (2026 Intake)](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MYS---PETALING-JAYA/Network---Infrastructure-Engineer-Internship--2026-Intake-_51580569) | MYS - PETALING JAYA |  | 2d |
+| **Eurofins** | [Internship - IT (Software)](https://jobs.smartrecruiters.com/Eurofins/744000153085752-internship-it-software-?oga=true) | Bukit Mertajam, Penang, Malaysia |  | 8d |
+| **PETRONAS** | [Internship for PDSB Sec Corporate AI, Data & Architecture, PETRONAS Dig…](https://epuc.fa.ap1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/job/30382) | Wilayah Persekutuan Kuala Lumpur, Malaysia |  | 8d |
+| **Astro** | [Astro Family Internship Programme 2027 – Technology & Data](https://astro.wd3.myworkdayjobs.com/Astro_Careers/job/All-Asia-Broadcast-Centre/Astro-Family-Internship-Programme-2027---Technology---Data_JR09939) | All Asia Broadcast Centre |  | 10d |
+| **Micron** | [Intern-Automation Engineer](https://micron.wd1.myworkdayjobs.com/External/job/Penang-Malaysia---Grande/Intern-Automation-Engineer_JR111391) | Penang, Malaysia - Grande |  | 10d |
+| **Experian** | [AI Developer Intern](https://jobs.smartrecruiters.com/Experian/744000152493589-ai-developer-intern?oga=true) | Cyberjaya, Selangor, Malaysia (Hybrid) |  | 10d |
+| **DXC Technology** | [Hybrid Cloud & Migration Services Intern](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MY012---Petaling-JayaMalaysiaMY012/Hybrid-Cloud---Migration-Services-Intern_51590044) | MY012 - Petaling Jaya,Malaysia(MY012) (Hybrid) |  | 11d |
+| **PETRONAS** | [Internship at Engineering Data Management (EDM) 2026 #1](https://epuc.fa.ap1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/job/29133) | Wilayah Persekutuan Kuala Lumpur, Malaysia |  | 19d |
+| **Careerseng Teleperformance** | [AI & Automation Intern - Penang](https://careerseng-teleperformance.icims.com/jobs/88608/ai-%26-automation-intern---penang/job) | MY |  | 21d |
+| **Careerseng Teleperformance** | [AI & Automation Intern - KL](https://careerseng-teleperformance.icims.com/jobs/88607/ai-%26-automation-intern---kl/job) | MY |  | 21d |
+| **Micron** | [Intern – NAND Intrinsic Reliability & Data Analytics](https://micron.wd1.myworkdayjobs.com/External/job/Penang-Malaysia---Grande/Intern---NAND-Intrinsic-Reliability---Data-Analytics_JR111279) | Penang, Malaysia - Grande |  | 24d |
 | **Bosch** | [Internship in IT Solution Developer](https://jobs.smartrecruiters.com/BoschGroup/744000148364924-internship-in-it-solution-developer?oga=true) | Batu Kawan, Penang, Malaysia |  | 1mo |
 | **Intel** | [System Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Kulim/System-Software-Engineering-Intern_JR0286933) | Malaysia, Kulim (Hybrid) |  | 1mo |
 | **Grab** | [Intern, Software Engineer Mobile](https://jobs.smartrecruiters.com/Grab/744000148399141-intern-software-engineer-mobile?oga=true) | Petaling Jaya, , Malaysia |  | 1mo |
@@ -49,24 +51,25 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **Western Digital** | [Internship - Software Development (Embedded)](https://jobs.smartrecruiters.com/WesternDigital/744000134410659-internship-software-development-embedded-?oga=true) | Petaling Jaya, Selangor, Malaysia |  | 3mo |
 | **Tencent** | [Game Site Reliability Engineer Intern (Malaysia)](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Malaysia-Kuala-Lumpur/Game-Site-Reliability-Engineer-Intern--Malaysia-_R107623) | Malaysia-Kuala Lumpur |  | 4mo |
 | **Micron** | [Intern - Support on Host Automation Enablement for Enclosure Attach](https://micron.wd1.myworkdayjobs.com/External/job/Penang-Malaysia---Grande/Intern---Support-on-Host-Automation-Enablement-for-Enclosure-Attach_JR96495) | Penang, Malaysia - Grande |  | 4mo |
+| **AIA** | [Intern , Cloud Application Transformation](https://aia.wd3.myworkdayjobs.com/External/job/Kuala-Lumpur-AIA-Digital-Malaysia/Intern---Cloud-Application-Transformation_JR-52207-1) | Kuala Lumpur, AIA Digital+ Malaysia |  | 4mo |
 | **Careerseng Teleperformance** | [Data Engineer Intern](https://careerseng-teleperformance.icims.com/jobs/67502/data-engineer-intern/job) | MY |  | 4mo |
+| **AIA** | [Internship - Technology/Data](https://aia.wd3.myworkdayjobs.com/External/job/Putrajaya-MY-AIA-Shared-Services-Malaysia/Internship---Technology-Data_JR-66507) | Putrajaya, MY-AIA Shared Services Malaysia |  | 4mo |
 | **Gen Digital** | [Data Engineer, Intern - MoneyLion](https://jobs.ashbyhq.com/gen-digital/ec9dc7d0-9ed2-4421-ad61-158462f59e27) | MYS - Kuala Lumpur |  | 4mo |
 | **Rytbank** | [Frontend Engineer Intern](https://rytbank.wd3.myworkdayjobs.com/External_Career/job/Kuala-Lumpur/Frontend-Engineer-Intern_JR00000554) | Kuala Lumpur |  | 4mo |
 | **NXP Semiconductors** | [Intern (Engineering & IT)](https://nxp.wd3.myworkdayjobs.com/careers/job/Kuala-Lumpur/Intern--Engineering-_R-10005472) | Kuala Lumpur |  | 4mo |
 | **Tencent** | [Database Administrator Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Malaysia-Kuala-Lumpur/Database-Administrator-Intern_R107380) | Malaysia-Kuala Lumpur |  | 4mo |
 
-### Data Science (13)
+### Data Science (12)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **PETRONAS** | [Internship at Financial & Enabler Analytics](https://epuc.fa.ap1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/job/30456) | Wilayah Persekutuan Kuala Lumpur, Malaysia |  | 4d |
+| **PETRONAS** | [Internship at Financial & Enabler Analytics](https://epuc.fa.ap1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/job/30456) | Wilayah Persekutuan Kuala Lumpur, Malaysia |  | 5d |
 | **PETRONAS** | [Internship for Technical Support, Turnaround Centralised Services, Comm…](https://epuc.fa.ap1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/job/30385) | Terengganu, Malaysia |  | 5d |
-| **PETRONAS** | [Business Intelligence Internship](https://epuc.fa.ap1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/job/30258) | Malaysia |  | 8d |
-| **Intel** | [IT Undergrad Technical Intern - AI and Data Analytics](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/IT-Undergrad-Technical-Intern---AI-and-Data-Analytics_JR0287585) | Malaysia, Penang (Hybrid) |  | 10d |
-| **DXC Technology** | [Business Intelligence (BI) Intern](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MYS---KUALA-LUMPUR/Business-Intelligence--BI--Intern_51590047) | MYS - KUALA LUMPUR (Hybrid) |  | 10d |
-| **PETRONAS** | [Internship for Science Computer, IT and Data Scientist](https://epuc.fa.ap1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/job/27952) | Melaka, Malaysia |  | 18d |
-| **Kimberlyclark** | [Insights & Analytics Intern](https://kimberlyclark.wd1.myworkdayjobs.com/global/job/Malaysia---Petaling-Jaya/Insights---Analytics-Intern_887140-1) | Malaysia - Petaling Jaya |  | 23d |
-| **SEEK** | [Product Analytics Intern](https://jobs.smartrecruiters.com/SEEK/744000148926619-product-analytics-intern?oga=true) | Kuala Lumpur, Wilayah Persekutuan Kuala Lum… (Hybrid) |  | 27d |
+| **PETRONAS** | [Business Intelligence Internship](https://epuc.fa.ap1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/job/30258) | Malaysia |  | 9d |
+| **Intel** | [IT Undergrad Technical Intern - AI and Data Analytics](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/IT-Undergrad-Technical-Intern---AI-and-Data-Analytics_JR0287585) | Malaysia, Penang (Hybrid) |  | 11d |
+| **DXC Technology** | [Business Intelligence (BI) Intern](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MYS---KUALA-LUMPUR/Business-Intelligence--BI--Intern_51590047) | MYS - KUALA LUMPUR (Hybrid) |  | 11d |
+| **PETRONAS** | [Internship for Science Computer, IT and Data Scientist](https://epuc.fa.ap1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/job/27952) | Melaka, Malaysia |  | 19d |
+| **SEEK** | [Product Analytics Intern](https://jobs.smartrecruiters.com/SEEK/744000148926619-product-analytics-intern?oga=true) | Kuala Lumpur, Wilayah Persekutuan Kuala Lum… (Hybrid) |  | 28d |
 | **Zurich Insurance** | [Data Science & AI Internship](https://career2.successfactors.eu/careers?company=SF2013&career_ns=job_listing&career_job_req_id=136253) | Malaysia |  | 1mo |
 | **Western Digital** | [Intern - Data Science](https://jobs.smartrecruiters.com/WesternDigital/744000141229015-intern-data-science?oga=true) | Bayan Lepas, Penang, Malaysia |  | 2mo |
 | **Jabil Circuit** | [Intern - Data Science](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Penang/Intern---Data-Science_J2417957) | Penang |  | 3mo |
@@ -77,16 +80,17 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Ensigninfosecurity** | [Cybersecurity Engineering Internship](https://ensigninfosecurity.wd3.myworkdayjobs.com/Ensign_Careers/job/Malaysia-Selangor/Cybersecurity-Engineering-Internship_JOBREQ-0002253) | Malaysia (Selangor) |  | 5d |
-| **DXC Technology** | [Cybersecurity Intern](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MY012---Petaling-JayaMalaysiaMY012/Cybersecurity-Intern_51590043) | MY012 - Petaling Jaya,Malaysia(MY012) (Hybrid) |  | 10d |
-| **PETRONAS** | [Internship for Cyber Strategy, Architecture & Governance, Cyber Securit…](https://epuc.fa.ap1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/job/29916) | Wilayah Persekutuan Kuala Lumpur, Malaysia |  | 18d |
+| **Ensigninfosecurity** | [Cybersecurity Engineering Internship](https://ensigninfosecurity.wd3.myworkdayjobs.com/Ensign_Careers/job/Malaysia-Selangor/Cybersecurity-Engineering-Internship_JOBREQ-0002253) | Malaysia (Selangor) |  | 6d |
+| **DXC Technology** | [Cybersecurity Intern](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MY012---Petaling-JayaMalaysiaMY012/Cybersecurity-Intern_51590043) | MY012 - Petaling Jaya,Malaysia(MY012) (Hybrid) |  | 11d |
+| **PETRONAS** | [Internship for Cyber Strategy, Architecture & Governance, Cyber Securit…](https://epuc.fa.ap1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/job/29916) | Wilayah Persekutuan Kuala Lumpur, Malaysia |  | 19d |
 | **Bybit** | [\[Intern\] Test Development Engineer Intern （Trading Engine）](https://job-boards.eu.greenhouse.io/bybit/jobs/4971452101) | Hong Kong SAR; Kuala Lumpur, Malaysia |  | 1mo |
 | **Logicalis** | [SOC Intern](https://logicalis.wd3.myworkdayjobs.com/LogicalisCareers/job/Kuala-Lumpur-MY/SOC-Intern_JR05344) | Kuala Lumpur, MY |  | 2mo |
 
-### Other (1)
+### Other (2)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
 | **Djeholdings** | [Intern](https://djeholdings.wd5.myworkdayjobs.com/edelman-careers-E200/job/Kuala-Lumpur-Malaysia/Intern_JR102743) | Kuala Lumpur, Malaysia (Hybrid) |  | 2mo |
+| **AIA** | [Intern, Cloud Application Transformation](https://aia.wd3.myworkdayjobs.com/External/job/Kuala-Lumpur-AIA-Digital-Malaysia/Intern---Cloud-Application-Transformation_JR-61493-2) | Kuala Lumpur, AIA Digital+ Malaysia |  | 4mo |
 
 <!-- TABLE_END -->
