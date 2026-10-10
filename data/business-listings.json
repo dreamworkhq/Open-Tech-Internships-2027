@@ -1,10 +1,100 @@
 {
-  "generatedAt": "2026-10-09T20:40:46.542Z",
+  "generatedAt": "2026-10-10T19:51:03.641Z",
   "source": "dreamwork-public-job-index",
   "list": "Open-Tech-Internships-2027",
   "scope": "business",
-  "count": 488,
+  "count": 487,
   "listings": [
+    {
+      "id": "63e686af-437d-4ded-976d-d78bf86357da",
+      "title": "AI & Data Analytics Intern - Supply Resilience 2027 internship",
+      "company": "Motorola Solutions",
+      "companyDomain": "motorolasolutions.com",
+      "location": "Greater Chicago Area",
+      "functionPrimary": "Data Science",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-09-17T19:33:31.444Z",
+      "firstIndexedAt": "2026-10-10T19:33:40.394Z",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Greater-Chicago-Area/AI---Data-Analytics-Intern----Supply-Resilience_R68261"
+    },
+    {
+      "id": "04a6c1e0-dc03-4bd8-9f8c-ccf6b79322c7",
+      "title": "2027 Finance - Private Equity Tax Compliance Co-Op",
+      "company": "Blackstone",
+      "companyDomain": "blackstone.com",
+      "location": "New York",
+      "functionPrimary": "Finance",
+      "remoteType": null,
+      "salaryMin": 60320,
+      "salaryMax": 60320,
+      "salaryPeriod": "annual",
+      "postedAt": "2026-10-09T17:03:15.408Z",
+      "firstIndexedAt": "2026-10-10T13:47:32.310Z",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/BX_External_Site/job/New-York/XMLNAME-2027-Finance---Private-Equity-Tax-Compliance-Co-Op_45794"
+    },
+    {
+      "id": "b0589abd-5341-4ae1-8f2f-6d56368178c7",
+      "title": "Finance - SEC Reporting Co-Op",
+      "company": "Blackstone",
+      "companyDomain": "blackstone.com",
+      "location": "New York",
+      "functionPrimary": "Finance",
+      "remoteType": null,
+      "salaryMin": 60320,
+      "salaryMax": 60320,
+      "salaryPeriod": "annual",
+      "postedAt": "2026-10-09T17:03:15.405Z",
+      "firstIndexedAt": "2026-10-10T13:47:32.310Z",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/BX_External_Site/job/New-York/Finance---SEC-Reporting-Co-Op_45895"
+    },
+    {
+      "id": "3288e8a4-28db-4bba-998e-53142c9500a7",
+      "title": "Intern - People Analytics (Summer 2027)",
+      "company": "Itron",
+      "companyDomain": "itron.com",
+      "location": "United States of America, Washington, Liberty Lake",
+      "functionPrimary": "Data Science",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-10-09T17:17:46.751Z",
+      "firstIndexedAt": "2026-10-10T02:22:05.643Z",
+      "url": "https://itron.wd5.myworkdayjobs.com/itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---People-Analytics--Summer-2027-_JR103033-1"
+    },
+    {
+      "id": "5109c40d-2301-447e-8c67-b51ade772a71",
+      "title": "Data Analytics Intern, Corporate Impact - MN",
+      "company": "Xcel Energy",
+      "companyDomain": "xcelenergy.com",
+      "location": "Minneapolis, MN, 55401",
+      "functionPrimary": "Data Science",
+      "remoteType": "hybrid",
+      "salaryMin": 37856,
+      "salaryMax": 40560,
+      "salaryPeriod": "annual",
+      "postedAt": "2026-10-09T12:15:59.011Z",
+      "firstIndexedAt": "2026-10-09T21:51:36.312Z",
+      "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Corporate-Impact-Intern---MN_JR115698"
+    },
+    {
+      "id": "d0d42b72-7ab2-4c78-b741-185ee65432b8",
+      "title": "Tax Technology Intern - Summer 2027 - Franklin, TN",
+      "company": "Alliance",
+      "companyDomain": "nissan.com",
+      "location": "Franklin, Tennessee - United States of America",
+      "functionPrimary": "Finance",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-10-09T12:03:31.129Z",
+      "firstIndexedAt": "2026-10-09T20:52:47.074Z",
+      "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Tax-Technology-Intern---Summer-2027---Franklin--TN_R00214237"
+    },
     {
       "id": "4555a1da-3b0b-44f2-bf12-546dc6b5afd7",
       "title": "Strategic Insight and Analytics Co-Op Off-Cycle (March - August)",
@@ -16,7 +106,7 @@
       "salaryMin": 54080,
       "salaryMax": 60320,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-09T20:14:02.972Z",
+      "postedAt": "2026-10-09T12:50:41.963Z",
       "firstIndexedAt": "2026-10-09T17:30:41.544Z",
       "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/Strategic-Insight-and-Analytics-Co-Op-Off-Cycle--March---August-_R-103640"
     },
@@ -31,7 +121,7 @@
       "salaryMin": 37440,
       "salaryMax": 43680,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-08T11:18:10.871Z",
+      "postedAt": "2026-10-08T13:39:12.083Z",
       "firstIndexedAt": "2026-10-09T10:04:22.878Z",
       "url": "https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers/job/Wilmington-DE/XMLNAME-2027-Summer-Internship---Business-Banking_R-104114-1"
     },
@@ -46,7 +136,7 @@
       "salaryMin": 37440,
       "salaryMax": 43680,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-08T11:18:10.899Z",
+      "postedAt": "2026-10-08T13:39:12.080Z",
       "firstIndexedAt": "2026-10-09T10:04:22.878Z",
       "url": "https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers/job/Wilmington-DE/XMLNAME-2027-Summer-internship---Finance_R-104109-2"
     },
@@ -181,7 +271,7 @@
       "salaryMin": 37000,
       "salaryMax": 82000,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-08T14:39:26.806Z",
+      "postedAt": "2026-10-08T18:52:44.274Z",
       "firstIndexedAt": "2026-10-08T23:28:13.023Z",
       "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-928--1151-E-Hermans-Rd--MULTI-PURPOSE-FAC-928/Finance-Intern--Fall-2026-_01881347"
     },
@@ -196,7 +286,7 @@
       "salaryMin": 37000,
       "salaryMax": 82000,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-08T14:39:26.804Z",
+      "postedAt": "2026-10-08T18:52:44.340Z",
       "firstIndexedAt": "2026-10-08T23:28:13.023Z",
       "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-9030--9030-S-Rita-Rd--BLDG-9030/Finance-Intern--Fall-2026-_01881177"
     },
@@ -226,7 +316,7 @@
       "salaryMin": 39520,
       "salaryMax": 39520,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-08T12:34:25.769Z",
+      "postedAt": "2026-10-08T14:31:08.916Z",
       "firstIndexedAt": "2026-10-08T18:43:58.771Z",
       "url": "https://wintrust.wd1.myworkdayjobs.com/Search/job/Chicago-IL/Wintrust-2027-Summer-Internship--Wealth-Management_261937"
     },
@@ -241,7 +331,7 @@
       "salaryMin": 39520,
       "salaryMax": 39520,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-08T12:34:26.333Z",
+      "postedAt": "2026-10-08T14:31:09.150Z",
       "firstIndexedAt": "2026-10-08T18:43:58.771Z",
       "url": "https://wintrust.wd1.myworkdayjobs.com/Search/job/Chicago-IL/Wintrust-2027-Summer-Internship--Commercial-Banking_261936"
     },
@@ -256,7 +346,7 @@
       "salaryMin": 39520,
       "salaryMax": 39520,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-08T12:34:26.503Z",
+      "postedAt": "2026-10-09T14:31:08.710Z",
       "firstIndexedAt": "2026-10-08T17:20:31.628Z",
       "url": "https://wintrust.wd1.myworkdayjobs.com/Search/job/Holland-MI/Wintrust-2027-Summer-Internship--Commercial-Banking--Michigan-_261945"
     },
@@ -271,7 +361,7 @@
       "salaryMin": 39520,
       "salaryMax": 39520,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-08T12:34:26.158Z",
+      "postedAt": "2026-10-08T14:31:09.110Z",
       "firstIndexedAt": "2026-10-08T17:20:31.628Z",
       "url": "https://wintrust.wd1.myworkdayjobs.com/Search/job/Denver-CO/Wintrust-2027-Summer-Internship--Commercial-Banking--Denver-_261940-1"
     },
@@ -286,7 +376,7 @@
       "salaryMin": 39520,
       "salaryMax": 39520,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-08T12:34:26.122Z",
+      "postedAt": "2026-10-08T14:31:09.121Z",
       "firstIndexedAt": "2026-10-08T17:20:31.628Z",
       "url": "https://wintrust.wd1.myworkdayjobs.com/Search/job/Rosemont-IL/Wintrust-2027-Summer-Internship--Finance-Accounting_261941-1"
     },
@@ -301,7 +391,7 @@
       "salaryMin": 39520,
       "salaryMax": 39520,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-08T12:34:25.853Z",
+      "postedAt": "2026-10-09T14:31:08.698Z",
       "firstIndexedAt": "2026-10-08T17:20:31.628Z",
       "url": "https://wintrust.wd1.myworkdayjobs.com/Search/job/Frisco-TX/Wintrust-2027-Summer-Internship--Commercial-Banking--Texas-_261946"
     },
@@ -316,7 +406,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-10-08T08:32:22.141Z",
+      "postedAt": "2026-10-08T12:03:31.825Z",
       "firstIndexedAt": "2026-10-08T15:57:35.873Z",
       "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Finance-Intern---Summer-2027---Franklin--TN_R00214239"
     },
@@ -331,7 +421,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-10-08T08:32:22.358Z",
+      "postedAt": "2026-10-08T12:03:32.144Z",
       "firstIndexedAt": "2026-10-08T14:30:20.518Z",
       "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/R-D-Tax-Credit-Intern---Summer-2027---Franklin--TN_R00214236"
     },
@@ -346,7 +436,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-10-09T01:35:02.398Z",
+      "postedAt": "2026-10-08T16:49:23.020Z",
       "firstIndexedAt": "2026-10-08T11:50:56.151Z",
       "url": "https://aptiv.wd5.myworkdayjobs.com/APTIV_CAREERS/job/Troy-MI---USA/Finance-Intern_J000704334"
     },
@@ -361,7 +451,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-10-07T23:55:15.294Z",
+      "postedAt": "2026-10-08T00:07:36.597Z",
       "firstIndexedAt": "2026-10-08T08:01:01.822Z",
       "url": "https://swbc.wd1.myworkdayjobs.com/swbccareers/job/San-Antonio-TX/Investment-Services-Intern_R0015648"
     },
@@ -481,7 +571,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-10-07T08:32:22.604Z",
+      "postedAt": "2026-10-07T12:03:32.215Z",
       "firstIndexedAt": "2026-10-07T23:17:56.840Z",
       "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Treasury-Capital-Markets-Intern---Summer-2027---Frankin--TN_R00214234"
     },
@@ -496,7 +586,7 @@
       "salaryMin": 136998,
       "salaryMax": 137002,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-07T14:39:04.554Z",
+      "postedAt": "2026-10-07T16:16:13.812Z",
       "firstIndexedAt": "2026-10-07T22:25:02.820Z",
       "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Data-Science-and-Analytics---PhD-Intern_JR0287859"
     },
@@ -511,9 +601,9 @@
       "salaryMin": 37855,
       "salaryMax": 77869,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-07T16:12:48.152Z",
+      "postedAt": "2026-10-07T10:03:55.760Z",
       "firstIndexedAt": "2026-10-07T22:07:31.415Z",
-      "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Analytics--Reston--VA-or-Remote-_R2603382-1"
+      "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Analytics--Reston--VA-or-Remote-_R2603382-1"
     },
     {
       "id": "86499362-667d-4d25-b143-32b747f9b586",
@@ -526,7 +616,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-10-07T08:32:23.317Z",
+      "postedAt": "2026-10-07T12:03:32.775Z",
       "firstIndexedAt": "2026-10-07T21:43:49.626Z",
       "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Treasury-Intern---Summer-2027---Franklin--HQ_R00214235"
     },
@@ -541,7 +631,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-10-07T08:32:23.418Z",
+      "postedAt": "2026-10-07T12:03:32.971Z",
       "firstIndexedAt": "2026-10-07T21:43:49.626Z",
       "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Treasury-Cash-Management-Intern---Summer-2027---Franklin--TN_R00214233"
     },
@@ -601,7 +691,7 @@
       "salaryMin": 37440,
       "salaryMax": 43680,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-07T11:18:11.306Z",
+      "postedAt": "2026-10-07T13:39:12.309Z",
       "firstIndexedAt": "2026-10-07T18:58:28.186Z",
       "url": "https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers/job/Wilmington-DE/XMLNAME-2027-Summer-Internship---Global-Capital-Markets_R-104105-2"
     },
@@ -616,7 +706,7 @@
       "salaryMin": 37440,
       "salaryMax": 43680,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-07T11:18:11.279Z",
+      "postedAt": "2026-10-07T13:39:12.271Z",
       "firstIndexedAt": "2026-10-07T18:58:28.186Z",
       "url": "https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers/job/Wilmington-DE/XMLNAME-2027-Summer-Internship---Trust---Wealth-Finance_R-104122-2"
     },
@@ -631,7 +721,7 @@
       "salaryMin": 37440,
       "salaryMax": 43680,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-07T11:18:11.347Z",
+      "postedAt": "2026-10-07T13:39:12.409Z",
       "firstIndexedAt": "2026-10-07T18:58:28.186Z",
       "url": "https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers/job/Berwyn-PA/XMLNAME-2027-Summer-Internship---Private-Banking_R-104107-2"
     },
@@ -691,7 +781,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-10-08T06:38:21.294Z",
+      "postedAt": "2026-10-07T19:06:37.445Z",
       "firstIndexedAt": "2026-10-07T02:37:54.411Z",
       "url": "https://highmarkhealth.wd1.myworkdayjobs.com/Highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Market-Analytics-Graduate-Intern_J285906"
     },
@@ -796,7 +886,7 @@
       "salaryMin": 49920,
       "salaryMax": 66560,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-06T19:24:43.879Z",
+      "postedAt": "2026-10-06T14:49:29.017Z",
       "firstIndexedAt": "2026-10-06T23:42:13.004Z",
       "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Intern---PLM-BI---Analytics_2641568-2"
     },
@@ -811,7 +901,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-10-06T16:12:48.521Z",
+      "postedAt": "2026-10-06T18:18:48.402Z",
       "firstIndexedAt": "2026-10-06T23:04:11.984Z",
       "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Finance-Intern--Year-Round-_R2026-3984"
     },
@@ -829,6 +919,21 @@
       "postedAt": "2026-10-06T12:17:58.000Z",
       "firstIndexedAt": "2026-10-06T22:50:03.948Z",
       "url": "https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/93389"
+    },
+    {
+      "id": "34d46fee-e56c-40a0-8588-0b0a5ec8f782",
+      "title": "Macy's 2027 Summer Internship – Consumer Insights: Customer & Digital Intelligence and Analytics",
+      "company": "Macy",
+      "companyDomain": "employeeconnection.net",
+      "location": "New York, NY, United States",
+      "functionPrimary": "Data Science",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-10-06T12:10:21.000Z",
+      "firstIndexedAt": "2026-10-06T22:50:03.948Z",
+      "url": "https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/93380"
     },
     {
       "id": "ef2f134e-c9d1-4def-a928-fb93547fc5a6",
@@ -871,7 +976,7 @@
       "salaryMin": 41600,
       "salaryMax": 83200,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-05T08:19:02.529Z",
+      "postedAt": "2026-10-05T11:32:26.066Z",
       "firstIndexedAt": "2026-10-06T15:31:47.210Z",
       "url": "https://gf.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Finance-Project-Management-Analyst-Intern--Summer-2027-_JR-2604486"
     },
@@ -886,7 +991,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-10-07T06:38:21.441Z",
+      "postedAt": "2026-10-06T19:06:37.613Z",
       "firstIndexedAt": "2026-10-06T13:47:22.837Z",
       "url": "https://highmarkhealth.wd1.myworkdayjobs.com/Highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-HMIG-Undergraduate-Financial-Analytics-Intern_J286836"
     },
@@ -901,7 +1006,7 @@
       "salaryMin": 41600,
       "salaryMax": 41600,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-05T20:32:28.765Z",
+      "postedAt": "2026-10-05T15:33:25.766Z",
       "firstIndexedAt": "2026-10-06T12:20:26.374Z",
       "url": "https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/Alpharetta-GA-Alderman/Data-Analyst-Intern_R119377"
     },
@@ -916,7 +1021,7 @@
       "salaryMin": 33010,
       "salaryMax": 91998,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-05T20:02:09.086Z",
+      "postedAt": "2026-10-05T17:17:47.267Z",
       "firstIndexedAt": "2026-10-06T11:17:18.037Z",
       "url": "https://itron.wd5.myworkdayjobs.com/itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---Treasury--Summer-2027-_JR102875-1"
     },
@@ -946,7 +1051,7 @@
       "salaryMin": 97200,
       "salaryMax": 104400,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-05T20:13:19.082Z",
+      "postedAt": "2026-10-05T13:40:38.512Z",
       "firstIndexedAt": "2026-10-05T23:36:36.241Z",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756"
     },
@@ -991,7 +1096,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-10-05T20:40:10.978Z",
+      "postedAt": "2026-10-05T14:08:35.543Z",
       "firstIndexedAt": "2026-10-05T04:46:18.617Z",
       "url": "https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Analytics-Intern_JR-125220"
     },
@@ -1006,7 +1111,7 @@
       "salaryMin": 47840,
       "salaryMax": 47840,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-03T19:22:55.343Z",
+      "postedAt": "2026-10-03T14:15:48.210Z",
       "firstIndexedAt": "2026-10-04T16:51:31.671Z",
       "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Finance---Data-Intern--Spring-2027_10160502-1"
     },
@@ -1026,21 +1131,6 @@
       "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Data---Analytics-Office-Intern_R160769-1"
     },
     {
-      "id": "e6da5911-57e3-4bcc-8954-4378eaca04e9",
-      "title": "Credit Analyst Intern- Summer",
-      "company": "ServisFirst Bank",
-      "companyDomain": "servisfirst.com",
-      "location": "Huntsville, AL, US",
-      "functionPrimary": "Finance",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-10-03T09:09:44.000Z",
-      "firstIndexedAt": "2026-10-04T02:35:19.200Z",
-      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=53296056-3592-4360-ac74-363cc7c14384&jobId=612254"
-    },
-    {
       "id": "2ceb703c-55bf-4ae4-a4dd-89a1e9ff31ad",
       "title": "2027 Co-op Data Analytics & Digital Tools (IOPS)",
       "company": "Regeneron",
@@ -1051,7 +1141,7 @@
       "salaryMin": 37232,
       "salaryMax": 53040,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-02T13:49:15.294Z",
+      "postedAt": "2026-10-02T17:15:57.398Z",
       "firstIndexedAt": "2026-10-03T17:30:59.840Z",
       "url": "https://regeneron.wd1.myworkdayjobs.com/Careers/job/RENSSELAER/XMLNAME-2027-Co-op-Data-Analytics---Digital-Tools--IOPS-_R50983-1"
     },
@@ -1081,24 +1171,9 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-10-02T16:34:06.464Z",
+      "postedAt": "2026-10-09T08:31:01.119Z",
       "firstIndexedAt": "2026-10-03T03:21:00.342Z",
       "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---Nelnet-Bank-Accountant_R23202"
-    },
-    {
-      "id": "ed122b40-b70f-4a5e-acea-130f624fc56b",
-      "title": "Intern - Treasury Management",
-      "company": "First Merchants Brand",
-      "companyDomain": "firstmerchants.com",
-      "location": "Indianapolis, 46240, United States",
-      "functionPrimary": "Finance",
-      "remoteType": null,
-      "salaryMin": 41600,
-      "salaryMax": 41600,
-      "salaryPeriod": "annual",
-      "postedAt": "2026-10-02T22:35:44.000Z",
-      "firstIndexedAt": "2026-10-03T02:40:04.719Z",
-      "url": "https://recruiting.ultipro.com/fir1024frme/jobboard/d8ba2a8e-910f-42cf-9614-28c6f0ccdee4/opportunitydetail?opportunityid=fb4d698f-7323-4b9f-8c06-a436f0ff2c7c"
     },
     {
       "id": "37f52d7e-6204-44d8-b1d3-5c6483768179",
@@ -1126,7 +1201,7 @@
       "salaryMin": 45760,
       "salaryMax": 87360,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-02T11:30:40.754Z",
+      "postedAt": "2026-10-02T15:08:54.528Z",
       "firstIndexedAt": "2026-10-02T23:08:10.484Z",
       "url": "https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Chicago-IL/Quant---Data-Analytics-Intern_R-4708"
     },
@@ -1171,7 +1246,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-10-02T10:18:52.998Z",
+      "postedAt": "2026-10-02T14:51:51.756Z",
       "firstIndexedAt": "2026-10-02T17:15:55.564Z",
       "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Enterprise-Analytics-Intern---Summer-2027_R9650"
     },
@@ -1216,7 +1291,7 @@
       "salaryMin": 63000,
       "salaryMax": 105000,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-01T18:46:27.116Z",
+      "postedAt": "2026-10-01T12:34:09.792Z",
       "firstIndexedAt": "2026-10-02T11:41:55.117Z",
       "url": "https://pnc.wd5.myworkdayjobs.com/External/job/NY---New-York-10173/Graduate-Intern--Portfolio-Management-and-Analytics--Chief-Investment-Office--CIO---Non-Campus-_R237633-1"
     },
@@ -1231,7 +1306,7 @@
       "salaryMin": 42640,
       "salaryMax": 54080,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-02T04:00:34.235Z",
+      "postedAt": "2026-10-01T08:17:59.149Z",
       "firstIndexedAt": "2026-10-02T05:53:07.981Z",
       "url": "https://rb.wd5.myworkdayjobs.com/FRS/job/Cleveland-OH/SCS---Advanced-Analytics-Intern---2027_R-0000033622"
     },
@@ -1246,7 +1321,7 @@
       "salaryMin": 41600,
       "salaryMax": 68640,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-02T04:00:34.232Z",
+      "postedAt": "2026-10-01T08:17:59.352Z",
       "firstIndexedAt": "2026-10-02T05:53:07.981Z",
       "url": "https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Summer-2027-Intern-Data-Science-and-Business-Analytics_R-0000033609"
     },
@@ -1261,7 +1336,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-10-01T14:14:32.332Z",
+      "postedAt": "2026-10-01T16:31:02.619Z",
       "firstIndexedAt": "2026-10-02T04:47:37.115Z",
       "url": "https://southstatebank.wd5.myworkdayjobs.com/external/job/Miami/Summer-2027-Commercial-Banking-Intern--Miami--FL_R-06315-1"
     },
@@ -1276,7 +1351,7 @@
       "salaryMin": 33010,
       "salaryMax": 91998,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-01T20:02:09.353Z",
+      "postedAt": "2026-10-01T17:17:47.372Z",
       "firstIndexedAt": "2026-10-02T01:36:46.155Z",
       "url": "https://itron.wd5.myworkdayjobs.com/itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---Accounting--Summer-2027-_JR102991-1"
     },
@@ -1306,7 +1381,7 @@
       "salaryMin": 33010,
       "salaryMax": 91998,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-06T20:02:08.819Z",
+      "postedAt": "2026-10-06T17:17:47.234Z",
       "firstIndexedAt": "2026-10-01T20:59:58.866Z",
       "url": "https://itron.wd5.myworkdayjobs.com/itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---Corporate-FP-A--Summer-2027-_JR102880-1"
     },
@@ -1321,7 +1396,7 @@
       "salaryMin": 33010,
       "salaryMax": 91998,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-01T20:02:09.347Z",
+      "postedAt": "2026-10-01T17:17:47.447Z",
       "firstIndexedAt": "2026-10-01T20:59:58.866Z",
       "url": "https://itron.wd5.myworkdayjobs.com/itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---Tax--Summer-2027-_JR102951-2"
     },
@@ -1336,7 +1411,7 @@
       "salaryMin": 54080,
       "salaryMax": 58240,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-01T11:04:37.819Z",
+      "postedAt": "2026-10-01T13:05:27.437Z",
       "firstIndexedAt": "2026-10-01T20:48:07.648Z",
       "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Product-Analytics-Summer-Intern---Start-Date--May-24--2027_26010180"
     },
@@ -1441,7 +1516,7 @@
       "salaryMin": 102960,
       "salaryMax": 102960,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-01T04:12:48.163Z",
+      "postedAt": "2026-09-30T19:03:58.292Z",
       "firstIndexedAt": "2026-09-30T19:14:07.876Z",
       "url": "https://rabobank.wd3.myworkdayjobs.com/jobs/job/New-York-NY/Strategy-and-Analytics-Summer-Intern_JR_00146303"
     },
@@ -1486,7 +1561,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-09-29T19:29:19.657Z",
+      "postedAt": "2026-09-29T11:10:18.398Z",
       "firstIndexedAt": "2026-09-30T04:58:03.793Z",
       "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Carrollton-TX/Intern--Customer-Account-setup-and-Credit_R2613801"
     },
@@ -1501,7 +1576,7 @@
       "salaryMin": 43680,
       "salaryMax": 87360,
       "salaryPeriod": "annual",
-      "postedAt": "2026-09-29T20:12:02.806Z",
+      "postedAt": "2026-09-29T10:02:13.367Z",
       "firstIndexedAt": "2026-09-30T02:19:59.269Z",
       "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Accounting-Intern--BS---Summer-2027_2604214-1"
     },
@@ -1516,7 +1591,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-09-29T09:45:43.103Z",
+      "postedAt": "2026-09-29T12:06:25.649Z",
       "firstIndexedAt": "2026-09-30T02:06:25.415Z",
       "url": "https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/Finance-Intern--Summer-2027-_WD50035"
     },
@@ -1561,7 +1636,7 @@
       "salaryMin": 54080,
       "salaryMax": 62400,
       "salaryPeriod": "annual",
-      "postedAt": "2026-09-28T14:08:28.515Z",
+      "postedAt": "2026-09-28T15:49:39.139Z",
       "firstIndexedAt": "2026-09-29T17:43:01.277Z",
       "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/GMC-Finance---Operations-Intern_1213363"
     },
@@ -1576,7 +1651,7 @@
       "salaryMin": 54080,
       "salaryMax": 62400,
       "salaryPeriod": "annual",
-      "postedAt": "2026-09-28T14:08:28.515Z",
+      "postedAt": "2026-09-28T15:49:39.139Z",
       "firstIndexedAt": "2026-09-29T17:42:59.054Z",
       "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Finance-Intern_1213639"
     },
@@ -1621,7 +1696,7 @@
       "salaryMin": 41600,
       "salaryMax": 41600,
       "salaryPeriod": "annual",
-      "postedAt": "2026-09-28T14:14:32.693Z",
+      "postedAt": "2026-09-28T16:31:03.600Z",
       "firstIndexedAt": "2026-09-29T12:51:41.135Z",
       "url": "https://southstatebank.wd5.myworkdayjobs.com/external/job/Remote-Opportunity---VA-NC-SC-GA--FL-AL-TX--CO/Summer-2027-Data-Analytics-Intern--Remote-_R-06279"
     },
@@ -1636,7 +1711,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-09-28T18:42:48.520Z",
+      "postedAt": "2026-09-28T13:17:27.488Z",
       "firstIndexedAt": "2026-09-29T12:05:19.140Z",
       "url": "https://zekelman.wd12.myworkdayjobs.com/Careers/job/Cambridge-OH/Intern--Finance-and-Analytics_JR002784"
     },
@@ -1651,7 +1726,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-09-28T18:30:35.914Z",
+      "postedAt": "2026-09-28T19:02:48.203Z",
       "firstIndexedAt": "2026-09-29T12:04:40.189Z",
       "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Summer-Internship-2027---Data-Analytics---Operational-Excellence_JR10442492"
     },
@@ -1666,7 +1741,7 @@
       "salaryMin": 41600,
       "salaryMax": 41600,
       "salaryPeriod": "annual",
-      "postedAt": "2026-09-28T16:11:05.993Z",
+      "postedAt": "2026-09-28T09:06:15.070Z",
       "firstIndexedAt": "2026-09-29T09:52:29.860Z",
       "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Summer-2027-FOX-News-Media-Internship-Program---Data-Analytics---New-York_R50033981"
     },
@@ -1729,21 +1804,6 @@
       "postedAt": "2026-09-28T04:00:00.000Z",
       "firstIndexedAt": "2026-09-28T22:46:49.188Z",
       "url": "https://us-erac.icims.com/jobs/568156/spring-2027-accounting-intern/job"
-    },
-    {
-      "id": "579fb1e8-a95f-4f72-b58b-7df8246e562a",
-      "title": "Summer 2027 - IE / Data Analytics Intern",
-      "company": "Jobs Onsemi",
-      "companyDomain": "onsemi.com",
-      "location": "Hopewell Junction, NY, United States",
-      "functionPrimary": "Data Science",
-      "remoteType": null,
-      "salaryMin": 54080,
-      "salaryMax": 91520,
-      "salaryPeriod": "annual",
-      "postedAt": "2026-09-28T19:32:13.000Z",
-      "firstIndexedAt": "2026-09-28T21:31:16.453Z",
-      "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506636"
     },
     {
       "id": "01aafea1-93b7-49c2-afde-69f3b20a073b",
@@ -1816,7 +1876,7 @@
       "salaryMin": 37752,
       "salaryMax": 56650,
       "salaryPeriod": "annual",
-      "postedAt": "2026-09-25T19:29:19.657Z",
+      "postedAt": "2026-09-25T11:10:19.500Z",
       "firstIndexedAt": "2026-09-25T20:37:25.512Z",
       "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-USA/Business-Analytics-Intern_R2616423"
     },
@@ -1831,7 +1891,7 @@
       "salaryMin": 41600,
       "salaryMax": 41600,
       "salaryPeriod": "annual",
-      "postedAt": "2026-09-25T16:11:05.916Z",
+      "postedAt": "2026-09-25T09:06:15.299Z",
       "firstIndexedAt": "2026-09-25T15:47:29.116Z",
       "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Spring-2027-FOX-News-Media-Internship-Program---Data-Analytics---New-York_R50033950"
     },
@@ -1846,7 +1906,7 @@
       "salaryMin": 41600,
       "salaryMax": 52000,
       "salaryPeriod": "annual",
-      "postedAt": "2026-09-24T20:01:04.159Z",
+      "postedAt": "2026-09-24T11:13:16.662Z",
       "firstIndexedAt": "2026-09-25T13:05:40.754Z",
       "url": "https://labcorp.wd1.myworkdayjobs.com/External/job/USA----WI---Milwaukee---3727-W-Wisconsin-Avenue/Intern---Commercial-Analytics_2633615"
     },
@@ -1921,7 +1981,7 @@
       "salaryMin": 37440,
       "salaryMax": 57200,
       "salaryPeriod": "annual",
-      "postedAt": "2026-09-24T05:48:52.829Z",
+      "postedAt": "2026-09-23T10:31:05.658Z",
       "firstIndexedAt": "2026-09-24T17:49:02.324Z",
       "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Data-Analytics-Co-Op_JR-051119"
     },
@@ -1966,7 +2026,7 @@
       "salaryMin": 56160,
       "salaryMax": 87360,
       "salaryPeriod": "annual",
-      "postedAt": "2026-09-23T19:44:52.322Z",
+      "postedAt": "2026-09-23T07:52:14.935Z",
       "firstIndexedAt": "2026-09-24T05:49:43.477Z",
       "url": "https://crowe.wd12.myworkdayjobs.com/External_Careers/job/Chicago-IL-USA/Accounting-Advisory-Intern---WINTER-2027_R-52338"
     },
@@ -1981,7 +2041,7 @@
       "salaryMin": 62400,
       "salaryMax": 62400,
       "salaryPeriod": "annual",
-      "postedAt": "2026-09-22T09:51:45.407Z",
+      "postedAt": "2026-09-22T11:34:35.803Z",
       "firstIndexedAt": "2026-09-23T09:27:02.640Z",
       "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Brea-California-United-States/IT-Data-Analyst-Intern_R1316675"
     },
@@ -2011,7 +2071,7 @@
       "salaryMin": 43700,
       "salaryMax": 90000,
       "salaryPeriod": "annual",
-      "postedAt": "2026-09-22T19:51:16.931Z",
+      "postedAt": "2026-09-22T13:03:49.934Z",
       "firstIndexedAt": "2026-09-23T00:24:22.251Z",
       "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University---Corporate-Finance-Intern_R0246500"
     },
@@ -2026,7 +2086,7 @@
       "salaryMin": 43700,
       "salaryMax": 90000,
       "salaryPeriod": "annual",
-      "postedAt": "2026-09-22T19:51:16.931Z",
+      "postedAt": "2026-09-22T13:03:49.934Z",
       "firstIndexedAt": "2026-09-23T00:24:22.251Z",
       "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University--Summer-2027---Accounting-Intern_R0250271"
     },
@@ -2101,7 +2161,7 @@
       "salaryMin": 37000,
       "salaryMax": 82000,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-08T14:39:31.170Z",
+      "postedAt": "2026-10-08T18:52:45.052Z",
       "firstIndexedAt": "2026-09-22T16:56:41.853Z",
       "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Finance-Intern--Summer-2027-_01872505"
     },
@@ -2116,7 +2176,7 @@
       "salaryMin": 49920,
       "salaryMax": 49920,
       "salaryPeriod": "annual",
-      "postedAt": "2026-09-21T20:08:45.793Z",
+      "postedAt": "2026-09-21T09:31:51.873Z",
       "firstIndexedAt": "2026-09-22T01:11:41.690Z",
       "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Austin/SaaS---Flight-Analytics-Platform---Data-Science-Co-op---Spring-2027_R5040450-2"
     },
@@ -2146,7 +2206,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-10-07T17:16:19.372Z",
+      "postedAt": "2026-10-07T19:00:58.656Z",
       "firstIndexedAt": "2026-09-21T21:43:01.624Z",
       "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Salt-Lake-City/Summer-2027-Data-Analytics-Intern_R4046487-1"
     },
@@ -2206,7 +2266,7 @@
       "salaryMin": 48880,
       "salaryMax": 109200,
       "salaryPeriod": "annual",
-      "postedAt": "2026-09-18T20:14:07.491Z",
+      "postedAt": "2026-09-18T12:50:49.156Z",
       "firstIndexedAt": "2026-09-19T00:26:33.864Z",
       "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Production-Data-Analyst-Co-Op_R-098904"
     },
@@ -2221,7 +2281,7 @@
       "salaryMin": 41600,
       "salaryMax": 70720,
       "salaryPeriod": "annual",
-      "postedAt": "2026-09-18T14:18:41.919Z",
+      "postedAt": "2026-09-18T16:18:49.065Z",
       "firstIndexedAt": "2026-09-18T23:05:44.575Z",
       "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-IL-Libertyville/Manufacturing-Data---Analytics-Co-Op---Spring-2027_WD229700"
     },
@@ -2251,7 +2311,7 @@
       "salaryMin": 45760,
       "salaryMax": 52000,
       "salaryPeriod": "annual",
-      "postedAt": "2026-09-18T12:26:13.303Z",
+      "postedAt": "2026-09-18T16:01:53.779Z",
       "firstIndexedAt": "2026-09-18T21:39:57.322Z",
       "url": "https://transamerica.wd5.myworkdayjobs.com/US/job/Cedar-Rapids-Iowa/Data-Analytics-Intern--Spring-2027--Full-time-Hours-_R20062776"
     },
@@ -2311,7 +2371,7 @@
       "salaryMin": 35443,
       "salaryMax": 47882,
       "salaryPeriod": "annual",
-      "postedAt": "2026-09-25T09:00:34.761Z",
+      "postedAt": "2026-09-25T22:52:12.343Z",
       "firstIndexedAt": "2026-09-18T13:39:12.928Z",
       "url": "https://pimacounty.wd5.myworkdayjobs.com/pimacareers/job/Tucson-AZ/Intern---Finance---Risk-Management---Procedures-and-Training-Division_JR104473"
     },
@@ -2326,7 +2386,7 @@
       "salaryMin": 35443,
       "salaryMax": 47882,
       "salaryPeriod": "annual",
-      "postedAt": "2026-09-25T09:00:34.495Z",
+      "postedAt": "2026-09-25T22:52:12.180Z",
       "firstIndexedAt": "2026-09-18T13:39:12.928Z",
       "url": "https://pimacounty.wd5.myworkdayjobs.com/pimacareers/job/Tucson-AZ/Intern---Finance---Risk-Management---Financial-Transactions-Division_JR104474"
     },
@@ -2341,37 +2401,22 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-09-29T18:51:39.099Z",
+      "postedAt": "2026-09-29T19:18:34.416Z",
       "firstIndexedAt": "2026-09-18T13:00:17.831Z",
       "url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-FL-JAX-347/Intern--Data-Analytics-and-AI--FIS-University-Program_JR0309690"
-    },
-    {
-      "id": "22bcbbd4-41fb-4075-9209-c1da6a14165c",
-      "title": "Intern - Year Round (Workplace Infrastructure & Analytics - Data Analyst)",
-      "company": "Navy Federal Credit Union",
-      "companyDomain": "navyfederal.org",
-      "location": "Vienna, VA, United States",
-      "functionPrimary": "Data Science",
-      "remoteType": "onsite",
-      "salaryMin": 43867,
-      "salaryMax": 75878,
-      "salaryPeriod": "annual",
-      "postedAt": "2026-09-17T21:50:40.000Z",
-      "firstIndexedAt": "2026-09-18T09:30:44.789Z",
-      "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/32376"
     },
     {
       "id": "6b9c3d71-87f0-40e5-9ca8-1ced3508fd8e",
       "title": "Summer 2027 Tax Credits & Incentives Intern",
       "company": "Bakertilly",
       "companyDomain": "bakertilly.com",
-      "location": "USA CA Irvine 2050 Main St",
+      "location": "6 Locations",
       "functionPrimary": "Finance",
       "remoteType": "onsite",
       "salaryMin": 57200,
       "salaryMax": 227136,
       "salaryPeriod": "annual",
-      "postedAt": "2026-09-17T18:57:13.983Z",
+      "postedAt": "2026-09-17T19:19:08.557Z",
       "firstIndexedAt": "2026-09-18T05:32:34.526Z",
       "url": "https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/USA-CA-Irvine-2050-Main-St/Summer-2027-Tax-Credits---Incentives-Intern_JR108142"
     },
@@ -2386,7 +2431,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-09-17T11:06:10.035Z",
+      "postedAt": "2026-09-17T12:31:13.051Z",
       "firstIndexedAt": "2026-09-17T23:56:59.488Z",
       "url": "https://jbhunt.wd501.myworkdayjobs.com/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Finance-Internship--Summer-2027_00644160"
     },
@@ -2401,7 +2446,7 @@
       "salaryMin": 44000,
       "salaryMax": 185000,
       "salaryPeriod": "annual",
-      "postedAt": "2026-09-17T19:51:09.261Z",
+      "postedAt": "2026-09-17T13:02:38.537Z",
       "firstIndexedAt": "2026-09-17T23:15:45.339Z",
       "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Data-Analyst-I--Intern----United-States_2024561-1"
     },
@@ -2461,7 +2506,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-10-09T09:22:00.323Z",
+      "postedAt": "2026-10-09T12:15:42.537Z",
       "firstIndexedAt": "2026-09-17T17:19:56.871Z",
       "url": "https://bbinsurance.wd1.myworkdayjobs.com/Careers/job/Daytona-Beach-FL-USA/Finance-Intern_R26_0000003182"
     },
@@ -2566,7 +2611,7 @@
       "salaryMin": 37440,
       "salaryMax": 76960,
       "salaryPeriod": "annual",
-      "postedAt": "2026-09-16T23:55:27.251Z",
+      "postedAt": "2026-09-16T16:01:12.300Z",
       "firstIndexedAt": "2026-09-17T01:27:19.041Z",
       "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/Supply-Chain-Intern---Data-Analytics---AI_R49953-1"
     },
@@ -2581,7 +2626,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-09-16T08:20:43.631Z",
+      "postedAt": "2026-09-16T12:02:27.155Z",
       "firstIndexedAt": "2026-09-16T22:51:16.693Z",
       "url": "https://worldvision.wd1.myworkdayjobs.com/WorldVisionInternational/job/Home-Working-United-States/Impact-Data-Analytics-Intern_JR52640"
     },
@@ -2701,7 +2746,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-09-16T02:15:41.502Z",
+      "postedAt": "2026-09-15T18:03:11.480Z",
       "firstIndexedAt": "2026-09-16T09:00:57.859Z",
       "url": "https://inmar.wd1.myworkdayjobs.com/inmarcareers/job/Headquarters-Winston-Salem-NC/Finance-Internships--Summer-2027_JY2627634"
     },
@@ -2716,7 +2761,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-09-16T02:15:41.571Z",
+      "postedAt": "2026-09-15T18:03:11.696Z",
       "firstIndexedAt": "2026-09-16T09:00:57.859Z",
       "url": "https://inmar.wd1.myworkdayjobs.com/inmarcareers/job/Headquarters-Winston-Salem-NC/Data--Analytics---AI-Internships--Summer-2027_JY2627632"
     },
@@ -2725,13 +2770,13 @@
       "title": "Summer 2027 Public Sector Finance Intern (Capital & Infrastructure - Debt Issuance)",
       "company": "Bakertilly",
       "companyDomain": "bakertilly.com",
-      "location": "USA IN Indianapolis",
+      "location": "2 Locations",
       "functionPrimary": "Finance",
       "remoteType": null,
       "salaryMin": 49400,
       "salaryMax": 165984,
       "salaryPeriod": "annual",
-      "postedAt": "2026-09-14T18:57:16.306Z",
+      "postedAt": "2026-09-14T19:19:08.557Z",
       "firstIndexedAt": "2026-09-16T07:13:49.103Z",
       "url": "https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/USA-IN-Indianapolis/Summer-2027-Public-Sector-Finance-Intern--Capital---Infrastructure---Debt-Issuance-_JR107991"
     },
@@ -2746,7 +2791,7 @@
       "salaryMin": 69711,
       "salaryMax": 97595,
       "salaryPeriod": "annual",
-      "postedAt": "2026-09-15T19:08:14.550Z",
+      "postedAt": "2026-09-15T15:53:32.604Z",
       "firstIndexedAt": "2026-09-16T06:56:37.533Z",
       "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/XMLNAME-2026-Intern-Conversion---Financial-Analyst-I_R72228"
     },
@@ -2761,24 +2806,9 @@
       "salaryMin": 65000,
       "salaryMax": 126880,
       "salaryPeriod": "annual",
-      "postedAt": "2026-09-15T18:02:07.916Z",
+      "postedAt": "2026-09-15T11:50:15.544Z",
       "firstIndexedAt": "2026-09-16T06:43:46.778Z",
       "url": "https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Madison-Wisconsin-United-States-of-America/GTM-Finance-F-S-Intern_R35523"
-    },
-    {
-      "id": "d72c1cda-ab7a-4da1-be72-33fcd428e250",
-      "title": "G&A Finance F&S Intern",
-      "company": "Zendesk",
-      "companyDomain": "zendesk.com",
-      "location": "Madison, Wisconsin, United States of America",
-      "functionPrimary": "Finance",
-      "remoteType": "hybrid",
-      "salaryMin": 65000,
-      "salaryMax": 126880,
-      "salaryPeriod": "annual",
-      "postedAt": "2026-09-15T08:35:11.289Z",
-      "firstIndexedAt": "2026-09-16T06:43:46.778Z",
-      "url": "https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Madison-Wisconsin-United-States-of-America/G-A-Finance-F-S-Intern_R35532"
     },
     {
       "id": "cb4e38bf-78ca-4bb2-8879-50916d1602da",
@@ -2806,7 +2836,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-09-14T19:23:37.875Z",
+      "postedAt": "2026-09-14T19:49:13.957Z",
       "firstIndexedAt": "2026-09-16T03:53:13.508Z",
       "url": "https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Business-Analytics-Intern---Consumer-Business-Group--CBG-_R01171049"
     },
@@ -2836,7 +2866,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-09-15T19:41:56.938Z",
+      "postedAt": "2026-09-15T10:18:24.658Z",
       "firstIndexedAt": "2026-09-15T18:51:12.336Z",
       "url": "https://qtsdatacenters.wd5.myworkdayjobs.com/QTS/job/Overland-Park-KS/Summer-2027-Internship--Tableau-Analytics-and-Business-Intelligence_R2026-2090"
     },
@@ -2851,7 +2881,7 @@
       "salaryMin": 39312,
       "salaryMax": 58032,
       "salaryPeriod": "annual",
-      "postedAt": "2026-09-14T09:36:02.179Z",
+      "postedAt": "2026-09-14T12:15:59.837Z",
       "firstIndexedAt": "2026-09-15T18:25:36.983Z",
       "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/AI-and-Analytics-Intern-MN--CO_JR115877-1"
     },
@@ -3166,7 +3196,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-09-28T20:13:25.048Z",
+      "postedAt": "2026-09-28T13:40:39.878Z",
       "firstIndexedAt": "2026-09-15T01:16:43.355Z",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---IndyCar-Race-Strategy---Analytics_JR-202619990"
     },
@@ -3229,21 +3259,6 @@
       "postedAt": "2026-09-14T04:00:00.000Z",
       "firstIndexedAt": "2026-09-14T20:17:00.570Z",
       "url": "https://us-erac.icims.com/jobs/565100/summer-2027-accounting-internship---chelsea-ma/job"
-    },
-    {
-      "id": "be60cccd-51ca-4c23-8f69-85067d2f3154",
-      "title": "People Analytics & AI Intern (Summer 2027)",
-      "company": "Clarios",
-      "companyDomain": "clarios.com",
-      "location": "United States, Wisconsin, Milwaukee",
-      "functionPrimary": "Data Science",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-09-14T15:49:10.514Z",
-      "firstIndexedAt": "2026-09-14T19:11:34.937Z",
-      "url": "https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/People-Analytics---AI-Intern--Summer-2027-_WD50216"
     },
     {
       "id": "33f2239d-dec1-42bb-8cdb-397f82b32766",
@@ -3376,7 +3391,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-09-11T09:32:16.396Z",
+      "postedAt": "2026-09-11T11:31:45.204Z",
       "firstIndexedAt": "2026-09-11T22:47:56.055Z",
       "url": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Treasury-Risk-Intern---Pittsburgh--PA_2026-02170"
     },
@@ -3481,7 +3496,7 @@
       "salaryMin": 63939,
       "salaryMax": 63939,
       "salaryPeriod": "annual",
-      "postedAt": "2026-09-11T19:27:44.668Z",
+      "postedAt": "2026-09-11T14:02:33.436Z",
       "firstIndexedAt": "2026-09-11T07:24:59.021Z",
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Data-Analyst_R_1510236"
     },
@@ -3526,7 +3541,7 @@
       "salaryMin": 41600,
       "salaryMax": 62400,
       "salaryPeriod": "annual",
-      "postedAt": "2026-09-10T17:17:56.292Z",
+      "postedAt": "2026-09-10T19:18:11.758Z",
       "firstIndexedAt": "2026-09-10T23:35:32.111Z",
       "url": "https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Danbury-CT/Portfolio-Analytics-Analyst-Co-Op_REQ-14499"
     },
@@ -3541,7 +3556,7 @@
       "salaryMin": 52000,
       "salaryMax": 227240,
       "salaryPeriod": "annual",
-      "postedAt": "2026-09-22T18:57:13.424Z",
+      "postedAt": "2026-09-22T19:19:08.363Z",
       "firstIndexedAt": "2026-09-10T22:36:43.525Z",
       "url": "https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/USA-CA-San-Francisco-333-Bush-St/Winter-2027-Tax-or-Audit-Internship_JR107914"
     },
@@ -3556,7 +3571,7 @@
       "salaryMin": 52000,
       "salaryMax": 52000,
       "salaryPeriod": "annual",
-      "postedAt": "2026-09-10T09:51:46.709Z",
+      "postedAt": "2026-09-10T11:34:37.270Z",
       "firstIndexedAt": "2026-09-10T21:17:41.177Z",
       "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Logan-Utah-United-States/Data-Analytics-Intern-Summer-2027_R1317525"
     },
@@ -3616,7 +3631,7 @@
       "salaryMin": 41600,
       "salaryMax": 62400,
       "salaryPeriod": "annual",
-      "postedAt": "2026-09-09T17:17:56.292Z",
+      "postedAt": "2026-09-10T05:32:58.857Z",
       "firstIndexedAt": "2026-09-10T15:26:36.060Z",
       "url": "https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Bedford-MA/Pricing---Commercial-Analytics-Co-op_REQ-14511"
     },
@@ -3631,7 +3646,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-09-10T14:14:34.592Z",
+      "postedAt": "2026-09-10T16:31:06.166Z",
       "firstIndexedAt": "2026-09-10T14:07:11.057Z",
       "url": "https://southstatebank.wd5.myworkdayjobs.com/external/job/McKinney-Henneman/Summer-2027-Commercial-Banking-Intern---McKinney--TX_R-06156"
     },
@@ -3766,7 +3781,7 @@
       "salaryMin": 29120,
       "salaryMax": 37440,
       "salaryPeriod": "annual",
-      "postedAt": "2026-09-28T16:34:06.849Z",
+      "postedAt": "2026-10-09T08:31:01.156Z",
       "firstIndexedAt": "2026-09-09T18:57:32.059Z",
       "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Internal-Audit-Intern_R23096"
     },
@@ -3781,7 +3796,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-10-07T10:31:07.485Z",
+      "postedAt": "2026-10-07T15:32:21.163Z",
       "firstIndexedAt": "2026-09-09T17:34:45.957Z",
       "url": "https://simmonsbank.wd5.myworkdayjobs.com/SimmonsCareers/job/Columbia-MO/Investment-Services-Intern_R115475"
     },
@@ -4161,6 +4176,21 @@
       "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/344176"
     },
     {
+      "id": "5ddf2082-aa50-480f-8faa-c716d97c1ce7",
+      "title": "2027 Business Analytics Intern",
+      "company": "Schonfeld",
+      "companyDomain": "schonfeld.com",
+      "location": "New York, New York, United States",
+      "functionPrimary": "Data Science",
+      "remoteType": "onsite",
+      "salaryMin": 100000,
+      "salaryMax": 115000,
+      "salaryPeriod": "annual",
+      "postedAt": "2026-09-04T16:41:51.000Z",
+      "firstIndexedAt": "2026-09-05T07:45:29.937Z",
+      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171703"
+    },
+    {
       "id": "07b37f20-7690-407c-a8d8-a022af795c1b",
       "title": "Summer 2027 Global Technical Learning Center Data Analyst Intern- Bachelor's/Master's (Albany, NY)",
       "company": "Applied Materials",
@@ -4201,7 +4231,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-09-28T20:24:27.877Z",
+      "postedAt": "2026-09-28T19:47:15.905Z",
       "firstIndexedAt": "2026-09-04T22:49:38.939Z",
       "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Data-Analytics-Intern---Summer-2027_R250146"
     },
@@ -4216,7 +4246,7 @@
       "salaryMin": 41600,
       "salaryMax": 72800,
       "salaryPeriod": "annual",
-      "postedAt": "2026-09-09T19:17:28.847Z",
+      "postedAt": "2026-09-10T00:23:48.492Z",
       "firstIndexedAt": "2026-09-04T21:24:37.792Z",
       "url": "https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Greenwood-Village-Colorado/XMLNAME-2027-Finance-Summer-Intern---Colorado_R572729"
     },
@@ -5136,21 +5166,6 @@
       "url": "https://roberthalf.wd1.myworkdayjobs.com/ProtivitiNA/job/ST-LOUIS/St-Louis-Internal-Audit-and-Financial-Advisory-Intern---2027_JR-258900"
     },
     {
-      "id": "3b4dece6-71f9-4921-a3a1-1c48d49d8feb",
-      "title": "Tax Technology Intern - Summer 2027",
-      "company": "Scout",
-      "companyDomain": "grantthornton.com",
-      "location": "Bellevue, WA, United States",
-      "functionPrimary": "Finance",
-      "remoteType": "hybrid",
-      "salaryMin": 83200,
-      "salaryMax": 83200,
-      "salaryPeriod": "annual",
-      "postedAt": "2026-09-01T22:46:30.000Z",
-      "firstIndexedAt": "2026-09-02T01:30:30.720Z",
-      "url": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/job/115822"
-    },
-    {
       "id": "57e57dd6-73ef-4689-9b70-4326564a94f7",
       "title": "Spring 2027 Accounting Internship - Renton",
       "company": "Us Erac",
@@ -6016,7 +6031,7 @@
       "salaryMin": 40000,
       "salaryMax": 80000,
       "salaryPeriod": "annual",
-      "postedAt": "2026-09-25T20:20:08.736Z",
+      "postedAt": "2026-09-25T11:05:41.875Z",
       "firstIndexedAt": "2026-08-28T21:08:14.254Z",
       "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Boeing-Summer-2027-Internship-Program--PAID----Finance--Evergreen-_JR2026519225-1"
     },
@@ -6031,7 +6046,7 @@
       "salaryMin": 33280,
       "salaryMax": 37440,
       "salaryPeriod": "annual",
-      "postedAt": "2026-09-28T16:34:06.997Z",
+      "postedAt": "2026-09-28T08:31:02.003Z",
       "firstIndexedAt": "2026-08-28T20:04:37.842Z",
       "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---Tax-Accounting---Spring--2026_R23056"
     },
@@ -6136,7 +6151,7 @@
       "salaryMin": 37440,
       "salaryMax": 57200,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-06T05:48:52.596Z",
+      "postedAt": "2026-10-05T10:31:05.262Z",
       "firstIndexedAt": "2026-08-26T10:26:59.380Z",
       "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Power-BI-Ops-Analytics-Co-op_JR-051236"
     },
@@ -6181,7 +6196,7 @@
       "salaryMin": 60320,
       "salaryMax": 104000,
       "salaryPeriod": "annual",
-      "postedAt": "2026-09-30T18:32:22.083Z",
+      "postedAt": "2026-09-30T19:04:46.568Z",
       "firstIndexedAt": "2026-08-24T11:47:22.814Z",
       "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Analytics---Insights-Internship_R000157696"
     },
@@ -6196,7 +6211,7 @@
       "salaryMin": 60320,
       "salaryMax": 104000,
       "salaryPeriod": "annual",
-      "postedAt": "2026-09-30T18:32:22.086Z",
+      "postedAt": "2026-09-30T19:04:46.495Z",
       "firstIndexedAt": "2026-08-24T11:47:22.814Z",
       "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Analytics---Insights-Internship--Advanced-Analytics-_R000157697"
     },
@@ -6576,21 +6591,6 @@
       "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Finance-Co-op---US---Fall-2027_R5030148-1"
     },
     {
-      "id": "75057c52-39e2-4965-90e5-1334c18f6261",
-      "title": "Finance Intern – US – Summer 2027",
-      "company": "GE Aerospace",
-      "companyDomain": "geaerospace.com",
-      "location": "Evendale",
-      "functionPrimary": "Finance",
-      "remoteType": "onsite",
-      "salaryMin": 37960,
-      "salaryMax": 37960,
-      "salaryPeriod": "annual",
-      "postedAt": "2026-08-18T06:46:41.695Z",
-      "firstIndexedAt": "2026-08-17T20:42:10.744Z",
-      "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Finance-Intern---US---Summer-2027_R5030147-1"
-    },
-    {
       "id": "b1416f67-20e2-4908-99f7-ae39c699ebdc",
       "title": "Planning Analytics Intern (Summer 2027)",
       "company": "Vertiv",
@@ -6721,7 +6721,7 @@
       "salaryMin": 56160,
       "salaryMax": 87360,
       "salaryPeriod": "annual",
-      "postedAt": "2026-09-30T19:44:50.767Z",
+      "postedAt": "2026-09-30T07:52:13.705Z",
       "firstIndexedAt": "2026-08-13T23:30:50.182Z",
       "url": "https://crowe.wd12.myworkdayjobs.com/External_Careers/job/Chicago-IL-USA/Tax-Intern-Summer-2027_R-49475"
     },
@@ -6751,24 +6751,9 @@
       "salaryMin": 56160,
       "salaryMax": 87360,
       "salaryPeriod": "annual",
-      "postedAt": "2026-09-30T19:44:50.208Z",
+      "postedAt": "2026-09-30T07:52:13.278Z",
       "firstIndexedAt": "2026-08-13T23:30:50.182Z",
       "url": "https://crowe.wd12.myworkdayjobs.com/External_Careers/job/Chicago-IL-USA/Audit-Intern-Summer-2027_R-51071"
-    },
-    {
-      "id": "0b84bd12-8ea8-43b4-a30a-779aca67d2e1",
-      "title": "Accounting Intern",
-      "company": "Rfcuny",
-      "companyDomain": "rilm.org",
-      "location": "New York, NY",
-      "functionPrimary": "Finance",
-      "remoteType": "onsite",
-      "salaryMin": 36400,
-      "salaryMax": 36400,
-      "salaryPeriod": "annual",
-      "postedAt": "2026-09-14T12:00:27.648Z",
-      "firstIndexedAt": "2026-08-12T17:30:46.023Z",
-      "url": "https://rfcuny.wd108.myworkdayjobs.com/RFCUNY/job/New-York-NY/Accounting-Intern_JR3668"
     },
     {
       "id": "e5041499-55ca-40b3-b2f1-f3f7f5a5d49e",
@@ -6961,7 +6946,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-10-05T14:14:31.558Z",
+      "postedAt": "2026-10-05T16:31:02.132Z",
       "firstIndexedAt": "2026-08-05T07:45:22.503Z",
       "url": "https://southstatebank.wd5.myworkdayjobs.com/external/job/Columbia-Gervais/Summer-2027-Commercial-Banking-Intern-Columbia--SC_R-05801"
     },
@@ -7231,7 +7216,7 @@
       "salaryMin": 56160,
       "salaryMax": 87360,
       "salaryPeriod": "annual",
-      "postedAt": "2026-09-23T19:44:52.631Z",
+      "postedAt": "2026-09-23T07:52:14.939Z",
       "firstIndexedAt": "2026-07-02T00:10:03.796Z",
       "url": "https://crowe.wd12.myworkdayjobs.com/External_Careers/job/Boston-MA-USA/Audit-Intern-Winter-2027_R-47588"
     },
