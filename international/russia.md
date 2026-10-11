@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**2 currently open roles** · Updated **2026-10-10**
+**2 currently open roles** · Updated **2026-10-11**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,7 +14,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **1000** | [Data & Analytics Intern](https://pg.wd5.myworkdayjobs.com/1000/job/Moscow/Data---Analytics-Intern_R000160083) | Moscow (Hybrid) |  | 9d |
-| **1000** | [Data Engineer Intern](https://pg.wd5.myworkdayjobs.com/1000/job/Moscow/Data-Engineer-Intern_R000159290) | Moscow (Hybrid) |  | 22d |
+| **1000** | [Data & Analytics Intern](https://pg.wd5.myworkdayjobs.com/1000/job/Moscow/Data---Analytics-Intern_R000160083) | Moscow (Hybrid) |  | 10d |
+| **1000** | [Data Engineer Intern](https://pg.wd5.myworkdayjobs.com/1000/job/Moscow/Data-Engineer-Intern_R000159290) | Moscow (Hybrid) |  | 23d |
 
 <!-- TABLE_END -->
