@@ -2,22 +2,21 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**10 currently open roles** · Updated **2026-10-11**
+**9 currently open roles** · Updated **2026-10-12**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-10) · 10 roles
+- [Engineering](#engineering-9) · 9 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (10)
+### Engineering (9)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **NXP Semiconductors** | [Software Internship - Systems Engineering](https://nxp.wd3.myworkdayjobs.com/careers/job/Bucharest/Software-Internship---Systems-Engineering_R-10066965) | Bucharest |  | 3d |
-| **FORVIA HELLA** | [Internship - Local IT - Lugoj](https://hella.csod.com/ux/ats/careersite/3/home/requisition/18923?c=hella) | HRO Lugoj |  | 4d |
-| **Amazon** | [2027 Software Dev Engineer Intern - Iași, Romania](https://www.amazon.jobs/en/jobs/10554652/2027-software-dev-engineer-intern-ia-i-romania) | RO, Iasi |  | 20d |
-| **Amazon** | [2027 Software Dev Engineer Intern - Bucharest, Romania](https://www.amazon.jobs/en/jobs/10554669/2027-software-dev-engineer-intern-bucharest-romania) | RO, Bucharest |  | 20d |
+| **NXP Semiconductors** | [Software Internship - Systems Engineering](https://nxp.wd3.myworkdayjobs.com/careers/job/Bucharest/Software-Internship---Systems-Engineering_R-10066965) | Bucharest |  | 4d |
+| **FORVIA HELLA** | [Internship - Local IT - Lugoj](https://hella.csod.com/ux/ats/careersite/3/home/requisition/18923?c=hella) | HRO Lugoj |  | 5d |
+| **Amazon** | [2027 Software Dev Engineer Intern - Iași, Romania](https://www.amazon.jobs/en/jobs/10554652/2027-software-dev-engineer-intern-ia-i-romania) | RO, Iasi |  | 21d |
 | **NXP Semiconductors** | [Intern Software Engineer – Embedded Benchmarking & Thermal Characteriza…](https://nxp.wd3.myworkdayjobs.com/careers/job/Bucharest/Intern-Software-Engineer---Embedded-Benchmarking---Thermal-Characterization_R-10066624-1) | Bucharest (Hybrid) |  | 1mo |
 | **Google** | [Software Engineering BS/MS Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/83199557986329286) | Bucharest, Romania |  | 1mo |
 | **Stripe** | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130807) | Bucharest | $31K | 1mo |
