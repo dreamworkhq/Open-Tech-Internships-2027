@@ -2,20 +2,21 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**12 currently open roles** · Updated **2026-10-13**
+**13 currently open roles** · Updated **2026-10-14**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-6) · 6 roles
+- [Engineering](#engineering-7) · 7 roles
 - [Other](#other-6) · 6 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (6)
+### Engineering (7)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Western Digital** | [Intern - Data Analytics](https://jobs.smartrecruiters.com/WesternDigital/744000151235109-intern-data-analytics?oga=true) | Biñan City, LAGUNA, Philippines |  | 20d |
+| **Globe** | [AI Engineer Intern - EDS](https://globe.wd3.myworkdayjobs.com/GLB_Careers/job/19F-The-Globe-Tower/AI-Engineer-Intern---EDS_R0000021961) | 19F The Globe Tower |  | 0d |
+| **Western Digital** | [Intern - Data Analytics](https://jobs.smartrecruiters.com/WesternDigital/744000151235109-intern-data-analytics?oga=true) | Biñan City, LAGUNA, Philippines |  | 21d |
 | **RealPage** | [Intern (Technical Internship) \| Software, Analytics & AI for Property …](https://careers-international-realpagepms.icims.com/jobs/14422/intern-%28technical-internship%29-%7c-software%2c-analytics-%26-ai-for-property-management-operations/job) | Manila, Pasig, PH (Hybrid) |  | 1mo |
 | **QIMA** | [AI Engineer - Internship](https://jobs.smartrecruiters.com/QIMA/744000145906434-ai-engineer-internship?oga=true) | Cebu City, Central Visayas, Philippines |  | 1mo |
 | **Trend Micro** | [GRID DEVOPS INTERN](https://trendmicro.wd3.myworkdayjobs.com/External/job/Manila/GRID-DEVOPS-INTERN_R0010148) | Manila |  | 1mo |
@@ -26,7 +27,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Umusic** | [Data Analytics Intern](https://umusic.wd5.myworkdayjobs.com/UMGAPAC/job/Manila-Philippines/Data-Analytics-Intern_UMG-27534) | Manila, Philippines |  | 18d |
+| **Umusic** | [Data Analytics Intern](https://umusic.wd5.myworkdayjobs.com/UMGAPAC/job/Manila-Philippines/Data-Analytics-Intern_UMG-27534) | Manila, Philippines |  | 19d |
 | **Trend Micro** | [Cybersecurity Intern](https://trendmicro.wd3.myworkdayjobs.com/External/job/Manila/Cybersecurity-Intern_R0005760) | Manila |  | 1mo |
 | **Disney** | [Intern, Product & Graphic Design, Disney Consumer Products - Jan to Jun…](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Taguig-Philippines/Intern--Product---Graphic-Design--Disney-Consumer-Products---Jan-to-Jun-2027_10160270) | Taguig, Philippines |  | 1mo |
 | **Globe** | [Intern - Customer Data Analytics](https://globe.wd3.myworkdayjobs.com/GLB_Careers/job/22F-The-Globe-Tower/Intern---Customer-Data-Analytics_R0000015418) | 22F The Globe Tower |  | 1mo |

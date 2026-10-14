@@ -2,12 +2,12 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**9 currently open roles** · Updated **2026-10-13**
+**10 currently open roles** · Updated **2026-10-14**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
 - [Engineering](#engineering-6) · 6 roles
-- [Other](#other-3) · 3 roles
+- [Other](#other-4) · 4 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
@@ -22,12 +22,13 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **NXP Semiconductors** | [Internship – Digital Design & Generative AI Support (m/f/d)](https://nxp.wd3.myworkdayjobs.com/careers/job/Gratkorn/Internship---Digital-Design---Generative-AI-Support--m-f-d-_R-10064592) | Gratkorn (Hybrid) | $36K | 2mo |
 | **NXP Semiconductors** | [Internship: Digital Design Team Support (m/f/d)](https://nxp.wd3.myworkdayjobs.com/careers/job/Gratkorn/Internship--Digital-Design-Team-Support--m-f-d-_R-10064594) | Gratkorn (Hybrid) | $36K | 2mo |
 
-### Other (3)
+### Other (4)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **RedBull** | [Internship Data Science](https://jobs.smartrecruiters.com/RedBull/744000155050519-internship-data-science?oga=true) | Elsbethen, Salzburg, Austria | $30K | 0d |
-| **NXP Semiconductors** | [Internship: Secure Firmware Development (m/f/d)](https://nxp.wd3.myworkdayjobs.com/careers/job/Gratkorn/Internship--Secure-Firmware-Development--m-f-d-_R-10066772) | Gratkorn (Hybrid) | $38K | 1d |
-| **Royal DSM** | [Internship Data Management (5 month, hybrid)](https://career5.successfactors.eu/careers?company=C0000031152P&career_ns=job_listing&career_job_req_id=83351) | — (Hybrid) | $29K | 4d |
+| **Bitpanda** | [Intern, Business Intelligence](https://job-boards.eu.greenhouse.io/bitpanda/jobs/4999439101) | Vienna, Vienna, Austria (Hybrid) |  | 0d |
+| **RedBull** | [Internship Data Science](https://jobs.smartrecruiters.com/RedBull/744000155050519-internship-data-science?oga=true) | Elsbethen, Salzburg, Austria | $30K | 1d |
+| **NXP Semiconductors** | [Internship: Secure Firmware Development (m/f/d)](https://nxp.wd3.myworkdayjobs.com/careers/job/Gratkorn/Internship--Secure-Firmware-Development--m-f-d-_R-10066772) | Gratkorn (Hybrid) | $38K | 2d |
+| **Royal DSM** | [Internship Data Management (5 month, hybrid)](https://career5.successfactors.eu/careers?company=C0000031152P&career_ns=job_listing&career_job_req_id=83351) | — (Hybrid) | $29K | 5d |
 
 <!-- TABLE_END -->

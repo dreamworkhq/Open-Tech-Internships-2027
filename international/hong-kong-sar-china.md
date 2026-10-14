@@ -2,12 +2,12 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**21 currently open roles** · Updated **2026-10-13**
+**22 currently open roles** · Updated **2026-10-14**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
 - [Engineering](#engineering-15) · 15 roles
-- [Other](#other-6) · 6 roles
+- [Other](#other-7) · 7 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
@@ -15,8 +15,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Schonfeld** | [2027 Quantitative C++ Developer Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8238451) | Hong Kong, Hong Kong |  | 13d |
-| **Dvtrading** | [2027 Software Developer Intern (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4733880005) | Hong Kong |  | 25d |
+| **Schonfeld** | [2027 Quantitative C++ Developer Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8238451) | Hong Kong, Hong Kong |  | 14d |
+| **Dvtrading** | [2027 Software Developer Intern (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4733880005) | Hong Kong |  | 26d |
 | **Bybit** | [AI Development Engineer Intern](https://job-boards.eu.greenhouse.io/bybit/jobs/4974271101) | Hong Kong SAR |  | 1mo |
 | **Nex** | [Summer 2027 \| Software Engineer Intern (Developer Experience)](https://job-boards.greenhouse.io/nex/jobs/5420203008) | Hong Kong |  | 1mo |
 | **Nex** | [Summer 2027 \| Software Engineer Intern (Platform)](https://job-boards.greenhouse.io/nex/jobs/5422027008) | Hong Kong |  | 1mo |
@@ -29,14 +29,15 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **Bybit** | [\[Intern\] Big Data Development Engineer Intern](https://job-boards.eu.greenhouse.io/bybit/jobs/4971692101) | Hong Kong SAR |  | 1mo |
 | **Jump Trading** | [Campus C++ Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027860) | Hong Kong; Shanghai |  | 1mo |
 | **Jump Trading** | [Campus Python Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027923) | Hong Kong; Shanghai |  | 1mo |
-| **Imc** | [Software Engineer Intern 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4941206101) | Hong Kong, Hong Kong |  | 1mo |
+| **Imc** | [Software Engineer Intern 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4941206101) | Hong Kong, Hong Kong |  | 2mo |
 
-### Other (6)
+### Other (7)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
+| **BASF** | [Intern, Data Analytics, Dispersions & Resins](https://career5.successfactors.eu/careers?company=C0000159936P&career_ns=job_listing&career_job_req_id=145432) | Hong Kong |  | 0d |
 | **Manulife** | [Co-op Internship 2027: Business Intelligence (6 months)](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Hong-Kong/Co-op-Internship-2027--Business-Intelligence--6-months-_JR26100059) | Hong Kong |  | 11d |
-| **Djeholdings** | [Creative Intern (Art base)](https://djeholdings.wd5.myworkdayjobs.com/edelman-careers-E200/job/Hong-Kong/Design-Intern_JR103415) | Hong Kong |  | 20d |
+| **Djeholdings** | [Creative Intern (Art base)](https://djeholdings.wd5.myworkdayjobs.com/edelman-careers-E200/job/Hong-Kong/Design-Intern_JR103415) | Hong Kong |  | 21d |
 | **Bybit** | [Smart Contract Security Audit Intern (AI Audit)](https://job-boards.eu.greenhouse.io/bybit/jobs/4974605101) | Remote (APAC - Remote; Hong Kong SAR) |  | 1mo |
 | **Intactfc** | [Data Scientist - Internship/Co-op (Winter or Summer2027)](https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Hong-Kong-Science-Park-HK/Data-Scientist-I--HK---Winter-2027_R155626) | Hong Kong Science Park, HK (Hybrid) |  | 1mo |
 | **Quberesearchandtechnologies** | [2027 - Internship, Security Engineer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749942002) | Hong Kong |  | 1mo |
