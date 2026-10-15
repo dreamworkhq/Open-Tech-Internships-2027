@@ -2,20 +2,21 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**11 currently open roles** · Updated **2026-10-14**
+**12 currently open roles** · Updated **2026-10-15**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-7) · 7 roles
+- [Engineering](#engineering-8) · 8 roles
 - [Other](#other-4) · 4 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (7)
+### Engineering (8)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Rocket Lab** | [Data Engineering Intern](https://www.seek.co.nz/job/94812887) | Auckland |  | 21d |
+| **Kwetta Ltd** | [Software Engineering Summer Intern](https://www.seek.co.nz/job/95272498) | Onekawa, Hawkes Bay | $28K | 0d |
+| **Rocket Lab** | [Data Engineering Intern](https://www.seek.co.nz/job/94812887) | Auckland |  | 22d |
 | **Tencent** | [Game Backend Development Intern](https://tencent.wd1.myworkdayjobs.com/Lightspeed/job/New-Zealand-Auckland/Game-Backend-Development-Intern_R106470) | New Zealand-Auckland |  | 2mo |
 | **Rocket Lab** | [Launch Safety Software Intern](https://job-boards.greenhouse.io/rocketlab/jobs/7827254003) | Auckland, NZ |  | 2mo |
 | **Rocket Lab** | [Data Engineering Intern](https://job-boards.greenhouse.io/rocketlab/jobs/7819722003) | Auckland, NZ |  | 2mo |
@@ -27,9 +28,9 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **RTX (Raytheon)** | [Intern - Data Analyst](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/NZ-CAN-CHRISTCHURCH-115-1--115-Orchard-Rd--V2500-WORKSHOP/Intern---Data-Analyst_01873132) | NZ-CAN-CHRISTCHURCH-115-1 ~ 115 Orchard Rd … |  | 20d |
-| **RTX (Raytheon)** | [Intern - CFT Data Analysist](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/NZ-CAN-CHRISTCHURCH-115-1--115-Orchard-Rd--V2500-WORKSHOP/Intern---CFT-Data-Analysist_01873241) | NZ-CAN-CHRISTCHURCH-115-1 ~ 115 Orchard Rd … |  | 20d |
-| **Christchurch Engine Centre** | [Intern - Customer Focus Team Data Analysist](https://www.seek.co.nz/job/94822366) | Christchurch Central, Canterbury |  | 21d |
+| **RTX (Raytheon)** | [Intern - Data Analyst](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/NZ-CAN-CHRISTCHURCH-115-1--115-Orchard-Rd--V2500-WORKSHOP/Intern---Data-Analyst_01873132) | NZ-CAN-CHRISTCHURCH-115-1 ~ 115 Orchard Rd … |  | 21d |
+| **RTX (Raytheon)** | [Intern - CFT Data Analysist](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/NZ-CAN-CHRISTCHURCH-115-1--115-Orchard-Rd--V2500-WORKSHOP/Intern---CFT-Data-Analysist_01873241) | NZ-CAN-CHRISTCHURCH-115-1 ~ 115 Orchard Rd … |  | 21d |
+| **Christchurch Engine Centre** | [Intern - Customer Focus Team Data Analysist](https://www.seek.co.nz/job/94822366) | Christchurch Central, Canterbury |  | 22d |
 | **Partly.Com** | [Data Science Intern/Graduate, NZ](https://jobs.ashbyhq.com/partly.com/89e575f0-c26d-4caf-beec-d98840eb2619) | Christchurch |  | 3mo |
 
 <!-- TABLE_END -->
