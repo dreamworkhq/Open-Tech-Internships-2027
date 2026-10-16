@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**9 currently open roles** · Updated **2026-10-15**
+**9 currently open roles** · Updated **2026-10-16**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,11 +14,11 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **bakotech** | [Intern QA](https://djinni.co/jobs/824928-intern-qa/) | Remote (Ukraine) |  | 0d |
-| **RenesasElectronics** | [Intern, Product Engineering](https://jobs.smartrecruiters.com/RenesasElectronics/744000155551520-intern-product-engineering?oga=true) | Lviv, , Ukraine |  | 1d |
-| **Sigma Software** | [Java Developer Intern](https://jobs.smartrecruiters.com/SigmaSoftware2/744000153176088-java-developer-intern?oga=true) | Remote (Lviv, Lviv Oblast, Ukraine) |  | 12d |
-| **Sigma Software** | [DevOps Engineer Intern](https://djinni.co/jobs/741361-devops-engineer-intern/) | Vinnytsia, Dnipro, Zhytomyr, Ukraine |  | 20d |
-| **Playtech** | [QA Engineer (Intern)](https://jobs.smartrecruiters.com/Playtech/744000151615200-qa-engineer-intern-?oga=true) | Kyiv, , Ukraine |  | 20d |
+| **bakotech** | [Intern QA](https://djinni.co/jobs/824928-intern-qa/) | Remote (Ukraine) |  | 1d |
+| **RenesasElectronics** | [Intern, Product Engineering](https://jobs.smartrecruiters.com/RenesasElectronics/744000155551520-intern-product-engineering?oga=true) | Lviv, , Ukraine |  | 2d |
+| **Sigma Software** | [Java Developer Intern](https://jobs.smartrecruiters.com/SigmaSoftware2/744000153176088-java-developer-intern?oga=true) | Remote (Lviv, Lviv Oblast, Ukraine) |  | 13d |
+| **Sigma Software** | [DevOps Engineer Intern](https://djinni.co/jobs/741361-devops-engineer-intern/) | Vinnytsia, Dnipro, Zhytomyr, Ukraine |  | 21d |
+| **Playtech** | [QA Engineer (Intern)](https://jobs.smartrecruiters.com/Playtech/744000151615200-qa-engineer-intern-?oga=true) | Kyiv, , Ukraine |  | 21d |
 | **SysGears** | [Intern Manual QA — індивідуальне стажування](https://djinni.co/jobs/840587-intern-manual-qa-individual-ne-stazhuvannia/) | Dnipro, Lviv, Ukraine |  | 2mo |
 | **King Group** | [Intern QA Manual](https://djinni.co/jobs/840677-intern-qa-manual/) | Kyiv, Ukraine |  | 2mo |
 | **King Group** | [Intern front-end developer](https://djinni.co/jobs/787644-intern-front-end-developer/) | Kyiv, Ukraine |  | 3mo |

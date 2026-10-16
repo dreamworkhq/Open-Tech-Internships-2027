@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**14 currently open roles** · Updated **2026-10-15**
+**14 currently open roles** · Updated **2026-10-16**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -15,13 +15,13 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Marvell Technology** | [Design Verification- Intern](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Petah-Tikva/Design-Verification--Intern_2604479) | Petah-Tikva |  | 1d |
-| **F5** | [DevOps & Cloud Infrastructure Intern](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Tel-Aviv/DevOps---Cloud-Infrastructure-Intern_RP1038691) | Tel Aviv (Hybrid) |  | 5d |
-| **Marvell Technology** | [Digital IC Design- Intern](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Yokneam/Digital-IC-Design--Intern_2604489) | Yokneam |  | 11d |
-| **Google** | [Hardware/Electrical Engineering BS/MS Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/121479339848934086) | Tel Aviv, Israel, Haifa, Israel |  | 12d |
-| **Marvell Technology** | [Design Verification - Intern](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Petah-Tikva/Design-Verification---Intern_2604481-1) | Petah-Tikva |  | 14d |
-| **Marvell Technology** | [Design Verification Intern](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Petah-Tikva/Design-Verification-Intern_2604493) | Petah-Tikva |  | 21d |
-| **Marvell Technology** | [Digital IC Design Intern](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/IL---Petah-Tikva/Digital-IC-Design-Intern_2604490) | IL - Petah Tikva |  | 22d |
+| **Marvell Technology** | [Design Verification- Intern](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Petah-Tikva/Design-Verification--Intern_2604479) | Petah-Tikva |  | 2d |
+| **F5** | [DevOps & Cloud Infrastructure Intern](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Tel-Aviv/DevOps---Cloud-Infrastructure-Intern_RP1038691) | Tel Aviv (Hybrid) |  | 6d |
+| **Marvell Technology** | [Digital IC Design- Intern](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Yokneam/Digital-IC-Design--Intern_2604489) | Yokneam |  | 12d |
+| **Google** | [Hardware/Electrical Engineering BS/MS Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/121479339848934086) | Tel Aviv, Israel, Haifa, Israel |  | 13d |
+| **Marvell Technology** | [Design Verification - Intern](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Petah-Tikva/Design-Verification---Intern_2604481-1) | Petah-Tikva |  | 15d |
+| **Marvell Technology** | [Design Verification Intern](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Petah-Tikva/Design-Verification-Intern_2604493) | Petah-Tikva |  | 22d |
+| **Marvell Technology** | [Digital IC Design Intern](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/IL---Petah-Tikva/Digital-IC-Design-Intern_2604490) | IL - Petah Tikva |  | 23d |
 | **Marvell Technology** | [AI Infrastructure Engineer Intern](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Petah-Tikva/AI-Infrastructure-Engineer-Intern_2604499) | Petah-Tikva |  | 1mo |
 | **Marvell Technology** | [Physical Design Intern](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Petah-Tikva/Physical-Design-Intern_2604462) | Petah-Tikva |  | 1mo |
 | **Google** | [Part-Time Software Engineering BS/MS Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/103632882076918470) | Tel Aviv, Israel, Haifa, Israel |  | 1mo |

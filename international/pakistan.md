@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**1 currently open roles** · Updated **2026-10-15**
+**1 currently open roles** · Updated **2026-10-16**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **10Pearls** | [Intern Graphic Design](https://10pearls.applytojob.com/apply/E2cRZsi5tK/Intern-Graphic-Design) | Karachi, Pakistan |  | 1d |
+| **10Pearls** | [Intern Graphic Design](https://10pearls.applytojob.com/apply/E2cRZsi5tK/Intern-Graphic-Design) | Karachi, Pakistan |  | 2d |
 
 <!-- TABLE_END -->
