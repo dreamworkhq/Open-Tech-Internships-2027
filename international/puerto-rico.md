@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**6 currently open roles** · Updated **2026-10-16**
+**6 currently open roles** · Updated **2026-10-17**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -15,10 +15,10 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **HPE** | [Product software development - Internship](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Product-software-development---Internship_1213045) | Aguadilla, Puerto Rico, Puerto Rico (Hybrid) |  | 3d |
+| **HPE** | [Product software development - Internship](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Product-software-development---Internship_1213045) | Aguadilla, Puerto Rico, Puerto Rico (Hybrid) |  | 4d |
 | **HPE** | [Software development - internship](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Software-development---internship_1213413) | Aguadilla, Puerto Rico, Puerto Rico (Hybrid) |  | 10d |
-| **HPE** | [Software Intern](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Software-Intern_1215275-1) | 2 Locations (Hybrid) |  | 22d |
-| **HPE** | [Cloud Developer Intern](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Cloud-Developer-Intern_1215274-1) | 2 Locations (Hybrid) |  | 22d |
+| **HPE** | [Software Intern](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Software-Intern_1215275-1) | 2 Locations (Hybrid) |  | 23d |
+| **HPE** | [Cloud Developer Intern](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Cloud-Developer-Intern_1215274-1) | 2 Locations (Hybrid) |  | 23d |
 | **Aerospace** | [Puerto Rico - Software Engineering Intern - Summer 2027 (U.S. Person Re…](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/121413) | Puerto Rico | $49K–$51K | 1mo |
 
 ### Other (1)

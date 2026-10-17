@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**10 currently open roles** · Updated **2026-10-16**
+**10 currently open roles** · Updated **2026-10-17**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -15,8 +15,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Heidihealth.Com.Au** | [2026/2027 Software Engineering Intern Program (Heidi Launch Lab)](https://jobs.ashbyhq.com/heidihealth.com.au/6e7f0482-3ac0-4805-9124-ff638de04a7e) | Melbourne (Hybrid) |  | 1d |
-| **Possible Consulting** | [Information Technology – Web developer Intern](https://www.seek.com.au/job/95003519) | Adelaide SA |  | 3d |
+| **Heidihealth.Com.Au** | [2026/2027 Software Engineering Intern Program (Heidi Launch Lab)](https://jobs.ashbyhq.com/heidihealth.com.au/6e7f0482-3ac0-4805-9124-ff638de04a7e) | Melbourne (Hybrid) |  | 2d |
+| **Possible Consulting** | [Information Technology – Web developer Intern](https://www.seek.com.au/job/95003519) | Adelaide SA |  | 4d |
 | **Cummins Apprenticeship** | [2027 Undergraduate Projects & Design Engineering Intern](https://www.seek.com.au/job/94659564) | Scoresby, Melbourne VIC |  | 1mo |
 | **Cummins Apprenticeship** | [2027 Undergraduate Projects & Design Engineering Internship](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1004/job/2436486) | Scoresby, Victoria, Australia |  | 1mo |
 | **Cummins Re Power ...** | [2027 Undergraduate Projects & Design Engineering Internship](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1005/job/2436486) | Scoresby, Victoria, Australia |  | 1mo |
@@ -28,7 +28,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **EQUANS** | [Intern, Data Analysis (geophysical and geotechnical investigations)](https://www.seek.com.au/job/95140971) | St Leonards, Sydney NSW |  | 3d |
-| **Hoban Recruitment** | [Victorian Government Cyber Internship Program](https://www.seek.com.au/job/94906085) | Melbourne VIC | $43K | 12d |
+| **EQUANS** | [Intern, Data Analysis (geophysical and geotechnical investigations)](https://www.seek.com.au/job/95140971) | St Leonards, Sydney NSW |  | 4d |
+| **Hoban Recruitment** | [Victorian Government Cyber Internship Program](https://www.seek.com.au/job/94906085) | Melbourne VIC | $43K | 13d |
 
 <!-- TABLE_END -->

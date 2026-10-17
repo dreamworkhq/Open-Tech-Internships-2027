@@ -2,12 +2,12 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**35 currently open roles** · Updated **2026-10-16**
+**34 currently open roles** · Updated **2026-10-17**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
 - [Engineering](#engineering-21) · 21 roles
-- [Data Science](#data-science-9) · 9 roles
+- [Data Science](#data-science-8) · 8 roles
 - [Other](#other-5) · 5 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
@@ -16,17 +16,17 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Intel** | [AI Frameworks Engineer - Intern](https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/AI-Frameworks-Engineer---Intern_JR0288217) | Mexico, Guadalajara (Hybrid) |  | 1d |
-| **Intel** | [Platform Validation Engineering Intern](https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/Platform-Validation-Engineering-Intern_JR0287927) | Mexico, Guadalajara (Hybrid) |  | 2d |
+| **Intel** | [AI Frameworks Engineer - Intern](https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/AI-Frameworks-Engineer---Intern_JR0288217) | Mexico, Guadalajara (Hybrid) |  | 2d |
+| **Intel** | [Platform Validation Engineering Intern](https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/Platform-Validation-Engineering-Intern_JR0287927) | Mexico, Guadalajara (Hybrid) |  | 3d |
 | **Amazon** | [Software Development Engineer Intern, Amazon University Talent Acquisit…](https://www.amazon.jobs/en/jobs/10574927/software-development-engineer-intern-amazon-university-talent-acquisition) | MX, Zapopan |  | 3d |
-| **Micron** | [DRAM Product Engineer Yield & Quality (Intern)](https://micron.wd1.myworkdayjobs.com/External/job/Jalisco-Mexico/DRAM-Product-Engineer-Yield---Quality--Intern-_JR112997-1) | Jalisco, Mexico |  | 3d |
-| **Amazon** | [Software Development Engineer Intern, Amazon University Talent Acquisit…](https://www.amazon.jobs/en/jobs/10574925/software-development-engineer-intern-amazon-university-talent-acquisition) | MX, DIF, Mexico City |  | 6d |
-| **Aumovio** | [Intern Ingeniería en Software (Análisis de Datos y Automatización)](https://jobs.smartrecruiters.com/Aumovio/744000154179149-intern-ingenieria-en-software-analisis-de-datos-y-automatizacion-?oga=true) | Guadalajara - Periferico, Guadalajara - Per… |  | 8d |
-| **C3iot** | [QA Engineer - Intern (Summer 2027)](https://c3.ai/job-description/8739266002?gh_jid=8739266002) | Guadalajara, Jalisco, Mexico |  | 13d |
-| **C3iot** | [Software Engineer - Intern (Summer 2027)](https://c3.ai/job-description/8739323002?gh_jid=8739323002) | Guadalajara, Jalisco, Mexico |  | 13d |
-| **RTX (Raytheon)** | [Tool Design Intern](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/MX-BCN-MEXICALI-238--Blvd-Venustiano-Carranza-238--BLDG-238-Desarrollo-Industrial-Colorado/Tool-Design-Intern_01878963) | MX-BCN-MEXICALI-238 ~ Blvd Venustiano Carra… |  | 15d |
-| **External Career Page** | [Product Engineering Internship](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Apodaca-Nuevo-Len-Mexico/Product-Engineering-Internship_JR00047853) | Apodaca, Nuevo León, Mexico |  | 20d |
-| **Lighting** | [Intern/Apprentice - Product Engineering](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Monterrey/Intern-Apprentice---Product-Engineering_365904) | Monterrey (Hybrid) |  | 23d |
+| **Micron** | [DRAM Product Engineer Yield & Quality (Intern)](https://micron.wd1.myworkdayjobs.com/External/job/Jalisco-Mexico/DRAM-Product-Engineer-Yield---Quality--Intern-_JR112997-1) | Jalisco, Mexico |  | 4d |
+| **Amazon** | [Software Development Engineer Intern, Amazon University Talent Acquisit…](https://www.amazon.jobs/en/jobs/10574925/software-development-engineer-intern-amazon-university-talent-acquisition) | MX, DIF, Mexico City |  | 7d |
+| **Aumovio** | [Intern Ingeniería en Software (Análisis de Datos y Automatización)](https://jobs.smartrecruiters.com/Aumovio/744000154179149-intern-ingenieria-en-software-analisis-de-datos-y-automatizacion-?oga=true) | Guadalajara - Periferico, Guadalajara - Per… |  | 9d |
+| **C3iot** | [QA Engineer - Intern (Summer 2027)](https://c3.ai/job-description/8739266002?gh_jid=8739266002) | Guadalajara, Jalisco, Mexico |  | 14d |
+| **C3iot** | [Software Engineer - Intern (Summer 2027)](https://c3.ai/job-description/8739323002?gh_jid=8739323002) | Guadalajara, Jalisco, Mexico |  | 14d |
+| **RTX (Raytheon)** | [Tool Design Intern](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/MX-BCN-MEXICALI-238--Blvd-Venustiano-Carranza-238--BLDG-238-Desarrollo-Industrial-Colorado/Tool-Design-Intern_01878963) | MX-BCN-MEXICALI-238 ~ Blvd Venustiano Carra… |  | 16d |
+| **External Career Page** | [Product Engineering Internship](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Apodaca-Nuevo-Len-Mexico/Product-Engineering-Internship_JR00047853) | Apodaca, Nuevo León, Mexico |  | 21d |
+| **Lighting** | [Intern/Apprentice - Product Engineering](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Monterrey/Intern-Apprentice---Product-Engineering_365904) | Monterrey (Hybrid) |  | 24d |
 | **Intel** | [Silicon Design - Flows and Methodology Intern](https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/Silicon-Design---Flows-and-Methodology-Intern_JR0286647) | Mexico, Guadalajara (Hybrid) |  | 1mo |
 | **Salesforce** | [AI Builder Intern \[Mexico\]](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/AI-Builder-Intern--Mexico-_JR359971-2) | Mexico - Mexico City |  | 1mo |
 | **Lyft** | [Software Engineer Intern, Backend (Summer 2027 - Mexico)](https://app.careerpuck.com/job-board/lyft/job/8767715002?gh_jid=8767715002) | Mexico City, Mexico |  | 1mo |
@@ -38,17 +38,16 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **1000** | [IT Data & Analytics Engineering Internship - Interlomas](https://pg.wd5.myworkdayjobs.com/1000/job/MEXICO-CITY-GENERAL-OFFICE/IT-Data---Analytics-Engineering-_R000156708) | MEXICO CITY GENERAL OFFICE |  | 2mo |
 | **GE Aerospace** | [Systems Product definition intern](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Queretaro/Systems-Product-definition-intern_R5037674-2) | Queretaro |  | 2mo |
 
-### Data Science (9)
+### Data Science (8)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **GE Aerospace** | [Data Science and AI Digital Technology Intern](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Queretaro/Data-Science-and-AI-Digital-Technology-Intern_R5041604-1) | Queretaro |  | 0d |
-| **HP Inc.** | [Data Analysis and Systems Internship](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Tlaquepaque-Jalisco-Mexico/Data-Analysis-and-Systems-Internship_3169469-1) | Tlaquepaque, Jalisco, Mexico |  | 14d |
-| **External Career Page** | [Data Analyst Internship](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Apodaca-Nuevo-Len-Mexico/Data-Analyst-Internship_JR00047138) | Apodaca, Nuevo León, Mexico |  | 20d |
-| **Clarios** | [Intern - OEX](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/Mexico-Guanajuato-Celaya/Intern---OEX_WD50314) | Mexico, Guanajuato, Celaya |  | 24d |
-| **Amazon** | [Business Intelligence Intern 2027, AUTA](https://www.amazon.jobs/en/jobs/10553707/business-intelligence-intern-2027-auta) | MX, DIF, Mexico City |  | 27d |
+| **GE Aerospace** | [Data Science and AI Digital Technology Intern](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Queretaro/Data-Science-and-AI-Digital-Technology-Intern_R5041604-1) | Queretaro |  | 1d |
+| **HP Inc.** | [Data Analysis and Systems Internship](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Tlaquepaque-Jalisco-Mexico/Data-Analysis-and-Systems-Internship_3169469-1) | Tlaquepaque, Jalisco, Mexico |  | 15d |
+| **External Career Page** | [Data Analyst Internship](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Apodaca-Nuevo-Len-Mexico/Data-Analyst-Internship_JR00047138) | Apodaca, Nuevo León, Mexico |  | 21d |
+| **Clarios** | [Intern - OEX](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/Mexico-Guanajuato-Celaya/Intern---OEX_WD50314) | Mexico, Guanajuato, Celaya |  | 25d |
+| **Amazon** | [Business Intelligence Intern 2027, AUTA](https://www.amazon.jobs/en/jobs/10553707/business-intelligence-intern-2027-auta) | MX, DIF, Mexico City |  | 28d |
 | **NielsenIQ** | [Intern - Data Science](https://jobs.smartrecruiters.com/NielsenIQ/744000147557559-intern-data-science?oga=true) | Mexico City, CDMX, Mexico (Hybrid) |  | 1mo |
-| **1000** | [Business Intelligence & Data Analysis Internship - Interlomas](https://pg.wd5.myworkdayjobs.com/1000/job/MEXICO-CITY-GENERAL-OFFICE/Business-Intelligence---Data-Analysis-Internship---Interlomas_R000157317) | MEXICO CITY GENERAL OFFICE |  | 1mo |
 | **Shifttechnology** | [Data Scientist Intern (English Speaker)](https://job-boards.greenhouse.io/shifttechnology/jobs/7652429003) | Mexico - Mexico City (Hybrid) |  | 2mo |
 | **Ingredion** | [SCH Data Analytics Intern](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Guadalajara-JAL/SCH-Data-Analytics-Intern_Req-20946) | Guadalajara, JAL |  | 4mo |
 
@@ -56,10 +55,10 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Clarios** | [Intern - Digital Product](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/Mexico-Nuevo-Len-San-Pedro-Garza-Garcia/Intern---Digital-Product_WD50646-2) | Mexico, Nuevo León, San Pedro Garza Garcia |  | 9d |
-| **GE Aerospace** | [Site Security Operations Intern](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Queretaro/Security-Intern_R5040750) | Queretaro |  | 14d |
-| **Sezzle** | [Product Management Intern](https://job-boards.greenhouse.io/sezzle/jobs/8003977003) | Remote (Mexico, Remote) |  | 21d |
-| **Amazon** | [UX Designer Intern, AUTA](https://www.amazon.jobs/en/jobs/10553923/ux-designer-intern-auta) | MX, DIF, Mexico City |  | 27d |
+| **Clarios** | [Intern - Digital Product](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/Mexico-Nuevo-Len-San-Pedro-Garza-Garcia/Intern---Digital-Product_WD50646-2) | Mexico, Nuevo León, San Pedro Garza Garcia |  | 10d |
+| **GE Aerospace** | [Site Security Operations Intern](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Queretaro/Security-Intern_R5040750) | Queretaro |  | 15d |
+| **Sezzle** | [Product Management Intern](https://job-boards.greenhouse.io/sezzle/jobs/8003977003) | Remote (Mexico, Remote) |  | 22d |
+| **Amazon** | [UX Designer Intern, AUTA](https://www.amazon.jobs/en/jobs/10553923/ux-designer-intern-auta) | MX, DIF, Mexico City |  | 28d |
 | **Amazon** | [Program Manager Intern](https://www.amazon.jobs/en/jobs/10410587/program-manager-intern) | MX, DIF, Mexico City |  | 5mo |
 
 <!-- TABLE_END -->

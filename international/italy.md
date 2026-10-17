@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**42 currently open roles** · Updated **2026-10-16**
+**42 currently open roles** · Updated **2026-10-17**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -18,16 +18,16 @@ These roles are grouped by their posted work location. Check each listing for wo
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
 | **Global Campus** | [Cloud Infrastructure Intern - Milano](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Milan/Cloud-Infrastructure-Intern---Milano_767954WD) | Milan |  | 2d |
-| **Baker Hughes** | [Intern - Generative AI - 2027 (M/F/D)](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Generative-AI---2027--M-F-D-_R170543) | IT-FI-FLORENCE-VIA FELICE MATTEUCCI 2 |  | 2d |
-| **Doctolib** | [Software Engineer Intern - Fullstack (x/f/m) - Milano](https://job-boards.greenhouse.io/doctolib/jobs/8000653003) | Milano, Milan, Italy (Hybrid) |  | 4d |
-| **External Career Page** | [Internship - Full Stack Software Developer](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Genova-Genova-Italy/Internship---Full-Stack-Software-Developer_JR00049311) | Genova, Genova, Italy (Hybrid) |  | 9d |
-| **Baker Hughes** | [Intern - Physical AI & Computer Vision - 2027 (M/F/D)](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Physical-AI---Computer-Vision---2027--M-F-D-_R170038) | IT-FI-FLORENCE-VIA FELICE MATTEUCCI 2 |  | 10d |
-| **Marvell Technology** | [Analog IC Design Engineer, Intern](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Pavia-Italy/Analog-IC-Design-Engineer--Intern_2604079) | Pavia, Italy | $24K–$32K | 11d |
-| **Global Campus** | [Software Engineer Intern - Milano \[DIG\]](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Milan/Software-Engineer-Intern---Milano--DIG-_765582WD) | Milan |  | 13d |
+| **Baker Hughes** | [Intern - Generative AI - 2027 (M/F/D)](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Generative-AI---2027--M-F-D-_R170543) | IT-FI-FLORENCE-VIA FELICE MATTEUCCI 2 |  | 3d |
+| **Doctolib** | [Software Engineer Intern - Fullstack (x/f/m) - Milano](https://job-boards.greenhouse.io/doctolib/jobs/8000653003) | Milano, Milan, Italy (Hybrid) |  | 5d |
+| **External Career Page** | [Internship - Full Stack Software Developer](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Genova-Genova-Italy/Internship---Full-Stack-Software-Developer_JR00049311) | Genova, Genova, Italy (Hybrid) |  | 10d |
+| **Baker Hughes** | [Intern - Physical AI & Computer Vision - 2027 (M/F/D)](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Physical-AI---Computer-Vision---2027--M-F-D-_R170038) | IT-FI-FLORENCE-VIA FELICE MATTEUCCI 2 |  | 11d |
+| **Marvell Technology** | [Analog IC Design Engineer, Intern](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Pavia-Italy/Analog-IC-Design-Engineer--Intern_2604079) | Pavia, Italy | $24K–$32K | 12d |
+| **Global Campus** | [Software Engineer Intern - Milano \[DIG\]](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Milan/Software-Engineer-Intern---Milano--DIG-_765582WD) | Milan |  | 14d |
 | **Cerved** | [Developer Intern](https://cerved.wd3.myworkdayjobs.com/Cerved/job/San-Donato-Milanese-Italy/Developer-Intern_R-0000003562) | San Donato Milanese, Italy (Hybrid) |  | 14d |
-| **Musixmatch** | [Frontend Intern](https://jobs.lever.co/musixmatch/0f23c905-8595-4a2e-b33a-d79723b4b753) | Bologna |  | 28d |
-| **Musixmatch** | [Software Engineer Intern](https://jobs.lever.co/musixmatch/c4edf289-e1ff-4763-a2d2-c1a4d124f29c) | Bologna |  | 28d |
-| **BIP** | [Software Tester - Intern](https://fa-etjb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2471) | Remote (Milano, Lombardia, Italy) |  | 29d |
+| **Musixmatch** | [Frontend Intern](https://jobs.lever.co/musixmatch/0f23c905-8595-4a2e-b33a-d79723b4b753) | Bologna |  | 29d |
+| **Musixmatch** | [Software Engineer Intern](https://jobs.lever.co/musixmatch/c4edf289-e1ff-4763-a2d2-c1a4d124f29c) | Bologna |  | 29d |
+| **BIP** | [Software Tester - Intern](https://fa-etjb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2471) | Remote (Milano, Lombardia, Italy) |  | 1mo |
 | **Micron** | [INTERNSHIP - NAND Cell Characterization & AI Tools](https://micron.wd1.myworkdayjobs.com/External/job/Vimercate-MB-Italy/INTERNSHIP---NAND-Cell-Characterization---AI-Tools_JR111212) | Vimercate (MB), Italy |  | 1mo |
 | **Marvell Technology** | [Digital IC Design Engineer, Intern](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Pavia-Italy/Digital-IC-Design-Engineer--Intern_2604105) | Pavia, Italy | $23K–$31K | 1mo |
 | **Accenture** | [Cloud Transformation Internship](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Assago-Via-del-Mulino-11a/Cloud-Transformation-Internship_R00355331) | Assago, Via del Mulino 11a (Hybrid) |  | 1mo |
@@ -46,13 +46,13 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Amazon** | [Business Intelligence Intern Italy](https://www.amazon.jobs/en/jobs/10579728/business-intelligence-intern-italy) | IT, Milan | $24K | 1d |
-| **Coesia Group** | [Data Analyst - Intern](https://emea3.recruitmentplatform.com/syndicated/lay/jsoutputinitrapido.cfm?component=lay9999_jdesc100a&ID=Q4GFK026203F3VBQB7VV4F6SL&nPostingTargetID=12453) | Bologna |  | 2d |
-| **Wppmedia** | [Intern, Data Science & Architecture](https://job-boards.greenhouse.io/wppmedia/jobs/5447462008) | Milan, Italy (Hybrid) |  | 7d |
-| **Baker Hughes** | [Intern – Data Analyst – 2027 (M/F/D)](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Data-Analyst---2027--M-F-D-_R170299) | IT-FI-FLORENCE-VIA FELICE MATTEUCCI 2 |  | 9d |
-| **ICSGBLCOR** | [Machine Learning Engineer Intern](https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/MILAN/Machine-Learning-Engineer-Intern_REQ-10122304) | MILAN (Hybrid) |  | 17d |
-| **Doctolib** | [Medical Data Intern (x/f/m)](https://job-boards.greenhouse.io/doctolib/jobs/7996919003) | Milano, Milan, Italy (Hybrid) |  | 23d |
-| **HPE** | [Data Analytics Intern – Channel Team](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Milan-Milano-Italy/Data-Analytics-Intern---Channel-Team_1210859-2) | Milan, Milano, Italy (Hybrid) |  | 28d |
+| **Amazon** | [Business Intelligence Intern Italy](https://www.amazon.jobs/en/jobs/10579728/business-intelligence-intern-italy) | IT, Milan | $24K | 2d |
+| **Coesia Group** | [Data Analyst - Intern](https://emea3.recruitmentplatform.com/syndicated/lay/jsoutputinitrapido.cfm?component=lay9999_jdesc100a&ID=Q4GFK026203F3VBQB7VV4F6SL&nPostingTargetID=12453) | Bologna |  | 3d |
+| **Wppmedia** | [Intern, Data Science & Architecture](https://job-boards.greenhouse.io/wppmedia/jobs/5447462008) | Milan, Italy (Hybrid) |  | 8d |
+| **Baker Hughes** | [Intern – Data Analyst – 2027 (M/F/D)](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Data-Analyst---2027--M-F-D-_R170299) | IT-FI-FLORENCE-VIA FELICE MATTEUCCI 2 |  | 10d |
+| **ICSGBLCOR** | [Machine Learning Engineer Intern](https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/MILAN/Machine-Learning-Engineer-Intern_REQ-10122304) | MILAN (Hybrid) |  | 18d |
+| **Doctolib** | [Medical Data Intern (x/f/m)](https://job-boards.greenhouse.io/doctolib/jobs/7996919003) | Milano, Milan, Italy (Hybrid) |  | 24d |
+| **HPE** | [Data Analytics Intern – Channel Team](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Milan-Milano-Italy/Data-Analytics-Intern---Channel-Team_1210859-2) | Milan, Milano, Italy (Hybrid) |  | 29d |
 | **DNV** | [Intern – Energy Market Modelling and Analytics](https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7286) | Bologna, Emilia Romagna, Italy (Hybrid) |  | 2mo |
 | **Pirelli** | [Internship Data Scientist](https://career5.successfactors.eu/careers?company=Pirelli&career_ns=job_listing&career_job_req_id=23497) | Italy |  | 2mo |
 | **Global Campus** | [Data & AI Consultant - INTERNSHIP - Milano](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Milan/Data---AI-Consultant---INTERNSHIP---Milano_604836WD) | Milan |  | 3mo |
@@ -61,8 +61,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Accenture** | [Cybersecurity Internship](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Roma/Cybersecurity-Internship_R00364331) | Roma |  | 2d |
-| **Amazon** | [(Physical) Security Specialist Intern - 2027 Internship](https://www.amazon.jobs/en/jobs/10573018/physical-security-specialist-intern-2027-internship) | IT, Milan |  | 8d |
+| **Accenture** | [Cybersecurity Internship](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Roma/Cybersecurity-Internship_R00364331) | Roma |  | 3d |
+| **Amazon** | [(Physical) Security Specialist Intern - 2027 Internship](https://www.amazon.jobs/en/jobs/10573018/physical-security-specialist-intern-2027-internship) | IT, Milan |  | 9d |
 | **Pirelli** | [Internship Cyber Security and Defence](https://career5.successfactors.eu/careers?company=Pirelli&career_ns=job_listing&career_job_req_id=23529) | Italy |  | 1mo |
 | **Reply** | [Internship: Secure AI Innovation Engineer](https://career5.successfactors.eu/careers?company=C0004534147P&career_ns=job_listing&career_job_req_id=11228) | Italy |  | 3mo |
 | **Avanade** | [Secure Cloud Platform Intern](https://accenture.wd103.myworkdayjobs.com/AvanadeCareers/job/Assago-Via-del-Mulino-11a/Secure-Cloud-Platform-Intern_R00297409) | 2 Locations |  | 4mo |
@@ -72,7 +72,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Mastercard** | [Product Management Intern, Summer 2027 - Rome, Italy](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Rome-Italy/Product-Management-Intern--Summer-2027---Rome--Italy_R-287722-1) | Rome, Italy |  | 18d |
+| **Mastercard** | [Product Management Intern, Summer 2027 - Rome, Italy](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Rome-Italy/Product-Management-Intern--Summer-2027---Rome--Italy_R-287722-1) | Rome, Italy |  | 19d |
 | **Pirelli** | [Internship Product Tread Designer - Moto](https://career5.successfactors.eu/careers?company=Pirelli&career_ns=job_listing&career_job_req_id=23491) | Italy |  | 2mo |
 
 <!-- TABLE_END -->

@@ -2,21 +2,22 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**7 currently open roles** · Updated **2026-10-16**
+**8 currently open roles** · Updated **2026-10-17**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Other](#other-7) · 7 roles
+- [Other](#other-8) · 8 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Other (7)
+### Other (8)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Bosch** | [IT Support Intern](https://jobs.smartrecruiters.com/BoschGroup/744000155433589-it-support-intern?oga=true) | South Jakarta, DKI Jakarta, Indonesia (Hybrid) |  | 2d |
-| **Global Campus** | [Internship - Digital, Cloud, Data - IT Strategy Stream](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Jakarta/Internship---Digital--Cloud--Data---IT-Strategy-Stream_764264WD) | Jakarta |  | 20d |
-| **Cermati** | [Software Engineer Intern](https://jobs.smartrecruiters.com/Cermaticom/744000150645669-software-engineer-intern?oga=true) | Jakarta, Jakarta, Indonesia |  | 23d |
+| **The Kenran Resort Ubud** | [Security - School Trainee / Internship](https://kerja.kitalulus.com/lowongan/detail/security-school-trainee-internship-rvrl) | Kabupaten Gianyar, Bali, Indonesia |  | 0d |
+| **Bosch** | [IT Support Intern](https://jobs.smartrecruiters.com/BoschGroup/744000155433589-it-support-intern?oga=true) | South Jakarta, DKI Jakarta, Indonesia (Hybrid) |  | 3d |
+| **Global Campus** | [Internship - Digital, Cloud, Data - IT Strategy Stream](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Jakarta/Internship---Digital--Cloud--Data---IT-Strategy-Stream_764264WD) | Jakarta |  | 21d |
+| **Cermati** | [Software Engineer Intern](https://jobs.smartrecruiters.com/Cermaticom/744000150645669-software-engineer-intern?oga=true) | Jakarta, Jakarta, Indonesia |  | 24d |
 | **Go To Group** | [Data Analyst Intern](https://jobs.lever.co/GoToGroup/f3566bb7-f2fd-4aef-bf2d-a1e0108d24e3) | Jakarta |  | 1mo |
 | **Go To Group** | [Data Scientist Intern](https://jobs.lever.co/GoToGroup/dff2a165-d111-4542-bfec-ec3856892275) | Jakarta |  | 3mo |
 | **Artefact** | [Data Scientist Intern (2024)](https://job-boards.greenhouse.io/artefact/jobs/8564128002) | Jakarta, Jakarta, Indonesia |  | 4mo |
