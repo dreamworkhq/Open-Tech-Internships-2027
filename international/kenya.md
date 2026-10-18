@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**1 currently open roles** · Updated **2026-10-17**
+**1 currently open roles** · Updated **2026-10-18**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **QATestLab** | [Intern QA Engineer (Web)](https://djinni.co/jobs/850425-intern-qa-engineer-web/) | Remote (KEN) |  | 19d |
+| **QATestLab** | [Intern QA Engineer (Web)](https://djinni.co/jobs/850425-intern-qa-engineer-web/) | Remote (KEN) |  | 20d |
 
 <!-- TABLE_END -->

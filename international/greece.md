@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**6 currently open roles** · Updated **2026-10-17**
+**6 currently open roles** · Updated **2026-10-18**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,7 +14,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Tesla** | [Optimus Data Analysis Internship](https://www.tesla.com/careers/search/job/283546) | East Attica Regional Unit |  | 24d |
+| **Tesla** | [Optimus Data Analysis Internship](https://www.tesla.com/careers/search/job/283546) | East Attica Regional Unit |  | 25d |
 | **Kyndryl** | [Cloud Technologies Intern](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Athens-Attiki-Greece/Cloud-Technologies-Intern_R-65083-1) | Remote (Athens, Attiki, Greece) |  | 1mo |
 | **Kyndryl** | [Devops Intern](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Athens-Attiki-Greece/Devops-Intern_R-65079-1) | Remote (Athens, Attiki, Greece) |  | 1mo |
 | **Kyndryl** | [Middleware Software Intern](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Athens-Attiki-Greece/Middleware-Software-Intern_R-65081-1) | Remote (Athens, Attiki, Greece) |  | 1mo |

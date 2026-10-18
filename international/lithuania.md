@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**1 currently open roles** · Updated **2026-10-17**
+**1 currently open roles** · Updated **2026-10-18**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **The Citco Group Limited** | [Citco Vilnius Internship Program Autumn/Winter 2026 - Automation Develo…](https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20614) | Vilniaus Apskritis, Lithuania (Hybrid) |  | 10d |
+| **The Citco Group Limited** | [Citco Vilnius Internship Program Autumn/Winter 2026 - Automation Develo…](https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20614) | Vilniaus Apskritis, Lithuania (Hybrid) |  | 11d |
 
 <!-- TABLE_END -->
