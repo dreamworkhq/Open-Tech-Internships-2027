@@ -2,24 +2,23 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**13 currently open roles** · Updated **2026-10-18**
+**12 currently open roles** · Updated **2026-10-19**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-8) · 8 roles
+- [Engineering](#engineering-7) · 7 roles
 - [Other](#other-5) · 5 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (8)
+### Engineering (7)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Kwetta Ltd** | [Software Engineering Summer Intern](https://www.seek.co.nz/job/95272498) | Onekawa, Hawkes Bay | $28K | 3d |
-| **Rocket Lab** | [Data Engineering Intern](https://www.seek.co.nz/job/94812887) | Auckland |  | 25d |
+| **Kwetta Ltd** | [Software Engineering Summer Intern](https://www.seek.co.nz/job/95272498) | Onekawa, Hawkes Bay | $28K | 4d |
+| **Rocket Lab** | [Data Engineering Intern](https://www.seek.co.nz/job/94812887) | Auckland |  | 26d |
 | **Tencent** | [Game Backend Development Intern](https://tencent.wd1.myworkdayjobs.com/Lightspeed/job/New-Zealand-Auckland/Game-Backend-Development-Intern_R106470) | New Zealand-Auckland |  | 2mo |
 | **Rocket Lab** | [Launch Safety Software Intern](https://job-boards.greenhouse.io/rocketlab/jobs/7827254003) | Auckland, NZ |  | 2mo |
-| **Rocket Lab** | [Data Engineering Intern](https://job-boards.greenhouse.io/rocketlab/jobs/7819722003) | Auckland, NZ |  | 2mo |
 | **Partly.Com** | [ML Research Engineer Intern/Graduate, NZ](https://jobs.ashbyhq.com/partly.com/49cc37df-a604-4c7e-910b-e4e9bcf35e46) | Christchurch |  | 3mo |
 | **Halter** | [Firmware Internship 2026/2027](https://jobs.ashbyhq.com/halter/99a7eac6-0d38-4d17-a22b-f050c9ba0eaa) | Auckland |  | 4mo |
 | **Partly.Com** | [Intern/ Graduate Software Engineer, NZ](https://jobs.ashbyhq.com/partly.com/899fcf9b-07ec-4289-993f-57a2aba0f26d) | Christchurch |  | 4mo |
@@ -28,10 +27,10 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Vitaco Health** | [New Product Development Intern Part-Time 3 Months](https://www.seek.co.nz/job/95309223) | East Tamaki, Auckland |  | 2d |
-| **RTX (Raytheon)** | [Intern - Data Analyst](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/NZ-CAN-CHRISTCHURCH-115-1--115-Orchard-Rd--V2500-WORKSHOP/Intern---Data-Analyst_01873132) | NZ-CAN-CHRISTCHURCH-115-1 ~ 115 Orchard Rd … |  | 24d |
-| **RTX (Raytheon)** | [Intern - CFT Data Analysist](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/NZ-CAN-CHRISTCHURCH-115-1--115-Orchard-Rd--V2500-WORKSHOP/Intern---CFT-Data-Analysist_01873241) | NZ-CAN-CHRISTCHURCH-115-1 ~ 115 Orchard Rd … |  | 24d |
-| **Christchurch Engine Centre** | [Intern - Customer Focus Team Data Analysist](https://www.seek.co.nz/job/94822366) | Christchurch Central, Canterbury |  | 25d |
+| **Vitaco Health** | [New Product Development Intern Part-Time 3 Months](https://www.seek.co.nz/job/95309223) | East Tamaki, Auckland |  | 3d |
+| **RTX (Raytheon)** | [Intern - Data Analyst](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/NZ-CAN-CHRISTCHURCH-115-1--115-Orchard-Rd--V2500-WORKSHOP/Intern---Data-Analyst_01873132) | NZ-CAN-CHRISTCHURCH-115-1 ~ 115 Orchard Rd … |  | 25d |
+| **RTX (Raytheon)** | [Intern - CFT Data Analysist](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/NZ-CAN-CHRISTCHURCH-115-1--115-Orchard-Rd--V2500-WORKSHOP/Intern---CFT-Data-Analysist_01873241) | NZ-CAN-CHRISTCHURCH-115-1 ~ 115 Orchard Rd … |  | 25d |
+| **Christchurch Engine Centre** | [Intern - Customer Focus Team Data Analysist](https://www.seek.co.nz/job/94822366) | Christchurch Central, Canterbury |  | 26d |
 | **Partly.Com** | [Data Science Intern/Graduate, NZ](https://jobs.ashbyhq.com/partly.com/89e575f0-c26d-4caf-beec-d98840eb2619) | Christchurch |  | 3mo |
 
 <!-- TABLE_END -->

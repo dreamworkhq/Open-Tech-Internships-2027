@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**12 currently open roles** · Updated **2026-10-18**
+**12 currently open roles** · Updated **2026-10-19**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,9 +14,9 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Ericsson** | [Services Professional Intern IT - SENA](https://career2.successfactors.eu/careers?company=Ericsson&career_ns=job_listing&career_job_req_id=787344) | Distrito Capital, Cundinamarca, Colombia |  | 8d |
-| **Sezzle** | [Product Intern](https://job-boards.greenhouse.io/sezzle/jobs/7695762003) | Remote (Bogota, Colombia) |  | 23d |
-| **Sezzle** | [Graphic Design Intern](https://job-boards.greenhouse.io/sezzle/jobs/8003784003) | Remote (Bogota, Colombia) |  | 23d |
+| **Ericsson** | [Services Professional Intern IT - SENA](https://career2.successfactors.eu/careers?company=Ericsson&career_ns=job_listing&career_job_req_id=787344) | Distrito Capital, Cundinamarca, Colombia |  | 9d |
+| **Sezzle** | [Product Intern](https://job-boards.greenhouse.io/sezzle/jobs/7695762003) | Remote (Bogota, Colombia) |  | 24d |
+| **Sezzle** | [Graphic Design Intern](https://job-boards.greenhouse.io/sezzle/jobs/8003784003) | Remote (Bogota, Colombia) |  | 24d |
 | **NielsenIQ** | [Intern Inteligencia de Mercados - Bogotá - Cali o Medellin](https://jobs.smartrecruiters.com/NielsenIQ/744000147546459-intern-inteligencia-de-mercados-bogota-cali-o-medellin?oga=true) | Bogotá, Bogota, Colombia (Hybrid) |  | 1mo |
 | **Viamericas** | [Infrastructure Intern](https://jobs.lever.co/viamericas/440b7bc7-8733-46a5-99c6-4051fe9bb25b) | Medellin, Antioquia |  | 1mo |
 | **Sezzle** | [Product Design Intern](https://job-boards.greenhouse.io/sezzle/jobs/7559727003) | Remote (Colombia, Remote) |  | 2mo |
