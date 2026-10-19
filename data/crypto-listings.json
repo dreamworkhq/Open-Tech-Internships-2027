@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-15T22:00:59.014Z",
+  "generatedAt": "2026-10-19T02:22:20.973Z",
   "source": "dreamwork-public-job-index",
   "list": "Open-Tech-Internships-2027",
   "scope": "crypto",
-  "count": 51,
+  "count": 47,
   "listings": [
     {
       "id": "d5f354ec-4a73-4884-96cf-dbe15fc5f1ba",
@@ -164,54 +164,6 @@
       "postedAt": "2026-09-16T04:00:00.000Z",
       "firstIndexedAt": "2026-09-16T15:16:21.299Z",
       "url": "https://careers-gdms.icims.com/jobs/74787/hardware-ee-intern-engineer-for-crypto-and-cross-domain-solutions/job"
-    },
-    {
-      "id": "745d733e-4f44-474a-8447-bbbcefa34660",
-      "title": "Crypto Operations Intern (Summer 2027)",
-      "company": "Robinhood",
-      "companyDomain": "robinhood.com",
-      "location": "New York, NY",
-      "locationCountryCode": "US",
-      "functionPrimary": "Operations",
-      "remoteType": "hybrid",
-      "salaryMin": 68640,
-      "salaryMax": 68640,
-      "salaryPeriod": "annual",
-      "postedAt": "2026-09-14T12:00:09.000Z",
-      "firstIndexedAt": "2026-09-15T10:45:16.780Z",
-      "url": "https://boards.greenhouse.io/robinhood/jobs/8193484?t=gh_src=&gh_jid=8193484"
-    },
-    {
-      "id": "c1a4de70-1c23-4af1-9dfe-217a6d68b5be",
-      "title": "Crypto Accounting Intern (Summer 2027)",
-      "company": "Robinhood",
-      "companyDomain": "robinhood.com",
-      "location": "New York, NY",
-      "locationCountryCode": "US",
-      "functionPrimary": "Finance",
-      "remoteType": "hybrid",
-      "salaryMin": 60320,
-      "salaryMax": 60320,
-      "salaryPeriod": "annual",
-      "postedAt": "2026-09-14T12:00:08.000Z",
-      "firstIndexedAt": "2026-09-15T10:45:16.780Z",
-      "url": "https://boards.greenhouse.io/robinhood/jobs/8198153?t=gh_src=&gh_jid=8198153"
-    },
-    {
-      "id": "ff69b4f8-747f-40bc-a219-22db71a69a8d",
-      "title": "Crypto Partnership Intern (Summer 2027)",
-      "company": "Robinhood",
-      "companyDomain": "robinhood.com",
-      "location": "New York, NY",
-      "locationCountryCode": "US",
-      "functionPrimary": "Operations",
-      "remoteType": "hybrid",
-      "salaryMin": 68640,
-      "salaryMax": 68640,
-      "salaryPeriod": "annual",
-      "postedAt": "2026-09-14T12:00:09.000Z",
-      "firstIndexedAt": "2026-09-15T10:45:16.780Z",
-      "url": "https://boards.greenhouse.io/robinhood/jobs/8193710?t=gh_src=&gh_jid=8193710"
     },
     {
       "id": "4609c9f6-4e5c-4a1b-bbc0-cbc2c334b8f3",
@@ -390,22 +342,6 @@
       "url": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971692101"
     },
     {
-      "id": "f629d222-4507-43ee-ac50-feeca0c75e6c",
-      "title": "[Intern] Test Development Engineer Intern",
-      "company": "Bybit",
-      "companyDomain": "bybit.com",
-      "location": "Hong Kong SAR; Kuala Lumpur, Malaysia",
-      "locationCountryCode": "MY",
-      "functionPrimary": "Engineering",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-09-09T08:26:18.000Z",
-      "firstIndexedAt": "2026-09-09T15:30:43.343Z",
-      "url": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971608101"
-    },
-    {
       "id": "21b93a50-079a-4f39-84a3-49c22693ccc1",
       "title": "Crypto Inventory Operations Intern",
       "company": "Coinbase",
@@ -458,7 +394,7 @@
       "title": "Crypto Quality SW Process Internship",
       "company": "NXP Semiconductors",
       "companyDomain": "nxp.com",
-      "location": "2 Locations",
+      "location": "Sibiu",
       "locationCountryCode": "RO",
       "functionPrimary": "Operations",
       "remoteType": "hybrid",
@@ -518,20 +454,20 @@
       "url": "https://jobs.lever.co/certik/0b497f25-210b-408e-b2c3-e005c841d867"
     },
     {
-      "id": "0fd2bb8a-4879-4058-8d63-9f1651e126a2",
-      "title": "Binance Accelerator Program - Global Swag",
+      "id": "4a114a42-3b9a-4256-a2e0-b7e80ee28277",
+      "title": "Pioneer Talent Program - Full Stack AI Engineer, Backend Oriented (Top Talent Program)",
       "company": "Binance",
       "companyDomain": "binance.com",
-      "location": "Hong Kong",
-      "locationCountryCode": "HK",
-      "functionPrimary": "Marketing",
-      "remoteType": null,
+      "location": "Asia",
+      "locationCountryCode": null,
+      "functionPrimary": "Engineering",
+      "remoteType": "remote",
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-07-22T02:28:05.316Z",
-      "firstIndexedAt": "2026-07-24T11:00:31.098Z",
-      "url": "https://jobs.lever.co/binance/6fa8076d-5abd-4786-a533-3e0568ccbedf"
+      "postedAt": "2023-11-23T03:28:37.589Z",
+      "firstIndexedAt": "2026-07-24T11:00:36.405Z",
+      "url": "https://jobs.lever.co/binance/58cacd4c-78f1-423b-b6e4-9bab15e01ba1"
     },
     {
       "id": "f236f599-ea6d-4795-8838-a78f9cbbc93a",
