@@ -2,21 +2,20 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**4 currently open roles** · Updated **2026-10-19**
+**3 currently open roles** · Updated **2026-10-20**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Other](#other-4) · 4 roles
+- [Other](#other-3) · 3 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Other (4)
+### Other (3)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **MSF** | [Creative Intern (Communication Department)](https://msfindia.zohorecruit.in/jobs/careers/33660000009935598) | Remote (Colombo, Western, 00200, Sri Lanka) |  | 5d |
-| **MAS Holdings** | [Intern - Product Engineering Center (PEC)](https://egmh.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21524) | Sri Lanka |  | 18d |
-| **Sysco** | [Intern - Software Engineering](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-LABS-----Sri-Lanka/Intern---Software-Engineering_R258865) | Sysco LABS - Sri Lanka |  | 26d |
+| **MAS Holdings** | [Intern - Product Engineering Center (PEC)](https://egmh.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21524) | Sri Lanka |  | 19d |
+| **Sysco** | [Intern - Software Engineering](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-LABS-----Sri-Lanka/Intern---Software-Engineering_R258865) | Sysco LABS - Sri Lanka |  | 27d |
 | **Zebra** | [2026(6 months) Internship(Sri Lanka) -Software Engineering](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Colombo-Sri-Lanka/XMLNAME-2026-6-months--Internship-Sri-Lanka---Software-Engineering_JR102701) | Colombo, Sri Lanka (Hybrid) |  | 2mo |
 
 <!-- TABLE_END -->

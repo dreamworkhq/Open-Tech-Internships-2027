@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**22 currently open roles** · Updated **2026-10-19**
+**22 currently open roles** · Updated **2026-10-20**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -15,10 +15,10 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Bosch** | [Extracurricular Internship: Gateway Firmware Engineer (f/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000155702622-extracurricular-internship-gateway-firmware-engineer-f-m-div-?oga=true) | Aveiro, , Portugal (Hybrid) |  | 4d |
-| **Bosch** | [Extracurricular Internship: C# Developer (f/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000152107800-extracurricular-internship-c-developer-f-m-div-?oga=true) | Ovar, , Portugal (Hybrid) |  | 21d |
-| **Keenfinity** | [Hardware Test Engineering Internship (m./f,./div.)](https://jobs.smartrecruiters.com/Keenfinity/744000151665159-hardware-test-engineering-internship-m-f-div-?oga=true) | Ovar, , Portugal (Hybrid) |  | 24d |
-| **Bosch** | [Extracurricular Internship: Production System & Data Analytics (f/m/div…](https://jobs.smartrecruiters.com/BoschGroup/744000151010819-extracurricular-internship-production-system-data-analytics-f-m-div-?oga=true) | Aveiro, , Portugal (Hybrid) |  | 27d |
+| **Bosch** | [Extracurricular Internship: Gateway Firmware Engineer (f/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000155702622-extracurricular-internship-gateway-firmware-engineer-f-m-div-?oga=true) | Aveiro, , Portugal (Hybrid) |  | 5d |
+| **Bosch** | [Extracurricular Internship: C# Developer (f/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000152107800-extracurricular-internship-c-developer-f-m-div-?oga=true) | Ovar, , Portugal (Hybrid) |  | 22d |
+| **Keenfinity** | [Hardware Test Engineering Internship (m./f,./div.)](https://jobs.smartrecruiters.com/Keenfinity/744000151665159-hardware-test-engineering-internship-m-f-div-?oga=true) | Ovar, , Portugal (Hybrid) |  | 25d |
+| **Bosch** | [Extracurricular Internship: Production System & Data Analytics (f/m/div…](https://jobs.smartrecruiters.com/BoschGroup/744000151010819-extracurricular-internship-production-system-data-analytics-f-m-div-?oga=true) | Aveiro, , Portugal (Hybrid) |  | 28d |
 | **Bosch** | [Extracurricular Internship: Product Compliance Engineer (f/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000148967199-extracurricular-internship-product-compliance-engineer-f-m-div-?oga=true) | Aveiro, , Portugal (Hybrid) |  | 1mo |
 | **Bosch** | [Extracurricular Internship: Infrastructure & DevOps Engineer (f/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000148964769-extracurricular-internship-infrastructure-devops-engineer-f-m-div-?oga=true) | Aveiro, , Portugal (Hybrid) |  | 1mo |
 | **Bosch** | [Extracurricular Internship: Process Digitalization and Automation (f/m/…](https://jobs.smartrecruiters.com/BoschGroup/744000148967860-extracurricular-internship-process-digitalization-and-automation-f-m-div-?oga=true) | Aveiro, , Portugal (Hybrid) |  | 1mo |
@@ -36,10 +36,10 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **1000** | [Data Engineer Internship (m/f/x)](https://pg.wd5.myworkdayjobs.com/1000/job/LISBON-GENERAL-OFFICE/Data-Engineer-Internship--m-f-x-_R000161204) | LISBON GENERAL OFFICE |  | 3d |
-| **Bosch** | [Extracurricular Internship: Product Information Management (f/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000155070999-extracurricular-internship-product-information-management-f-m-div-?oga=true) | Ovar, , Portugal (Hybrid) |  | 6d |
-| **Bosch** | [Extracurricular Internship: AI Implementation in Corporate Quality (f/m…](https://jobs.smartrecruiters.com/BoschGroup/744000153820750-extracurricular-internship-ai-implementation-in-corporate-quality-f-m-div-?oga=true) | Aveiro, , Portugal (Hybrid) |  | 13d |
-| **Mastercard** | [Product Management Intern, Summer 2027 - Lisbon, Portugal](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Lisbon-Portugal/Product-Management-Intern--Summer-2027---Lisbon--Portugal_R-287709) | Lisbon, Portugal |  | 21d |
+| **1000** | [Data Engineer Internship (m/f/x)](https://pg.wd5.myworkdayjobs.com/1000/job/LISBON-GENERAL-OFFICE/Data-Engineer-Internship--m-f-x-_R000161204) | LISBON GENERAL OFFICE |  | 4d |
+| **Bosch** | [Extracurricular Internship: Product Information Management (f/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000155070999-extracurricular-internship-product-information-management-f-m-div-?oga=true) | Ovar, , Portugal (Hybrid) |  | 7d |
+| **Bosch** | [Extracurricular Internship: AI Implementation in Corporate Quality (f/m…](https://jobs.smartrecruiters.com/BoschGroup/744000153820750-extracurricular-internship-ai-implementation-in-corporate-quality-f-m-div-?oga=true) | Aveiro, , Portugal (Hybrid) |  | 14d |
+| **Mastercard** | [Product Management Intern, Summer 2027 - Lisbon, Portugal](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Lisbon-Portugal/Product-Management-Intern--Summer-2027---Lisbon--Portugal_R-287709) | Lisbon, Portugal |  | 22d |
 | **Bosch** | [Extracurricular Internship: UX and Product Documentation (f/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000148965690-extracurricular-internship-ux-and-product-documentation-f-m-div-?oga=true) | Aveiro, , Portugal (Hybrid) |  | 1mo |
 | **Bosch** | [Academic Internship in Service & Visual Communication Designer Intern (…](https://jobs.smartrecruiters.com/BoschGroup/744000146164837-academic-internship-in-service-visual-communication-designer-intern-f-m-div-?oga=true) | Braga, Braga, Portugal (Hybrid) |  | 1mo |
 
