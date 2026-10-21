@@ -2,43 +2,41 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**75 currently open roles** · Updated **2026-10-20**
+**68 currently open roles** · Updated **2026-10-21**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-29) · 29 roles
-- [Data Science](#data-science-29) · 29 roles
-- [Security](#security-8) · 8 roles
-- [Product](#product-8) · 8 roles
-- [Other](#other-1) · 1 roles
+- [Engineering](#engineering-28) · 28 roles
+- [Data Science](#data-science-26) · 26 roles
+- [Security](#security-7) · 7 roles
+- [Product](#product-7) · 7 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (29)
+### Engineering (28)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Cadence Design Systems** | [Intern: AI for Smarter ATE Test Development & Debug](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/VALBONNE-Sophia/Intern--AI-for-Smarter-ATE-Test-Development---Debug_R56811-1) | VALBONNE (Sophia) |  | 0d |
-| **Alice Bob** | [Full-Stack Software Engineer Intern M/F](https://jobs.lever.co/alice-bob/657b1b1e-79d6-40f8-96e5-ee686544189f) | Paris |  | 0d |
-| **Sanofi** | [internship 6 months data and ia engineer](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Lyon/internship-6-months-data-and-ia-engineer_R2873938) | Lyon |  | 0d |
-| **Airbus** | [ATR – Internship 2027 – AI and structural in -service repairs](https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/ATR---Internship-2027---AI-and-structural-in--service-repairs_JR10450722) | Toulouse Area |  | 4d |
-| **Airbus** | [ATR- Internship 2027 - Automatic Generator of Aircraft Performance Data…](https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/ATR--Internship-2027---Automatic-Generator-of-Aircraft-Performance-Database_JR10450467) | Toulouse Area |  | 4d |
-| **Pernodricard** | [Data Platform Intern - Paris - March 2027](https://pernodricard.wd3.myworkdayjobs.com/pernod-ricard/job/Paris/Data-Platform-Intern---Paris---March-2027_JR-055327-1) | Paris |  | 4d |
-| **Amazon** | [Business Intelligence Engineer Internship France](https://www.amazon.jobs/en/jobs/10579727/business-intelligence-engineer-internship-france) | FR, Clichy |  | 5d |
-| **Doctolib** | [Software Engineering Intern - Fullstack (x/f/m) - Niort](https://job-boards.greenhouse.io/doctolib/jobs/8004636003) | Niort (Hybrid) |  | 8d |
-| **Doctolib** | [Software Engineering intern - Fullstack (x/f/m) - Nantes](https://job-boards.greenhouse.io/doctolib/jobs/8000592003) | Nantes (Hybrid) | $20K | 8d |
-| **Dataiku** | [Software Engineer Intern - France, Paris](https://job-boards.greenhouse.io/dataiku/jobs/5339585004) | France, Paris |  | 11d |
-| **Shifttechnology** | [Full stack Engineer Intern (6 months)](https://job-boards.greenhouse.io/shifttechnology/jobs/8014470003) | France - Paris (Hybrid) |  | 12d |
-| **Mirakllabs** | [Software Engineer Intern - Ads](https://job-boards.greenhouse.io/mirakllabs/jobs/6212736004) | Bordeaux, France |  | 19d |
-| **Sia** | [Final year internship - DevOps / Platform Engineer](https://jobs.smartrecruiters.com/Sia/744000152115350-final-year-internship-devops-platform-engineer?oga=true) | Paris, IDF, France |  | 21d |
-| **Murex** | [INTERNSHIP 2027 - UI Software Engineer](https://murex.wd3.myworkdayjobs.com/MurexCareerPage1/job/Paris/Intership-2027---Design-System-Sample-Assembly-Application_JR103210) | Paris |  | 21d |
-| **Murex** | [INTERNSHIP 2027 – Software Engineer C++](https://murex.wd3.myworkdayjobs.com/MurexCareerPage1/job/Paris/INTERNSHIP-2027---Software-Engineer-C--_JR103161-1) | Paris |  | 21d |
-| **Murex** | [INTERNSHIP 2027 - Software Engineer Java](https://murex.wd3.myworkdayjobs.com/MurexCareerPage1/job/Paris/INTERNSHIP-2027---Software-Engineer-Java_JR103162-2) | Paris |  | 21d |
+| **C12qe** | [Internship in Automated Qubit Calibration (AI for Quantum)](https://jobs.lever.co/c12qe/b61e5911-ecf0-4b53-89ca-4382dfc092a3) | Paris |  | 0d |
+| **Cadence Design Systems** | [Intern: AI for Smarter ATE Test Development & Debug](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/VALBONNE-Sophia/Intern--AI-for-Smarter-ATE-Test-Development---Debug_R56811) | VALBONNE (Sophia) |  | 0d |
+| **Alice Bob** | [Full-Stack Software Engineer Intern M/F](https://jobs.lever.co/alice-bob/657b1b1e-79d6-40f8-96e5-ee686544189f) | Paris |  | 1d |
+| **Sanofi** | [internship 6 months data and ia engineer](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Lyon/internship-6-months-data-and-ia-engineer_R2873938) | Lyon |  | 1d |
+| **Airbus** | [ATR – Internship 2027 – AI and structural in -service repairs](https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/ATR---Internship-2027---AI-and-structural-in--service-repairs_JR10450722) | Toulouse Area |  | 5d |
+| **Pernodricard** | [Data Platform Intern - Paris - March 2027](https://pernodricard.wd3.myworkdayjobs.com/pernod-ricard/job/Paris/Data-Platform-Intern---Paris---March-2027_JR-055327-1) | Paris |  | 5d |
+| **Amazon** | [Business Intelligence Engineer Internship France](https://www.amazon.jobs/en/jobs/10579727/business-intelligence-engineer-internship-france) | FR, Clichy |  | 6d |
+| **Doctolib** | [Software Engineering Intern - Fullstack (x/f/m) - Niort](https://job-boards.greenhouse.io/doctolib/jobs/8004636003) | Niort (Hybrid) |  | 9d |
+| **Doctolib** | [Software Engineering intern - Fullstack (x/f/m) - Nantes](https://job-boards.greenhouse.io/doctolib/jobs/8000592003) | Nantes (Hybrid) | $20K | 9d |
+| **Dataiku** | [Software Engineer Intern - France, Paris](https://job-boards.greenhouse.io/dataiku/jobs/5339585004) | France, Paris |  | 12d |
+| **Shifttechnology** | [Full stack Engineer Intern (6 months)](https://job-boards.greenhouse.io/shifttechnology/jobs/8014470003) | France - Paris (Hybrid) |  | 13d |
+| **Mirakllabs** | [Software Engineer Intern - Ads](https://job-boards.greenhouse.io/mirakllabs/jobs/6212736004) | Bordeaux, France |  | 20d |
+| **Sia** | [Final year internship - DevOps / Platform Engineer](https://jobs.smartrecruiters.com/Sia/744000152115350-final-year-internship-devops-platform-engineer?oga=true) | Paris, IDF, France |  | 22d |
+| **Murex** | [INTERNSHIP 2027 - UI Software Engineer](https://murex.wd3.myworkdayjobs.com/MurexCareerPage1/job/Paris/Intership-2027---Design-System-Sample-Assembly-Application_JR103210) | Paris |  | 22d |
+| **Murex** | [INTERNSHIP 2027 – Software Engineer C++](https://murex.wd3.myworkdayjobs.com/MurexCareerPage1/job/Paris/INTERNSHIP-2027---Software-Engineer-C--_JR103161-1) | Paris |  | 22d |
+| **Murex** | [INTERNSHIP 2027 - Software Engineer Java](https://murex.wd3.myworkdayjobs.com/MurexCareerPage1/job/Paris/INTERNSHIP-2027---Software-Engineer-Java_JR103162-2) | Paris |  | 22d |
 | **Symphony** | [Intern, Development Operations DevOps](https://symphony.com/company/apply?gh_jid=8121110) | Sophia Antipolis | $22K | 1mo |
 | **Amadeus** | [Internship - DevOps Engineer](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Nice/Internship---DevOps-Engineer_R37332) | Nice |  | 1mo |
 | **Amadeus** | [Internship - Software Engineer](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Nice/Internship---Software-Engineer_R37331) | Nice |  | 1mo |
 | **Quberesearchandtechnologies** | [2027 - Internship, Data Engineering](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8623972002) | Paris, London |  | 1mo |
-| **Towerresearchcapital** | [Quantitative Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=7011493) | Paris |  | 1mo |
 | **1000** | [Data Engineering Intern](https://pg.wd5.myworkdayjobs.com/1000/job/PARIS-GO-ASNIERES-SUR-SEINE/Data-Engineering-Intern_R000155891) | PARIS GO-ASNIERES-SUR-SEINE (Hybrid) | $21K | 2mo |
 | **Fortinet** | [Network Performance Security and Preproduction Tester -6 month Internsh…](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22144) | Sophia Antipolis, Alpes-Maritimes, France |  | 3mo |
 | **Mistral AI** | [Applied AI, Forward Deployed Machine Learning Engineer - (Internship)](https://jobs.ashbyhq.com/mistral.ai/fcdb8407-20b9-4179-81b6-f2ca2c79a39b) | Paris |  | 3mo |
@@ -48,30 +46,27 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **Palantir** | [Forward Deployed Software Engineer, Internship](https://jobs.lever.co/palantir/1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a) | Paris, France (Hybrid) |  | 5mo |
 | **Bigblue** | [Business Intelligence Engineer Intern — Ops Excellence](https://jobs.lever.co/bigblue/8dfc4051-e37b-416c-a034-3b783d13325d) | Paris |  | 5mo |
 
-### Data Science (29)
+### Data Science (26)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **RELX** | [Junior Quant Analyst Intern - EU Carbon Markets](https://relx.wd3.myworkdayjobs.com/relx/job/Paris/Junior-Quant-Analyst-Intern---EU-Carbon-Markets_R119865-2) | Paris |  | 0d |
-| **Backmarket** | [QA Analytics Tracking Specialist Intern](https://jobs.ashbyhq.com/backmarket/d474d03d-1470-4b21-a58f-018856f9a577) | Paris |  | 0d |
-| **Pernodricard** | [Internship Data Sciences Intern - Paris - March 2027](https://pernodricard.wd3.myworkdayjobs.com/pernod-ricard/job/Paris/Internship-Data-Sciences-Intern---Paris---March-2027_JR-055342) | Paris |  | 3d |
-| **Eurofins** | [Internship in Data Visualization and Interactive Analytics- Sensory & C…](https://jobs.smartrecruiters.com/Eurofins/744000155963050-internship-in-data-visualization-and-interactive-analytics-sensory-consumer-research?oga=true) | Paris, IDF, France |  | 4d |
-| **Airbus** | [ATR - Internship - Flight Data Analysis and IA](https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/ATR---Internship---Flight-Data-Analysis-and-IA_JR10450784) | Toulouse Area |  | 4d |
-| **Airbus** | [ATR - Internship- Geospatial Data Science (F/M)](https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/ATR---Internship--Geospatial-Data-Science--F-M-_JR10448360) | Toulouse Area |  | 4d |
-| **Air Liquide** | [INTERNSHIP - HEAD OFFICE - DATA & AI SPECIALIST IN PROCUREMENT M/F](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/France-Paris/INTERNSHIP---HEAD-OFFICE---DATA---AI-SPECIALIST-IN-PROCUREMENT-M-F_R10102436) | France, Paris |  | 6d |
-| **Sia** | [Final year internship - Operations Research Consultant](https://jobs.smartrecruiters.com/Sia/744000155063299-final-year-internship-operations-research-consultant-?oga=true) | Paris, IDF, France (Hybrid) |  | 6d |
-| **Ubisoft** | [Data Business Analyst Assistant – Internship (6-month) January 2027 (W/…](https://jobs.smartrecruiters.com/Ubisoft2/744000155221189-data-business-analyst-assistant-internship-6-month-january-2027-w-m-nb-?oga=true) | Paris, IDF, France |  | 6d |
-| **Pernodricard** | [Data analyst intern - January 2027 - Paris](https://pernodricard.wd3.myworkdayjobs.com/pernod-ricard/job/Paris/Data-analyst-intern---January-2027---Paris_JR-055142-1) | Remote (Paris) |  | 10d |
-| **CMA CGM Group** | [Internship - Operational Data Analysis for Optimal Boil-Off Gas Managem…](https://career2.successfactors.eu/careers?company=C0002716868P&career_ns=job_listing&career_job_req_id=588453) | — |  | 11d |
-| **Mirakllabs** | [Data Scientist - Intern](https://job-boards.greenhouse.io/mirakllabs/jobs/6210559004) | Remote (Paris, France) |  | 13d |
-| **Ubisoft** | [Reporting Data Analyst Assistant – Internship (6-month) January 2027 (W…](https://jobs.smartrecruiters.com/Ubisoft2/744000152982859-reporting-data-analyst-assistant-internship-6-month-january-2027-w-m-nb-?oga=true) | Paris, IDF, France |  | 19d |
-| **Shifttechnology** | [Data Scientist Internship (November, 6 months)](https://job-boards.greenhouse.io/shifttechnology/jobs/8005395003) | France - Paris (Hybrid) |  | 22d |
-| **Hrhub** | [Commodities Data Analyst Intern](https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Paris/Commodities-Data-Analyst-Intern_R28885-1) | Paris |  | 25d |
-| **1000** | [Analysis & Insights Internship (Stagiaire Data Analyst)](https://pg.wd5.myworkdayjobs.com/1000/job/PARIS-GO-ASNIERES-SUR-SEINE/Analysis---Insights-Internship--Stagiaire-Data-Analyst-_R000159355) | PARIS GO-ASNIERES-SUR-SEINE (Hybrid) | $21K | 27d |
+| **Sia** | [Final year internship - Operations Research Consultant](https://jobs.smartrecruiters.com/Sia/744000156481089-final-year-internship-operations-research-consultant-?oga=true) | Paris, IDF, France (Hybrid) |  | 0d |
+| **Risk Solutions** | [Junior Quant Analyst Intern - EU Carbon Markets](https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/Paris/Junior-Quant-Analyst-Intern---EU-Carbon-Markets_R119865-1) | Paris |  | 0d |
+| **RELX** | [Junior Quant Analyst Intern - EU Carbon Markets](https://relx.wd3.myworkdayjobs.com/relx/job/Paris/Junior-Quant-Analyst-Intern---EU-Carbon-Markets_R119865-2) | Paris |  | 1d |
+| **Backmarket** | [QA Analytics Tracking Specialist Intern](https://jobs.ashbyhq.com/backmarket/d474d03d-1470-4b21-a58f-018856f9a577) | Paris |  | 1d |
+| **Pernodricard** | [Internship Data Sciences Intern - Paris - March 2027](https://pernodricard.wd3.myworkdayjobs.com/pernod-ricard/job/Paris/Internship-Data-Sciences-Intern---Paris---March-2027_JR-055342) | Paris |  | 4d |
+| **Eurofins** | [Internship in Data Visualization and Interactive Analytics- Sensory & C…](https://jobs.smartrecruiters.com/Eurofins/744000155963050-internship-in-data-visualization-and-interactive-analytics-sensory-consumer-research?oga=true) | Paris, IDF, France |  | 5d |
+| **Airbus** | [ATR - Internship - Flight Data Analysis and IA](https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/ATR---Internship---Flight-Data-Analysis-and-IA_JR10450784) | Toulouse Area |  | 5d |
+| **Airbus** | [ATR - Internship- Geospatial Data Science (F/M)](https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/ATR---Internship--Geospatial-Data-Science--F-M-_JR10448360) | Toulouse Area |  | 5d |
+| **Air Liquide** | [INTERNSHIP - HEAD OFFICE - DATA & AI SPECIALIST IN PROCUREMENT M/F](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/France-Paris/INTERNSHIP---HEAD-OFFICE---DATA---AI-SPECIALIST-IN-PROCUREMENT-M-F_R10102436) | France, Paris |  | 7d |
+| **Pernodricard** | [Data analyst intern - January 2027 - Paris](https://pernodricard.wd3.myworkdayjobs.com/pernod-ricard/job/Paris/Data-analyst-intern---January-2027---Paris_JR-055142-1) | Remote (Paris) |  | 11d |
+| **CMA CGM Group** | [Internship - Operational Data Analysis for Optimal Boil-Off Gas Managem…](https://career2.successfactors.eu/careers?company=C0002716868P&career_ns=job_listing&career_job_req_id=588453) | — |  | 12d |
+| **Ubisoft** | [Reporting Data Analyst Assistant – Internship (6-month) January 2027 (W…](https://jobs.smartrecruiters.com/Ubisoft2/744000152982859-reporting-data-analyst-assistant-internship-6-month-january-2027-w-m-nb-?oga=true) | Paris, IDF, France |  | 20d |
+| **Shifttechnology** | [Data Scientist Internship (November, 6 months)](https://job-boards.greenhouse.io/shifttechnology/jobs/8005395003) | France - Paris (Hybrid) |  | 23d |
+| **Hrhub** | [Commodities Data Analyst Intern](https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Paris/Commodities-Data-Analyst-Intern_R28885-1) | Paris |  | 26d |
+| **1000** | [Analysis & Insights Internship (Stagiaire Data Analyst)](https://pg.wd5.myworkdayjobs.com/1000/job/PARIS-GO-ASNIERES-SUR-SEINE/Analysis---Insights-Internship--Stagiaire-Data-Analyst-_R000159355) | PARIS GO-ASNIERES-SUR-SEINE (Hybrid) | $21K | 28d |
 | **CMA CGM Group** | [Internship - AI & HSE Performance Analyst](https://career2.successfactors.eu/careers?company=C0002716868P&career_ns=job_listing&career_job_req_id=589256) | — |  | 1mo |
-| **Teampicnic** | [International Business Analytics Internship (H/F)](https://jobs.picnic.app/nl/vacancies?gh_jid=8207587) | Paris, Paris, France (Hybrid) |  | 1mo |
 | **Amadeus** | [Internship - Data scientist](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Nice/Internship---Data-scientist_R37333) | Nice |  | 1mo |
-| **Artefact** | [Intern Data Analyst - Paris](https://job-boards.greenhouse.io/artefact/jobs/8795537002) | 9th arrondissement of Paris, 75009, Paris, … |  | 1mo |
 | **Foresea Technologies** | [Internship - Data Analyst / Analytics Engineer](https://jobs.lever.co/foresea-technologies/85223e2b-730e-4c9a-b876-90a2aef9723c) | Paris |  | 1mo |
 | **Artefact** | [Data Scientist Intern - Paris](https://job-boards.greenhouse.io/artefact/jobs/8785269002) | 9th arrondissement of Paris, 75009, Paris, … (Hybrid) |  | 1mo |
 | **Barclays** | [Quantitative Analytics Associate Off Cycle Internship Programme 2027 Pa…](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Paris-52-avenue-Hoche/Quantitative-Analytics-Associate-Off-Cycle-Internship-Programme-2027-Paris_JR-0000124726) | Paris, 52 avenue Hoche | $32K | 1mo |
@@ -82,36 +77,28 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **Hellofresh** | [Growth Strategy Data Analyst - Intern (M/F/N)](https://careers.hellofresh.com/global/en/job/7704587?gh_jid=7704587) | Paris, Paris, France |  | 4mo |
 | **Sia** | [Final Year Internship Consultant - Financial Services](https://jobs.smartrecruiters.com/Sia/744000117837228-final-year-internship-consultant-financial-services?oga=true) | Paris, Île-de-France, France |  | 5mo |
 
-### Security (8)
+### Security (7)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Maki** | [Workplace & Security Engineer - Final Year Intern](https://jobs.ashbyhq.com/maki/e3c8118d-d812-4815-a762-2556ca4c9a77) | Paris (Hybrid) |  | 0d |
-| **CMA CGM Group** | [Internship - Data Analyst / Intelligence Coordinator - Group Security a…](https://career2.successfactors.eu/careers?company=C0002716868P&career_ns=job_listing&career_job_req_id=589847) | — |  | 7d |
-| **CMA CGM Group** | [Internship - Cyber Innovation Intern - Applied AI & Cybersecurity](https://career2.successfactors.eu/careers?company=C0002716868P&career_ns=job_listing&career_job_req_id=589139) | — |  | 14d |
-| **Amazon** | [(Physical) Security Specialist Intern - 2027 Internship](https://www.amazon.jobs/en/jobs/10567818/physical-security-specialist-intern-2027-internship) | FR, Paris |  | 18d |
-| **Fticonsulting** | [Intern, Consultant Cyber Threat Intelligence (CTI) & Investigation numé…](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Paris-France/Intern--Consultant-Cyber-Threat-Intelligence--CTI----Investigation-numrique--DFIR-_JR261446) | Paris, France (Hybrid) |  | 20d |
-| **CMA CGM Group** | [Internship - Designing CMA CGM's Cyber Steering Platform](https://career2.successfactors.eu/careers?company=C0002716868P&career_ns=job_listing&career_job_req_id=588756) | — |  | 1mo |
-| **Maki** | [Security Engineer - Final year Intern](https://jobs.ashbyhq.com/maki/7f0e0e64-c153-470b-839d-0b3bf520a45e) | Paris (Hybrid) |  | 1mo |
+| **Sia** | [Final Year Internship Consultant - Cybersecurity](https://jobs.smartrecruiters.com/Sia/744000156750699-final-year-internship-consultant-cybersecurity?oga=true) | Paris, IDF, France | $36K | 0d |
+| **Maki** | [Workplace & Security Engineer - Final Year Intern](https://jobs.ashbyhq.com/maki/e3c8118d-d812-4815-a762-2556ca4c9a77) | Paris (Hybrid) |  | 1d |
+| **CMA CGM Group** | [Internship - Data Analyst / Intelligence Coordinator - Group Security a…](https://career2.successfactors.eu/careers?company=C0002716868P&career_ns=job_listing&career_job_req_id=589847) | — |  | 8d |
+| **CMA CGM Group** | [Internship - Cyber Innovation Intern - Applied AI & Cybersecurity](https://career2.successfactors.eu/careers?company=C0002716868P&career_ns=job_listing&career_job_req_id=589139) | — |  | 15d |
+| **Amazon** | [(Physical) Security Specialist Intern - 2027 Internship](https://www.amazon.jobs/en/jobs/10567818/physical-security-specialist-intern-2027-internship) | FR, Paris |  | 19d |
+| **Fticonsulting** | [Intern, Consultant Cyber Threat Intelligence (CTI) & Investigation numé…](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Paris-France/Intern--Consultant-Cyber-Threat-Intelligence--CTI----Investigation-numrique--DFIR-_JR261446) | Paris, France (Hybrid) |  | 22d |
 | **Fticonsulting** | [2027 Intern, Forensic & Litigation Consulting, Cyber](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Paris-France/XMLNAME-2027-Intern--Forensic---Litigation-Consulting--Cyber_JR260757) | Paris, France (Hybrid) |  | 1mo |
 
-### Product (8)
+### Product (7)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Pernodricard** | [Stage Web Analytics & Content Insights Intern - Paris - Janvier 2027](https://pernodricard.wd3.myworkdayjobs.com/pernod-ricard/job/Paris/Stage-Web-Analytics---Content-Insights-Intern---Paris---Janvier-2027_JR-055036-2) | Paris |  | 10d |
-| **Mirakllabs** | [Product Manager Intern - Platform](https://job-boards.greenhouse.io/mirakllabs/jobs/5813651004) | Paris, France |  | 17d |
-| **Mirakllabs** | [Product Manager Intern - Connect](https://job-boards.greenhouse.io/mirakllabs/jobs/6214307004) | Paris, France |  | 17d |
+| **Pernodricard** | [Stage Web Analytics & Content Insights Intern - Paris - Janvier 2027](https://pernodricard.wd3.myworkdayjobs.com/pernod-ricard/job/Paris/Stage-Web-Analytics---Content-Insights-Intern---Paris---Janvier-2027_JR-055036-2) | Paris |  | 11d |
+| **Mirakllabs** | [Product Manager Intern - Platform](https://job-boards.greenhouse.io/mirakllabs/jobs/5813651004) | Paris, France |  | 18d |
 | **Datadog** | [Product Management Intern](https://careers.datadoghq.com/detail/8143729/?gh_jid=8143729) | Paris, France (Hybrid) |  | 1mo |
 | **Skello** | [Product Manager Intern](https://skello.teamtailor.com/jobs/7910939-product-manager-intern) | Paris, France |  | 3mo |
 | **Aircall** | [Product Manager Intern](https://jobs.lever.co/aircall/c71f52af-d884-4a38-9db7-7f7ff402e2ef) | Paris Office |  | 3mo |
 | **ALTEN** | [Internship Offer – Product Owner (Project Management Tool)](https://jobs.smartrecruiters.com/ALTEN/744000131167400-internship-offer-product-owner-project-management-tool-?oga=true) | Toulouse, Occitanie, France |  | 3mo |
 | **Bigblue** | [Solutions Engineer intern](https://jobs.lever.co/bigblue/31ca8ff7-5a6c-41a5-9b7b-455d81d07a71) | Paris |  | 5mo |
-
-### Other (1)
-
-| Company | Role | Location | Pay | Added |
-| --- | --- | --- | --- | --- |
-| **Tesla** | [Stage - Concepteur de projet de recharge / Charging Project Designer, I…](https://www.tesla.com/careers/search/job/283711) | Saint-ouen-sur-seine, Ile-de-france |  | 11d |
 
 <!-- TABLE_END -->
