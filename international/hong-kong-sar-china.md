@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**22 currently open roles** · Updated **2026-10-21**
+**22 currently open roles** · Updated **2026-10-22**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -15,8 +15,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Foresea Technologies** | [Internship - AI Ops Builder & Automatisation](https://jobs.lever.co/foresea-technologies/d5224393-8814-4a1a-9f88-238698df83d9) | Hong Kong SAR |  | 0d |
-| **Schonfeld** | [2027 Quantitative C++ Developer Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8238451) | Hong Kong, Hong Kong |  | 21d |
+| **Foresea Technologies** | [Internship - AI Ops Builder & Automatisation](https://jobs.lever.co/foresea-technologies/d5224393-8814-4a1a-9f88-238698df83d9) | Hong Kong SAR |  | 1d |
+| **Schonfeld** | [2027 Quantitative C++ Developer Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8238451) | Hong Kong, Hong Kong |  | 22d |
 | **Dvtrading** | [2027 Software Developer Intern (DV QES)](https://job-boards.greenhouse.io/dvtrading/jobs/4733880005) | Hong Kong |  | 1mo |
 | **Bybit** | [AI Development Engineer Intern](https://job-boards.eu.greenhouse.io/bybit/jobs/4974271101) | Hong Kong SAR |  | 1mo |
 | **Nex** | [Summer 2027 \| Software Engineer Intern (Developer Experience)](https://job-boards.greenhouse.io/nex/jobs/5420203008) | Hong Kong |  | 1mo |
@@ -35,10 +35,10 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Hitachi** | [Data Engineering Intern](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Hong-Kong-Hong-Kong-SAR/Data-Engineering-Intern_R0145808) | Hong Kong, Hong Kong SAR |  | 4d |
-| **BASF** | [Intern, Data Analytics, Dispersions & Resins](https://career5.successfactors.eu/careers?company=C0000159936P&career_ns=job_listing&career_job_req_id=145432) | Hong Kong |  | 7d |
-| **Manulife** | [Co-op Internship 2027: Business Intelligence (6 months)](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Hong-Kong/Co-op-Internship-2027--Business-Intelligence--6-months-_JR26100059) | Hong Kong |  | 18d |
-| **Djeholdings** | [Creative Intern (Art base)](https://djeholdings.wd5.myworkdayjobs.com/edelman-careers-E200/job/Hong-Kong/Design-Intern_JR103415) | Hong Kong |  | 28d |
+| **Hitachi** | [Data Engineering Intern](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Hong-Kong-Hong-Kong-SAR/Data-Engineering-Intern_R0145808) | Hong Kong, Hong Kong SAR |  | 5d |
+| **BASF** | [Intern, Data Analytics, Dispersions & Resins](https://career5.successfactors.eu/careers?company=C0000159936P&career_ns=job_listing&career_job_req_id=145432) | Hong Kong |  | 8d |
+| **Manulife** | [Co-op Internship 2027: Business Intelligence (6 months)](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Hong-Kong/Co-op-Internship-2027--Business-Intelligence--6-months-_JR26100059) | Hong Kong |  | 19d |
+| **Djeholdings** | [Creative Intern (Art base)](https://djeholdings.wd5.myworkdayjobs.com/edelman-careers-E200/job/Hong-Kong/Design-Intern_JR103415) | Hong Kong |  | 29d |
 | **Bybit** | [Smart Contract Security Audit Intern (AI Audit)](https://job-boards.eu.greenhouse.io/bybit/jobs/4974605101) | Remote (APAC - Remote; Hong Kong SAR) |  | 1mo |
 | **Quberesearchandtechnologies** | [2027 - Internship, Security Engineer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749942002) | Hong Kong |  | 1mo |
 | **Barclays** | [Quantitative Analytics Associate Off Cycle Internship 2027 Hong Kong](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Hong-Kong-Cheung-Kong-Center/Quantitative-Analytics-Associate-Off-Cycle-Internship-2027-Hong-Kong_JR-0000117565) | Hong Kong, Cheung Kong Center |  | 3mo |
