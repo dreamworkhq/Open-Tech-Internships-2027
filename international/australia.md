@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**8 currently open roles** · Updated **2026-10-22**
+**8 currently open roles** · Updated **2026-10-23**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -15,18 +15,18 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **ResMed** | [Product Sustainability Intern](https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers/job/Sydney-NSW-Australia/Product-Sustainability-Intern_JR_054296) | Sydney, NSW, Australia |  | 2d |
-| **Heidihealth.Com.Au** | [2026/2027 Software Engineering Intern Program (Heidi Launch Lab)](https://jobs.ashbyhq.com/heidihealth.com.au/6e7f0482-3ac0-4805-9124-ff638de04a7e) | Melbourne (Hybrid) |  | 7d |
-| **Possible Consulting** | [Information Technology – Web developer Intern](https://www.seek.com.au/job/95003519) | Adelaide SA |  | 9d |
-| **Cummins** | [2027 Undergraduate Projects & Design Engineering Internship](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1005/job/2436486) | Scoresby, Victoria, Australia |  | 1mo |
+| **Cummins** | [2027 Undergraduate Projects & Design Engineering Internship](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1007/job/2440964) | Australia |  | 0d |
+| **ResMed** | [Product Sustainability Intern](https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers/job/Sydney-NSW-Australia/Product-Sustainability-Intern_JR_054296) | Sydney, NSW, Australia |  | 3d |
+| **Heidihealth.Com.Au** | [2026/2027 Software Engineering Intern Program (Heidi Launch Lab)](https://jobs.ashbyhq.com/heidihealth.com.au/6e7f0482-3ac0-4805-9124-ff638de04a7e) | Melbourne (Hybrid) |  | 8d |
+| **Possible Consulting** | [Information Technology – Web developer Intern](https://www.seek.com.au/job/95003519) | Adelaide SA |  | 10d |
 | **Palantir** | [Forward Deployed Software Engineer, Internship - AUS Government](https://jobs.lever.co/palantir/395a4483-fc3d-4b77-a500-501923fd0976) | Sydney, Australia (Hybrid) |  | 4mo |
 
 ### Other (3)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Ferrero** | [Business Intelligence Intern: Revenue & Trade Management](https://www.seek.com.au/job/95384351) | Sydney NSW |  | 2d |
-| **EQUANS** | [Intern, Data Analysis (geophysical and geotechnical investigations)](https://www.seek.com.au/job/95140971) | St Leonards, Sydney NSW |  | 9d |
-| **Hoban Recruitment** | [Victorian Government Cyber Internship Program](https://www.seek.com.au/job/94906085) | Melbourne VIC | $43K | 18d |
+| **Ferrero** | [Business Intelligence Intern: Revenue & Trade Management](https://www.seek.com.au/job/95384351) | Sydney NSW |  | 3d |
+| **EQUANS** | [Intern, Data Analysis (geophysical and geotechnical investigations)](https://www.seek.com.au/job/95140971) | St Leonards, Sydney NSW |  | 10d |
+| **Hoban Recruitment** | [Victorian Government Cyber Internship Program](https://www.seek.com.au/job/94906085) | Melbourne VIC | $43K | 19d |
 
 <!-- TABLE_END -->
