@@ -2,32 +2,25 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**9 currently open roles** · Updated **2026-10-23**
+**8 currently open roles** · Updated **2026-10-24**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-5) · 5 roles
-- [Other](#other-4) · 4 roles
+- [Other](#other-8) · 8 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (5)
+### Other (8)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Journi** | [Backend Engineering Intern (all genders)](https://careers.kula.ai/journi/62683-backend-engineering-intern-all-genders) | Vienna, Vienna, Austria (Hybrid) | $27K | 6d |
-| **NXP Semiconductors** | [Internship: Software Engineer (m/f/d) - Java & Python Tools Development…](https://nxp.wd3.myworkdayjobs.com/careers/job/Gratkorn/Internship--Software-Engineer--m-f-d----Java---Python-Tools-Development-for-Trust-Provisioning_R-10066936-1) | Gratkorn (Hybrid) | $38K | 7d |
+| **Banca Comercială Română** | [Internship Technical Analyst (all humans)](https://career5.successfactors.eu/career?career_ns=job_listing&company=4257025P&career_job_req_id=34788) | Vienna, Austria (Hybrid) | $44K | 1d |
+| **NXP Semiconductors** | [Internship: Software Engineer (m/f/d) - Java & Python Tools Development…](https://nxp.wd3.myworkdayjobs.com/careers/job/Gratkorn/Internship--Software-Engineer--m-f-d----Java---Python-Tools-Development-for-Trust-Provisioning_R-10066936-1) | Gratkorn (Hybrid) | $38K | 8d |
+| **Bitpanda** | [Intern, Business Intelligence](https://job-boards.eu.greenhouse.io/bitpanda/jobs/4999439101) | Vienna, Vienna, Austria (Hybrid) |  | 10d |
+| **RedBull** | [Internship Data Science](https://jobs.smartrecruiters.com/RedBull/744000155050519-internship-data-science?oga=true) | Elsbethen, Salzburg, Austria | $30K | 11d |
+| **NXP Semiconductors** | [Internship: Secure Firmware Development (m/f/d)](https://nxp.wd3.myworkdayjobs.com/careers/job/Gratkorn/Internship--Secure-Firmware-Development--m-f-d-_R-10066772) | Gratkorn (Hybrid) | $38K | 11d |
 | **Sentry** | [Software Engineer, Intern (Summer 2027)](https://jobs.ashbyhq.com/sentry/fa522ac5-fc9f-4ce1-a191-842496a235a2) | Vienna, Austria (Hybrid) | $43K | 1mo |
 | **SAP** | [Intern / Working Student (f/m/d): Software Development in Supply Chain …](https://career5.successfactors.eu/careers?company=SAP&career_ns=job_listing&career_job_req_id=457932) | Vienna, Austria (Hybrid) |  | 2mo |
 | **NXP Semiconductors** | [Internship: Digital Design Team Support (m/f/d)](https://nxp.wd3.myworkdayjobs.com/careers/job/Gratkorn/Internship--Digital-Design-Team-Support--m-f-d-_R-10064594) | Gratkorn (Hybrid) | $36K | 3mo |
-
-### Other (4)
-
-| Company | Role | Location | Pay | Added |
-| --- | --- | --- | --- | --- |
-| **Banca Comercială Română** | [Internship Technical Analyst (all humans)](https://career5.successfactors.eu/career?career_ns=job_listing&company=4257025P&career_job_req_id=34788) | Vienna, Austria (Hybrid) | $44K | 0d |
-| **Bitpanda** | [Intern, Business Intelligence](https://job-boards.eu.greenhouse.io/bitpanda/jobs/4999439101) | Vienna, Vienna, Austria (Hybrid) |  | 9d |
-| **RedBull** | [Internship Data Science](https://jobs.smartrecruiters.com/RedBull/744000155050519-internship-data-science?oga=true) | Elsbethen, Salzburg, Austria | $30K | 10d |
-| **NXP Semiconductors** | [Internship: Secure Firmware Development (m/f/d)](https://nxp.wd3.myworkdayjobs.com/careers/job/Gratkorn/Internship--Secure-Firmware-Development--m-f-d-_R-10066772) | Gratkorn (Hybrid) | $38K | 11d |
 
 <!-- TABLE_END -->

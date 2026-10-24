@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**10 currently open roles** · Updated **2026-10-23**
+**10 currently open roles** · Updated **2026-10-24**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -15,7 +15,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Sertis** | [Data Engineer Intern](https://job-boards.greenhouse.io/sertis/jobs/8844014002) | Bangkok, Bangkok Metropolis, Thailand |  | 28d |
+| **Sertis** | [Data Engineer Intern](https://job-boards.greenhouse.io/sertis/jobs/8844014002) | Bangkok, Bangkok Metropolis, Thailand |  | 29d |
 | **NXP Semiconductors** | [Product Test Engineer Intern](https://nxp.wd3.myworkdayjobs.com/careers/job/Bangkok/Product-Test-Engineer-Intern_R-10064150) | Bangkok |  | 1mo |
 | **Western Digital** | [Intern - Technologist, Hardware Development Engineering (Studying Ph.D …](https://jobs.smartrecruiters.com/WesternDigital/744000149229769-intern-technologist-hardware-development-engineering-studying-ph-d-degree-?oga=true) | BangPa-in, PHRA NAKHON SI AYUTTHAYA, Thaila… |  | 1mo |
 | **Western Digital** | [Intern - AI Information Technology (Studying Master's and Bachelor Degr…](https://jobs.smartrecruiters.com/WesternDigital/744000145156358-intern-ai-information-technology-studying-master-s-and-bachelor-degree-?oga=true) | BangPa-in, PHRA NAKHON SI AYUTTHAYA, Thaila… |  | 1mo |
@@ -29,6 +29,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Sertis** | [Data Scientist Intern](https://job-boards.greenhouse.io/sertis/jobs/8843973002) | Bangkok, Bangkok Metropolis, Thailand |  | 28d |
+| **Sertis** | [Data Scientist Intern](https://job-boards.greenhouse.io/sertis/jobs/8843973002) | Bangkok, Bangkok Metropolis, Thailand |  | 29d |
 
 <!-- TABLE_END -->
