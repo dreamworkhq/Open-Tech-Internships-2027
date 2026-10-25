@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**10 currently open roles** · Updated **2026-10-24**
+**10 currently open roles** · Updated **2026-10-25**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -15,12 +15,12 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Sertis** | [Data Engineer Intern](https://job-boards.greenhouse.io/sertis/jobs/8844014002) | Bangkok, Bangkok Metropolis, Thailand |  | 29d |
+| **Sertis** | [Data Engineer Intern](https://job-boards.greenhouse.io/sertis/jobs/8844014002) | Bangkok, Bangkok Metropolis, Thailand |  | 1mo |
 | **NXP Semiconductors** | [Product Test Engineer Intern](https://nxp.wd3.myworkdayjobs.com/careers/job/Bangkok/Product-Test-Engineer-Intern_R-10064150) | Bangkok |  | 1mo |
 | **Western Digital** | [Intern - Technologist, Hardware Development Engineering (Studying Ph.D …](https://jobs.smartrecruiters.com/WesternDigital/744000149229769-intern-technologist-hardware-development-engineering-studying-ph-d-degree-?oga=true) | BangPa-in, PHRA NAKHON SI AYUTTHAYA, Thaila… |  | 1mo |
-| **Western Digital** | [Intern - AI Information Technology (Studying Master's and Bachelor Degr…](https://jobs.smartrecruiters.com/WesternDigital/744000145156358-intern-ai-information-technology-studying-master-s-and-bachelor-degree-?oga=true) | BangPa-in, PHRA NAKHON SI AYUTTHAYA, Thaila… |  | 1mo |
+| **Western Digital** | [Intern - AI Information Technology (Studying Master's and Bachelor Degr…](https://jobs.smartrecruiters.com/WesternDigital/744000145156358-intern-ai-information-technology-studying-master-s-and-bachelor-degree-?oga=true) | BangPa-in, PHRA NAKHON SI AYUTTHAYA, Thaila… |  | 2mo |
 | **Western Digital** | [Intern - Automation Development Engineer (Studying Master's Degree)](https://jobs.smartrecruiters.com/WesternDigital/744000136954658-intern-automation-development-engineer-studying-master-s-degree-?oga=true) | BangPa-in, PHRA NAKHON SI AYUTTHAYA, Thaila… |  | 3mo |
-| **Sertis** | [AI/ML Engineer Intern](https://job-boards.greenhouse.io/sertis/jobs/7847750002) | Bangkok, Bangkok Metropolis, Thailand |  | 4mo |
+| **Sertis** | [AI/ML Engineer Intern](https://job-boards.greenhouse.io/sertis/jobs/7847750002) | Bangkok, Bangkok Metropolis, Thailand |  | 5mo |
 | **Bosch** | [Internship 2026, Product Quality Management, Power Solutions (PS/QMM1.1…](https://jobs.smartrecruiters.com/BoschGroup/744000105052540-internship-2026-product-quality-management-power-solutions-ps-qmm1-1-hmjp-?oga=true) | Hemaraj Eastern Seaboard Industrial Estate,… |  | 5mo |
 | **Bosch** | [Internship 2026, Product Quality Management, Power Solutions (PS/QMM1.2…](https://jobs.smartrecruiters.com/BoschGroup/744000105052049-internship-2026-product-quality-management-power-solutions-ps-qmm1-2-hmjp-?oga=true) | Hemaraj Eastern Seaboard Industrial Estate,… |  | 5mo |
 | **Bosch** | [Internship 2026, Data Analyst Engineer, Power Solutions (HmjP/TEF4)](https://jobs.smartrecruiters.com/BoschGroup/744000119536647-internship-2026-data-analyst-engineer-power-solutions-hmjp-tef4-?oga=true) | Hemaraj Eastern Seaboard Industrial Estate,… |  | 5mo |
@@ -29,6 +29,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Sertis** | [Data Scientist Intern](https://job-boards.greenhouse.io/sertis/jobs/8843973002) | Bangkok, Bangkok Metropolis, Thailand |  | 29d |
+| **Sertis** | [Data Scientist Intern](https://job-boards.greenhouse.io/sertis/jobs/8843973002) | Bangkok, Bangkok Metropolis, Thailand |  | 1mo |
 
 <!-- TABLE_END -->

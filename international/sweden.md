@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**3 currently open roles** · Updated **2026-10-24**
+**3 currently open roles** · Updated **2026-10-25**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,8 +14,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Danaher** | [Intern PLC developer thesis worker](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Uppsala-Sweden/Intern-PLC-developer-thesis-worker_R1320652) | Uppsala, Sweden |  | 2d |
-| **Ericsson** | [AI Learning Solutions Intern](https://career2.successfactors.eu/careers?company=Ericsson&career_ns=job_listing&career_job_req_id=793086) | Stockholm, Sweden |  | 4d |
+| **Danaher** | [Intern PLC developer thesis worker](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Uppsala-Sweden/Intern-PLC-developer-thesis-worker_R1320652) | Uppsala, Sweden |  | 3d |
+| **Ericsson** | [AI Learning Solutions Intern](https://career2.successfactors.eu/careers?company=Ericsson&career_ns=job_listing&career_job_req_id=793086) | Stockholm, Sweden |  | 5d |
 | **Google** | [Software Engineering, Site Reliability Engineering BS/MS Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/142747733357142726) | Zürich, Switzerland, Munich, Germany, Paris… |  | 1mo |
 
 <!-- TABLE_END -->
