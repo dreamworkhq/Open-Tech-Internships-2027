@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**13 currently open roles** · Updated **2026-10-25**
+**13 currently open roles** · Updated **2026-10-26**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -15,11 +15,11 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Western Digital** | [Intern - Data Analytics](https://jobs.smartrecruiters.com/WesternDigital/744000157382148-intern-data-analytics?oga=true) | Biñan City, LAGUNA, Philippines |  | 2d |
-| **Globe** | [AI Engineer Intern - EDS](https://globe.wd3.myworkdayjobs.com/GLB_Careers/job/19F-The-Globe-Tower/AI-Engineer-Intern---EDS_R0000021961) | 19F The Globe Tower |  | 10d |
+| **Western Digital** | [Intern - Data Analytics](https://jobs.smartrecruiters.com/WesternDigital/744000157382148-intern-data-analytics?oga=true) | Biñan City, LAGUNA, Philippines |  | 3d |
+| **Globe** | [AI Engineer Intern - EDS](https://globe.wd3.myworkdayjobs.com/GLB_Careers/job/19F-The-Globe-Tower/AI-Engineer-Intern---EDS_R0000021961) | 19F The Globe Tower |  | 12d |
 | **RealPage** | [Intern (Technical Internship) \| Software, Analytics & AI for Property …](https://careers-international-realpagepms.icims.com/jobs/14422/intern-%28technical-internship%29-%7c-software%2c-analytics-%26-ai-for-property-management-operations/job) | Manila, Pasig, PH (Hybrid) |  | 1mo |
-| **QIMA** | [AI Engineer - Internship](https://jobs.smartrecruiters.com/QIMA/744000145906434-ai-engineer-internship?oga=true) | Cebu City, Central Visayas, Philippines |  | 1mo |
-| **Trend Micro** | [GRID DEVOPS INTERN](https://trendmicro.wd3.myworkdayjobs.com/External/job/Manila/GRID-DEVOPS-INTERN_R0010148) | Manila |  | 1mo |
+| **QIMA** | [AI Engineer - Internship](https://jobs.smartrecruiters.com/QIMA/744000145906434-ai-engineer-internship?oga=true) | Cebu City, Central Visayas, Philippines |  | 2mo |
+| **Trend Micro** | [GRID DEVOPS INTERN](https://trendmicro.wd3.myworkdayjobs.com/External/job/Manila/GRID-DEVOPS-INTERN_R0010148) | Manila |  | 2mo |
 | **Amadeus** | [Software QA Engineering Intern](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Manila-Metro-Manila/Software-QA-Engineering-Intern_R29236) | Manila, Metro Manila |  | 5mo |
 | **Amadeus** | [Software Developer Intern](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Taguig-Metro-Manila/Software-Developer-Intern_R31590) | Taguig, Metro Manila |  | 5mo |
 

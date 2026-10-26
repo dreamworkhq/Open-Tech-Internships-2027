@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**11 currently open roles** · Updated **2026-10-25**
+**11 currently open roles** · Updated **2026-10-26**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -15,8 +15,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Adobe** | [2027 Intern- Software Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/XMLNAME-2027-Intern--Software-Engineer_R173018) | Bucharest (Hybrid) | $28K | 5d |
-| **NXP Semiconductors** | [Software Internship - Systems Engineering](https://nxp.wd3.myworkdayjobs.com/careers/job/Bucharest/Software-Internship---Systems-Engineering_R-10066965) | Bucharest |  | 17d |
+| **Adobe** | [2027 Intern- Software Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/XMLNAME-2027-Intern--Software-Engineer_R173018) | Bucharest (Hybrid) | $28K | 6d |
+| **NXP Semiconductors** | [Software Internship - Systems Engineering](https://nxp.wd3.myworkdayjobs.com/careers/job/Bucharest/Software-Internship---Systems-Engineering_R-10066965) | Bucharest |  | 18d |
 | **Amazon** | [2027 Software Dev Engineer Intern - Iași, Romania](https://www.amazon.jobs/en/jobs/10554652/2027-software-dev-engineer-intern-ia-i-romania) | RO, Iasi |  | 1mo |
 | **Google** | [Software Engineering BS/MS Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/83199557986329286) | Bucharest, Romania |  | 1mo |
 | **Stripe** | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130807) | Bucharest | $31K | 1mo |
@@ -29,7 +29,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Garrett Advancing Motion** | [Product Management & Data Analysis Intern](https://ehth.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/15236) | BUCUREŞTI, BUCUREŞTI, Romania (Hybrid) |  | 4d |
-| **Nvent** | [Business Intelligence & Data Analytics Intern- 1 year](https://nvent.wd5.myworkdayjobs.com/nVent/job/Prejmer-RO/Business-Intelligence---Data-Analytics-Intern--1-year_R23586) | Prejmer, RO |  | 5d |
+| **Garrett Advancing Motion** | [Product Management & Data Analysis Intern](https://ehth.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/15236) | BUCUREŞTI, BUCUREŞTI, Romania (Hybrid) |  | 5d |
+| **Nvent** | [Business Intelligence & Data Analytics Intern- 1 year](https://nvent.wd5.myworkdayjobs.com/nVent/job/Prejmer-RO/Business-Intelligence---Data-Analytics-Intern--1-year_R23586) | Prejmer, RO |  | 6d |
 
 <!-- TABLE_END -->
