@@ -4,23 +4,24 @@ Verified-open crypto, blockchain, and web3 internships worldwide, updated daily.
 
 [← US tech internships](README.md) · [International internships](INTERNATIONAL.md) · [Business internships](BUSINESS.md)
 
-**41 open internships** · **21 companies** · **0 added in the last 24 hours** · Updated **2026-10-25**
+**42 open internships** · **21 companies** · **1 added in the last 24 hours** · Updated **2026-10-26**
 
 Every role links directly to the company's career page. Indexed from company career pages and maintained by [Dreamwork](https://github.com/dreamworkhq), which crawls 1.8M+ live jobs.
 
-- [Engineering](#engineering-26) · 26 roles
+- [Engineering](#engineering-27) · 27 roles
 - [Other](#other-15) · 15 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (26)
+### Engineering (27)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **General Dynamics Mission Systems** | [Software Engineer Intern for Crypto and Cross Domain Solutions](https://careers-gdms.icims.com/jobs/75478/software-engineer-intern-for-crypto-and-cross-domain-solutions/job) | Taunton, MA, US |  | 11d |
-| **General Dynamics Mission Systems** | [Software Engineer Intern for Crypto & Cross Domain Solutions](https://careers-gdms.icims.com/jobs/75477/software-engineer-intern-for-crypto-%26-cross-domain-solutions/job) | Scottsdale, AZ, US |  | 11d |
-| **Binance** | [Binance Accelerator Programm - Software Engineer (Full-stack / AI-orien…](https://jobs.lever.co/binance/6d2c2e8e-1211-42c6-ab97-9a88879ea2b9) | Remote (Asia) |  | 25d |
-| **Merklescience** | [Software Engineer - Intern (Frontend)](https://jobs.lever.co/merklescience/20675d00-156c-4f3f-a9bf-4cacee176bc2) | Bangalore |  | 26d |
+| **General Dynamics Mission Systems** | [Software Test Engineering Intern - Space and Embedded Crypto](https://careers-gdms.icims.com/jobs/75163/software-test-engineering-intern---space-and-embedded-crypto/job) | Scottsdale, AZ, US |  | 0d |
+| **General Dynamics Mission Systems** | [Software Engineer Intern for Crypto and Cross Domain Solutions](https://careers-gdms.icims.com/jobs/75478/software-engineer-intern-for-crypto-and-cross-domain-solutions/job) | Taunton, MA, US |  | 12d |
+| **General Dynamics Mission Systems** | [Software Engineer Intern for Crypto & Cross Domain Solutions](https://careers-gdms.icims.com/jobs/75477/software-engineer-intern-for-crypto-%26-cross-domain-solutions/job) | Scottsdale, AZ, US |  | 12d |
+| **Binance** | [Binance Accelerator Programm - Software Engineer (Full-stack / AI-orien…](https://jobs.lever.co/binance/6d2c2e8e-1211-42c6-ab97-9a88879ea2b9) | Remote (Asia) |  | 26d |
+| **Merklescience** | [Software Engineer - Intern (Frontend)](https://jobs.lever.co/merklescience/20675d00-156c-4f3f-a9bf-4cacee176bc2) | Bangalore |  | 27d |
 | **ALTEN** | [Stage Innovation : Ingénieur Génie logiciel Frontend / Blockchain](https://jobs.smartrecruiters.com/ALTEN/744000151636128-stage-innovation-ingenieur-genie-logiciel-frontend-blockchain?oga=true) | Rennes, Brittany, France |  | 1mo |
 | **General Dynamics Mission Systems** | [Hardware EE Intern Engineer for Crypto and Cross Domain Solutions](https://careers-gdms.icims.com/jobs/74787/hardware-ee-intern-engineer-for-crypto-and-cross-domain-solutions/job) | Scottsdale, AZ, US |  | 1mo |
 | **Bybit** | [AI Development Engineer Intern](https://job-boards.eu.greenhouse.io/bybit/jobs/4974271101) | Hong Kong SAR |  | 1mo |
@@ -48,9 +49,9 @@ Every role links directly to the company's career page. Indexed from company car
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Bybit** | [Animator Intern](https://weworkremotely.com/remote-jobs/bybit-animator-intern) | Remote |  | 2d |
-| **DMG Blockchain Solutions** | [Electronics Recycling & Circular Economy Co-op](https://dmgblockchain.bamboohr.com/careers/34) | Delta, British Columbia, V4K 3N3, Canada | $29K | 4d |
-| **Recrutement Banque De France** | [SG DEFI DEVELOPPEUR - ANALYSTE FINANCIER H/F](https://bdf.wd103.myworkdayjobs.com/recrutement-banque-de-france/job/PARIS/SG-DEFI-DEVELOPPEUR---ANALYSTE-FINANCIER-H-F_JR101484) | PARIS |  | 11d |
+| **Bybit** | [Animator Intern](https://weworkremotely.com/remote-jobs/bybit-animator-intern) | Remote |  | 3d |
+| **DMG Blockchain Solutions** | [Electronics Recycling & Circular Economy Co-op](https://dmgblockchain.bamboohr.com/careers/34) | Delta, British Columbia, V4K 3N3, Canada | $29K | 5d |
+| **Recrutement Banque De France** | [SG DEFI DEVELOPPEUR - ANALYSTE FINANCIER H/F](https://bdf.wd103.myworkdayjobs.com/recrutement-banque-de-france/job/PARIS/SG-DEFI-DEVELOPPEUR---ANALYSTE-FINANCIER-H-F_JR101484) | PARIS |  | 12d |
 | **Binance** | [Binance Accelerator Programm - Product Manager (meme)](https://jobs.lever.co/binance/de72d087-7b79-4496-80b6-d6110276b1e6) | Remote (Hong Kong) |  | 1mo |
 | **Bybit** | [Smart Contract Security Audit Intern (AI Audit)](https://job-boards.eu.greenhouse.io/bybit/jobs/4974605101) | Remote (APAC - Remote; Hong Kong SAR) |  | 1mo |
 | **Coinhako** | [Data Analyst Intern (Finance) - January to May 2027](https://jobs.ashbyhq.com/coinhako/ca138875-277c-4045-858c-3ee0cd5b44ed) | Singapore |  | 1mo |
