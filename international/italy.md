@@ -2,33 +2,34 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**42 currently open roles** · Updated **2026-10-26**
+**42 currently open roles** · Updated **2026-10-27**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-27) · 27 roles
-- [Data Science](#data-science-9) · 9 roles
+- [Engineering](#engineering-28) · 28 roles
+- [Data Science](#data-science-8) · 8 roles
 - [Security](#security-5) · 5 roles
 - [Other](#other-1) · 1 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (27)
+### Engineering (28)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Bosch** | [AI Manufacturing Engineer – CURRICULAR INTERNSHIP (m/f/d)](https://jobs.smartrecruiters.com/BoschGroup/744000157442289-ai-manufacturing-engineer-curricular-internship-m-f-d-?oga=true) | Nonantola, Emilia-Romagna, Italy |  | 3d |
-| **Analog Devices** | [AMS Design Verification Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/Italy-Milan-Assago/AMS-Design-Verification-Intern_R267539) | Italy, Milan, Assago |  | 4d |
-| **Analog Devices** | [Digital Design Engineering Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/Italy-Milan-Assago/Digital-Design-Engineering-Intern_R267538) | Italy, Milan, Assago |  | 4d |
-| **Global Campus** | [Cloud Architect Intern - Milano](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Milan/Cloud-Architect-Intern---Milano_768771WD-1) | Milan |  | 6d |
-| **Global Campus** | [Cloud Infrastructure Intern - Milano](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Milan/Cloud-Infrastructure-Intern---Milano_767954WD) | Milan |  | 12d |
-| **Baker Hughes** | [Intern - Generative AI - 2027 (M/F/D)](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Generative-AI---2027--M-F-D-_R170543) | IT-FI-FLORENCE-VIA FELICE MATTEUCCI 2 |  | 12d |
-| **Doctolib** | [Software Engineer Intern - Fullstack (x/f/m) - Milano](https://job-boards.greenhouse.io/doctolib/jobs/8000653003) | Milano, Milan, Italy (Hybrid) |  | 14d |
-| **External Career Page** | [Internship - Full Stack Software Developer](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Genova-Genova-Italy/Internship---Full-Stack-Software-Developer_JR00049311) | Genova, Genova, Italy (Hybrid) |  | 19d |
-| **Baker Hughes** | [Intern - Physical AI & Computer Vision - 2027 (M/F/D)](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Physical-AI---Computer-Vision---2027--M-F-D-_R170038) | IT-FI-FLORENCE-VIA FELICE MATTEUCCI 2 |  | 20d |
-| **Marvell Technology** | [Analog IC Design Engineer, Intern](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Pavia-Italy/Analog-IC-Design-Engineer--Intern_2604079) | Pavia, Italy | $24K–$32K | 21d |
-| **Global Campus** | [Software Engineer Intern - Milano \[DIG\]](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Milan/Software-Engineer-Intern---Milano--DIG-_765582WD) | Milan |  | 24d |
-| **Cerved** | [Developer Intern](https://cerved.wd3.myworkdayjobs.com/Cerved/job/San-Donato-Milanese-Italy/Developer-Intern_R-0000003562) | San Donato Milanese, Italy (Hybrid) |  | 24d |
+| **Apple** | [PMU Design Verification Intern](https://jobs.apple.com/en-us/details/200691915/pmu-design-verification-intern?team=HRDWR) | Livorno | $43K–$65K | 0d |
+| **Bosch** | [AI Manufacturing Engineer – CURRICULAR INTERNSHIP (m/f/d)](https://jobs.smartrecruiters.com/BoschGroup/744000157442289-ai-manufacturing-engineer-curricular-internship-m-f-d-?oga=true) | Nonantola, Emilia-Romagna, Italy |  | 4d |
+| **Analog Devices** | [AMS Design Verification Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/Italy-Milan-Assago/AMS-Design-Verification-Intern_R267539) | Italy, Milan, Assago |  | 5d |
+| **Analog Devices** | [Digital Design Engineering Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/Italy-Milan-Assago/Digital-Design-Engineering-Intern_R267538) | Italy, Milan, Assago |  | 5d |
+| **Global Campus** | [Cloud Architect Intern - Milano](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Milan/Cloud-Architect-Intern---Milano_768771WD-1) | Milan |  | 7d |
+| **Global Campus** | [Cloud Infrastructure Intern - Milano](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Milan/Cloud-Infrastructure-Intern---Milano_767954WD) | Milan |  | 13d |
+| **Baker Hughes** | [Intern - Generative AI - 2027 (M/F/D)](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Generative-AI---2027--M-F-D-_R170543) | IT-FI-FLORENCE-VIA FELICE MATTEUCCI 2 |  | 13d |
+| **Doctolib** | [Software Engineer Intern - Fullstack (x/f/m) - Milano](https://job-boards.greenhouse.io/doctolib/jobs/8000653003) | Milano, Milan, Italy (Hybrid) |  | 15d |
+| **External Career Page** | [Internship - Full Stack Software Developer](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Genova-Genova-Italy/Internship---Full-Stack-Software-Developer_JR00049311) | Genova, Genova, Italy (Hybrid) |  | 20d |
+| **Baker Hughes** | [Intern - Physical AI & Computer Vision - 2027 (M/F/D)](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Physical-AI---Computer-Vision---2027--M-F-D-_R170038) | IT-FI-FLORENCE-VIA FELICE MATTEUCCI 2 |  | 21d |
+| **Marvell Technology** | [Analog IC Design Engineer, Intern](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Pavia-Italy/Analog-IC-Design-Engineer--Intern_2604079) | Pavia, Italy | $24K–$32K | 22d |
+| **Global Campus** | [Software Engineer Intern - Milano \[DIG\]](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Milan/Software-Engineer-Intern---Milano--DIG-_765582WD) | Milan |  | 25d |
+| **Cerved** | [Developer Intern](https://cerved.wd3.myworkdayjobs.com/Cerved/job/San-Donato-Milanese-Italy/Developer-Intern_R-0000003562) | San Donato Milanese, Italy (Hybrid) |  | 25d |
 | **Amazon** | [2027 Software Dev Engineer Intern - Italy](https://www.amazon.jobs/en/jobs/10555867/2027-software-dev-engineer-intern-italy) | IT, Turin | $23K | 1mo |
 | **Musixmatch** | [Frontend Intern](https://jobs.lever.co/musixmatch/0f23c905-8595-4a2e-b33a-d79723b4b753) | Bologna |  | 1mo |
 | **Musixmatch** | [Software Engineer Intern](https://jobs.lever.co/musixmatch/c4edf289-e1ff-4763-a2d2-c1a4d124f29c) | Bologna |  | 1mo |
@@ -45,15 +46,14 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **Enpal** | [Automation & Software Developer Intern (f/m/x)](https://jobs.ashbyhq.com/enpal/24ebfa69-5689-49f1-bf69-f7224d6b2ff4) | Milan |  | 5mo |
 | **GSKCareers** | [Internship: Lab Systems & Automation Intern, IT, 2026](https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Italy---Siena/Internship--Lab-Systems---Automation-Intern--IT--2026_441206) | Italy - Siena |  | 5mo |
 
-### Data Science (9)
+### Data Science (8)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **GSKCareers** | [Internship: MSAT Digital & Data Science, Italy, 2026](https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Italy---Rosia/Internship--MSAT-Digital---Data-Science--Italy--2026_450063) | Italy - Rosia |  | 2d |
-| **Pirelli** | [Internship Material Process Technologist](https://career5.successfactors.eu/careers?company=Pirelli&career_ns=job_listing&career_job_req_id=23656) | Italy |  | 5d |
-| **Amazon** | [Business Intelligence Intern Italy](https://www.amazon.jobs/en/jobs/10579728/business-intelligence-intern-italy) | IT, Milan | $24K | 11d |
-| **Baker Hughes** | [Intern – Data Analyst – 2027 (M/F/D)](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Data-Analyst---2027--M-F-D-_R170299) | IT-FI-FLORENCE-VIA FELICE MATTEUCCI 2 |  | 19d |
-| **ICSGBLCOR** | [Machine Learning Engineer Intern](https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/MILAN/Machine-Learning-Engineer-Intern_REQ-10122304) | MILAN (Hybrid) |  | 27d |
+| **GSKCareers** | [Internship: MSAT Digital & Data Science, Italy, 2026](https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Italy---Rosia/Internship--MSAT-Digital---Data-Science--Italy--2026_450063) | Italy - Rosia |  | 3d |
+| **Amazon** | [Business Intelligence Intern Italy](https://www.amazon.jobs/en/jobs/10579728/business-intelligence-intern-italy) | IT, Milan | $24K | 12d |
+| **Baker Hughes** | [Intern – Data Analyst – 2027 (M/F/D)](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Data-Analyst---2027--M-F-D-_R170299) | IT-FI-FLORENCE-VIA FELICE MATTEUCCI 2 |  | 20d |
+| **ICSGBLCOR** | [Machine Learning Engineer Intern](https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/MILAN/Machine-Learning-Engineer-Intern_REQ-10122304) | MILAN (Hybrid) |  | 28d |
 | **HPE** | [Data Analytics Intern – Channel Team](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Milan-Milano-Italy/Data-Analytics-Intern---Channel-Team_1210859-2) | Milan, Milano, Italy (Hybrid) |  | 1mo |
 | **Pirelli** | [Internship Data Scientist](https://career5.successfactors.eu/careers?company=Pirelli&career_ns=job_listing&career_job_req_id=23497) | Italy |  | 3mo |
 | **Global Campus** | [Data & AI Consultant - INTERNSHIP - Milano](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Milan/Data---AI-Consultant---INTERNSHIP---Milano_604836WD) | Milan |  | 3mo |
@@ -63,8 +63,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **A. Loacker Spa/AG** | [Internship in Data Protection & Information Security Awareness (m/f/d)](https://loacker.csod.com/ux/ats/careersite/5/home/requisition/1015?c=loacker) | IT - Auna di Sotto/Unterinn |  | 1d |
-| **Amazon** | [(Physical) Security Specialist Intern - 2027 Internship](https://www.amazon.jobs/en/jobs/10573018/physical-security-specialist-intern-2027-internship) | IT, Milan |  | 18d |
+| **A. Loacker Spa/AG** | [Internship in Data Protection & Information Security Awareness (m/f/d)](https://loacker.csod.com/ux/ats/careersite/5/home/requisition/1015?c=loacker) | IT - Auna di Sotto/Unterinn |  | 2d |
+| **Amazon** | [(Physical) Security Specialist Intern - 2027 Internship](https://www.amazon.jobs/en/jobs/10573018/physical-security-specialist-intern-2027-internship) | IT, Milan |  | 19d |
 | **Pirelli** | [Internship Cyber Security and Defence](https://career5.successfactors.eu/careers?company=Pirelli&career_ns=job_listing&career_job_req_id=23529) | Italy |  | 2mo |
 | **Reply** | [Internship: Secure AI Innovation Engineer](https://career5.successfactors.eu/careers?company=C0004534147P&career_ns=job_listing&career_job_req_id=11228) | Italy |  | 3mo |
 | **Avanade** | [Secure Cloud Platform Intern](https://accenture.wd103.myworkdayjobs.com/AvanadeCareers/job/Assago-Via-del-Mulino-11a/Secure-Cloud-Platform-Intern_R00297409) | Assago, Via del Mulino 11a |  | 5mo |
