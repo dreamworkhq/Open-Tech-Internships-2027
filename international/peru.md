@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**10 currently open roles** · Updated **2026-10-27**
+**10 currently open roles** · Updated **2026-10-28**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,11 +14,11 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Sezzle** | [Product Manager Intern, ShopX(Rewards)](https://job-boards.greenhouse.io/sezzle/jobs/8044473003) | Remote (Peru) |  | 0d |
-| **Sezzle** | [Product Design Intern](https://job-boards.greenhouse.io/sezzle/jobs/8044001003) | Remote (Peru) |  | 1d |
-| **Sezzle** | [Multi Media Design Intern](https://job-boards.greenhouse.io/sezzle/jobs/8040759003) | Remote (Peru) |  | 5d |
-| **Sezzle** | [Graphic Design Intern](https://job-boards.greenhouse.io/sezzle/jobs/8040652003) | Remote (Peru) |  | 5d |
-| **Sezzle** | [Graphic Design: Video Editing Intern](https://job-boards.greenhouse.io/sezzle/jobs/8040761003) | Remote (Peru) |  | 5d |
+| **Sezzle** | [Product Manager Intern, ShopX(Rewards)](https://job-boards.greenhouse.io/sezzle/jobs/8044473003) | Remote (Peru) |  | 1d |
+| **Sezzle** | [Product Design Intern](https://job-boards.greenhouse.io/sezzle/jobs/8044001003) | Remote (Peru) |  | 2d |
+| **Sezzle** | [Multi Media Design Intern](https://job-boards.greenhouse.io/sezzle/jobs/8040759003) | Remote (Peru) |  | 6d |
+| **Sezzle** | [Graphic Design Intern](https://job-boards.greenhouse.io/sezzle/jobs/8040652003) | Remote (Peru) |  | 6d |
+| **Sezzle** | [Graphic Design: Video Editing Intern](https://job-boards.greenhouse.io/sezzle/jobs/8040761003) | Remote (Peru) |  | 6d |
 | **Sezzle** | [Product Data Intern](https://job-boards.greenhouse.io/sezzle/jobs/8000825003) | Remote (Peru) |  | 1mo |
 | **Sezzle** | [Product Management Intern](https://job-boards.greenhouse.io/sezzle/jobs/7998740003) | Remote (Peru) |  | 1mo |
 | **Sezzle** | [Software Engineer Intern](https://job-boards.greenhouse.io/sezzle/jobs/7906408003) | Remote (Peru) |  | 2mo |

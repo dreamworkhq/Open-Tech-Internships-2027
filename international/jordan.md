@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**1 currently open roles** · Updated **2026-10-27**
+**1 currently open roles** · Updated **2026-10-28**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Zain Cash Jordan** | [Motion Graphic Designer & Video Editor-internship](https://apply.workable.com/zaincash-jordan/j/3867DF1F2C) | Amman, Amman Governorate, Jordan |  | 0d |
+| **Zain Cash Jordan** | [Motion Graphic Designer & Video Editor-internship](https://apply.workable.com/zaincash-jordan/j/3867DF1F2C) | Amman, Amman Governorate, Jordan |  | 1d |
 
 <!-- TABLE_END -->

@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**14 currently open roles** · Updated **2026-10-27**
+**14 currently open roles** · Updated **2026-10-28**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -15,8 +15,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Western Digital** | [Intern - Data Analytics](https://jobs.smartrecruiters.com/WesternDigital/744000157382148-intern-data-analytics?oga=true) | Biñan City, LAGUNA, Philippines |  | 4d |
-| **Globe** | [AI Engineer Intern - EDS](https://globe.wd3.myworkdayjobs.com/GLB_Careers/job/19F-The-Globe-Tower/AI-Engineer-Intern---EDS_R0000021961) | 19F The Globe Tower |  | 13d |
+| **Western Digital** | [Intern - Data Analytics](https://jobs.smartrecruiters.com/WesternDigital/744000157382148-intern-data-analytics?oga=true) | Biñan City, LAGUNA, Philippines |  | 5d |
+| **Globe** | [AI Engineer Intern - EDS](https://globe.wd3.myworkdayjobs.com/GLB_Careers/job/19F-The-Globe-Tower/AI-Engineer-Intern---EDS_R0000021961) | 19F The Globe Tower |  | 14d |
 | **RealPage** | [Intern (Technical Internship) \| Software, Analytics & AI for Property …](https://careers-international-realpagepms.icims.com/jobs/14422/intern-%28technical-internship%29-%7c-software%2c-analytics-%26-ai-for-property-management-operations/job) | Manila, Pasig, PH (Hybrid) |  | 1mo |
 | **QIMA** | [AI Engineer - Internship](https://jobs.smartrecruiters.com/QIMA/744000145906434-ai-engineer-internship?oga=true) | Cebu City, Central Visayas, Philippines |  | 2mo |
 | **Trend Micro** | [GRID DEVOPS INTERN](https://trendmicro.wd3.myworkdayjobs.com/External/job/Manila/GRID-DEVOPS-INTERN_R0010148) | Manila |  | 2mo |
@@ -27,7 +27,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **AccorHotel** | [Security Intern](https://jobs.smartrecruiters.com/AccorHotel/744000157968754-security-intern?oga=true) | Makati City, NCR, Philippines |  | 0d |
+| **AccorHotel** | [Security Intern](https://jobs.smartrecruiters.com/AccorHotel/744000157968754-security-intern?oga=true) | Makati City, NCR, Philippines |  | 1d |
 | **Umusic** | [Data Analytics Intern](https://umusic.wd5.myworkdayjobs.com/UMGAPAC/job/Manila-Philippines/Data-Analytics-Intern_UMG-27534) | Manila, Philippines |  | 1mo |
 | **Trend Micro** | [Cybersecurity Intern](https://trendmicro.wd3.myworkdayjobs.com/External/job/Manila/Cybersecurity-Intern_R0005760) | Manila |  | 1mo |
 | **Disney** | [Intern, Product & Graphic Design, Disney Consumer Products - Jan to Jun…](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Taguig-Philippines/Intern--Product---Graphic-Design--Disney-Consumer-Products---Jan-to-Jun-2027_10160270) | Taguig, Philippines |  | 1mo |
