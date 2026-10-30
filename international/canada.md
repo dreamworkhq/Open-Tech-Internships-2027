@@ -2,14 +2,14 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**204 currently open roles** · Updated **2026-10-29**
+**204 currently open roles** · Updated **2026-10-30**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
 - [Engineering](#engineering-166) · 166 roles
 - [Data Science](#data-science-26) · 26 roles
-- [Design](#design-8) · 8 roles
-- [Other](#other-4) · 4 roles
+- [Design](#design-7) · 7 roles
+- [Other](#other-5) · 5 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
@@ -17,88 +17,88 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Opusclip** | [Customer Experience Test Automation Intern](https://jobs.ashbyhq.com/opusclip/6906926b-eb37-4b68-ad17-5383fbda7818) | Burnaby | $37K–$41K | 0d |
-| **Hitachi** | [Software Analyst Intern (Winter 2027, 8 months)](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R0148741) | Toronto, Ontario, Canada | $34K–$44K | 1d |
-| **Altera** | [IP Design Intern](https://altera.wd1.myworkdayjobs.com/Altera/job/Toronto-Ontario-Canada/IP-Design-Intern_R03322) | Toronto, Ontario, Canada | $63K–$70K | 1d |
-| **Altera** | [Software Engineer - Intern](https://altera.wd1.myworkdayjobs.com/Altera/job/Toronto-Ontario-Canada/Software-Engineer---Intern_R03382) | Toronto, Ontario, Canada | $67K–$70K | 1d |
-| **Uber** | [2027 Software Engineering Intern, Canada](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304178) | Toronto, ON, Canada (Hybrid) | $71K | 1d |
+| **Altera** | [Software Engineer - Factory Apps - Intern](https://altera.wd1.myworkdayjobs.com/Altera/job/Toronto-Ontario-Canada/Software-Engineer---Factory-Apps---Intern_R03384) | Toronto, Ontario, Canada | $67K–$70K | 0d |
+| **Ciena** | [Embedded Software Engineer – Co-op Winter 2027](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---Co-op-Winter-2027_R032005) | Ottawa | $37K–$50K | 0d |
+| **Opusclip** | [Customer Experience Test Automation Intern](https://jobs.ashbyhq.com/opusclip/6906926b-eb37-4b68-ad17-5383fbda7818) | Burnaby | $37K–$41K | 1d |
+| **Hitachi** | [Software Analyst Intern (Winter 2027, 8 months)](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R0148741) | Toronto, Ontario, Canada | $34K–$44K | 2d |
+| **Altera** | [IP Design Intern](https://altera.wd1.myworkdayjobs.com/Altera/job/Toronto-Ontario-Canada/IP-Design-Intern_R03322) | Toronto, Ontario, Canada | $63K–$70K | 2d |
+| **Altera** | [Software Engineer - Intern](https://altera.wd1.myworkdayjobs.com/Altera/job/Toronto-Ontario-Canada/Software-Engineer---Intern_R03382) | Toronto, Ontario, Canada | $67K–$70K | 2d |
+| **Uber** | [2027 Software Engineering Intern, Canada](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304178) | Toronto, ON, Canada (Hybrid) | $71K | 2d |
 | **Trimble** | [Geospatial Product Engineering Intern](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Geospatial-Product-Engineering-Intern_R58213) | Canada - Richmond Hill, Ontario (Applanix) |  | 2d |
-| **Motorola Solutions** | [Localization and QA Automation Developer Co-Op](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Localization-and-QA-Automation-Developer-Co-Op_R70123) | Vancouver, Canada | $32K–$46K | 2d |
-| **Dayforce** | [\[WINTER 2027\] AI App & Tool Development Intern 8 Months](https://jobs.dayforcehcm.com/mydayforce/alljobs/jobs/103782) | Toronto, ON, Canada | $41K–$46K | 4d |
-| **Trimble** | [Software Engineering Intern](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Software-Engineering-Intern_R57963) | Canada - Richmond Hill, Ontario (Applanix) |  | 5d |
-| **American Express** | [Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, E…](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015552) | Toronto, ON, Canada (Hybrid) | $33K–$50K | 5d |
-| **Altera** | [IP Design PEY Intern](https://altera.wd1.myworkdayjobs.com/Altera/job/Toronto-Ontario-Canada/IP-Design-PEY-Intern_R03341) | Toronto, Ontario, Canada | $63K–$70K | 5d |
-| **Telus Digital** | [Software Engineering Intern/Co-op (Canada) - Summer 2027](https://jobs.ashbyhq.com/telus-digital/63b0654a-9849-4d74-bc3f-94b2ccceb2c2) | Vancouver (Hybrid) | $48K | 6d |
-| **Cibc** | [Machine Learning Engineer Co-op](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Machine-Learning-Engineer-Co-op_2621721-1) | Toronto, ON (Hybrid) |  | 6d |
-| **Altera** | [Software Intern](https://altera.wd1.myworkdayjobs.com/Altera/job/Toronto-Ontario-Canada/Software-Intern_R03373) | Toronto, Ontario, Canada | $67K–$70K | 6d |
-| **Rivianvw.Tech** | [Software Engineering Intern - Applications (Summer 2027)](https://jobs.ashbyhq.com/rivianvw.tech/b142f138-e300-4e84-8aa5-50ed506d288b) | Vancouver, British Columbia (Hybrid) | $44K–$49K | 6d |
-| **Rivianvw.Tech** | [Software Engineering Intern - Vehicle Controls (Summer 2027)](https://jobs.ashbyhq.com/rivianvw.tech/a4e49f0a-7e3c-40b1-95a1-28fd907526d0) | Vancouver, British Columbia (Hybrid) | $44K–$49K | 6d |
-| **Rivianvw.Tech** | [Electromechanical Design Engineering Intern (Summer 2027)](https://jobs.ashbyhq.com/rivianvw.tech/d7645387-e536-453b-9b15-61f071a8135b) | Vancouver, British Columbia (Hybrid) | $44K–$49K | 6d |
-| **Rivianvw.Tech** | [Software Engineering Intern - Embedded Platforms (Summer 2027)](https://jobs.ashbyhq.com/rivianvw.tech/c6ae5fc4-ac16-450c-ac07-3efd6f0411a1) | Vancouver, British Columbia (Hybrid) | $44K–$49K | 6d |
-| **Rivianvw.Tech** | [Software Engineering Intern - Connected Systems (Summer 2027)](https://jobs.ashbyhq.com/rivianvw.tech/eebfb0d2-b4d7-407b-941e-51f53f5412ec) | Vancouver, British Columbia (Hybrid) | $44K–$49K | 6d |
-| **Ciena** | [Software Developer Intern - Winter 2027](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-Intern---Winter-2027_R031953-1) | Ottawa | $37K–$51K | 6d |
-| **HPE** | [Software Development Intern, AI-Assisted Development (Winter 2027) / St…](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/St-Laurent-Quebec-Canada/Software-Development-Intern--AI-Assisted-Development--Summer-2027------Stagiaire-en-dveloppement-de--logiciel--dveloppement-assist-par-l-IA--t-2027-_1214294-1) | St. Laurent, Quebec, Canada (Hybrid) | $26K–$45K | 7d |
-| **Steel** | [Software Engineer Intern (Summer 2027)](https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c) | Toronto |  | 7d |
-| **The Citco Group Limited** | [Software Engineering Intern](https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/18964) | Toronto, ON, Canada | $37K–$50K | 8d |
-| **Kinaxis** | [Intern Cloud Developer, Platform Engineering](https://careers-kinaxis.icims.com/jobs/35572/intern-cloud-developer%2c-platform-engineering/job) | Ottawa, ON, CA (Hybrid) | $37K–$54K | 8d |
-| **Lumentum** | [Optical Algorithms and Analytics Engineering Co-op/Intern](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Algorithms-and-Analytics-Engineering-Co-op-Intern_20261547) | Canada - Ottawa (Bill Leathem) | $35K–$51K | 8d |
-| **Cibc** | [Application/Software Developer Co-op (Winter 2027), Capital Markets Tec…](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Capital-Markets-Technology_2621523-1) | Toronto, ON (Hybrid) |  | 9d |
-| **Cibc** | [Application/Software Developer Co-op (Winter 2027), Enterprise Technolo…](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Enterprise-Technology---Business-Management_2621524) | Toronto, ON (Hybrid) |  | 9d |
-| **Kepler Communications** | [Software Engineering Intern (January 2027)](https://jobs.lever.co/kepler/5514238a-8301-49f1-8116-26d38ea0900c) | Toronto, Ontario (Hybrid) | $44K–$57K | 12d |
-| **Definity** | [Cloud Engineer - Winter 2027 Co-op/Intern](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9412) | Waterloo, ONT, Canada (Hybrid) | $33K | 12d |
-| **Ciena** | [Wavelogic Embedded Software Developer Intern (Winter 2027)](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Embedded-Software-Developer-Intern--Winter-2027-_R031890) | Ottawa | $37K–$51K | 13d |
-| **Pebl** | [Software Engineering, Intern](https://jobs.ashbyhq.com/pebl/49d8b355-620b-4dde-be4b-5489abf4c9cf) | Toronto, Ontario (Hybrid) | $51K | 13d |
-| **Fa Evmr Saasfaprod1** | [Embedded C/C++ SW Developer Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41311) | Canada (Hybrid) | $33K–$64K | 14d |
-| **Tenstorrent** | [Systems Intern - Validation, Software, Design, Architecture & Packaging…](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264407007) | Toronto, Ontario, Canada; Toronto, Ontario,… |  | 14d |
-| **Manulife** | [Summer Intern 2027 - Software Engineering](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering_JR26081686-1) | Waterloo, Ontario (Hybrid) | $37K–$49K | 14d |
-| **Manulife** | [Summer Intern 2027 - Software Engineering (12 Months)](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering--12-Months-_JR26091053-1) | Waterloo, Ontario (Hybrid) | $37K–$49K | 14d |
-| **Aptiv** | [Software Engineering Intern](https://aptiv.wd5.myworkdayjobs.com/APTIV_CAREERS/job/CAN-Kanata-2-ON---WR/Software-Engineering-Intern_J000704368-1) | CAN Kanata (2), ON - WR | $34K–$42K | 16d |
-| **Manulife** | [Winter Co-op 2027 - Software Engineering (8 Months)](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Software-Engineering--8-Months-_JR26081664-1) | Toronto, Ontario (Hybrid) | $37K–$49K | 16d |
-| **Manulife** | [Winter Co-op 2027 - Data Engineering](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Waterloo-Ontario/Winter-Co-op-2027---Data-Engineering_JR26081660-1) | Waterloo, Ontario (Hybrid) | $37K–$49K | 16d |
-| **Databricks** | [Software Engineering Intern (2027)](https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002) | Bellevue, Washington; Mountain View, Califo… | $112K–$125K | 16d |
-| **Aptiv** | [Cloud Engineer Intern](https://aptiv.wd5.myworkdayjobs.com/APTIV_CAREERS/job/CAN-Kanata-2-ON---WR/Cloud-Engineer-Intern_J000704376) | CAN Kanata (2), ON - WR |  | 16d |
-| **Aptiv** | [Cloud Engineering Intern](https://aptiv.wd5.myworkdayjobs.com/APTIV_CAREERS/job/CAN-Kanata-2-ON---WR/Cloud-Engineering-Intern_J000704383) | CAN Kanata (2), ON - WR | $34K–$42K | 16d |
-| **Aptiv** | [Cloud Software Engineer Intern](https://aptiv.wd5.myworkdayjobs.com/APTIV_CAREERS/job/CAN-Kanata-2-ON---WR/Cloud-Software-Engineer-Intern_J000704375) | CAN Kanata (2), ON - WR | $34K–$42K | 16d |
-| **Lumentum** | [IT Desktop Engineer - Co-Op/Intern](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/IT-Desktop-Engineer---Co-Op-Intern_20261458) | Canada - Ottawa (Bill Leathem) | $35K–$51K | 19d |
-| **Tenstorrent** | [AI Software Intern (Canada)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5259347007) | Toronto, Ontario, Canada |  | 20d |
-| **Ericsson** | [Baseband System Developer Co-op](https://career2.successfactors.eu/careers?company=Ericsson&career_ns=job_listing&career_job_req_id=789899) | Ontario, Canada | $37K–$60K | 20d |
-| **Eqbank** | [Intern - Software Engineer, Winter 2027](https://jobs.lever.co/eqbank/c924506b-22ad-4906-aea5-61d9b79163f3) | Toronto (Hybrid) |  | 21d |
-| **Fullscript** | [Software Developer (Co-op Opportunities)](https://jobs.lever.co/fullscript/f2682bc2-454c-4bcd-b71c-639236d09a8e) | Ottawa, ON | $44K | 21d |
-| **Siemens Healthineers** | [Software Developer Co-op - Red River College](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YWG-BW/Software-Developer-Co-op---Red-River-College_R-30142) | YWG BW |  | 21d |
-| **Solink** | [Software Engineer Co-op, Apps](https://jobs.ashbyhq.com/solink/c973029a-83fa-449e-b4a9-0a1514165430) | Ottawa Office (Hybrid) | $39K–$48K | 22d |
-| **Tenstorrent** | [Hardware Intern - AI HW & SoC (Canada)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256568007) | Ottawa, Ontario, Canada; Toronto, Ontario, … |  | 22d |
-| **Tenstorrent** | [AI Software Intern - Cloud, Infrastructure & Data Centre Deployment (Ca…](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256579007) | Toronto, Ontario, Canada |  | 22d |
-| **Coveoen** | [Software Developer Intern (Solutions Engineering Core Team), Winter 2027](https://www.coveo.com/en/company/careers/open-positions?gh_jid=8846052002) | Montreal (Province of Quebec, Canada) (Hybrid) |  | 23d |
-| **Lumentum** | [Embedded Software Developer Co-op (Optical Circuit Switch)](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Developer-Co-op--Optical-Circuit-Switch-_20261320) | Canada - Ottawa (Bill Leathem) | $35K–$51K | 23d |
-| **Lumentum** | [Embedded Software Engineer Co-op/Intern](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer-Co-op-Intern_20261370) | Canada - Ottawa (Bill Leathem) | $35K–$51K | 23d |
-| **Semtech** | [Software Developer – Web/Cloud Application, Co-op](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Richmond-BC/Software-Developer---Web-Cloud-Application--Co-op_REQ3644) | CAN - Richmond, BC (Hybrid) | $37K–$42K | 23d |
-| **Hitachi** | [Product HSE Compliance Engineering Intern (Summer 2027, 16months)](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Product-HSE-Compliance-Engineering-Intern--Summer-2027--16months-_R0145360) | Toronto, Ontario, Canada (Hybrid) | $34K–$44K | 23d |
-| **Momentenergy** | [Software Engineering Co-op](https://job-boards.greenhouse.io/momentenergy/jobs/4434577009) | Surrey, BC |  | 23d |
-| **Solink** | [Software Engineer Co-op, Agents](https://jobs.ashbyhq.com/solink/8493613d-ea47-4182-ac0b-f5f24d11f49e) | Remote (Canada) | $39K–$48K | 26d |
-| **Intel** | [GPU & AI Accelerator Hardware Design Undergraduate Intern](https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539) | Canada, Toronto |  | 26d |
-| **Coveoen** | [Corporate Business Intelligence Intern, Winter 2027](https://www.coveo.com/en/company/careers/open-positions?gh_jid=8827732002) | Montreal (Province of Quebec, Canada) (Hybrid) |  | 26d |
-| **Fa Evmr Saasfaprod1** | [Automation Engineer Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41168) | Canada | $33K–$64K | 26d |
-| **Hitachi** | [Hardware Test Engineering Intern (Summer 2027, 16months)](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Hardware-Test-Engineering-Intern--Summer-2027--16months-_R0142476) | Toronto, Ontario, Canada (Hybrid) | $34K–$44K | 26d |
-| **Lyft** | [Hardware Field Quality Engineer Intern (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8862215002?gh_jid=8862215002) | Longueuil, Canada | $50K–$53K | 26d |
-| **Marvell Technology** | [Firmware Engineer Intern - BS/MS - 2027 Co-Op](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Toronto-Canada/Firmware-Engineer-Intern---BS-MS---2027-Co-Op_2604959) | Toronto, Canada | $47K–$63K | 27d |
-| **Marvell Technology** | [Firmware Engineer Intern - Winter 2027](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Firmware-Engineer-Intern---Winter-2027_2604738) | Ottawa, Canada | $47K–$63K | 27d |
-| **Intel** | [Graphics Hardware Validation Undergraduate Engineering Intern](https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Graphics-Hardware-Validation-Undergraduate-Engineering-Intern_JR0287535) | Canada, Toronto |  | 27d |
-| **Semtech** | [Firmware Design Intern](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Firmware-Design-Intern_REQ3617) | CAN - Ottawa, ON | $39K–$43K | 27d |
-| **Semtech** | [Analog Design Engineer Intern](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Analog-Design-Engineer-Intern_REQ3622) | CAN - Burlington, ON | $39K–$43K | 27d |
-| **Semtech** | [Digital IC Design Engineering Intern](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Digital-IC-Design-Engineering-Intern_REQ3620) | CAN - Ottawa, ON | $39K–$43K | 27d |
-| **Semtech** | [Analog Design Engineer Intern](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Calgary-AB/Analog-Design-Engineer-Intern_REQ3624) | CAN - Calgary, AB | $39K–$43K | 27d |
-| **Semtech** | [Digital IC Design Engineering Intern](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Digital-IC-Design-Engineering-Intern_REQ3621) | CAN - Burlington, ON | $39K–$43K | 27d |
-| **Pinterest** | [Machine Learning Intern 2027 (Toronto)](https://www.pinterestcareers.com/jobs/?gh_jid=8138080) | Toronto, ON, CA (Hybrid) | $70K–$75K | 27d |
-| **Bosch** | [Factory Automation Engineering Intern - New Grad Opportunity](https://jobs.smartrecruiters.com/BoschGroup/744000152918940-factory-automation-engineering-intern-new-grad-opportunity?oga=true) | Burlington, ON, Canada (Hybrid) | $38K–$41K | 28d |
-| **Meredith** | [Cloud Platform Engineering Intern](https://meredith.wd5.myworkdayjobs.com/EXT/job/Edmonton-AB---10160-103-St-NW/Cloud-Platform-Engineering-Intern_JR15684) | Edmonton, AB - 10160 103 St. NW |  | 29d |
+| **Motorola Solutions** | [Localization and QA Automation Developer Co-Op](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Localization-and-QA-Automation-Developer-Co-Op_R70123) | Vancouver, Canada | $32K–$46K | 3d |
+| **Dayforce** | [\[WINTER 2027\] AI App & Tool Development Intern 8 Months](https://jobs.dayforcehcm.com/mydayforce/alljobs/jobs/103782) | Toronto, ON, Canada | $41K–$46K | 5d |
+| **Trimble** | [Software Engineering Intern](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Software-Engineering-Intern_R57963) | Canada - Richmond Hill, Ontario (Applanix) |  | 6d |
+| **American Express** | [Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, E…](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015552) | Toronto, ON, Canada (Hybrid) | $33K–$50K | 6d |
+| **Altera** | [IP Design PEY Intern](https://altera.wd1.myworkdayjobs.com/Altera/job/Toronto-Ontario-Canada/IP-Design-PEY-Intern_R03341) | Toronto, Ontario, Canada | $63K–$70K | 6d |
+| **Telus Digital** | [Software Engineering Intern/Co-op (Canada) - Summer 2027](https://jobs.ashbyhq.com/telus-digital/63b0654a-9849-4d74-bc3f-94b2ccceb2c2) | Vancouver (Hybrid) | $48K | 7d |
+| **Cibc** | [Machine Learning Engineer Co-op](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Machine-Learning-Engineer-Co-op_2621721-1) | Toronto, ON (Hybrid) |  | 7d |
+| **Altera** | [Software Intern](https://altera.wd1.myworkdayjobs.com/Altera/job/Toronto-Ontario-Canada/Software-Intern_R03373) | Toronto, Ontario, Canada | $67K–$70K | 7d |
+| **Rivianvw.Tech** | [Software Engineering Intern - Applications (Summer 2027)](https://jobs.ashbyhq.com/rivianvw.tech/b142f138-e300-4e84-8aa5-50ed506d288b) | Vancouver, British Columbia (Hybrid) | $44K–$49K | 7d |
+| **Rivianvw.Tech** | [Software Engineering Intern - Vehicle Controls (Summer 2027)](https://jobs.ashbyhq.com/rivianvw.tech/a4e49f0a-7e3c-40b1-95a1-28fd907526d0) | Vancouver, British Columbia (Hybrid) | $44K–$49K | 7d |
+| **Rivianvw.Tech** | [Electromechanical Design Engineering Intern (Summer 2027)](https://jobs.ashbyhq.com/rivianvw.tech/d7645387-e536-453b-9b15-61f071a8135b) | Vancouver, British Columbia (Hybrid) | $44K–$49K | 7d |
+| **Rivianvw.Tech** | [Software Engineering Intern - Embedded Platforms (Summer 2027)](https://jobs.ashbyhq.com/rivianvw.tech/c6ae5fc4-ac16-450c-ac07-3efd6f0411a1) | Vancouver, British Columbia (Hybrid) | $44K–$49K | 7d |
+| **Rivianvw.Tech** | [Software Engineering Intern - Connected Systems (Summer 2027)](https://jobs.ashbyhq.com/rivianvw.tech/eebfb0d2-b4d7-407b-941e-51f53f5412ec) | Vancouver, British Columbia (Hybrid) | $44K–$49K | 7d |
+| **Ciena** | [Software Developer Intern - Winter 2027](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-Intern---Winter-2027_R031953-1) | Ottawa | $37K–$51K | 7d |
+| **HPE** | [Software Development Intern, AI-Assisted Development (Winter 2027) / St…](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/St-Laurent-Quebec-Canada/Software-Development-Intern--AI-Assisted-Development--Summer-2027------Stagiaire-en-dveloppement-de--logiciel--dveloppement-assist-par-l-IA--t-2027-_1214294-1) | St. Laurent, Quebec, Canada (Hybrid) | $26K–$45K | 8d |
+| **Steel** | [Software Engineer Intern (Summer 2027)](https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c) | Toronto |  | 8d |
+| **The Citco Group Limited** | [Software Engineering Intern](https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/18964) | Toronto, ON, Canada | $37K–$50K | 9d |
+| **Kinaxis** | [Intern Cloud Developer, Platform Engineering](https://careers-kinaxis.icims.com/jobs/35572/intern-cloud-developer%2c-platform-engineering/job) | Ottawa, ON, CA (Hybrid) | $37K–$54K | 9d |
+| **Lumentum** | [Optical Algorithms and Analytics Engineering Co-op/Intern](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Algorithms-and-Analytics-Engineering-Co-op-Intern_20261547) | Canada - Ottawa (Bill Leathem) | $35K–$51K | 9d |
+| **Cibc** | [Application/Software Developer Co-op (Winter 2027), Capital Markets Tec…](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Capital-Markets-Technology_2621523-1) | Toronto, ON (Hybrid) |  | 10d |
+| **Cibc** | [Application/Software Developer Co-op (Winter 2027), Enterprise Technolo…](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Enterprise-Technology---Business-Management_2621524) | Toronto, ON (Hybrid) |  | 10d |
+| **Accenture** | [Industry X - Automation Controls Engineering Co-Op Analyst - Toronto - …](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Toronto-40-King-St-W-Corp/Industry-X---Automation-Controls-Engineering-Co-Op-Analyst---Toronto---NAELFY27_R00365353) | Toronto, 40 King St W., Corp |  | 10d |
+| **Kepler Communications** | [Software Engineering Intern (January 2027)](https://jobs.lever.co/kepler/5514238a-8301-49f1-8116-26d38ea0900c) | Toronto, Ontario (Hybrid) | $44K–$57K | 13d |
+| **Definity** | [Cloud Engineer - Winter 2027 Co-op/Intern](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9412) | Waterloo, ONT, Canada (Hybrid) | $33K | 13d |
+| **Ciena** | [Wavelogic Embedded Software Developer Intern (Winter 2027)](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Embedded-Software-Developer-Intern--Winter-2027-_R031890) | Ottawa | $37K–$51K | 14d |
+| **Pebl** | [Software Engineering, Intern](https://jobs.ashbyhq.com/pebl/49d8b355-620b-4dde-be4b-5489abf4c9cf) | Toronto, Ontario (Hybrid) | $51K | 14d |
+| **Fa Evmr Saasfaprod1** | [Embedded C/C++ SW Developer Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41311) | Canada (Hybrid) | $33K–$64K | 15d |
+| **Tenstorrent** | [Systems Intern - Validation, Software, Design, Architecture & Packaging…](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264407007) | Toronto, Ontario, Canada; Toronto, Ontario,… |  | 15d |
+| **Manulife** | [Summer Intern 2027 - Software Engineering](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering_JR26081686-1) | Waterloo, Ontario (Hybrid) | $37K–$49K | 15d |
+| **Manulife** | [Summer Intern 2027 - Software Engineering (12 Months)](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering--12-Months-_JR26091053-1) | Waterloo, Ontario (Hybrid) | $37K–$49K | 15d |
+| **Aptiv** | [Software Engineering Intern](https://aptiv.wd5.myworkdayjobs.com/APTIV_CAREERS/job/CAN-Kanata-2-ON---WR/Software-Engineering-Intern_J000704368-1) | CAN Kanata (2), ON - WR | $34K–$42K | 17d |
+| **Manulife** | [Winter Co-op 2027 - Software Engineering (8 Months)](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Software-Engineering--8-Months-_JR26081664-1) | Toronto, Ontario (Hybrid) | $37K–$49K | 17d |
+| **Manulife** | [Winter Co-op 2027 - Data Engineering](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Waterloo-Ontario/Winter-Co-op-2027---Data-Engineering_JR26081660-1) | Waterloo, Ontario (Hybrid) | $37K–$49K | 17d |
+| **Databricks** | [Software Engineering Intern (2027)](https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002) | Bellevue, Washington; Mountain View, Califo… | $112K–$125K | 17d |
+| **Aptiv** | [Cloud Engineer Intern](https://aptiv.wd5.myworkdayjobs.com/APTIV_CAREERS/job/CAN-Kanata-2-ON---WR/Cloud-Engineer-Intern_J000704376) | CAN Kanata (2), ON - WR |  | 17d |
+| **Aptiv** | [Cloud Engineering Intern](https://aptiv.wd5.myworkdayjobs.com/APTIV_CAREERS/job/CAN-Kanata-2-ON---WR/Cloud-Engineering-Intern_J000704383) | CAN Kanata (2), ON - WR | $34K–$42K | 17d |
+| **Aptiv** | [Cloud Software Engineer Intern](https://aptiv.wd5.myworkdayjobs.com/APTIV_CAREERS/job/CAN-Kanata-2-ON---WR/Cloud-Software-Engineer-Intern_J000704375) | CAN Kanata (2), ON - WR | $34K–$42K | 17d |
+| **Lumentum** | [IT Desktop Engineer - Co-Op/Intern](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/IT-Desktop-Engineer---Co-Op-Intern_20261458) | Canada - Ottawa (Bill Leathem) | $35K–$51K | 20d |
+| **Tenstorrent** | [AI Software Intern (Canada)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5259347007) | Toronto, Ontario, Canada |  | 21d |
+| **Ericsson** | [Baseband System Developer Co-op](https://career2.successfactors.eu/careers?company=Ericsson&career_ns=job_listing&career_job_req_id=789899) | Ontario, Canada | $37K–$60K | 21d |
+| **Eqbank** | [Intern - Software Engineer, Winter 2027](https://jobs.lever.co/eqbank/c924506b-22ad-4906-aea5-61d9b79163f3) | Toronto (Hybrid) |  | 22d |
+| **Fullscript** | [Software Developer (Co-op Opportunities)](https://jobs.lever.co/fullscript/f2682bc2-454c-4bcd-b71c-639236d09a8e) | Ottawa, ON | $44K | 22d |
+| **Siemens Healthineers** | [Software Developer Co-op - Red River College](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YWG-BW/Software-Developer-Co-op---Red-River-College_R-30142) | YWG BW |  | 22d |
+| **Solink** | [Software Engineer Co-op, Apps](https://jobs.ashbyhq.com/solink/c973029a-83fa-449e-b4a9-0a1514165430) | Ottawa Office (Hybrid) | $39K–$48K | 23d |
+| **Tenstorrent** | [Hardware Intern - AI HW & SoC (Canada)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256568007) | Ottawa, Ontario, Canada; Toronto, Ontario, … |  | 23d |
+| **Tenstorrent** | [AI Software Intern - Cloud, Infrastructure & Data Centre Deployment (Ca…](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256579007) | Toronto, Ontario, Canada |  | 23d |
+| **Coveoen** | [Software Developer Intern (Solutions Engineering Core Team), Winter 2027](https://www.coveo.com/en/company/careers/open-positions?gh_jid=8846052002) | Montreal (Province of Quebec, Canada) (Hybrid) |  | 24d |
+| **Lumentum** | [Embedded Software Developer Co-op (Optical Circuit Switch)](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Developer-Co-op--Optical-Circuit-Switch-_20261320) | Canada - Ottawa (Bill Leathem) | $35K–$51K | 24d |
+| **Lumentum** | [Embedded Software Engineer Co-op/Intern](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer-Co-op-Intern_20261370) | Canada - Ottawa (Bill Leathem) | $35K–$51K | 24d |
+| **Semtech** | [Software Developer – Web/Cloud Application, Co-op](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Richmond-BC/Software-Developer---Web-Cloud-Application--Co-op_REQ3644) | CAN - Richmond, BC (Hybrid) | $37K–$42K | 24d |
+| **Hitachi** | [Product HSE Compliance Engineering Intern (Summer 2027, 16months)](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Product-HSE-Compliance-Engineering-Intern--Summer-2027--16months-_R0145360) | Toronto, Ontario, Canada (Hybrid) | $34K–$44K | 24d |
+| **Momentenergy** | [Software Engineering Co-op](https://job-boards.greenhouse.io/momentenergy/jobs/4434577009) | Surrey, BC |  | 24d |
+| **Solink** | [Software Engineer Co-op, Agents](https://jobs.ashbyhq.com/solink/8493613d-ea47-4182-ac0b-f5f24d11f49e) | Remote (Canada) | $39K–$48K | 27d |
+| **Intel** | [GPU & AI Accelerator Hardware Design Undergraduate Intern](https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539) | Canada, Toronto |  | 27d |
+| **Coveoen** | [Corporate Business Intelligence Intern, Winter 2027](https://www.coveo.com/en/company/careers/open-positions?gh_jid=8827732002) | Montreal (Province of Quebec, Canada) (Hybrid) |  | 27d |
+| **Fa Evmr Saasfaprod1** | [Automation Engineer Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41168) | Canada | $33K–$64K | 27d |
+| **Hitachi** | [Hardware Test Engineering Intern (Summer 2027, 16months)](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Hardware-Test-Engineering-Intern--Summer-2027--16months-_R0142476) | Toronto, Ontario, Canada (Hybrid) | $34K–$44K | 27d |
+| **Lyft** | [Hardware Field Quality Engineer Intern (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8862215002?gh_jid=8862215002) | Longueuil, Canada | $50K–$53K | 27d |
+| **Marvell Technology** | [Firmware Engineer Intern - Winter 2027](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Ottawa-Canada/Firmware-Engineer-Intern---Winter-2027_2604738) | Ottawa, Canada | $47K–$63K | 28d |
+| **Intel** | [Graphics Hardware Validation Undergraduate Engineering Intern](https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Graphics-Hardware-Validation-Undergraduate-Engineering-Intern_JR0287535) | Canada, Toronto |  | 28d |
+| **Semtech** | [Firmware Design Intern](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Firmware-Design-Intern_REQ3617) | CAN - Ottawa, ON | $39K–$43K | 28d |
+| **Semtech** | [Analog Design Engineer Intern](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Analog-Design-Engineer-Intern_REQ3622) | CAN - Burlington, ON | $39K–$43K | 28d |
+| **Semtech** | [Digital IC Design Engineering Intern](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Digital-IC-Design-Engineering-Intern_REQ3620) | CAN - Ottawa, ON | $39K–$43K | 28d |
+| **Semtech** | [Analog Design Engineer Intern](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Calgary-AB/Analog-Design-Engineer-Intern_REQ3624) | CAN - Calgary, AB | $39K–$43K | 28d |
+| **Semtech** | [Digital IC Design Engineering Intern](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Digital-IC-Design-Engineering-Intern_REQ3621) | CAN - Burlington, ON | $39K–$43K | 28d |
+| **Pinterest** | [Machine Learning Intern 2027 (Toronto)](https://www.pinterestcareers.com/jobs/?gh_jid=8138080) | Toronto, ON, CA (Hybrid) | $70K–$75K | 28d |
+| **Bosch** | [Factory Automation Engineering Intern - New Grad Opportunity](https://jobs.smartrecruiters.com/BoschGroup/744000152918940-factory-automation-engineering-intern-new-grad-opportunity?oga=true) | Burlington, ON, Canada (Hybrid) | $38K–$41K | 29d |
+| **Meredith** | [Cloud Platform Engineering Intern](https://meredith.wd5.myworkdayjobs.com/EXT/job/Edmonton-AB---10160-103-St-NW/Cloud-Platform-Engineering-Intern_JR15684) | Edmonton, AB - 10160 103 St. NW |  | 1mo |
 | **Coveoen** | [Frontend Developer Intern, Winter 2027](https://www.coveo.com/en/company/careers/open-positions?gh_jid=8853969002) | Quebec City (Province of Quebec, Canada) (Hybrid) |  | 1mo |
 | **Coveoen** | [Frontend Developer Intern, Winter 2027](https://www.coveo.com/en/company/careers/open-positions?gh_jid=8827775002) | Montreal (Province of Quebec, Canada) (Hybrid) |  | 1mo |
-| **Coveoen** | [Software Developer Intern (Professional Services team), Winter 2027](https://www.coveo.com/en/company/careers/open-positions?gh_jid=8827780002) | Montreal (Province of Quebec, Canada) (Hybrid) |  | 1mo |
-| **Coveoen** | [Software Developer Intern (Professional Services team), Winter 2027](https://www.coveo.com/en/company/careers/open-positions?gh_jid=8851660002) | Quebec City (Province of Quebec, Canada) (Hybrid) |  | 1mo |
 | **Coveoen** | [Backend Developer Intern, Winter 2027](https://www.coveo.com/en/company/careers/open-positions?gh_jid=8827768002) | Montreal (Province of Quebec, Canada) (Hybrid) |  | 1mo |
 | **Coveoen** | [Backend Developer Intern, Winter 2027](https://www.coveo.com/en/company/careers/open-positions?gh_jid=8851717002) | Quebec City (Province of Quebec, Canada) (Hybrid) |  | 1mo |
 | **Kinaxis** | [Intern Developer, Back End Technologies](https://careers-kinaxis.icims.com/jobs/35372/intern-developer%2c-back-end-technologies/job) | Ottawa, ON, CA (Hybrid) | $38K–$56K | 1mo |
-| **Marvell Technology** | [Data Center Silicon Hardware Engineering Intern - BS - 2027 Co-Op](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Data-Center-Silicon-Hardware-Engineering-Intern---BS---2027-Co-Op_2604525) | Ottawa, Canada | $49K–$65K | 1mo |
+| **Marvell Technology** | [Data Center Silicon Hardware Engineering Intern - BS - 2027 Co-Op](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Ottawa-Canada/Data-Center-Silicon-Hardware-Engineering-Intern---BS---2027-Co-Op_2604525) | 2 Locations | $49K–$65K | 1mo |
 | **Entrust** | [Intern – Software Development - 8 months - Hybrid Ottawa](https://entrust.wd1.myworkdayjobs.com/EntrustCareers/job/Canada---Ottawa/XMLNAME--Intern---Software-Development----8-months---Hybrid-Ottawa_R004359) | Canada - Ottawa (Hybrid) | $35K–$43K | 1mo |
 | **Entrust** | [Intern, Software Development - Hybrid in Ottawa](https://entrust.wd1.myworkdayjobs.com/EntrustCareers/job/Canada---Ottawa/Intern--Software-Development---Hybrid-in-Ottawa_R004360) | Canada - Ottawa (Hybrid) | $35K–$43K | 1mo |
 | **Analog Devices** | [Analog Design Engineering Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Analog-Design-Engineering-Intern_R266614) | Canada, Toronto |  | 1mo |
@@ -162,11 +162,11 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **Google** | [Software Developer Intern, PhD, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/112518690523488966) | Waterloo, ON, Canada, Toronto, ON, Canada | $88K | 2mo |
 | **Huawei Canada** | [Co-op Engineer - Machine Learning and AI Infrastructure](https://huaweicanada.recruitee.com/o/co-op-engineer-machine-learning-and-ai-infrastructure) | Markham, Ontario, Canada | $42K–$76K | 2mo |
 | **Kepler** | [Embedded Software Engineering Intern (January 2027) (4 months)](https://jobs.lever.co/kepler/2ad02ce3-1d56-4aee-9f1d-5199c780c0c1) | Toronto, Ontario | $45K–$59K | 2mo |
-| **SAP** | [SAP iXp Intern - Agile Developer, Business Data Cloud](https://career5.successfactors.eu/careers?company=SAP&career_ns=job_listing&career_job_req_id=457050) | Vancouver, Canada (Hybrid) |  | 2mo |
+| **SAP** | [SAP iXp Intern - Agile Developer, Business Data Cloud](https://career5.successfactors.eu/careers?company=SAP&career_ns=job_listing&career_job_req_id=457050) | Vancouver, Canada (Hybrid) |  | 3mo |
 | **Shyftlabs** | [AI Engineer Intern](https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd) | Toronto, Ontario (Hybrid) | $30K–$46K | 3mo |
 | **Bree** | [Machine Learning Engineering, Intern](https://jobs.ashbyhq.com/bree/5e79b2fd-164c-4e72-91ef-1b8fd1c5518a) | Toronto (Hybrid) | $104K–$135K | 3mo |
 | **DRW** | [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7991196) | Montreal |  | 3mo |
-| **Amazon** | [Robotics - Software Development Engineer Intern - 2026 - Toronto](https://www.amazon.jobs/en/jobs/3136815/robotics-software-development-engineer-intern-2026-toronto) | CA, ON, Toronto |  | 3mo |
+| **Amazon** | [Robotics - Software Development Engineer Intern - 2026 - Toronto](https://www.amazon.jobs/en/jobs/3136815/robotics-software-development-engineer-intern-2026-toronto) | CA, ON, Toronto |  | 4mo |
 | **Huawei Canada** | [Co-op Software Engineer - AI System & Infrastructure](https://huaweicanada.recruitee.com/o/co-opsoftware-engineer-ai-system-infrastructure-2-3) | Vancouver, British Columbia, Canada | $58K–$104K | 4mo |
 | **Huawei Canada** | [Intern Engineer - AI](https://huaweicanada.recruitee.com/o/intern-engineer-ai) | Vancouver, British Columbia, Canada | $58K–$104K | 4mo |
 | **Huawei Canada** | [Co-op Engineer - AI Software Engineering](https://huaweicanada.recruitee.com/o/co-op-engineer-ai-software-engineering) | Markham, Ontario, Canada | $58K–$104K | 4mo |
@@ -177,7 +177,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **Squarepointcapital** | [Intern Software Developer - Montreal - 2027](https://www.squarepoint-capital.com/open-opportunities?id=7905463&gh_jid=7905463) | Montreal |  | 5mo |
 | **Acceldata** | [Software Engineering Co-op](https://jobs.lever.co/acceldata/3b6d3dfe-5e49-41c9-98a5-f732fa63fdf4) | Kitchener (Hybrid) | $30K–$46K | 5mo |
 | **Cadence Design Systems** | [Analog/Mixed-Signal IC Design Co-Op/Intern (Summer 2026) / Stage/Co-Op …](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/MOUNT-ROYAL-Montreal/Analog-Mixed-Signal-IC-Design-Co-Op-Intern---Summer-2026----Stage-Co-Op-en-Conception-de-CI-Analogiques-Signal-Mixte--t--2026-_R53993) | Remote (MOUNT-ROYAL (Montreal)) | $46K–$68K | 5mo |
-| **Marvell Technology** | [Silicon Photonics Intern - PhD (Fall 2026 Start Date)](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Silicon-Photonics-Intern---PhD_2502469-1) | Ottawa, Canada | $49K–$65K | 5mo |
+| **Marvell Technology** | [Silicon Photonics Intern - PhD (Fall 2026 Start Date)](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Ottawa-Canada/Silicon-Photonics-Intern---PhD_2502469-1) | Ottawa, Canada | $49K–$65K | 5mo |
 | **Cohere** | [Machine Learning Intern/Co-op (Winter 2027)](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b) | Remote (Canada) |  | 5mo |
 | **Cohere** | [Software Engineer Intern (Winter 2027)](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254) | Remote (Canada) |  | 5mo |
 | **Cresta** | [Software Engineer Intern](https://job-boards.greenhouse.io/cresta/jobs/4123841008) | Toronto Canada (Hybrid) | $46K–$76K | 5mo |
@@ -188,22 +188,22 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Cibc** | [Junior Insights & Analytics Co-op](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Junior-Insights---Analytics-Co-op_2622099-1) | Toronto, ON (Hybrid) |  | 1d |
-| **Cibc** | [Data Analyst co-op](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Data-Analyst-co-op_2622122-1) | Toronto, ON (Hybrid) |  | 1d |
-| **Cibc** | [Risk Analytics, Winter 2027 Co-op (8-month)](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Risk-Analytics--Winter-2027-Co-op--8-month-_2622133) | Toronto, ON (Hybrid) |  | 1d |
-| **Cibc** | [AI Scientist Co-op](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/AI-Scientist-Co-op_2622058-1) | Toronto, ON (Hybrid) |  | 1d |
-| **RSMCareers** | [Business Intelligence Consulting Intern - Summer 2027](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Edmonton/Business-Intelligence-Consulting-Intern---Summer-2027_JR122066-1) | Edmonton (Hybrid) | $35K–$42K | 5d |
-| **Globalhr** | [Stage - Hiver 2027 - Analyste en intelligence d’affaires et gouvernance…](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Analyste-en-intelligence-d-affaires-et-gouvernance---Internship---Winter-2027---Business-Intelligence-and-Governance-Analyst_01868337-1) | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victo… |  | 6d |
-| **Manulife** | [Summer Intern 2027 - AI](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Toronto-Ontario/Summer-Intern-2027---AI_JR26081688-1) | Toronto, Ontario (Hybrid) | $38K–$51K | 9d |
-| **Cibc** | [Analytics Co-op](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Analytics-Co-op_2621449-2) | Toronto, ON (Hybrid) |  | 9d |
-| **Ciena** | [Services Business Intelligence & Analytics Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Services-Business-Intelligence---Analytics-Intern_R031851) | Montreal (Hybrid) | $31K–$41K | 9d |
-| **Towerresearchcapital** | [Machine Learning Intern](https://www.tower-research.com/open-positions/?gh_jid=7077280) | Montreal |  | 12d |
-| **Waabi** | [Safety Methodologies Internship/Co-op 2027](https://jobs.lever.co/waabi/480d9d41-33d0-429a-8883-7f9ec305a30f) | Toronto, ON | $60K–$77K | 12d |
-| **Later** | [Data Science Co-op](https://job-boards.greenhouse.io/later/jobs/8889650002) | Remote (Vancouver, British Columbia, Canada) | $34K | 14d |
-| **Manulife** | [Winter Co-op 2027 - AI](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Toronto-Ontario/Winter-Co-op-2027---AI_JR26081677-1) | Toronto, Ontario (Hybrid) | $38K–$51K | 16d |
-| **BMW AG** | [Business Intelligence and AI Intern (12 Months)](https://career5.successfactors.eu/careers?company=bmwag&career_ns=job_listing&career_job_req_id=197437) | — | $33K–$34K | 22d |
-| **Coveoen** | [Corporate Business Intelligence Intern, Winter 2027](https://www.coveo.com/en/company/careers/open-positions?gh_jid=8861001002) | Quebec City (Province of Quebec, Canada) (Hybrid) |  | 26d |
-| **Stripe** | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194285) | Toronto | $110K | 28d |
+| **Cibc** | [Junior Insights & Analytics Co-op](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Junior-Insights---Analytics-Co-op_2622099-1) | Toronto, ON (Hybrid) |  | 2d |
+| **Cibc** | [Data Analyst co-op](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Data-Analyst-co-op_2622122-1) | Toronto, ON (Hybrid) |  | 2d |
+| **Cibc** | [Risk Analytics, Winter 2027 Co-op (8-month)](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Risk-Analytics--Winter-2027-Co-op--8-month-_2622133) | Toronto, ON (Hybrid) |  | 2d |
+| **Cibc** | [AI Scientist Co-op](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/AI-Scientist-Co-op_2622058-1) | Toronto, ON (Hybrid) |  | 2d |
+| **RSMCareers** | [Business Intelligence Consulting Intern - Summer 2027](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Edmonton/Business-Intelligence-Consulting-Intern---Summer-2027_JR122066-1) | Edmonton (Hybrid) | $35K–$42K | 6d |
+| **Globalhr** | [Stage - Hiver 2027 - Analyste en intelligence d’affaires et gouvernance…](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Analyste-en-intelligence-d-affaires-et-gouvernance---Internship---Winter-2027---Business-Intelligence-and-Governance-Analyst_01868337-1) | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victo… |  | 7d |
+| **Manulife** | [Summer Intern 2027 - AI](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Toronto-Ontario/Summer-Intern-2027---AI_JR26081688-1) | Toronto, Ontario (Hybrid) | $38K–$51K | 10d |
+| **Cibc** | [Analytics Co-op](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Analytics-Co-op_2621449-2) | Toronto, ON (Hybrid) |  | 10d |
+| **Ciena** | [Services Business Intelligence & Analytics Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Services-Business-Intelligence---Analytics-Intern_R031851) | Montreal (Hybrid) | $31K–$41K | 10d |
+| **Towerresearchcapital** | [Machine Learning Intern](https://www.tower-research.com/open-positions/?gh_jid=7077280) | Montreal |  | 13d |
+| **Waabi** | [Safety Methodologies Internship/Co-op 2027](https://jobs.lever.co/waabi/480d9d41-33d0-429a-8883-7f9ec305a30f) | Toronto, ON | $60K–$77K | 13d |
+| **Later** | [Data Science Co-op](https://job-boards.greenhouse.io/later/jobs/8889650002) | Remote (Vancouver, British Columbia, Canada) | $34K | 15d |
+| **Manulife** | [Winter Co-op 2027 - AI](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Toronto-Ontario/Winter-Co-op-2027---AI_JR26081677-1) | Toronto, Ontario (Hybrid) | $38K–$51K | 17d |
+| **BMW AG** | [Business Intelligence and AI Intern (12 Months)](https://career5.successfactors.eu/careers?company=bmwag&career_ns=job_listing&career_job_req_id=197437) | — | $33K–$34K | 23d |
+| **Coveoen** | [Corporate Business Intelligence Intern, Winter 2027](https://www.coveo.com/en/company/careers/open-positions?gh_jid=8861001002) | Quebec City (Province of Quebec, Canada) (Hybrid) |  | 27d |
+| **Stripe** | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194285) | Toronto | $110K | 29d |
 | **Tcenergy** | [Intern, Predictive Insights - Real-time Monitoring & Analytics](https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Calgary-Alberta/Intern--Predictive-Insights---Real-time-Monitoring---Analytics_JR-10912) | Calgary, Alberta (Hybrid) |  | 1mo |
 | **Momentenergy** | [Data Scientist Co-op](https://job-boards.greenhouse.io/momentenergy/jobs/4421775009) | Surrey, BC |  | 1mo |
 | **Eqbank** | [Intern - Data Scientist, Winter 2027](https://jobs.lever.co/eqbank/b152bad3-df48-4049-9d44-ba7e57ea6499) | Toronto (Hybrid) |  | 1mo |
@@ -215,25 +215,25 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **AMD** | [Short Term 2027 Data Analyst Intern/Co-Op](https://careers.amd.com/jobs/91311?lang=en-us) | MARKHAM, Ontario, Canada (Hybrid) |  | 1mo |
 | **Orennia** | [Analytics Intern - Engineering](https://boards.greenhouse.io/orennia/jobs/5277706008?gh_jid=5277706008) | Calgary Headquarters |  | 4mo |
 
-### Design (8)
+### Design (7)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Standard Aero** | [Technical Training Development Intern](https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/10297) | Winnipeg, MB, Canada |  | 1d |
-| **Fittes** | [Industrial Design Co-op](https://fittes.bamboohr.com/careers/96) | Toronto, Ontario, M6R 2B7, Canada (Hybrid) | $26K | 5d |
-| **Intactfc** | [Product Designer – 4 Month Co-op/Internship (Winter 2027)](https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/Product-Designer---4-Month-Co-op-Internship--Winter-2027-_R155924) | Montréal, Quebec, CAN |  | 5d |
-| **Kensington** | [Intern - Design](https://boards.greenhouse.io/kensingtontours/jobs/5270140007) | Toronto, ON, Canada (Hybrid) | $29K | 6d |
-| **Kinaxis** | [Co-op/Intern Visual Designer](https://careers-kinaxis.icims.com/jobs/35573/co-op-intern-visual-designer/job) | Ottawa, ON, CA (Hybrid) | $28K–$42K | 9d |
+| **Shyftlabs** | [Graphic Design Intern](https://jobs.lever.co/shyftlabs/b9de405d-1a6b-401e-b093-6a6f81d1ecde) | Toronto, Ontario |  | 0d |
+| **Standard Aero** | [Technical Training Development Intern](https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/10297) | Winnipeg, MB, Canada |  | 2d |
+| **Intactfc** | [Product Designer – 4 Month Co-op/Internship (Winter 2027)](https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/Product-Designer---4-Month-Co-op-Internship--Winter-2027-_R155924) | Montréal, Quebec, CAN |  | 6d |
+| **Kinaxis** | [Co-op/Intern Visual Designer](https://careers-kinaxis.icims.com/jobs/35573/co-op-intern-visual-designer/job) | Ottawa, ON, CA (Hybrid) | $28K–$42K | 10d |
 | **Lyft** | [Content Design Intern (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8817900002?gh_jid=8817900002) | Toronto, Canada (Hybrid) | $61K–$70K | 1mo |
 | **Stantec** | [Intern Architect](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007540) | Whitehorse, YT, Canada |  | 1mo |
 | **Cresta** | [Product Design Intern for AI and Human Agents Platform](https://job-boards.greenhouse.io/cresta/jobs/4476000008) | Toronto, Canada (Hybrid) | $62K–$104K | 5mo |
 
-### Other (4)
+### Other (5)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **FanDuel** | [Canada Product Co-Op - Spring 2027](https://www.fanduel.careers/open-positions?gh_jid=8285180) | Toronto, Ontario, Canada (Hybrid) | $37K–$44K | 9d |
-| **Kinaxis** | [Co-op/ Intern Application Security Analyst](https://careers-kinaxis.icims.com/jobs/35323/co-op--intern-application-security-analyst/job) | Ottawa, ON, CA (Hybrid) | $37K–$54K | 26d |
+| **Cibc** | [Corporate Security Coordinator Co-op](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Corporate-Security-Coordinator-Co-op_2622551-1) | Toronto, ON (Hybrid) |  | 0d |
+| **Charlesriverassociates** | [Cyber and Forensic Technology Consulting Analyst/Associate Intern - Fle…](https://boards.greenhouse.io/mbarecruitingcra/jobs/8331789) | Toronto, ON, Canada (Hybrid) | $44K–$58K | 0d |
+| **FanDuel** | [Canada Product Co-Op - Spring 2027](https://www.fanduel.careers/open-positions?gh_jid=8285180) | Toronto, Ontario, Canada (Hybrid) | $37K–$44K | 10d |
 | **Alayacare** | [Intern, Security Analyst - Winter Semester 2027](https://alayacare.com/open-positions?gh_jid=8811336002) | Montréal, Quebec, Canada (Hybrid) |  | 1mo |
 | **AMD** | [Summer 2027 Long Term Product Management Intern/Co-Op](https://careers.amd.com/jobs/90411?lang=en-us) | CALGARY, Alberta, Canada (Hybrid) |  | 1mo |
 

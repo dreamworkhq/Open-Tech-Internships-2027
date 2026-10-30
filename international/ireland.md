@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**23 currently open roles** · Updated **2026-10-29**
+**23 currently open roles** · Updated **2026-10-30**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -15,18 +15,18 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **MongoDB** | [2027 - Summer Software Engineer Intern, Dublin](https://www.mongodb.com/careers/job/?gh_jid=8267099) | Dublin (Hybrid) |  | 5d |
-| **Amazon** | [Data Center Infra Engineer - 2027 Internship, Logistics Team](https://www.amazon.jobs/en/jobs/10576883/data-center-infra-engineer-2027-internship-logistics-team) | IE, D, Dublin |  | 16d |
-| **Sanofi** | [Product Supply Process Engineering Intern](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waterford/Product-Supply-Process-Engineering-Intern_R2873359-1) | Waterford |  | 16d |
-| **Motorola Solutions** | [Software Engineering Internship](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Cork-Ireland/Software-Engineering-Internship_R66949-1) | Cork, Ireland |  | 18d |
-| **MongoDB** | [2027 - Software Engineer Intern, Dublin - 6 Month Internship](https://www.mongodb.com/careers/job/?gh_jid=8258279) | Dublin (Hybrid) |  | 20d |
-| **Pinterest** | [Machine Learning Intern 2027 (Dublin)](https://www.pinterestcareers.com/jobs/?gh_jid=8244922) | Dublin, IE (Hybrid) | $68K–$85K | 22d |
-| **Amazon** | [Cloud Support Associate Internship - April 2027 start, Support Engineer…](https://www.amazon.jobs/en/jobs/10567711/cloud-support-associate-internship-april-2027-start-support-engineering) | IE, D, Dublin |  | 27d |
-| **Pinterest** | [Software Engineering Intern 2027 (Dublin)](https://www.pinterestcareers.com/jobs/?gh_jid=8138034) | Dublin, IE (Hybrid) | $45K–$48K | 27d |
-| **Td** | [2027 Technology Internship - Valuation Services Software Engineer - 6-m…](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Dublin-Ireland/XMLNAME-2027-Technology-Internship---Valuation-Services-Software-Engineer---6-month-Internship--January---July-_R_1513793) | Dublin, Ireland (Hybrid) | $43K | 29d |
-| **Td** | [2027 Technology Internship - AI-Native Data Platform Engineering - 6-mo…](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Dublin-Ireland/XMLNAME-2027-Technology-Internship---AI-Native-Data-Platform-Engineering---6-month-Internship--January---July-_R_1513790-1) | Dublin, Ireland (Hybrid) | $43K | 29d |
+| **General Motors** | [Java Software Engineer Intern](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Dublin-Ireland/Java-Software-Engineer-Intern_JR-202619011-1) | Dublin, Ireland (Hybrid) |  | 0d |
+| **MongoDB** | [2027 - Summer Software Engineer Intern, Dublin](https://www.mongodb.com/careers/job/?gh_jid=8267099) | Dublin (Hybrid) |  | 6d |
+| **Amazon** | [Data Center Infra Engineer - 2027 Internship, Logistics Team](https://www.amazon.jobs/en/jobs/10576883/data-center-infra-engineer-2027-internship-logistics-team) | IE, D, Dublin |  | 17d |
+| **Sanofi** | [Product Supply Process Engineering Intern](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waterford/Product-Supply-Process-Engineering-Intern_R2873359-1) | Waterford |  | 17d |
+| **Motorola Solutions** | [Software Engineering Internship](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Cork-Ireland/Software-Engineering-Internship_R66949-1) | Cork, Ireland |  | 19d |
+| **MongoDB** | [2027 - Software Engineer Intern, Dublin - 6 Month Internship](https://www.mongodb.com/careers/job/?gh_jid=8258279) | Dublin (Hybrid) |  | 21d |
+| **Pinterest** | [Machine Learning Intern 2027 (Dublin)](https://www.pinterestcareers.com/jobs/?gh_jid=8244922) | Dublin, IE (Hybrid) | $68K–$85K | 23d |
+| **Amazon** | [Cloud Support Associate Internship - April 2027 start, Support Engineer…](https://www.amazon.jobs/en/jobs/10567711/cloud-support-associate-internship-april-2027-start-support-engineering) | IE, D, Dublin |  | 28d |
+| **Pinterest** | [Software Engineering Intern 2027 (Dublin)](https://www.pinterestcareers.com/jobs/?gh_jid=8138034) | Dublin, IE (Hybrid) | $45K–$48K | 28d |
+| **Td** | [2027 Technology Internship - Valuation Services Software Engineer - 6-m…](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Dublin-Ireland/XMLNAME-2027-Technology-Internship---Valuation-Services-Software-Engineer---6-month-Internship--January---July-_R_1513793) | Dublin, Ireland (Hybrid) | $43K | 1mo |
+| **Td** | [2027 Technology Internship - AI-Native Data Platform Engineering - 6-mo…](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Dublin-Ireland/XMLNAME-2027-Technology-Internship---AI-Native-Data-Platform-Engineering---6-month-Internship--January---July-_R_1513790-1) | Dublin, Ireland (Hybrid) | $43K | 1mo |
 | **Arista Networks** | [Software Engineer Intern 2026/2027](https://jobs.smartrecruiters.com/AristaNetworks/744000152369329-software-engineer-intern-2026-2027?oga=true) | Dublin, County Dublin, Ireland |  | 1mo |
-| **SOTI** | [Software Development & QA Intern Opportunities 26/27](https://soti.wd3.myworkdayjobs.com/Careers/job/Galway-Ireland/Software-Development---QA-Intern-Opportunities-26-27_R10547) | Galway, Ireland |  | 1mo |
 | **Cadence Design Systems** | [AI Intern - Technical Communications (System Design Analysis Group)](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/CORK-01/AI-Intern---Technical-Communications--System-Design-Analysis-Group-_R55571-1) | CORK 01 |  | 1mo |
 | **Cisco** | [Software Engineer Intern](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Galway-Ireland/Software-Engineer-Intern_2024810) | Galway, Ireland |  | 1mo |
 | **Stryker** | [Embedded Software Engineering Co-Op Student](https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Carrigtwohill-Ireland/Embedded-Software-Engineering-Co-Op-Student_R572136) | Carrigtwohill, Ireland | $32K | 1mo |
@@ -40,8 +40,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Logitech** | [Intern, Engineering](https://logitech.wd5.myworkdayjobs.com/Logitech/job/Cork-Ireland/Intern--Engineering_147916-1) | Cork, Ireland |  | 14d |
-| **Amazon** | [(Physical) Security Specialist Intern - 2027 Internship, DUB West](https://www.amazon.jobs/en/jobs/10576777/physical-security-specialist-intern-2027-internship-dub-west) | IE, Dublin |  | 16d |
-| **Google** | [Business Analyst MBA Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/82600333812867782) | Dublin, Ireland | $81K | 26d |
+| **Logitech** | [Intern, Engineering](https://logitech.wd5.myworkdayjobs.com/Logitech/job/Cork-Ireland/Intern--Engineering_147916-1) | Cork, Ireland |  | 15d |
+| **Amazon** | [(Physical) Security Specialist Intern - 2027 Internship, DUB West](https://www.amazon.jobs/en/jobs/10576777/physical-security-specialist-intern-2027-internship-dub-west) | IE, Dublin |  | 17d |
+| **Google** | [Business Analyst MBA Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/82600333812867782) | Dublin, Ireland | $81K | 27d |
 
 <!-- TABLE_END -->

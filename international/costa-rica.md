@@ -2,21 +2,22 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**4 currently open roles** · Updated **2026-10-29**
+**5 currently open roles** · Updated **2026-10-30**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Other](#other-4) · 4 roles
+- [Other](#other-5) · 5 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Other (4)
+### Other (5)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **HPE** | [Data Analytics Intern](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Heredia-Heredia-Costa-Rica/Data-Analytics-Intern_1210982) | Heredia, Heredia, Costa Rica |  | 16d |
-| **HPE** | [Software Engineering(Systems) Intern](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Heredia-Heredia-Costa-Rica/Software-Engineering-Systems--Intern_1210981) | Heredia, Heredia, Costa Rica |  | 16d |
-| **Konradgroup** | [I Semester 2027 TEC - Software Developer Intern](https://www.konrad.com/careers/job/8009622003?gh_jid=8009622003) | Costa Rica (Hybrid) |  | 26d |
-| **HPE** | [Embedded Software Engineer Internship](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Heredia-Heredia-Costa-Rica/Embedded-Software-Engineer-Internship_1214117) | Heredia, Heredia, Costa Rica |  | 27d |
+| **AbbVie** | [Engineering Internship Program (Chemical, Electromechanical, Data scien…](https://jobs.smartrecruiters.com/AbbVie/3743990016519226-engineering-internship-program-chemical-electromechanical-data-science-ai-?oga=true) | Heredia, Heredia Province, Costa Rica (Hybrid) |  | 0d |
+| **HPE** | [Software Engineering(Systems) Intern](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Heredia-Heredia-Costa-Rica/Software-Engineering-Systems--Intern_1210981) | Heredia, Heredia, Costa Rica |  | 17d |
+| **HPE** | [Data Analytics Intern](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Heredia-Heredia-Costa-Rica/Data-Analytics-Intern_1210982) | Heredia, Heredia, Costa Rica |  | 17d |
+| **Konradgroup** | [I Semester 2027 TEC - Software Developer Intern](https://www.konrad.com/careers/job/8009622003?gh_jid=8009622003) | Costa Rica (Hybrid) |  | 27d |
+| **HPE** | [Embedded Software Engineer Internship](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Heredia-Heredia-Costa-Rica/Embedded-Software-Engineer-Internship_1214117) | Heredia, Heredia, Costa Rica |  | 28d |
 
 <!-- TABLE_END -->

@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**23 currently open roles** · Updated **2026-10-29**
+**23 currently open roles** · Updated **2026-10-30**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -15,17 +15,17 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Accenture** | [Internship – Digital Core Architect (Cloud) – as of February 2027](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Brussels/Internship---Digital-Core-Architect--Cloud----as-of-February-2027_R00366968) | Brussels (Hybrid) |  | 3d |
-| **Avanade** | [Internship Data & AI / AI-Powered Internal Business Assistant](https://accenture.wd103.myworkdayjobs.com/AvanadeCareers/job/Brussels/Internship-Data---AI---AI-Powered-Internal-Business-Assistant_R00366217) | Brussels |  | 5d |
-| **SopraSteria1** | [Internship AI & Software Engineering](https://jobs.smartrecruiters.com/SopraSteria1/744000155419129-internship-ai-software-engineering?oga=true) | Machelen, Flanders, Belgium |  | 15d |
-| **Avanade** | [Graduation Internship in Customer Engagement: AI Powered Power Platform…](https://accenture.wd103.myworkdayjobs.com/AvanadeCareers/job/Brussels/Graduation-Internship-in-Customer--Engagement--AI-Powered-Power-Platform--Solution-Governance_R00363212) | Brussels |  | 16d |
-| **Avanade** | [Internship: Software Engineer Avanade Agentic Engineering Factory](https://accenture.wd103.myworkdayjobs.com/AvanadeCareers/job/Brussels/Internship--Software-Engineer-Avanade-Agentic-Engineering-Factory_R00363529) | Brussels |  | 16d |
-| **Avanade** | [Internship: Azure Platform Engineer Avanade Agentic Engineering Factory](https://accenture.wd103.myworkdayjobs.com/AvanadeCareers/job/Brussels/Internship--Azure-Platform-Engineer-Avanade-Agentic-Engineering-Factory_R00363280) | Brussels |  | 19d |
-| **Avanade** | [Graduation Internship in Dynamics 365 Contact Center and Power Platform](https://accenture.wd103.myworkdayjobs.com/AvanadeCareers/job/Brussels/Graduation-Internship-in-Dynamics-365--Contact-Center-and-Power-Platform_R00363123) | Brussels |  | 21d |
-| **Keysight** | [Intern HPC/Design Cloud](https://jobs.keysight.com/jobs/54634?lang=en-us) | Gent, West Vlaanderen, Belgium |  | 22d |
-| **Google** | [Data Center Facilities Technician Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/102057291577991878) | Saint-Ghislain, Belgium | $48K | 26d |
-| **Google** | [Data Center Technician Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/129378231382876870) | Saint-Ghislain, Belgium | $48K | 26d |
-| **Global Campus** | [School Internship in Technology & AI (2026-2027)](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Brussels/School-Internship-in-Technology---AI--2026-2027-_764001WD) | Brussels |  | 27d |
+| **Keyrock** | [Innovation Quant Developer: Intern - DeFi/Corporate Development](https://jobs.ashbyhq.com/keyrock/d2d0a311-b102-4fda-b537-1a8e926b55c7) | Brussels |  | 0d |
+| **Accenture** | [Internship – Digital Core Architect (Cloud) – as of February 2027](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Brussels/Internship---Digital-Core-Architect--Cloud----as-of-February-2027_R00366968) | Brussels (Hybrid) |  | 4d |
+| **Avanade** | [Internship Data & AI / AI-Powered Internal Business Assistant](https://accenture.wd103.myworkdayjobs.com/AvanadeCareers/job/Brussels/Internship-Data---AI---AI-Powered-Internal-Business-Assistant_R00366217) | Brussels |  | 6d |
+| **Avanade** | [Graduation Internship in Customer Engagement: AI Powered Power Platform…](https://accenture.wd103.myworkdayjobs.com/AvanadeCareers/job/Brussels/Graduation-Internship-in-Customer--Engagement--AI-Powered-Power-Platform--Solution-Governance_R00363212) | Brussels |  | 17d |
+| **Avanade** | [Internship: Software Engineer Avanade Agentic Engineering Factory](https://accenture.wd103.myworkdayjobs.com/AvanadeCareers/job/Brussels/Internship--Software-Engineer-Avanade-Agentic-Engineering-Factory_R00363529) | Brussels |  | 17d |
+| **Avanade** | [Internship: Azure Platform Engineer Avanade Agentic Engineering Factory](https://accenture.wd103.myworkdayjobs.com/AvanadeCareers/job/Brussels/Internship--Azure-Platform-Engineer-Avanade-Agentic-Engineering-Factory_R00363280) | Brussels |  | 20d |
+| **Avanade** | [Graduation Internship in Dynamics 365 Contact Center and Power Platform](https://accenture.wd103.myworkdayjobs.com/AvanadeCareers/job/Brussels/Graduation-Internship-in-Dynamics-365--Contact-Center-and-Power-Platform_R00363123) | Brussels |  | 22d |
+| **Keysight** | [Intern HPC/Design Cloud](https://jobs.keysight.com/jobs/54634?lang=en-us) | Gent, West Vlaanderen, Belgium |  | 23d |
+| **Google** | [Data Center Facilities Technician Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/102057291577991878) | Saint-Ghislain, Belgium | $48K | 27d |
+| **Google** | [Data Center Technician Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/129378231382876870) | Saint-Ghislain, Belgium | $48K | 27d |
+| **Global Campus** | [School Internship in Technology & AI (2026-2027)](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Brussels/School-Internship-in-Technology---AI--2026-2027-_764001WD) | Brussels |  | 28d |
 | **team blue** | [Internship/Stage Full Stack Developer (Java & React)](https://teamblue.teamtailor.com/jobs/8462962-internship-stage-full-stack-developer-java-react) | Gent, Belgium |  | 1mo |
 | **Devoteam** | [Internship Platform for containerized applications](https://jobs.smartrecruiters.com/Devoteam/744000151568394-internship-platform-for-containerized-applications?oga=true) | Machelen, Vlaams Gewest, Belgium (Hybrid) |  | 1mo |
 | **TechWolf** | [Internship - Software Engineer](https://careers.techwolf.ai/o/internship-software-engineer) | Ghent, Vlaams Gewest, Belgium |  | 3mo |
@@ -37,10 +37,10 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Accenture** | [Internship – Data&AI Tech – as of February 2027](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Brussels/Internship---Data-AI-Tech---as-of-February-2027_R00356309) | Brussels |  | 4d |
-| **Jj** | [Internship - Integrated Data Analytics and Reporting](https://jj.wd5.myworkdayjobs.com/JJ/job/Beerse-Antwerp-Belgium/Internship---Integrated-Data-Analytics-and-Reporting_R-106104) | Beerse, Antwerp, Belgium (Hybrid) |  | 9d |
-| **Bosch** | [Internship Data Analytics](https://jobs.smartrecruiters.com/BoschGroup/744000155002879-internship-data-analytics?oga=true) | Mechelen, Vlaanderen, Belgium |  | 16d |
-| **Accenture** | [Internship – Design & Digital Product - as of February 2027](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Brussels/Internship---Design---Digital-Product---as-of-February-2027_R00358162) | Brussels |  | 27d |
+| **Accenture** | [Internship – Data&AI Tech – as of February 2027](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Brussels/Internship---Data-AI-Tech---as-of-February-2027_R00356309) | Brussels |  | 5d |
+| **Jj** | [Internship - Integrated Data Analytics and Reporting](https://jj.wd5.myworkdayjobs.com/JJ/job/Beerse-Antwerp-Belgium/Internship---Integrated-Data-Analytics-and-Reporting_R-106104) | Beerse, Antwerp, Belgium (Hybrid) |  | 10d |
+| **Bosch** | [Internship Data Analytics](https://jobs.smartrecruiters.com/BoschGroup/744000155002879-internship-data-analytics?oga=true) | Mechelen, Vlaanderen, Belgium |  | 17d |
+| **Accenture** | [Internship – Design & Digital Product - as of February 2027](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Brussels/Internship---Design---Digital-Product---as-of-February-2027_R00358162) | Brussels |  | 28d |
 | **Keysight** | [Cybersecurity Intern](https://jobs.keysight.com/jobs/53691?lang=en-us) | Leuven, Vlaams Brabant, Belgium |  | 1mo |
 | **1000** | [Data Science Internship](https://pg.wd5.myworkdayjobs.com/1000/job/Brussels/Data-Science-Internship_R000145698) | Brussels | $31K | 3mo |
 

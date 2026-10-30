@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**5 currently open roles** · Updated **2026-10-29**
+**5 currently open roles** · Updated **2026-10-30**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,10 +14,10 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **UNDP** | [INTERNSHIP \| Security Analysis and Operations](https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/37722) | Istanbul, Türkiye |  | 2d |
-| **Analog Devices** | [Embedded Software Engineering Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/Turkey-Istanbul-Bilisim-Vadisi/Embedded-Software-Engineering-Intern_R267001) | Turkey, Istanbul, Bilisim Vadisi |  | 7d |
-| **Amazon** | [Business Intelligence Engineer Internship Turkey](https://www.amazon.jobs/en/jobs/10579683/business-intelligence-engineer-internship-turkey) | TR, Istanbul |  | 14d |
-| **Analog Devices** | [Software Development Engineering Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/Turkey-Istanbul-Bilisim-Vadisi/Software-Development-Engineering-Intern_R267000-1) | Turkey, Istanbul, Bilisim Vadisi (Hybrid) |  | 20d |
-| **Mastercard** | [Global Markets, Account Management & Product Management, Summer Interns…](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Besiktas-Istanbul-Turkey/Global-Markets--Account-Management---Product-Management--Summer-Internship-Program---2027--Istanbul--Trkiye_R-292561-2) | Besiktas, Istanbul Turkey |  | 28d |
+| **UNDP** | [INTERNSHIP \| Security Analysis and Operations](https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/37722) | Istanbul, Türkiye |  | 3d |
+| **Analog Devices** | [Embedded Software Engineering Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/Turkey-Istanbul-Bilisim-Vadisi/Embedded-Software-Engineering-Intern_R267001) | Turkey, Istanbul, Bilisim Vadisi |  | 8d |
+| **Amazon** | [Business Intelligence Engineer Internship Turkey](https://www.amazon.jobs/en/jobs/10579683/business-intelligence-engineer-internship-turkey) | TR, Istanbul |  | 15d |
+| **Analog Devices** | [Software Development Engineering Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/Turkey-Istanbul-Bilisim-Vadisi/Software-Development-Engineering-Intern_R267000-1) | Turkey, Istanbul, Bilisim Vadisi (Hybrid) |  | 21d |
+| **Mastercard** | [Global Markets, Account Management & Product Management, Summer Interns…](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Besiktas-Istanbul-Turkey/Global-Markets--Account-Management---Product-Management--Summer-Internship-Program---2027--Istanbul--Trkiye_R-292561-2) | Besiktas, Istanbul Turkey |  | 29d |
 
 <!-- TABLE_END -->
