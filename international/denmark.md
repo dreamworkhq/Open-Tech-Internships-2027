@@ -2,12 +2,12 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**7 currently open roles** · Updated **2026-10-30**
+**6 currently open roles** · Updated **2026-10-31**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
 - [Engineering](#engineering-5) · 5 roles
-- [Other](#other-2) · 2 roles
+- [Other](#other-1) · 1 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
@@ -15,17 +15,16 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Databricks** | [Software Engineering Intern (2027 Start) - Aarhus](https://databricks.com/company/careers/open-positions/job?gh_jid=8133710002) | Aarhus, Denmark |  | 27d |
+| **Databricks** | [Software Engineering Intern (2027 Start) - Aarhus](https://databricks.com/company/careers/open-positions/job?gh_jid=8133710002) | Aarhus, Denmark |  | 28d |
 | **Dentsuaegis** | [Developer Intern](https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/Aarhus/Developer-Intern_R1130839) | Aarhus |  | 1mo |
 | **BEUMERGroup1** | [Software Engineering Internship, SW Products – Spring 2027](https://jobs.smartrecruiters.com/BEUMERGroup1/744000149712263-software-engineering-internship-sw-products-spring-2027?oga=true) | Aarhus, , Denmark |  | 1mo |
 | **BEUMERGroup1** | [Software Engineering Internship, Simulation & Emulation – Spring 2027](https://jobs.smartrecruiters.com/BEUMERGroup1/744000149712558-software-engineering-internship-simulation-emulation-spring-2027?oga=true) | Aarhus, , Denmark |  | 1mo |
 | **Netcompany1** | [Internship for Bachelor of Engineering students, Operations & Infrastru…](https://jobs.smartrecruiters.com/Netcompany1/744000146143059-internship-for-bachelor-of-engineering-students-operations-infrastructure-?oga=true) | Copenhagen, , Denmark |  | 2mo |
 
-### Other (2)
+### Other (1)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **BEUMERGroup1** | [Cyber Security Internship, CITIS (Customer IT Infastructure Solutions) …](https://jobs.smartrecruiters.com/BEUMERGroup1/744000154188459-cyber-security-internship-citis-customer-it-infastructure-solutions-spring-2027?oga=true) | Aarhus, , Denmark |  | 22d |
-| **BEUMERGroup1** | [Software PM Intern, SW Products – Spring 2027](https://jobs.smartrecruiters.com/BEUMERGroup1/744000153598818-software-pm-intern-sw-products-spring-2027?oga=true) | Aarhus, , Denmark |  | 23d |
+| **BEUMERGroup1** | [Cyber Security Internship, CITIS (Customer IT Infastructure Solutions) …](https://jobs.smartrecruiters.com/BEUMERGroup1/744000154188459-cyber-security-internship-citis-customer-it-infastructure-solutions-spring-2027?oga=true) | Aarhus, , Denmark |  | 23d |
 
 <!-- TABLE_END -->
