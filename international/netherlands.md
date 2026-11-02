@@ -2,39 +2,41 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**52 currently open roles** · Updated **2026-11-01**
+**56 currently open roles** · Updated **2026-11-02**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-32) · 32 roles
+- [Engineering](#engineering-34) · 34 roles
+- [Data Science](#data-science-9) · 9 roles
 - [Product](#product-8) · 8 roles
-- [Data Science](#data-science-8) · 8 roles
-- [Other](#other-4) · 4 roles
+- [Other](#other-5) · 5 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (32)
+### Engineering (34)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **KPN** | [Internship Shape the Future of Mobile Networks](https://jobs.smartrecruiters.com/kpn/744000158694769) | Wilhelminakade, Rotterdam, Netherlands (Hybrid) |  | 0d |
-| **Rabobank** | [IT Internship Housing Tech \| Software Development, AI & Data \| Utrecht](https://rabobank.wd3.myworkdayjobs.com/jobs/job/Utrecht-Leidseveer-50/IT-Internship-Housing-Tech---Software-Development--AI---Data---Utrecht_JR_00147387) | Utrecht Leidseveer 50 (Hybrid) |  | 1d |
-| **Thermo Fisher Scientific** | [Software Engineering / AI Engineering Intern](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Eindhoven-Netherlands/Software-Engineering---AI-Engineering-Intern_R-01374129-1) | Eindhoven, Netherlands |  | 2d |
-| **NXP Semiconductors** | [Internship - Design of a compact solder joint resistance sensor](https://nxp.wd3.myworkdayjobs.com/careers/job/Eindhoven/Internship---Design-of-a-compact-solder-joint-resistance-sensor_R-10064018) | Eindhoven |  | 2d |
-| **ICSGBLCOR** | [INTERNSHIP SOFTWARE ENGINEER - ING MORTGAGES](https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/HBP-Amsterdam---Haarlerbergpark/INTERNSHIP-SOFTWARE-ENGINEER---ING-MORTGAGES_REQ-10123832) | HBP (Amsterdam - Haarlerbergpark) (Hybrid) |  | 4d |
-| **Lighting** | [Mechanical Engineer Intern (3D Printing & Product Design)](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Mechanical-Engineer-Intern--3D-Printing---Product-Design-_365677) | Eindhoven |  | 4d |
-| **Keenfinity** | [Research Intern – AI-Based Audio Optimization (February 2027)](https://jobs.smartrecruiters.com/Keenfinity/744000157839239-research-intern-ai-based-audio-optimization-february-2027-?oga=true) | Eindhoven, NB, Netherlands (Hybrid) |  | 4d |
-| **Vanderlande** | [Graduation/Internship: AI Process Optimization in Engineering](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Veghel-Netherlands/Graduation-Internship--AI-Process-Optimization-in-Engineering_JR38558) | Veghel, Netherlands |  | 9d |
-| **Tencent** | [SRE Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Netherlands-Amsterdam/SRE-Intern_R108291) | Netherlands-Amsterdam |  | 9d |
-| **Vanderlande** | [Internship/Graduation: Agentic AI Systems for Software Re-engineering](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Veghel-Netherlands/Internship-Graduation--Agentic-AI-Systems-for-Software-Re-engineering_JR38496) | Veghel, Netherlands |  | 12d |
-| **Google** | [Product Deployment Engineer BS/MS, Intern - 2027 (English)](https://www.google.com/about/careers/applications/jobs/results/118991686201156294) | Hamburg, Germany, Madrid, Spain, Amsterdam,… | $38K–$60K | 19d |
-| **Doctolib** | [Software Engineer Intern - Fullstack (x/f/m) - Amsterdam](https://job-boards.greenhouse.io/doctolib/jobs/8006520003) | Amsterdam, North Holland, Netherlands (Hybrid) |  | 20d |
-| **NXP Semiconductors** | [Master Thesis Internship - AI-Driven Transistor Design Exploration](https://nxp.wd3.myworkdayjobs.com/careers/job/Eindhoven/Master-Thesis-Internship---AI-Driven-Transistor-Design-Exploration_R-10067224) | Eindhoven |  | 22d |
-| **Amazon** | [2027 Software Dev Engineer Intern - Netherlands](https://www.amazon.jobs/en/jobs/10568017/2027-software-dev-engineer-intern-netherlands) | NL, Amsterdam |  | 25d |
-| **Keenfinity** | [Software Engineering Intern – Device Simulation & Digital Twin (Februar…](https://jobs.smartrecruiters.com/Keenfinity/744000153766721-software-engineering-intern-device-simulation-digital-twin-february-2027-?oga=true) | Eindhoven, NB, Netherlands (Hybrid) |  | 25d |
-| **Google** | [Data Center Facilities Technician Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/99330502741107398) | Eemshaven, Netherlands | $46K | 29d |
-| **Google** | [Data Center Technician Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/139493738358416070) | Eemshaven, Netherlands | $46K | 29d |
-| **Databricks** | [Software Engineering Intern (2027 Start) - Amsterdam](https://databricks.com/company/careers/open-positions/job?gh_jid=6866534002) | Amsterdam, Netherlands |  | 29d |
+| **European Space Agency** | [Intern in the Mechanical Department - Robotics Section](https://career2.successfactors.eu/careers?company=esa&career_ns=job_listing&career_job_req_id=21045) | — |  | 0d |
+| **European Space Agency** | [Intern in the Quality Department - Software Product Assurance Section](https://career2.successfactors.eu/careers?company=esa&career_ns=job_listing&career_job_req_id=21039) | — |  | 0d |
+| **KPN** | [Internship Shape the Future of Mobile Networks](https://jobs.smartrecruiters.com/kpn/744000158694769) | Wilhelminakade, Rotterdam, Netherlands (Hybrid) |  | 1d |
+| **Rabobank** | [IT Internship Housing Tech \| Software Development, AI & Data \| Utrecht](https://rabobank.wd3.myworkdayjobs.com/jobs/job/Utrecht-Leidseveer-50/IT-Internship-Housing-Tech---Software-Development--AI---Data---Utrecht_JR_00147387) | Utrecht Leidseveer 50 (Hybrid) |  | 3d |
+| **Thermo Fisher Scientific** | [Software Engineering / AI Engineering Intern](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Eindhoven-Netherlands/Software-Engineering---AI-Engineering-Intern_R-01374129-1) | Eindhoven, Netherlands |  | 3d |
+| **NXP Semiconductors** | [Internship - Design of a compact solder joint resistance sensor](https://nxp.wd3.myworkdayjobs.com/careers/job/Eindhoven/Internship---Design-of-a-compact-solder-joint-resistance-sensor_R-10064018) | Eindhoven |  | 3d |
+| **ICSGBLCOR** | [INTERNSHIP SOFTWARE ENGINEER - ING MORTGAGES](https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/HBP-Amsterdam---Haarlerbergpark/INTERNSHIP-SOFTWARE-ENGINEER---ING-MORTGAGES_REQ-10123832) | HBP (Amsterdam - Haarlerbergpark) (Hybrid) |  | 5d |
+| **Lighting** | [Mechanical Engineer Intern (3D Printing & Product Design)](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Mechanical-Engineer-Intern--3D-Printing---Product-Design-_365677) | Eindhoven |  | 5d |
+| **Keenfinity** | [Research Intern – AI-Based Audio Optimization (February 2027)](https://jobs.smartrecruiters.com/Keenfinity/744000157839239-research-intern-ai-based-audio-optimization-february-2027-?oga=true) | Eindhoven, NB, Netherlands (Hybrid) |  | 5d |
+| **Vanderlande** | [Graduation/Internship: AI Process Optimization in Engineering](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Veghel-Netherlands/Graduation-Internship--AI-Process-Optimization-in-Engineering_JR38558) | Veghel, Netherlands |  | 10d |
+| **Tencent** | [SRE Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Netherlands-Amsterdam/SRE-Intern_R108291) | Netherlands-Amsterdam |  | 10d |
+| **Vanderlande** | [Internship/Graduation: Agentic AI Systems for Software Re-engineering](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Veghel-Netherlands/Internship-Graduation--Agentic-AI-Systems-for-Software-Re-engineering_JR38496) | Veghel, Netherlands |  | 13d |
+| **Google** | [Product Deployment Engineer BS/MS, Intern - 2027 (English)](https://www.google.com/about/careers/applications/jobs/results/118991686201156294) | Hamburg, Germany, Madrid, Spain, Amsterdam,… | $38K–$60K | 20d |
+| **Doctolib** | [Software Engineer Intern - Fullstack (x/f/m) - Amsterdam](https://job-boards.greenhouse.io/doctolib/jobs/8006520003) | Amsterdam, North Holland, Netherlands (Hybrid) |  | 21d |
+| **NXP Semiconductors** | [Master Thesis Internship - AI-Driven Transistor Design Exploration](https://nxp.wd3.myworkdayjobs.com/careers/job/Eindhoven/Master-Thesis-Internship---AI-Driven-Transistor-Design-Exploration_R-10067224) | Eindhoven |  | 24d |
+| **Amazon** | [2027 Software Dev Engineer Intern - Netherlands](https://www.amazon.jobs/en/jobs/10568017/2027-software-dev-engineer-intern-netherlands) | NL, Amsterdam |  | 26d |
+| **Keenfinity** | [Software Engineering Intern – Device Simulation & Digital Twin (Februar…](https://jobs.smartrecruiters.com/Keenfinity/744000153766721-software-engineering-intern-device-simulation-digital-twin-february-2027-?oga=true) | Eindhoven, NB, Netherlands (Hybrid) |  | 26d |
+| **Google** | [Data Center Facilities Technician Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/99330502741107398) | Eemshaven, Netherlands | $46K | 1mo |
+| **Google** | [Data Center Technician Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/139493738358416070) | Eemshaven, Netherlands | $46K | 1mo |
+| **Databricks** | [Software Engineering Intern (2027 Start) - Amsterdam](https://databricks.com/company/careers/open-positions/job?gh_jid=6866534002) | Amsterdam, Netherlands |  | 1mo |
 | **Vanderlande** | [Internship: IT Infrastructure & systems](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Veghel-Netherlands/Internship--IT-Infrastructure---systems_JR38223) | Veghel, Netherlands |  | 1mo |
 | **Kinaxis** | [Intern Software Developer Quality Assurance](https://careers-kinaxis.icims.com/jobs/35310/intern-software-developer-quality-assurance/job) | Rotterdam, NL (Hybrid) |  | 1mo |
 | **Workwize** | [Intern Product Engineer](https://job-boards.eu.greenhouse.io/workwize/jobs/4958238101) | Amsterdam (Hybrid) |  | 2mo |
@@ -50,36 +52,38 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **NXP Semiconductors** | [Master's Internship Project: Information-aware signal processing for so…](https://nxp.wd3.myworkdayjobs.com/careers/job/Eindhoven/BSc-Intern-position---In-Cabin-Sensing-for-Automotive-Applications-at-Systems-Innovation-Automotive--SI-A-_R-10062367) | Eindhoven |  | 5mo |
 | **Lely1** | [Internship Flutter on Embedded Linux with Hardware Acceleration](https://jobs.smartrecruiters.com/Lely1/744000104966685-internship-flutter-on-embedded-linux-with-hardware-acceleration?oga=true) | Maassluis, ZH, Netherlands |  | 5mo |
 
+### Data Science (9)
+
+| Company | Role | Location | Pay | Added |
+| --- | --- | --- | --- | --- |
+| **Accenture** | [Data & AI – Strategy Internship](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Data---AI---Strategy-Internship-_R00368382) | Amsterdam (Hybrid) |  | 0d |
+| **Accenture** | [­­Data & AI – Data Science/ML Engineering Graduation Internship](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/XMLNAME---Data---AI---Data-Science-ML-Engineering-Graduation-Internship-_R00368686) | Amsterdam (Hybrid) |  | 0d |
+| **Heinz** | [Data Analyst Intern](https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Nijmegen/Data-Analyst-Intern_R-108038) | Nijmegen |  | 4d |
+| **Deloitte Netherlands** | [Thesis Intern Financial Crime Technology](https://jobs.smartrecruiters.com/deloittenetherlands/744000157994885) | Gustav Mahlerlaan 2970, 1081 LA Amsterdam, … (Hybrid) |  | 4d |
+| **Philips** | [Internship: Synthetic Data Generation for Dental AI (Master)](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Internship--Synthetic-Data-Generation-for-Dental-AI--Master-_593359) | Eindhoven |  | 17d |
+| **Royal DSM** | [Internship Finance Data Science & Margin Analytics](https://career5.successfactors.eu/careers?company=C0000031152P&career_ns=job_listing&career_job_req_id=83384) | — |  | 25d |
+| **Arcadis** | [Internship – Machine learning in flood modelling](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40481) | Amersfoort, Utrecht, Netherlands (Hybrid) |  | 25d |
+| **Myhrabc** | [Intern, Data](https://myhrabc.wd5.myworkdayjobs.com/Global/job/WEMEA--Netherlands--Veghel-Campus/Intern--Data_R2611376) | WEMEA > Netherlands > Veghel Campus |  | 2mo |
+| **Mars Incorporated** | [Thesis internship – Forecast analytics](https://mars.wd3.myworkdayjobs.com/External/job/NLD-North-Brabant-Veghel/Thesis-internship---Forecast-analytics_R153009) | NLD-North Brabant-Veghel (Hybrid) | $45K–$51K | 3mo |
+
 ### Product (8)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **ICSGBLCOR** | [Internship Conversational Banking](https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/ACT-Amsterdam---Acanthus/Internship-Conversational-Banking_REQ-10123774) | ACT (Amsterdam - Acanthus) (Hybrid) |  | 1d |
-| **Accenture** | [Products Working Internship](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Products-Working-Internship_R00367736) | Amsterdam (Hybrid) |  | 4d |
-| **Accenture** | [Internship – Digital Product Strategy](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Internship---Digital-Product-Strategy_R00366491) | Amsterdam (Hybrid) |  | 5d |
-| **Tencent** | [Product Manager Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Netherlands-Amsterdam/Product-Manager-Intern_R108260) | Netherlands-Amsterdam |  | 16d |
-| **Tencent** | [Product Manager Intern, User Acquisition](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Netherlands-Amsterdam/Product-Manager-Intern--User-Acqusition_R108259) | Netherlands-Amsterdam |  | 16d |
-| **Tencent** | [AI Product Manager Intern, Game Development](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Netherlands-Amsterdam/AI-Product-Manager-Intern--Game-Development_R108258) | Netherlands-Amsterdam |  | 16d |
-| **Databricks** | [Product Management Intern (2027) - Amsterdam](https://databricks.com/company/careers/open-positions/job?gh_jid=8133715002) | Amsterdam, Netherlands |  | 29d |
-| **Philips** | [Product Innovation & AI Prototyping Internship – Philips Avent Experien…](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Product-Innovation---AI-Powered-Video-Creation-Internship---Philips-Avent-Experience-Innovation_586187) | Eindhoven |  | 3mo |
+| **ICSGBLCOR** | [Internship Conversational Banking](https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/ACT-Amsterdam---Acanthus/Internship-Conversational-Banking_REQ-10123774) | ACT (Amsterdam - Acanthus) (Hybrid) |  | 3d |
+| **Accenture** | [Products Working Internship](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Products-Working-Internship_R00367736) | Amsterdam (Hybrid) |  | 5d |
+| **Accenture** | [Internship – Digital Product Strategy](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Internship---Digital-Product-Strategy_R00366491) | Amsterdam (Hybrid) |  | 6d |
+| **Tencent** | [Product Manager Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Netherlands-Amsterdam/Product-Manager-Intern_R108260) | Netherlands-Amsterdam |  | 18d |
+| **Tencent** | [Product Manager Intern, User Acquisition](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Netherlands-Amsterdam/Product-Manager-Intern--User-Acqusition_R108259) | Netherlands-Amsterdam |  | 18d |
+| **Tencent** | [AI Product Manager Intern, Game Development](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Netherlands-Amsterdam/AI-Product-Manager-Intern--Game-Development_R108258) | Netherlands-Amsterdam |  | 18d |
+| **Databricks** | [Product Management Intern (2027) - Amsterdam](https://databricks.com/company/careers/open-positions/job?gh_jid=8133715002) | Amsterdam, Netherlands |  | 1mo |
+| **Philips** | [Product Innovation & AI Prototyping Internship – Philips Avent Experien…](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Product-Innovation---AI-Powered-Video-Creation-Internship---Philips-Avent-Experience-Innovation_586187) | Eindhoven |  | 4mo |
 
-### Data Science (8)
-
-| Company | Role | Location | Pay | Added |
-| --- | --- | --- | --- | --- |
-| **Heinz** | [Data Analyst Intern](https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Nijmegen/Data-Analyst-Intern_R-108038) | Nijmegen |  | 2d |
-| **ICSGBLCOR** | [Internship - Predicting confidence bands for future account balances](https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/CDR-Amsterdam---Cedar/Internship---Predicting-confidence-bands-for-future-account-balances_REQ-10123999) | CDR (Amsterdam - Cedar) (Hybrid) |  | 3d |
-| **Deloitte Netherlands** | [Thesis Intern Financial Crime Technology](https://jobs.smartrecruiters.com/deloittenetherlands/744000157994885) | Gustav Mahlerlaan 2970, 1081 LA Amsterdam, … (Hybrid) |  | 3d |
-| **Philips** | [Internship: Synthetic Data Generation for Dental AI (Master)](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Internship--Synthetic-Data-Generation-for-Dental-AI--Master-_593359) | Eindhoven |  | 16d |
-| **Royal DSM** | [Internship Finance Data Science & Margin Analytics](https://career5.successfactors.eu/careers?company=C0000031152P&career_ns=job_listing&career_job_req_id=83384) | — |  | 23d |
-| **Arcadis** | [Internship – Machine learning in flood modelling](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40481) | Amersfoort, Utrecht, Netherlands (Hybrid) |  | 24d |
-| **Myhrabc** | [Intern, Data](https://myhrabc.wd5.myworkdayjobs.com/Global/job/WEMEA--Netherlands--Veghel-Campus/Intern--Data_R2611376) | WEMEA > Netherlands > Veghel Campus |  | 2mo |
-| **Mars Incorporated** | [Thesis internship – Forecast analytics](https://mars.wd3.myworkdayjobs.com/External/job/NLD-North-Brabant-Veghel/Thesis-internship---Forecast-analytics_R153009) | NLD-North Brabant-Veghel (Hybrid) | $45K–$51K | 3mo |
-
-### Other (4)
+### Other (5)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
+| **European Space Agency** | [Intern in Visual Communication, Presentation Design and Event Coordinat…](https://career2.successfactors.eu/careers?company=esa&career_ns=job_listing&career_job_req_id=21035) | — |  | 0d |
 | **Avanade** | [Graduation Internship Netherland - Protect the data](https://accenture.wd103.myworkdayjobs.com/AvanadeCareers/job/Amsterdam/Graduation-Internship-Netherland---Protect-the-data_R00360728) | Amsterdam |  | 1mo |
 | **Avanade** | [Graduation Internship Netherland - AI Security](https://accenture.wd103.myworkdayjobs.com/AvanadeCareers/job/Amsterdam/Graduation-Internship-Netherland---AI-Security_R00360724) | Amsterdam |  | 1mo |
 | **Accenture** | [Industrial Design Internship](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Eindhoven/Internship---Industrial-Design-IX_R00343384) | Eindhoven |  | 3mo |

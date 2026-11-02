@@ -2,13 +2,12 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**25 currently open roles** · Updated **2026-11-01**
+**23 currently open roles** · Updated **2026-11-02**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
 - [Engineering](#engineering-14) · 14 roles
-- [Data Science](#data-science-5) · 5 roles
-- [Other](#other-6) · 6 roles
+- [Other](#other-9) · 9 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
@@ -16,9 +15,9 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **HP Inc.** | [Machine Learning Development Intern](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Porto-Alegre-Rio-Grande-do-Sul-Brazil/Machine-Learning-Development-Intern_UNI5016) | Porto Alegre, Rio Grande do Sul, Brazil |  | 2d |
-| **Toku** | [AI Operations Intern BR](https://jobs.ashbyhq.com/toku/5b01e605-3a1a-4455-9bc4-1ece082d136e) | Brasil (Hybrid) |  | 9d |
-| **Diebold** | [Intern - Software Developer C, C++, Java (São Paulo, SP)](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/19250) | SAO PAULO, SP, Brazil (Hybrid) |  | 10d |
+| **HP Inc.** | [Machine Learning Development Intern](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Porto-Alegre-Rio-Grande-do-Sul-Brazil/Machine-Learning-Development-Intern_UNI5016) | Porto Alegre, Rio Grande do Sul, Brazil |  | 3d |
+| **Toku** | [AI Operations Intern BR](https://jobs.ashbyhq.com/toku/5b01e605-3a1a-4455-9bc4-1ece082d136e) | Brasil (Hybrid) |  | 10d |
+| **Diebold** | [Intern - Software Developer C, C++, Java (São Paulo, SP)](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/19250) | SAO PAULO, SP, Brazil (Hybrid) |  | 11d |
 | **Fa Evmr Saasfaprod1** | [Developer DevOps Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40736) | Brazil (Hybrid) |  | 1mo |
 | **Cadence Design Systems** | [Intern Product Validation Engineering: AI Quality Assurance (QA)](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BELO-HORIZONTE/Intern-Product-Validation-Engineering--AI-Quality-Assurance--QA-_R56591) | BELO HORIZONTE |  | 1mo |
 | **Aveva** | [Software Developer Intern - Brazil](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Sao-Paulo-Brazil/Software-Developer-Intern---Brazil_R015054) | Sao Paulo, Brazil (Hybrid) |  | 1mo |
@@ -31,25 +30,18 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **Amazon** | [Software Development Intern, Intech](https://www.amazon.jobs/en/jobs/3120598/software-development-intern-intech) | BR, Virtual |  | 5mo |
 | **Amazon** | [Software Development Engineer Internship - Vaga para mulheres, IES- LAT…](https://www.amazon.jobs/en/jobs/3139827/software-development-engineer-internship-vaga-para-mulheres-ies-latech) | BR, Virtual |  | 5mo |
 
-### Data Science (5)
+### Other (9)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Amazon** | [Amazon Intern Program 2027 \| Data & Analytics](https://www.amazon.jobs/en/jobs/10592140/amazon-intern-program-2027-data-analytics) | BR, SP, Sao Paulo |  | 3d |
-| **Telus Digital** | [Data & AI Intern (Brazil) - Year Round 2027](https://jobs.ashbyhq.com/telus-digital/89730055-fa03-444d-aa05-0058946fa436) | Porto Alegre, Brazil (Hybrid) |  | 2mo |
-| **Shifttechnology** | [Data Scientist Intern (English Speaker)](https://job-boards.greenhouse.io/shifttechnology/jobs/7794260003) | Brazil - Sao Paulo (Hybrid) |  | 4mo |
-| **Amazon** | [Business Intelligence Intern, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/3126336/business-intelligence-intern-amazon-university-talent-acquisition) | BR, RJ, Rio De Janeiro |  | 4mo |
-| **Amazon** | [Business Intelligence Intern - Cajamar, Amazon University Talent Acquis…](https://www.amazon.jobs/en/jobs/10423543/business-intelligence-intern-cajamar-amazon-university-talent-acquisition) | BR, SP, Cajamar |  | 5mo |
-
-### Other (6)
-
-| Company | Role | Location | Pay | Added |
-| --- | --- | --- | --- | --- |
-| **Amazon** | [Amazon Intern Program 2027 \| Business & Product Management](https://www.amazon.jobs/en/jobs/10592138/amazon-intern-program-2027-business-product-management) | BR, SP, Sao Paulo |  | 3d |
-| **Sezzle** | [Product Manager Intern, ShopX(Rewards)](https://job-boards.greenhouse.io/sezzle/jobs/8044474003) | Remote (Brazil, Remote) |  | 5d |
+| **Amazon** | [Amazon Intern Program 2027 \| Business & Product Management](https://www.amazon.jobs/en/jobs/10592138/amazon-intern-program-2027-business-product-management) | BR, SP, Sao Paulo |  | 4d |
+| **Amazon** | [Amazon Intern Program 2027 \| Data & Analytics](https://www.amazon.jobs/en/jobs/10592140/amazon-intern-program-2027-data-analytics) | BR, SP, Sao Paulo |  | 4d |
+| **Sezzle** | [Product Manager Intern, ShopX(Rewards)](https://job-boards.greenhouse.io/sezzle/jobs/8044474003) | Remote (Brazil, Remote) |  | 6d |
 | **Toradex** | [Intern - Product Manager Software](https://job-boards.greenhouse.io/toradex/jobs/8004517003) | Campinas, São Paulo, Brazil |  | 1mo |
 | **Sezzle** | [Product Management Intern](https://job-boards.greenhouse.io/sezzle/jobs/8003948003) | Remote (Brazil, Remote) |  | 1mo |
 | **Sezzle** | [Product Design Intern](https://job-boards.greenhouse.io/sezzle/jobs/7979213003) | Remote (Brazil, Remote) |  | 2mo |
-| **Amazon** | [Design Intern , Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/10438927/design-intern-amazon-university-talent-acquisition) | BR, RJ, Rio De Janeiro |  | 5mo |
+| **Telus Digital** | [Data & AI Intern (Brazil) - Year Round 2027](https://jobs.ashbyhq.com/telus-digital/89730055-fa03-444d-aa05-0058946fa436) | Porto Alegre, Brazil (Hybrid) |  | 2mo |
+| **Shifttechnology** | [Data Scientist Intern (English Speaker)](https://job-boards.greenhouse.io/shifttechnology/jobs/7794260003) | Brazil - Sao Paulo (Hybrid) |  | 4mo |
+| **Enova** | [Data Analytics Intern (Hybrid)](https://job-boards.greenhouse.io/enova/jobs/8023514) | São Paulo, São Paulo, Brazil (Hybrid) |  | 4mo |
 
 <!-- TABLE_END -->

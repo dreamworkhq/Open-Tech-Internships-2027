@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**8 currently open roles** · Updated **2026-11-01**
+**8 currently open roles** · Updated **2026-11-02**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -15,8 +15,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Moloco** | [Machine Learning Engineer Intern (3-month Internship)](https://job-boards.greenhouse.io/moloco/jobs/8044892003) | Seoul, Korea |  | 5d |
-| **BMW AG** | [\[BMW Financial Services Korea\] IT Intern -AI Engineering](https://career5.successfactors.eu/careers?company=bmwag&career_ns=job_listing&career_job_req_id=199115) | — |  | 9d |
+| **Moloco** | [Machine Learning Engineer Intern (3-month Internship)](https://job-boards.greenhouse.io/moloco/jobs/8044892003) | Seoul, Korea |  | 6d |
+| **BMW AG** | [\[BMW Financial Services Korea\] IT Intern -AI Engineering](https://career5.successfactors.eu/careers?company=bmwag&career_ns=job_listing&career_job_req_id=199115) | — |  | 10d |
 | **Moloco** | [Software Engineer Intern (3 months)](https://job-boards.greenhouse.io/moloco/jobs/8007407003) | Seoul, Korea |  | 1mo |
 | **RenesasElectronics** | [Intern - Analog Design Engineer](https://jobs.smartrecruiters.com/RenesasElectronics/744000145410040-intern-analog-design-engineer-?oga=true) | Seongnam-si, Gyeonggi-do, Korea, republic of |  | 2mo |
 | **Palantir** | [Forward Deployed Software Engineer, Internship - Commercial](https://jobs.lever.co/palantir/2ad0ab10-34c3-410d-883b-8052864a95cd) | Seoul, South Korea (Hybrid) |  | 2mo |
@@ -27,6 +27,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **BMW AG** | [\[BMW Financial Services Korea\] Product Management Intern](https://career5.successfactors.eu/careers?company=bmwag&career_ns=job_listing&career_job_req_id=198108) | — |  | 9d |
+| **BMW AG** | [\[BMW Financial Services Korea\] Product Management Intern](https://career5.successfactors.eu/careers?company=bmwag&career_ns=job_listing&career_job_req_id=198108) | — |  | 10d |
 
 <!-- TABLE_END -->
