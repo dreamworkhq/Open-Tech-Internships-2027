@@ -4,28 +4,29 @@ Verified-open crypto, blockchain, and web3 internships worldwide, updated daily.
 
 [← US tech internships](README.md) · [International internships](INTERNATIONAL.md) · [Business internships](BUSINESS.md)
 
-**34 open internships** · **21 companies** · **1 added in the last 24 hours** · Updated **2026-11-01**
+**34 open internships** · **21 companies** · **0 added in the last 24 hours** · Updated **2026-11-03**
 
 Every role links directly to the company's career page. Indexed from company career pages and maintained by [Dreamwork](https://github.com/dreamworkhq), which crawls 2M+ live jobs.
 
-- [Engineering](#engineering-19) · 19 roles
-- [Other](#other-15) · 15 roles
+- [Engineering](#engineering-20) · 20 roles
+- [Other](#other-14) · 14 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (19)
+### Engineering (20)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Keyrock** | [Innovation Quant Developer: Intern - DeFi/Corporate Development](https://jobs.ashbyhq.com/keyrock/d2d0a311-b102-4fda-b537-1a8e926b55c7) | Brussels |  | 2d |
-| **General Dynamics Mission Systems** | [Software Test Engineering Intern - Space and Embedded Crypto](https://careers-gdms.icims.com/jobs/75163/software-test-engineering-intern---space-and-embedded-crypto/job) | Scottsdale, AZ, US (Hybrid) |  | 6d |
-| **General Dynamics Mission Systems** | [Software Engineer Intern for Crypto & Cross Domain Solutions](https://careers-gdms.icims.com/jobs/75477/software-engineer-intern-for-crypto-%26-cross-domain-solutions/job) | Scottsdale, AZ, US (Hybrid) |  | 18d |
+| **Keyrock** | [Innovation Quant Developer: Intern - DeFi/Corporate Development](https://jobs.ashbyhq.com/keyrock/d2d0a311-b102-4fda-b537-1a8e926b55c7) | Brussels |  | 3d |
+| **General Dynamics Mission Systems** | [Software Test Engineering Intern - Space and Embedded Crypto](https://careers-gdms.icims.com/jobs/75163/software-test-engineering-intern---space-and-embedded-crypto/job) | Scottsdale, AZ, US (Hybrid) |  | 7d |
+| **General Dynamics Mission Systems** | [Software Engineer Intern for Crypto & Cross Domain Solutions](https://careers-gdms.icims.com/jobs/75477/software-engineer-intern-for-crypto-%26-cross-domain-solutions/job) | Scottsdale, AZ, US (Hybrid) |  | 19d |
 | **Merklescience** | [Software Engineer - Intern (Frontend)](https://jobs.lever.co/merklescience/20675d00-156c-4f3f-a9bf-4cacee176bc2) | Bangalore |  | 1mo |
 | **ALTEN** | [Stage Innovation : Ingénieur Génie logiciel Frontend / Blockchain](https://jobs.smartrecruiters.com/ALTEN/744000151636128-stage-innovation-ingenieur-genie-logiciel-frontend-blockchain?oga=true) | Rennes, Brittany, France |  | 1mo |
 | **Bybit** | [AI Development Engineer Intern](https://job-boards.eu.greenhouse.io/bybit/jobs/4974271101) | Kuala Lumpur, Malaysia |  | 1mo |
 | **Bybit** | [\[Intern\] Test Development Engineer Intern](https://job-boards.eu.greenhouse.io/bybit/jobs/4971554101) | Hong Kong SAR |  | 1mo |
 | **Bybit** | [Big Data Development Engineer Intern](https://job-boards.eu.greenhouse.io/bybit/jobs/4971690101) | Hong Kong SAR |  | 1mo |
 | **Bybit** | [\[Intern\] Test Development Engineer Intern](https://job-boards.eu.greenhouse.io/bybit/jobs/4971569101) | Kuala Lumpur, Malaysia |  | 1mo |
+| **NXP Semiconductors** | [Crypto Quality SW Process Internship](https://nxp.wd3.myworkdayjobs.com/careers/job/Sibiu/Crypto-Quality-SW-Process-Internship_R-10066282) | Sibiu (Hybrid) |  | 2mo |
 | **Merklescience** | [Software Engineer(Intern)- Backend](https://jobs.lever.co/merklescience/e663b69b-264a-4bd7-b04d-fb3c0a824a28) | Bangalore (Hybrid) |  | 2mo |
 | **Certik** | [Compliance Engineer Intern](https://jobs.lever.co/certik/0b497f25-210b-408e-b2c3-e005c841d867) | Remote (Europe / Asia) |  | 3mo |
 | **Tether** | [Research Engineer Intern (Multimodal LLM)](https://tether.recruitee.com/o/research-engineer-intern-videomultimodal-llm-remote) | Remote (Remote job) |  | 3mo |
@@ -37,19 +38,18 @@ Every role links directly to the company's career page. Indexed from company car
 | **Asula** | [Software Engineer: Intern/New Grad](https://jobs.ashbyhq.com/asula/ef6a983e-6c8c-4344-a4b4-7b05874128ee) | Dubai |  | 5mo |
 | **Allium** | [Engineering Intern - General / AI](https://jobs.ashbyhq.com/allium/5d697ce5-b820-45c0-a101-86a05e1fb15e) | Remote (New York) |  | 5mo |
 
-### Other (15)
+### Other (14)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **a16z Crypto** | [Research Intern, Frontier](https://a16z.com/about/jobs/?gh_jid=8046730003) | New York, New York, United States | $182K–$234K | 0d |
-| **Keyrock** | [DeFi Quant Research Intern - Digital Assets Market Making](https://jobs.ashbyhq.com/keyrock/4cae20e0-f315-4ccb-aa8e-df0e87969313) | Brussels |  | 2d |
-| **Keyrock** | [DeFi Quant Trader Intern (Credit)](https://jobs.ashbyhq.com/keyrock/6b46ce15-7e6b-4213-9eb4-41cc64577e24) | Brussels |  | 2d |
-| **Bybit** | [Animator Intern](https://weworkremotely.com/remote-jobs/bybit-animator-intern) | Remote |  | 9d |
-| **Recrutement Banque De France** | [SG DEFI DEVELOPPEUR - ANALYSTE FINANCIER H/F](https://bdf.wd103.myworkdayjobs.com/recrutement-banque-de-france/job/PARIS/SG-DEFI-DEVELOPPEUR---ANALYSTE-FINANCIER-H-F_JR101484) | PARIS |  | 18d |
+| **a16z Crypto** | [Research Intern, Frontier](https://a16z.com/about/jobs/?gh_jid=8046730003) | New York, New York, United States | $182K–$234K | 2d |
+| **Keyrock** | [DeFi Quant Research Intern - Digital Assets Market Making](https://jobs.ashbyhq.com/keyrock/4cae20e0-f315-4ccb-aa8e-df0e87969313) | Brussels |  | 3d |
+| **Keyrock** | [DeFi Quant Trader Intern (Credit)](https://jobs.ashbyhq.com/keyrock/6b46ce15-7e6b-4213-9eb4-41cc64577e24) | Brussels |  | 3d |
+| **Bybit** | [Animator Intern](https://weworkremotely.com/remote-jobs/bybit-animator-intern) | Remote |  | 10d |
+| **Recrutement Banque De France** | [SG DEFI DEVELOPPEUR - ANALYSTE FINANCIER H/F](https://bdf.wd103.myworkdayjobs.com/recrutement-banque-de-france/job/PARIS/SG-DEFI-DEVELOPPEUR---ANALYSTE-FINANCIER-H-F_JR101484) | PARIS |  | 19d |
 | **Bybit** | [Smart Contract Security Audit Intern (AI Audit)](https://job-boards.eu.greenhouse.io/bybit/jobs/4974605101) | Remote (APAC - Remote; Hong Kong SAR) |  | 1mo |
 | **Coinhako** | [Data Analyst Intern (Finance) - January to May 2027](https://jobs.ashbyhq.com/coinhako/ca138875-277c-4045-858c-3ee0cd5b44ed) | Singapore |  | 1mo |
 | **Coinbase** | [Crypto Inventory Operations Intern](https://www.coinbase.com/careers/positions/8175435?gh_jid=8175435) | Hybrid - New York, NY (Hybrid) | $83K | 1mo |
-| **NXP Semiconductors** | [Crypto Quality SW Process Internship](https://nxp.wd3.myworkdayjobs.com/careers/job/Sibiu/Crypto-Quality-SW-Process-Internship_R-10066282) | 2 Locations (Hybrid) |  | 2mo |
 | **Skymavis** | [Security Operations Intern](https://jobs.ashbyhq.com/skymavis/077388d7-385f-46e2-b7f0-e870deecd707) | Vietnam |  | 2mo |
 | **Pioneer Services** | [Developer Relations Intern](https://jobs.lever.co/pioneer-services/193f4aff-1b07-46cd-9c3c-abcb09354299) | Remote (North America) |  | 5mo |
 | **Certik** | [Security Research Internship](https://jobs.lever.co/certik/148afcf8-106b-42fa-a516-6bb8f1184e33) | Remote (New York, NY / Seattle, WA / San Franci…) | $36K–$96K | 5mo |
