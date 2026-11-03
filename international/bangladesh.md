@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**1 currently open roles** · Updated **2026-11-02**
+**1 currently open roles** · Updated **2026-11-03**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Brain Station 23** | [Software Quality Assurance (SQA) Intern](https://brainstation-23.easy.jobs/oqwvmsgvno-software-quality-assurance-sqa-intern) | Dhaka, Dhaka, Bangladesh |  | 3d |
+| **Brain Station 23** | [Software Quality Assurance (SQA) Intern](https://brainstation-23.easy.jobs/oqwvmsgvno-software-quality-assurance-sqa-intern) | Dhaka, Dhaka, Bangladesh |  | 4d |
 
 <!-- TABLE_END -->

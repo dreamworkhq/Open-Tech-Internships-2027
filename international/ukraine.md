@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**13 currently open roles** · Updated **2026-11-02**
+**13 currently open roles** · Updated **2026-11-03**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -15,10 +15,10 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Playtech** | [QA Engineer (Intern)](https://jobs.smartrecruiters.com/Playtech/744000158069569-qa-engineer-intern-?oga=true) | Kyiv, , Ukraine |  | 5d |
-| **TenThousand** | [Intern Frontend developer](https://djinni.co/jobs/855021-intern-frontend-developer/) | Remote (Europe) |  | 7d |
-| **bakotech** | [Intern QA](https://djinni.co/jobs/824928-intern-qa/) | Remote (Ukraine) |  | 18d |
-| **RenesasElectronics** | [Intern, Product Engineering](https://jobs.smartrecruiters.com/RenesasElectronics/744000155551520-intern-product-engineering?oga=true) | Lviv, , Ukraine |  | 19d |
+| **Playtech** | [QA Engineer (Intern)](https://jobs.smartrecruiters.com/Playtech/744000158069569-qa-engineer-intern-?oga=true) | Kyiv, , Ukraine |  | 6d |
+| **TenThousand** | [Intern Frontend developer](https://djinni.co/jobs/855021-intern-frontend-developer/) | Remote (Europe) |  | 8d |
+| **bakotech** | [Intern QA](https://djinni.co/jobs/824928-intern-qa/) | Remote (Ukraine) |  | 19d |
+| **RenesasElectronics** | [Intern, Product Engineering](https://jobs.smartrecruiters.com/RenesasElectronics/744000155551520-intern-product-engineering?oga=true) | Lviv, , Ukraine |  | 20d |
 | **Sigma Software** | [Java Developer Intern](https://jobs.smartrecruiters.com/SigmaSoftware2/744000153176088-java-developer-intern?oga=true) | Remote (Lviv, Lviv Oblast, Ukraine) |  | 1mo |
 | **Playtech** | [QA Engineer (Intern)](https://djinni.co/jobs/848356-qa-engineer-intern/) | Kyiv, Ukraine |  | 1mo |
 | **King Group** | [Intern QA Manual](https://djinni.co/jobs/840677-intern-qa-manual/) | Kyiv, Ukraine |  | 3mo |
@@ -31,7 +31,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Swipex** | [Trainee UI/UX Designer (with AI focus) Internship](https://djinni.co/jobs/855506-trainee-ui-ux-designer-with-ai-focus-internsh/) | Lviv, Ukraine |  | 5d |
-| **King Group** | [Intern Motion Designer](https://djinni.co/jobs/855229-intern-motion-designer/) | Kyiv, Ukraine |  | 6d |
+| **Swipex** | [Trainee UI/UX Designer (with AI focus) Internship](https://djinni.co/jobs/855506-trainee-ui-ux-designer-with-ai-focus-internsh/) | Lviv, Ukraine |  | 6d |
+| **King Group** | [Intern Motion Designer](https://djinni.co/jobs/855229-intern-motion-designer/) | Kyiv, Ukraine |  | 7d |
 
 <!-- TABLE_END -->
