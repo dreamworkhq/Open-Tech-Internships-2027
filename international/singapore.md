@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**224 currently open roles** · Updated **2026-11-03**
+**224 currently open roles** · Updated **2026-11-04**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -18,63 +18,64 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Marvell Technology** | [Hardware Engineer Intern - Bachelor's Degree](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Singapore/Hardware-Engineer-Intern---Bachelor-s-Degree_2603825) | Singapore |  | 4d |
-| **Ambiqmicroinc** | [Embedded Software Intern](https://job-boards.greenhouse.io/ambiqmicroinc/jobs/4404902009) | Singapore |  | 4d |
-| **HP Inc.** | [College Intern – Hardware Test Automation & AI Engineer](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Hardware-Test-Automation---AI-Engineer_UNI4954-1) | Singapore, South West, Singapore |  | 4d |
-| **HP Inc.** | [College Intern - Electrical Hardware Engineering](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Electrical-Hardware-Engineering_UNI4952) | Singapore, South West, Singapore |  | 4d |
-| **Bosch** | [Intern, Software Development](https://jobs.smartrecruiters.com/BoschGroup/744000158429749-intern-software-development?oga=true) | Singapore, Singapore, Singapore |  | 5d |
-| **HP Inc.** | [College Intern - Agentic AI Engineering](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Singapore-South-West-Singapore/College-Intern---Agentic-AI-Engineering_UNI5129) | Singapore, South West, Singapore |  | 6d |
-| **HP Inc.** | [College Intern - Firmware Engineering](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Singapore-South-West-Singapore/College-Intern---Firmware-Engineering_UNI5128) | Singapore, South West, Singapore |  | 6d |
-| **Marvell Technology** | [Product Engineer Intern - Bachelor's Degree Summer 2027](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Singapore/Product-Engineer-Intern---Bachelor-s-Degree-Summer-2027_2603840) | Singapore |  | 6d |
-| **Aumovio** | [Software Engineer (Software Integrator) Intern \[IDA:00070\]](https://jobs.smartrecruiters.com/Aumovio/744000157968589-software-engineer-software-integrator-intern-ida-00070-?oga=true) | Singapore, , Singapore |  | 6d |
-| **Tencent** | [Site Reliability Engineer Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Site-Reliability-Engineer-Intern_R108288) | Singapore-CapitaSky |  | 7d |
-| **Ensigninfosecurity** | [Intern, Software Engineer](https://ensigninfosecurity.wd3.myworkdayjobs.com/Ensign_Careers/job/Singapore/Intern--Software-Engineer_JOBREQ-0003697) | Singapore |  | 7d |
-| **Hitachi** | [Signalling Design Engineer Intern](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Singapore-Central-Singapore-Singapore/Signalling-Design-Engineer-Intern_R0147863) | Singapore, Central Singapore, Singapore (Hybrid) |  | 11d |
-| **GlobalFoundries** | [Technology Development Engineer Intern (Silicon Photonics) (Jan-Jun 202…](https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Science-Park/Technology-Development-Engineer-Intern--Silicon-Photonics---Jan-Jun-2027-_JR-2604278) | SGP - Science Park |  | 11d |
-| **DXC Technology** | [ServiceNow Developer Intern](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/SGP---SINGAPORE/ServiceNow-Developer-Intern_51592061) | SGP - SINGAPORE |  | 12d |
-| **Coinbase** | [Software Engineer Intern](https://www.coinbase.com/careers/positions/8175873?gh_jid=8175873) | Hybrid - Singapore (Hybrid) | $41K | 12d |
-| **Marvell Technology** | [Silicon Photonics Intern](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Singapore/Silicon-Photonics-Intern_2604444) | Singapore |  | 13d |
-| **Aumovio** | [Computer Vision and Machine Learning Intern \[IDA:00076\]](https://jobs.smartrecruiters.com/Aumovio/744000156703700-computer-vision-and-machine-learning-intern-ida-00076-?oga=true) | Singapore, , Singapore |  | 13d |
-| **Honeywell** | [Software & Cloud Engineering Intern](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160316) | Singapore, Singapore, Singapore (Hybrid) |  | 14d |
-| **Honeywell** | [​Software & Cloud Engineering Intern](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160317) | Singapore, Singapore, Singapore |  | 14d |
-| **HeyGen** | [Software Engineer Intern (Winter 2027)](https://job-boards.greenhouse.io/heygen/jobs/4540716007) | Toronto, Los Angeles, San Francisco, Toront… |  | 14d |
-| **Apple** | [Hardware Technology Intern, Singapore](https://jobs.apple.com/en-us/details/200690041/hardware-technology-intern-singapore?team=HRDWR) | Singapore |  | 15d |
-| **Towerresearchcapital** | [Software Engineer, C++ - 6 Month Internship Opportunity](https://www.tower-research.com/open-positions/?gh_jid=8299894) | Singapore |  | 15d |
-| **Grab** | [Intern, Software Engineer](https://jobs.smartrecruiters.com/Grab/744000155926216-intern-software-engineer?oga=true) | Singapore, , Singapore |  | 18d |
-| **Fa Evmr Saasfaprod1** | [NPI Engineering Intern (AI-Assisted Operations)](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41051) | Singapore |  | 18d |
-| **Amazon** | [Commissioning Program Analyst Intern, Data Center Capacity Delivery APJC](https://www.amazon.jobs/en/jobs/10563228/commissioning-program-analyst-intern-data-center-capacity-delivery-apjc) | SG, Singapore |  | 18d |
-| **Grab** | [Intern, Software Engineer - Backend](https://jobs.smartrecruiters.com/Grab/744000155671079-intern-software-engineer-backend?oga=true) | Singapore, , Singapore |  | 19d |
-| **Amazon** | [Control Engineer Intern, AWS Data Center Controls Deployment & Services…](https://www.amazon.jobs/en/jobs/10579407/control-engineer-intern-aws-data-center-controls-deployment-services-team) | SG, Singapore |  | 19d |
-| **Marvell Technology** | [AI Solutions Engineer Intern - Bachelor's/Master's Degree](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Singapore/AI-Solutions-Engineer-Intern---Bachelor-s-Master-s-Degree_2604441) | Singapore |  | 21d |
-| **Marvell Technology** | [Physical Design Intern - Master's Degree](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Singapore/Physical-Design-Intern---Master-s-Degree_2604908) | Singapore |  | 21d |
-| **Keysight** | [System Test Automation Engineer Intern](https://jobs.keysight.com/jobs/54872?lang=en-us) | Singapore, Singapore |  | 21d |
-| **Google** | [Software Engineering Intern, 2027 (English)](https://www.google.com/about/careers/applications/jobs/results/104489346874122950) | Singapore |  | 21d |
-| **Reolink** | [Java Software Trainee \| Internship from 2027](https://job-boards.greenhouse.io/reolink/jobs/4448326009) | Singapore |  | 22d |
-| **Thales** | [Software Engineer Intern (Python)](https://thales.wd3.myworkdayjobs.com/Careers/job/SINGAPORE/Software-Engineer-Intern--Python-_R0342044) | SINGAPORE (Hybrid) |  | 23d |
-| **Razer** | [Computer Vision Intern](https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore-Razer-AI-Center/Computer-Vision-Intern_JR2026007731) | Singapore Razer AI Center |  | 24d |
-| **Razer** | [Generative AI Intern](https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore-Razer-AI-Center/Generative-AI-Intern_JR2026007735) | Singapore Razer AI Center |  | 24d |
-| **Razer** | [Software Engineer Intern](https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Software-Engineer-Intern_JR2026007809) | Singapore |  | 24d |
-| **Razer** | [Software Cloud Intern](https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Software-Cloud-Intern_JR2026007798) | Singapore |  | 24d |
-| **Mufgub** | [Data and AI Engineering Intern](https://mufgub.wd3.myworkdayjobs.com/MUFG-EarlyCareers/job/Singapore-Office-OCC/Data-and-AI-Engineering-Intern_10080066-WD) | Singapore Office OCC |  | 24d |
-| **Micron** | [Intern - HVM PEE Photo (AI)](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---HVM-PEE-Photo--AI-_JR112979) | Fab 10N/X, Singapore |  | 26d |
-| **Marvell Technology** | [Analog Design Intern (Optical PHY)](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Singapore/Analog-Design-Intern--Optical-PHY-_2604428) | Singapore |  | 26d |
-| **Tencent** | [Data Engineer Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Data-Engineer-Intern_R108218) | Singapore-CapitaSky |  | 27d |
-| **Tencent** | [Backend Engineer Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Backend-Engineer-Intern_R108219) | Singapore-CapitaSky |  | 27d |
-| **Csit** | [Software Engineer Intern (Product Development)](https://jobs.lever.co/csit/a8fc3c5f-ef4e-4749-a88d-ac50d3476a09) | Singapore, Singapore |  | 27d |
-| **Csit** | [Reimagining Big Data Exploration (Internship Project)](https://jobs.lever.co/csit/e6a453cd-346c-4157-93bd-0879695f71fa) | Singapore, Singapore |  | 27d |
-| **Csit** | [Software Engineer Intern (IT Applications)](https://jobs.lever.co/csit/2b5aacac-69ac-4984-8d7f-f716dde8299e) | Singapore, Singapore |  | 27d |
-| **Csit** | [Workplace Platform Engineer Intern](https://jobs.lever.co/csit/0e58ce73-e257-471f-89ae-b014870a96bb) | Singapore, Singapore |  | 27d |
-| **Csit** | [Software Engineer Intern (Corporate Systems)](https://jobs.lever.co/csit/9c892188-178d-466d-aa7c-3476253bf42c) | Singapore, Singapore |  | 27d |
-| **Csit** | [Infra Platform Engineer Intern](https://jobs.lever.co/csit/4f32041a-fa04-4e89-b956-45aab2b53e2a) | Singapore, Singapore |  | 27d |
-| **Csit** | [Data Engineer Intern](https://jobs.lever.co/csit/032f5de4-ff14-46e9-873b-5ef5f03e4ccb) | Singapore, Singapore |  | 27d |
-| **Csit** | [Cloud and Systems Engineer Intern](https://jobs.lever.co/csit/e89dec46-a39e-4ce2-a9bd-7d8e847605bc) | Singapore, Singapore |  | 27d |
-| **Csit** | [Collaboration Platform Engineer Intern](https://jobs.lever.co/csit/7a511009-571b-4bbc-87cf-a483cef56800) | Singapore, Singapore |  | 27d |
-| **Csit** | [Cloud Computing Engineer Intern](https://jobs.lever.co/csit/1b34d034-4e4f-4bc7-917b-a9f030e51bf0) | Singapore, Singapore |  | 27d |
-| **Micron** | [Intern - NAND Probe Product Engineering (Test Mode Integration)](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---NAND-Probe-Product-Engineering--Test-Mode-Integration-_JR113345) | Fab 10N/X, Singapore |  | 27d |
-| **Micron** | [Intern- PIE RAM (Agentic AI)](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern--PIE-RAM--Agentic-AI-_JR112779) | Fab 10N/X, Singapore |  | 28d |
-| **Amazon** | [Data Center Infrastructure Engineering Intern, Colocation Regional Engi…](https://www.amazon.jobs/en/jobs/10507775/data-center-infrastructure-engineering-intern-colocation-regional-engineering) | SG, Singapore |  | 28d |
-| **Marvell Technology** | [Product Engineer Intern - Bachelor's Degree](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Singapore/Product-Engineer-Intern---Bachelor-s-Degree_2603842) | Singapore |  | 29d |
-| **Marvell Technology** | [Test Solutions Engineering Intern - Bachelor's Degree](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Singapore/Test-Solutions-Engineering-Intern---Bachelor-s-Degree_2604801) | Singapore |  | 29d |
+| **Seagate Technology** | [Software Engineering Intern (Java & AI)](https://career41.sapsf.com/career?career_ns=job_listing&company=seagatetec&career_job_req_id=15478) | Woodlands, Singapore, W2 |  | 0d |
+| **Marvell Technology** | [Hardware Engineer Intern - Bachelor's Degree](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Singapore/Hardware-Engineer-Intern---Bachelor-s-Degree_2603825) | Singapore |  | 5d |
+| **Ambiqmicroinc** | [Embedded Software Intern](https://job-boards.greenhouse.io/ambiqmicroinc/jobs/4404902009) | Singapore |  | 5d |
+| **HP Inc.** | [College Intern – Hardware Test Automation & AI Engineer](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Hardware-Test-Automation---AI-Engineer_UNI4954-1) | Singapore, South West, Singapore |  | 5d |
+| **HP Inc.** | [College Intern - Electrical Hardware Engineering](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Electrical-Hardware-Engineering_UNI4952) | Singapore, South West, Singapore |  | 5d |
+| **Bosch** | [Intern, Software Development](https://jobs.smartrecruiters.com/BoschGroup/744000158429749-intern-software-development?oga=true) | Singapore, Singapore, Singapore |  | 6d |
+| **HP Inc.** | [College Intern - Agentic AI Engineering](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Singapore-South-West-Singapore/College-Intern---Agentic-AI-Engineering_UNI5129) | Singapore, South West, Singapore |  | 7d |
+| **HP Inc.** | [College Intern - Firmware Engineering](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Singapore-South-West-Singapore/College-Intern---Firmware-Engineering_UNI5128) | Singapore, South West, Singapore |  | 7d |
+| **Marvell Technology** | [Product Engineer Intern - Bachelor's Degree Summer 2027](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Singapore/Product-Engineer-Intern---Bachelor-s-Degree-Summer-2027_2603840) | Singapore |  | 7d |
+| **Aumovio** | [Software Engineer (Software Integrator) Intern \[IDA:00070\]](https://jobs.smartrecruiters.com/Aumovio/744000157968589-software-engineer-software-integrator-intern-ida-00070-?oga=true) | Singapore, , Singapore |  | 7d |
+| **Tencent** | [Site Reliability Engineer Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Site-Reliability-Engineer-Intern_R108288) | Singapore-CapitaSky |  | 8d |
+| **Ensigninfosecurity** | [Intern, Software Engineer](https://ensigninfosecurity.wd3.myworkdayjobs.com/Ensign_Careers/job/Singapore/Intern--Software-Engineer_JOBREQ-0003697) | Singapore |  | 8d |
+| **Hitachi** | [Signalling Design Engineer Intern](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Singapore-Central-Singapore-Singapore/Signalling-Design-Engineer-Intern_R0147863) | Singapore, Central Singapore, Singapore (Hybrid) |  | 12d |
+| **GlobalFoundries** | [Technology Development Engineer Intern (Silicon Photonics) (Jan-Jun 202…](https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Science-Park/Technology-Development-Engineer-Intern--Silicon-Photonics---Jan-Jun-2027-_JR-2604278) | SGP - Science Park |  | 12d |
+| **DXC Technology** | [ServiceNow Developer Intern](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/SGP---SINGAPORE/ServiceNow-Developer-Intern_51592061) | SGP - SINGAPORE |  | 13d |
+| **Coinbase** | [Software Engineer Intern](https://www.coinbase.com/careers/positions/8175873?gh_jid=8175873) | Hybrid - Singapore (Hybrid) | $41K | 13d |
+| **Marvell Technology** | [Silicon Photonics Intern](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Singapore/Silicon-Photonics-Intern_2604444) | Singapore |  | 14d |
+| **Aumovio** | [Computer Vision and Machine Learning Intern \[IDA:00076\]](https://jobs.smartrecruiters.com/Aumovio/744000156703700-computer-vision-and-machine-learning-intern-ida-00076-?oga=true) | Singapore, , Singapore |  | 14d |
+| **Honeywell** | [Software & Cloud Engineering Intern](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160316) | Singapore, Singapore, Singapore (Hybrid) |  | 15d |
+| **Honeywell** | [​Software & Cloud Engineering Intern](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160317) | Singapore, Singapore, Singapore |  | 15d |
+| **HeyGen** | [Software Engineer Intern (Winter 2027)](https://job-boards.greenhouse.io/heygen/jobs/4540716007) | Toronto, Los Angeles, San Francisco, Toront… |  | 15d |
+| **Apple** | [Hardware Technology Intern, Singapore](https://jobs.apple.com/en-us/details/200690041/hardware-technology-intern-singapore?team=HRDWR) | Singapore |  | 16d |
+| **Towerresearchcapital** | [Software Engineer, C++ - 6 Month Internship Opportunity](https://www.tower-research.com/open-positions/?gh_jid=8299894) | Singapore |  | 16d |
+| **Grab** | [Intern, Software Engineer](https://jobs.smartrecruiters.com/Grab/744000155926216-intern-software-engineer?oga=true) | Singapore, , Singapore |  | 19d |
+| **Fa Evmr Saasfaprod1** | [NPI Engineering Intern (AI-Assisted Operations)](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41051) | Singapore |  | 19d |
+| **Amazon** | [Commissioning Program Analyst Intern, Data Center Capacity Delivery APJC](https://www.amazon.jobs/en/jobs/10563228/commissioning-program-analyst-intern-data-center-capacity-delivery-apjc) | SG, Singapore |  | 19d |
+| **Grab** | [Intern, Software Engineer - Backend](https://jobs.smartrecruiters.com/Grab/744000155671079-intern-software-engineer-backend?oga=true) | Singapore, , Singapore |  | 20d |
+| **Amazon** | [Control Engineer Intern, AWS Data Center Controls Deployment & Services…](https://www.amazon.jobs/en/jobs/10579407/control-engineer-intern-aws-data-center-controls-deployment-services-team) | SG, Singapore |  | 20d |
+| **Marvell Technology** | [AI Solutions Engineer Intern - Bachelor's/Master's Degree](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Singapore/AI-Solutions-Engineer-Intern---Bachelor-s-Master-s-Degree_2604441) | Singapore |  | 22d |
+| **Marvell Technology** | [Physical Design Intern - Master's Degree](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Singapore/Physical-Design-Intern---Master-s-Degree_2604908) | Singapore |  | 22d |
+| **Keysight** | [System Test Automation Engineer Intern](https://jobs.keysight.com/jobs/54872?lang=en-us) | Singapore, Singapore |  | 22d |
+| **Google** | [Software Engineering Intern, 2027 (English)](https://www.google.com/about/careers/applications/jobs/results/104489346874122950) | Singapore |  | 22d |
+| **Reolink** | [Java Software Trainee \| Internship from 2027](https://job-boards.greenhouse.io/reolink/jobs/4448326009) | Singapore |  | 23d |
+| **Thales** | [Software Engineer Intern (Python)](https://thales.wd3.myworkdayjobs.com/Careers/job/SINGAPORE/Software-Engineer-Intern--Python-_R0342044) | SINGAPORE (Hybrid) |  | 24d |
+| **Razer** | [Computer Vision Intern](https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore-Razer-AI-Center/Computer-Vision-Intern_JR2026007731) | Singapore Razer AI Center |  | 25d |
+| **Razer** | [Generative AI Intern](https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore-Razer-AI-Center/Generative-AI-Intern_JR2026007735) | Singapore Razer AI Center |  | 25d |
+| **Razer** | [Software Engineer Intern](https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Software-Engineer-Intern_JR2026007809) | Singapore |  | 25d |
+| **Razer** | [Software Cloud Intern](https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Software-Cloud-Intern_JR2026007798) | Singapore |  | 25d |
+| **Mufgub** | [Data and AI Engineering Intern](https://mufgub.wd3.myworkdayjobs.com/MUFG-EarlyCareers/job/Singapore-Office-OCC/Data-and-AI-Engineering-Intern_10080066-WD) | Singapore Office OCC |  | 25d |
+| **Micron** | [Intern - HVM PEE Photo (AI)](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---HVM-PEE-Photo--AI-_JR112979) | Fab 10N/X, Singapore |  | 27d |
+| **Marvell Technology** | [Analog Design Intern (Optical PHY)](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Singapore/Analog-Design-Intern--Optical-PHY-_2604428) | Singapore |  | 27d |
+| **Tencent** | [Data Engineer Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Data-Engineer-Intern_R108218) | Singapore-CapitaSky |  | 28d |
+| **Tencent** | [Backend Engineer Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Backend-Engineer-Intern_R108219) | Singapore-CapitaSky |  | 28d |
+| **Csit** | [Software Engineer Intern (Product Development)](https://jobs.lever.co/csit/a8fc3c5f-ef4e-4749-a88d-ac50d3476a09) | Singapore, Singapore |  | 28d |
+| **Csit** | [Reimagining Big Data Exploration (Internship Project)](https://jobs.lever.co/csit/e6a453cd-346c-4157-93bd-0879695f71fa) | Singapore, Singapore |  | 28d |
+| **Csit** | [Software Engineer Intern (IT Applications)](https://jobs.lever.co/csit/2b5aacac-69ac-4984-8d7f-f716dde8299e) | Singapore, Singapore |  | 28d |
+| **Csit** | [Workplace Platform Engineer Intern](https://jobs.lever.co/csit/0e58ce73-e257-471f-89ae-b014870a96bb) | Singapore, Singapore |  | 28d |
+| **Csit** | [Software Engineer Intern (Corporate Systems)](https://jobs.lever.co/csit/9c892188-178d-466d-aa7c-3476253bf42c) | Singapore, Singapore |  | 28d |
+| **Csit** | [Infra Platform Engineer Intern](https://jobs.lever.co/csit/4f32041a-fa04-4e89-b956-45aab2b53e2a) | Singapore, Singapore |  | 28d |
+| **Csit** | [Data Engineer Intern](https://jobs.lever.co/csit/032f5de4-ff14-46e9-873b-5ef5f03e4ccb) | Singapore, Singapore |  | 28d |
+| **Csit** | [Cloud and Systems Engineer Intern](https://jobs.lever.co/csit/e89dec46-a39e-4ce2-a9bd-7d8e847605bc) | Singapore, Singapore |  | 28d |
+| **Csit** | [Collaboration Platform Engineer Intern](https://jobs.lever.co/csit/7a511009-571b-4bbc-87cf-a483cef56800) | Singapore, Singapore |  | 28d |
+| **Csit** | [Cloud Computing Engineer Intern](https://jobs.lever.co/csit/1b34d034-4e4f-4bc7-917b-a9f030e51bf0) | Singapore, Singapore |  | 28d |
+| **Micron** | [Intern - NAND Probe Product Engineering (Test Mode Integration)](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---NAND-Probe-Product-Engineering--Test-Mode-Integration-_JR113345) | Fab 10N/X, Singapore |  | 28d |
+| **Micron** | [Intern- PIE RAM (Agentic AI)](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern--PIE-RAM--Agentic-AI-_JR112779) | Fab 10N/X, Singapore |  | 29d |
+| **Amazon** | [Data Center Infrastructure Engineering Intern, Colocation Regional Engi…](https://www.amazon.jobs/en/jobs/10507775/data-center-infrastructure-engineering-intern-colocation-regional-engineering) | SG, Singapore |  | 29d |
+| **Marvell Technology** | [Product Engineer Intern - Bachelor's Degree](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Singapore/Product-Engineer-Intern---Bachelor-s-Degree_2603842) | Singapore |  | 1mo |
+| **Marvell Technology** | [Test Solutions Engineering Intern - Bachelor's Degree](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Singapore/Test-Solutions-Engineering-Intern---Bachelor-s-Degree_2604801) | Singapore |  | 1mo |
 | **Ensigninfosecurity** | [Intern, Full-Stack Software Engineer](https://ensigninfosecurity.wd3.myworkdayjobs.com/Ensign_Careers/job/Intern--Full-Stack-Software-Engineer_JOBREQ-0002950) | — |  | 1mo |
 | **Ensigninfosecurity** | [Intern, Machine Learning Ops](https://ensigninfosecurity.wd3.myworkdayjobs.com/Ensign_Careers/job/Intern--Machine-Learning-Ops_JOBREQ-0002883) | — |  | 1mo |
 | **Prudential** | [AI Intern – IBF Young Talent Programme for AI in Finance (YTP-AIF)](https://prudential.wd3.myworkdayjobs.com/prudential/job/Singapore/AI-Intern---IBF-Young-Talent-Programme-for-AI-in-Finance--YTP-AIF-_26090482) | Singapore |  | 1mo |
@@ -97,7 +98,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **Palantir** | [Software Engineer, Internship](https://jobs.lever.co/palantir/3531977a-9b2f-40a0-a486-4eeb38e75fc1) | Singapore, Singapore (Hybrid) | $75K | 1mo |
 | **Zurich Insurance** | [AI Engineering Intern](https://career2.successfactors.eu/careers?company=SF2013&career_ns=job_listing&career_job_req_id=137189) | Singapore |  | 1mo |
 | **Micron** | [Intern - Facilities Sustainability AI](https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Facilities-Sustainability-AI_JR112586) | MSB, Singapore |  | 1mo |
-| **Go Venti** | [C++ Software Engineer Intern (Control)](https://jobs.ashbyhq.com/GoVenti/52c162ad-20c4-4db0-ae4f-cc4d1218bc67) | Singapore |  | 1mo |
+| **Go Venti** | [C++ Software Engineer Intern (Control)](https://jobs.ashbyhq.com/goventi/52c162ad-20c4-4db0-ae4f-cc4d1218bc67) | Singapore |  | 1mo |
 | **Amazon** | [Software Developer Intern, Field Innovation, Security Search and Observ…](https://www.amazon.jobs/en/jobs/10544261/software-developer-intern-field-innovation-security-search-and-observability-sso) | SG, Singapore |  | 1mo |
 | **AppLovin** | [Machine Learning Engineering Intern (2027 Summer Internship)](https://boards.greenhouse.io/applovin/jobs/4713038006?gh_jid=4713038006) | Singapore |  | 1mo |
 | **II VI Aerospace & Defense \| Co…** | [Intern - Engineering (QA)](https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2004/job/2013570) | Singapore |  | 1mo |
@@ -120,7 +121,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **AMD** | [2027 Term 1 Internship – AI-Driven BOM Generation & Management](https://careers.amd.com/jobs/91458?lang=en-us) | Singapore, Singapore (Hybrid) |  | 2mo |
 | **Williams Sonoma** | [Engineer - QA Process & Systems (Intern/Contract)](https://ehac.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/19941) | Singapore (Hybrid) |  | 2mo |
 | **Tencent** | [Tencent Cloud - Edge Platform Product Solutions Architecture Intern - S…](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Tencent-Cloud---Edge-Platform-Product-Solutions-Architecture-Intern---Singapore_R107927) | Singapore-CapitaSky |  | 2mo |
-| **Go Venti** | [Autonomous Driving Data Analysis Intern](https://jobs.ashbyhq.com/GoVenti/f0fa137a-6c6b-412e-9146-db6b4de011af) | Singapore |  | 2mo |
+| **Go Venti** | [Autonomous Driving Data Analysis Intern](https://jobs.ashbyhq.com/goventi/f0fa137a-6c6b-412e-9146-db6b4de011af) | Singapore |  | 2mo |
 | **Shopback 2** | [Site Reliability Engineer Intern](https://jobs.lever.co/shopback-2/df5ed7cf-eb1f-4f17-ad11-35ad6011412c) | Singapore, Singapore |  | 2mo |
 | **GlobalFoundries** | [Design Enablement Engineer Intern (Jan-Jun 2027)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Science-Park/Design-Enablement-Engineer-Intern--Jan-Jun-2027-_JR-2604274) | SGP - Science Park |  | 2mo |
 | **Aumovio** | [HPC Software Engineer Intern \[IDA: 00053\]](https://jobs.smartrecruiters.com/Aumovio/744000144245645-hpc-software-engineer-intern-ida-00053-?oga=true) | Singapore, , Singapore |  | 2mo |
@@ -134,17 +135,16 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **Tencent** | [Big Data Development Engineer Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Big-Data-Development-Engineer-Intern_R107936) | Singapore-CapitaSky |  | 2mo |
 | **Jump Trading** | [Campus Python Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027955) | Singapore |  | 2mo |
 | **Jump Trading** | [Campus C++ Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027946) | Singapore |  | 2mo |
-| **NCS** | [\[Uni - Jan till Jun 2027\] Software Engineer/ Business Analyst Intern](https://jobs.smartrecruiters.com/NCS3/6000000001287535--uni-jan-till-jun-2027-software-engineer-business-analyst-intern?oga=true) | Singapore, , Singapore |  | 2mo |
-| **NCS** | [\[Uni - Jan till Jun 2027\] AI Engineer Intern (Middleware)](https://jobs.smartrecruiters.com/NCS3/6000000001288481--uni-jan-till-jun-2027-ai-engineer-intern-middleware-?oga=true) | Singapore, , Singapore |  | 2mo |
-| **NCS** | [\[Uni - Jan till Jun 2027\] DevOps & Enterprise Architect Assistant Int…](https://jobs.smartrecruiters.com/NCS3/6000000001288434--uni-jan-till-jun-2027-devops-enterprise-architect-assistant-intern?oga=true) | Singapore, , Singapore |  | 2mo |
-| **NCS** | [\[Uni - Jan till Jun 2027\] AI Presales & Solution Engineering Intern](https://jobs.smartrecruiters.com/NCS3/6000000001287889--uni-jan-till-jun-2027-ai-presales-solution-engineering-intern?oga=true) | Singapore, , Singapore |  | 2mo |
-| **NCS** | [\[Uni - Jan till Jun 2027\] AI Software Engineer Intern](https://jobs.smartrecruiters.com/NCS3/6000000001287295--uni-jan-till-jun-2027-ai-software-engineer-intern?oga=true) | Singapore, , Singapore |  | 2mo |
-| **NCS** | [\[Uni - Jan till Jun 2027\] AI Engineer Intern](https://jobs.smartrecruiters.com/NCS3/6000000001287239--uni-jan-till-jun-2027-ai-engineer-intern?oga=true) | Singapore, , Singapore |  | 2mo |
-| **NCS** | [\[Uni - Jan till Jun 2027\] Software Engineering Intern (Low Code)](https://jobs.smartrecruiters.com/NCS3/6000000001287390--uni-jan-till-jun-2027-software-engineering-intern-low-code-?oga=true) | Singapore, , Singapore |  | 2mo |
+| **NCS** | [\[Uni - Jan till Jun 2027\] Software Engineer/ Business Analyst Intern](https://jobs.smartrecruiters.com/NCS3/6000000001287535--uni-jan-till-jun-2027-software-engineer-business-analyst-intern?oga=true) | Singapore, , Singapore |  | 3mo |
+| **NCS** | [\[Uni - Jan till Jun 2027\] AI Engineer Intern (Middleware)](https://jobs.smartrecruiters.com/NCS3/6000000001288481--uni-jan-till-jun-2027-ai-engineer-intern-middleware-?oga=true) | Singapore, , Singapore |  | 3mo |
+| **NCS** | [\[Uni - Jan till Jun 2027\] DevOps & Enterprise Architect Assistant Int…](https://jobs.smartrecruiters.com/NCS3/6000000001288434--uni-jan-till-jun-2027-devops-enterprise-architect-assistant-intern?oga=true) | Singapore, , Singapore |  | 3mo |
+| **NCS** | [\[Uni - Jan till Jun 2027\] AI Presales & Solution Engineering Intern](https://jobs.smartrecruiters.com/NCS3/6000000001287889--uni-jan-till-jun-2027-ai-presales-solution-engineering-intern?oga=true) | Singapore, , Singapore |  | 3mo |
+| **NCS** | [\[Uni - Jan till Jun 2027\] AI Software Engineer Intern](https://jobs.smartrecruiters.com/NCS3/6000000001287295--uni-jan-till-jun-2027-ai-software-engineer-intern?oga=true) | Singapore, , Singapore |  | 3mo |
+| **NCS** | [\[Uni - Jan till Jun 2027\] AI Engineer Intern](https://jobs.smartrecruiters.com/NCS3/6000000001287239--uni-jan-till-jun-2027-ai-engineer-intern?oga=true) | Singapore, , Singapore |  | 3mo |
+| **NCS** | [\[Uni - Jan till Jun 2027\] Software Engineering Intern (Low Code)](https://jobs.smartrecruiters.com/NCS3/6000000001287390--uni-jan-till-jun-2027-software-engineering-intern-low-code-?oga=true) | Singapore, , Singapore |  | 3mo |
 | **Shopback 2** | [Software Engineer Intern (H1 2027)](https://jobs.lever.co/shopback-2/1804a30e-2d2e-4631-9e85-614c91806ddf) | Singapore, Singapore |  | 3mo |
 | **Virtu** | [2027 Internship – Software Engineer](https://job-boards.greenhouse.io/virtu/jobs/5513756002) | Singapore |  | 3mo |
 | **NCS** | [\[Uni – Jan till Jun 2027\] Agentic AI Intern](https://jobs.smartrecruiters.com/NCS3/6000000001275993--uni-jan-till-jun-2027-agentic-ai-intern?oga=true) | Singapore, , Singapore |  | 3mo |
-| **Thales** | [Software Engineer Intern (C#)](https://thales.wd3.myworkdayjobs.com/Careers/job/SINGAPORE/Software-Engineer-Intern--C--_R0324316) | SINGAPORE (Hybrid) |  | 3mo |
 | **GlobalFoundries** | [2H University Intern, AI-Driven Process Intern (Advanced Process Contro…](https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME-2H-University-Intern--AI-Driven-Process-Intern--Advanced-Process-Control-_JR-2502691) | SGP - Woodlands |  | 3mo |
 | **Thales** | [Software Engineer Intern](https://thales.wd3.myworkdayjobs.com/Careers/job/Singapore/Software-Engineer-Intern---Middleware--IBS-_R0334782) | Singapore (Hybrid) |  | 3mo |
 | **Hudson River Trading** | [Software Engineering Internship (C++ or Python) – Summer 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083) | Austin, TX, United States; Chicago, Illinoi… | $302K | 3mo |
@@ -152,11 +152,11 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **II VI Aerospace & Defense \| Co…** | [Intern - Engineering (Automation)](https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2004/job/2012988) | Singapore |  | 4mo |
 | **Aumovio** | [Tools and AI Applications Value Creator Intern \[IDA: 00047\]](https://jobs.smartrecruiters.com/Aumovio/744000134176119-tools-and-ai-applications-value-creator-intern-ida-00047-?oga=true) | Singapore, , Singapore |  | 4mo |
 | **Aumovio** | [AI Security Test Engineer Intern \[IDA: 00077\]](https://jobs.smartrecruiters.com/Aumovio/744000132349975-ai-security-test-engineer-intern-ida-00077-?oga=true) | Singapore, , Singapore |  | 4mo |
-| **Go Venti** | [Data Annotation Intern](https://jobs.ashbyhq.com/GoVenti/86982898-750b-4571-a333-3a436e310c1f) | Singapore |  | 5mo |
-| **Go Venti** | [Full-Stack Software Engineer Intern](https://jobs.ashbyhq.com/GoVenti/9e776d34-6b28-4498-815e-dc7cb5f73134) | Singapore |  | 5mo |
-| **Go Venti** | [Autonomous Vehicle Integration & Validation Intern (Software Tools)](https://jobs.ashbyhq.com/GoVenti/60954aca-104b-4810-b0d4-70682f64742a) | Singapore |  | 5mo |
-| **Go Venti** | [C++ Software Engineer Intern](https://jobs.ashbyhq.com/GoVenti/dec35151-7bee-45ae-b088-a04986145d93) | Singapore |  | 5mo |
-| **Go Venti** | [QA Engineer Intern](https://jobs.ashbyhq.com/GoVenti/9a871e5e-0675-42b2-8ee1-248f46a2b279) | Singapore |  | 5mo |
+| **Go Venti** | [Data Annotation Intern](https://jobs.ashbyhq.com/goventi/86982898-750b-4571-a333-3a436e310c1f) | Singapore |  | 5mo |
+| **Go Venti** | [Full-Stack Software Engineer Intern](https://jobs.ashbyhq.com/goventi/9e776d34-6b28-4498-815e-dc7cb5f73134) | Singapore |  | 5mo |
+| **Go Venti** | [Autonomous Vehicle Integration & Validation Intern (Software Tools)](https://jobs.ashbyhq.com/goventi/60954aca-104b-4810-b0d4-70682f64742a) | Singapore |  | 5mo |
+| **Go Venti** | [C++ Software Engineer Intern](https://jobs.ashbyhq.com/goventi/dec35151-7bee-45ae-b088-a04986145d93) | Singapore |  | 5mo |
+| **Go Venti** | [QA Engineer Intern](https://jobs.ashbyhq.com/goventi/9a871e5e-0675-42b2-8ee1-248f46a2b279) | Singapore |  | 5mo |
 | **Tencent** | [Game Site Reliability Engineer Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Game-Site-Reliability-Engineer-Intern_R107377) | Singapore-CapitaSky |  | 5mo |
 | **HPE** | [Hardware Test Automation Intern](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Singapore-Central-Singapore-Singapore/Hardware-Test-Automation-Intern_1160820) | Singapore, Central Singapore, Singapore |  | 5mo |
 | **HPE** | [Software Engineer Intern, Embedded Firmware](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Singapore-Central-Singapore-Singapore/Software-Engineer-Intern--Embedded-Firmware_1194562) | Singapore, Central Singapore, Singapore |  | 5mo |
@@ -169,18 +169,18 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Bosch** | [Intern, Quality Management Mobility Aftermarket East Asia](https://jobs.smartrecruiters.com/BoschGroup/744000159306909-intern-quality-management-mobility-aftermarket-east-asia?oga=true) | Singapore, , Singapore |  | 0d |
-| **HP Inc.** | [College Intern - Data Analytics in Supply Chain](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Data-Analytics-in-Supply-Chain_UNI4031-1) | Singapore, South West, Singapore |  | 2d |
-| **HP Inc.** | [College Intern - Data Science](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Data-Science_UNI4644-2) | Singapore, South West, Singapore |  | 4d |
-| **JCI** | [Intern, Data Analyst](https://jci.wd5.myworkdayjobs.com/JCI/job/Singapore-Singapore-Singapore/Intern--Data-Analyst_WD30283077) | Singapore-Singapore-Singapore |  | 13d |
-| **JCI** | [Business Intern, Business Analytics](https://jci.wd5.myworkdayjobs.com/JCI/job/Singapore-Singapore-Singapore/Business-Intern--Business-Analytics_WD30283076) | Singapore-Singapore-Singapore |  | 13d |
-| **Micron** | [Intern - HIG HBM Product Engineering (Advance Data Analytics)](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Intern---HIG-HBM-Product-Engineering--Advance-Data-Analytics-_JR114591) | Fab 10A, Singapore |  | 14d |
-| **Razer** | [Data Science Intern](https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Data-Science-Intern_JR2026007795) | Singapore |  | 24d |
-| **SCOR** | [Actuarial Intern, South Asia Business Data](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5484) | Singapore, Singapore |  | 25d |
-| **Bosch** | [Intern, Data Analyst](https://jobs.smartrecruiters.com/BoschGroup/744000154012744-intern-data-analyst?oga=true) | Singapore, , Singapore |  | 27d |
-| **Tencent** | [Data Science Intern (Data Analytics & AI)](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Data-Science-Intern--Data-Analytics---AI-_R108216) | Singapore-CapitaSky |  | 27d |
-| **Csit** | [Data Scientist Intern](https://jobs.lever.co/csit/38fd3cdf-f3ed-4c30-b4e5-6c76d4f611be) | Singapore, Singapore |  | 27d |
-| **Micron** | [Intern - F10 HVM Photo PEE](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---F10-HVM-Photo-PEE_JR110525) | Fab 10N/X, Singapore |  | 29d |
+| **Bosch** | [Intern, Quality Management Mobility Aftermarket East Asia](https://jobs.smartrecruiters.com/BoschGroup/744000159306909-intern-quality-management-mobility-aftermarket-east-asia?oga=true) | Singapore, , Singapore |  | 1d |
+| **HP Inc.** | [College Intern - Data Analytics in Supply Chain](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Data-Analytics-in-Supply-Chain_UNI4031-1) | Singapore, South West, Singapore |  | 3d |
+| **HP Inc.** | [College Intern - Data Science](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Data-Science_UNI4644-2) | Singapore, South West, Singapore |  | 5d |
+| **JCI** | [Intern, Data Analyst](https://jci.wd5.myworkdayjobs.com/JCI/job/Singapore-Singapore-Singapore/Intern--Data-Analyst_WD30283077) | Singapore-Singapore-Singapore |  | 14d |
+| **JCI** | [Business Intern, Business Analytics](https://jci.wd5.myworkdayjobs.com/JCI/job/Singapore-Singapore-Singapore/Business-Intern--Business-Analytics_WD30283076) | Singapore-Singapore-Singapore |  | 14d |
+| **Micron** | [Intern - HIG HBM Product Engineering (Advance Data Analytics)](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Intern---HIG-HBM-Product-Engineering--Advance-Data-Analytics-_JR114591) | Fab 10A, Singapore |  | 15d |
+| **Razer** | [Data Science Intern](https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Data-Science-Intern_JR2026007795) | Singapore |  | 25d |
+| **SCOR** | [Actuarial Intern, South Asia Business Data](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5484) | Singapore, Singapore |  | 26d |
+| **Bosch** | [Intern, Data Analyst](https://jobs.smartrecruiters.com/BoschGroup/744000154012744-intern-data-analyst?oga=true) | Singapore, , Singapore |  | 28d |
+| **Tencent** | [Data Science Intern (Data Analytics & AI)](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Data-Science-Intern--Data-Analytics---AI-_R108216) | Singapore-CapitaSky |  | 28d |
+| **Csit** | [Data Scientist Intern](https://jobs.lever.co/csit/38fd3cdf-f3ed-4c30-b4e5-6c76d4f611be) | Singapore, Singapore |  | 28d |
+| **Micron** | [Intern - F10 HVM Photo PEE](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---F10-HVM-Photo-PEE_JR110525) | Fab 10N/X, Singapore |  | 1mo |
 | **II VI Aerospace & Defense \| Co…** | [Intern, Business Intelligence](https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2004/job/2014711) | Singapore |  | 1mo |
 | **Marvell Technology** | [Business Planning System Analyst Intern - Bachelor's Degree](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Singapore/Business-Planning-System-Analyst-Intern---Bachelor-s-Degree_2603816) | Singapore |  | 1mo |
 | **Deutsche Bank** | [AI intern - YTP](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Singapore-One-Raffles-Quay/Technology-intern---YTP_R0453251) | Singapore, One Raffles Quay |  | 1mo |
@@ -215,22 +215,22 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Mufgub** | [IT/Cyber Risk Management Intern](https://mufgub.wd3.myworkdayjobs.com/MUFG-EarlyCareers/job/Singapore-Office-Marina-One/IT-Cyber-Risk-Management-Intern_10079844-WD) | Singapore Office Marina One |  | 13d |
-| **Csit** | [Security Assessment Tools for Mobile Devices (Internship Project)](https://jobs.lever.co/csit/245137f4-b323-4de2-845c-5389bca5fc82) | Singapore, Singapore |  | 27d |
-| **Csit** | [Study of Authentication and Network Protocols of Instant Messengers on …](https://jobs.lever.co/csit/771bcad6-0e8e-4030-bc63-4ab70ae9f089) | Singapore, Singapore |  | 27d |
-| **Csit** | [Understanding Malware through Security Products Research (Internship Pr…](https://jobs.lever.co/csit/d51e10ba-2003-4f01-8fec-32575e038a15) | Singapore, Singapore |  | 27d |
-| **Csit** | [Study in Security of Cloud Computing Platforms (Internship Project)](https://jobs.lever.co/csit/3ff96bf1-2077-44cd-8c3c-09825a136743) | Singapore, Singapore (Hybrid) |  | 27d |
-| **Csit** | [Windows Malware And The Security Features That Guard Against Them (Inte…](https://jobs.lever.co/csit/d6908317-7d5f-4ba5-a102-ad873f90ccc5) | Singapore, Singapore |  | 27d |
-| **Csit** | [Study in Security of Cloud Services and Software (Internship Project)](https://jobs.lever.co/csit/8ab60b45-c26d-405d-8350-5b41be1d461b) | Singapore, Singapore |  | 27d |
-| **Csit** | [Vulnerability Research on Mobile Devices (Internship Project)](https://jobs.lever.co/csit/246cdb87-61d1-4c64-ac9b-c64961b5b7a1) | Singapore, Singapore |  | 27d |
-| **Csit** | [Cybersecurity Software Researcher Intern](https://jobs.lever.co/csit/223fc5a2-b2f8-489d-8db6-41df6e5a5b10) | Singapore, Singapore |  | 27d |
-| **Csit** | [Anti-Malware Research on Mobile Devices (Internship Project)](https://jobs.lever.co/csit/7bef81a2-632d-4db6-8b65-3fe0831d81cd) | Singapore, Singapore |  | 27d |
-| **Csit** | [Cyber Vulnerability Researcher Intern](https://jobs.lever.co/csit/ed2d6b06-2bd3-4d42-9a6b-5a5a654e2ed5) | Singapore, Singapore |  | 27d |
+| **Ensigninfosecurity** | [Intern, Security Engineering](https://ensigninfosecurity.wd3.myworkdayjobs.com/Ensign_Careers/job/Singapore/Intern--Security-Engineering_JOBREQ-0003713) | Singapore |  | 0d |
+| **Mufgub** | [IT/Cyber Risk Management Intern](https://mufgub.wd3.myworkdayjobs.com/MUFG-EarlyCareers/job/Singapore-Office-Marina-One/IT-Cyber-Risk-Management-Intern_10079844-WD) | Singapore Office Marina One |  | 14d |
+| **Csit** | [Security Assessment Tools for Mobile Devices (Internship Project)](https://jobs.lever.co/csit/245137f4-b323-4de2-845c-5389bca5fc82) | Singapore, Singapore |  | 28d |
+| **Csit** | [Study of Authentication and Network Protocols of Instant Messengers on …](https://jobs.lever.co/csit/771bcad6-0e8e-4030-bc63-4ab70ae9f089) | Singapore, Singapore |  | 28d |
+| **Csit** | [Understanding Malware through Security Products Research (Internship Pr…](https://jobs.lever.co/csit/d51e10ba-2003-4f01-8fec-32575e038a15) | Singapore, Singapore |  | 28d |
+| **Csit** | [Study in Security of Cloud Computing Platforms (Internship Project)](https://jobs.lever.co/csit/3ff96bf1-2077-44cd-8c3c-09825a136743) | Singapore, Singapore (Hybrid) |  | 28d |
+| **Csit** | [Windows Malware And The Security Features That Guard Against Them (Inte…](https://jobs.lever.co/csit/d6908317-7d5f-4ba5-a102-ad873f90ccc5) | Singapore, Singapore |  | 28d |
+| **Csit** | [Study in Security of Cloud Services and Software (Internship Project)](https://jobs.lever.co/csit/8ab60b45-c26d-405d-8350-5b41be1d461b) | Singapore, Singapore |  | 28d |
+| **Csit** | [Vulnerability Research on Mobile Devices (Internship Project)](https://jobs.lever.co/csit/246cdb87-61d1-4c64-ac9b-c64961b5b7a1) | Singapore, Singapore |  | 28d |
+| **Csit** | [Cybersecurity Software Researcher Intern](https://jobs.lever.co/csit/223fc5a2-b2f8-489d-8db6-41df6e5a5b10) | Singapore, Singapore |  | 28d |
+| **Csit** | [Anti-Malware Research on Mobile Devices (Internship Project)](https://jobs.lever.co/csit/7bef81a2-632d-4db6-8b65-3fe0831d81cd) | Singapore, Singapore |  | 28d |
+| **Csit** | [Cyber Vulnerability Researcher Intern](https://jobs.lever.co/csit/ed2d6b06-2bd3-4d42-9a6b-5a5a654e2ed5) | Singapore, Singapore |  | 28d |
 | **Ensigninfosecurity** | [Intern, Security Testing & Red Team](https://ensigninfosecurity.wd3.myworkdayjobs.com/Ensign_Careers/job/Singapore/Intern--Security-Testing---Red-Team_JOBREQ-0002867) | Singapore |  | 1mo |
 | **Ensigninfosecurity** | [Intern, Cyber Threat Intel](https://ensigninfosecurity.wd3.myworkdayjobs.com/Ensign_Careers/job/Singapore/Intern--Cyber-Threat-Intel_JOBREQ-0002869) | Singapore |  | 1mo |
 | **Ensigninfosecurity** | [Intern, Security Testing and Red Team](https://ensigninfosecurity.wd3.myworkdayjobs.com/Ensign_Careers/job/Singapore/Intern--Security-Testing-and-Red-Team_JOBREQ-0003162) | Singapore |  | 1mo |
 | **Ensigninfosecurity** | [Intern, Cyber Hunt & Response](https://ensigninfosecurity.wd3.myworkdayjobs.com/Ensign_Careers/job/Singapore/Intern--Cyber-Hunt---Response_JOBREQ-0002877) | Singapore |  | 1mo |
-| **Ensigninfosecurity** | [Intern, Security Engineering](https://ensigninfosecurity.wd3.myworkdayjobs.com/Ensign_Careers/job/Singapore/Intern--Security-Engineering_JOBREQ-0002875) | Singapore |  | 1mo |
 | **Ensigninfosecurity** | [Intern, Cyber Trust](https://ensigninfosecurity.wd3.myworkdayjobs.com/Ensign_Careers/job/Singapore/Intern--Cyber-Trust_JOBREQ-0002870) | Singapore |  | 1mo |
 | **Keysight** | [Product Security Engineer Intern](https://jobs.keysight.com/jobs/54364?lang=en-us) | Singapore, Singapore |  | 1mo |
 | **Marinabaysands** | [Intern, Cyber Security](https://marinabaysands.wd102.myworkdayjobs.com/External/job/Marina-Bay-Sands-Singapore/Intern--Cyber-Security_JR10000208) | Marina Bay Sands, Singapore |  | 1mo |
@@ -246,8 +246,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Grab** | [Intern, Business Analyst](https://jobs.smartrecruiters.com/Grab/744000155670399-intern-business-analyst?oga=true) | Singapore, , Singapore |  | 19d |
-| **Razer** | [Product Developer Intern](https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Product-Developer-Intern_JR2026007822) | Singapore |  | 24d |
+| **Grab** | [Intern, Business Analyst](https://jobs.smartrecruiters.com/Grab/744000155670399-intern-business-analyst?oga=true) | Singapore, , Singapore |  | 20d |
+| **Razer** | [Product Developer Intern](https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Product-Developer-Intern_JR2026007822) | Singapore |  | 25d |
 | **Avanade** | [Product Development & Business Analysis Intern](https://accenture.wd103.myworkdayjobs.com/AvanadeCareers/job/Singapore/Product-Development---Business-Analysis-Intern_R00360609) | Singapore |  | 1mo |
 | **ICSGBLCOR** | [Intern, Trade Finance Product Management](https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/Singapore/Intern--Trade-Finance-Product-Management_REQ-10122211) | Singapore |  | 1mo |
 | **Manulife** | [AI Product Innovation Intern](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Singapore/AI-Product---Pricing-Intern_JR26091605) | Singapore (Hybrid) |  | 1mo |
@@ -259,8 +259,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Razer** | [Visual Merchandising Intern](https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Visual-Merchandising-Intern_JR2026007783) | Singapore |  | 24d |
-| **NCS** | [\[Uni - Jan till Jun 2027\] Learning Developer Intern](https://jobs.smartrecruiters.com/NCS3/6000000001288164--uni-jan-till-jun-2027-learning-developer-intern?oga=true) | Singapore, , Singapore |  | 2mo |
+| **Razer** | [Visual Merchandising Intern](https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Visual-Merchandising-Intern_JR2026007783) | Singapore |  | 25d |
+| **NCS** | [\[Uni - Jan till Jun 2027\] Learning Developer Intern](https://jobs.smartrecruiters.com/NCS3/6000000001288164--uni-jan-till-jun-2027-learning-developer-intern?oga=true) | Singapore, , Singapore |  | 3mo |
 | **Simular** | [Design Engineer Intern](https://jobs.ashbyhq.com/simular/3c53a046-4fc0-4b67-9295-1912abf16262) | Singapore |  | 3mo |
 
 <!-- TABLE_END -->

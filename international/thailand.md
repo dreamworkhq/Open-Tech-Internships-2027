@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**13 currently open roles** · Updated **2026-11-03**
+**13 currently open roles** · Updated **2026-11-04**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -15,9 +15,9 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Accenture** | [\[IT One\] SAP CPI (Internship)](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bangkok-Tipco-Tower/XMLNAME--IT-One--SAP-CPI--Internship-_14642576) | Bangkok, Tipco Tower |  | 0d |
-| **Accenture** | [\[IT One\] ABAPer (Internship)](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bangkok-Tipco-Tower/XMLNAME--IT-One--ABAPer--Internship-_14642572) | Bangkok, Tipco Tower |  | 0d |
-| **Accenture** | [\[IT One\] SAP HR-Payroll (Internship)](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bangkok-Tipco-Tower/XMLNAME--IT-One--SAP-HR-Payroll--Internship-_14642567) | Bangkok, Tipco Tower |  | 0d |
+| **Accenture** | [\[IT One\] SAP CPI (Internship)](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bangkok-Tipco-Tower/XMLNAME--IT-One--SAP-CPI--Internship-_14642576) | Bangkok, Tipco Tower |  | 1d |
+| **Accenture** | [\[IT One\] ABAPer (Internship)](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bangkok-Tipco-Tower/XMLNAME--IT-One--ABAPer--Internship-_14642572) | Bangkok, Tipco Tower |  | 1d |
+| **Accenture** | [\[IT One\] SAP HR-Payroll (Internship)](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bangkok-Tipco-Tower/XMLNAME--IT-One--SAP-HR-Payroll--Internship-_14642567) | Bangkok, Tipco Tower |  | 1d |
 | **Sertis** | [Data Engineer Intern](https://job-boards.greenhouse.io/sertis/jobs/8844014002) | Bangkok, Bangkok Metropolis, Thailand |  | 1mo |
 | **NXP Semiconductors** | [Product Test Engineer Intern](https://nxp.wd3.myworkdayjobs.com/careers/job/Bangkok/Product-Test-Engineer-Intern_R-10064150) | Bangkok |  | 1mo |
 | **Western Digital** | [Intern - Technologist, Hardware Development Engineering (Studying Ph.D …](https://jobs.smartrecruiters.com/WesternDigital/744000149229769-intern-technologist-hardware-development-engineering-studying-ph-d-degree-?oga=true) | BangPa-in, PHRA NAKHON SI AYUTTHAYA, Thaila… |  | 1mo |
