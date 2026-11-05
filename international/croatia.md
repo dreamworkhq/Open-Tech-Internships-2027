@@ -1,8 +1,8 @@
-# Tech internships in Bangladesh
+# Tech internships in Croatia
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**1 currently open roles** · Updated **2026-11-04**
+**1 currently open roles** · Updated **2026-11-05**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Brain Station 23** | [Software Quality Assurance (SQA) Intern](https://brainstation-23.easy.jobs/oqwvmsgvno-software-quality-assurance-sqa-intern) | Dhaka, Dhaka, Bangladesh |  | 5d |
+| **DeltaElectronics** | [Electrical Engineer Intern - Modular Data Center Solutions](https://jobs.smartrecruiters.com/DeltaElectronics/744000159827687-electrical-engineer-intern-modular-data-center-solutions?oga=true) | Zagreb, , Croatia |  | 0d |
 
 <!-- TABLE_END -->

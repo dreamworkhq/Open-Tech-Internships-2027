@@ -2,37 +2,40 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**50 currently open roles** · Updated **2026-11-04**
+**54 currently open roles** · Updated **2026-11-05**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-49) · 49 roles
-- [Other](#other-1) · 1 roles
+- [Engineering](#engineering-52) · 52 roles
+- [Other](#other-2) · 2 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (49)
+### Engineering (52)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Logitech** | [AI Application Intern, 2027](https://logitech.wd5.myworkdayjobs.com/Logitech/job/Hsinchu-Taiwan/AI-Application-Intern--2027_148647-1) | Hsinchu, Taiwan (Hybrid) |  | 0d |
-| **Logitech** | [AI Automation Test Intern Engineer, 2027](https://logitech.wd5.myworkdayjobs.com/Logitech/job/Hsinchu-Taiwan/AI-Automation-Test-Intern-Engineer_148639) | Hsinchu, Taiwan |  | 4d |
-| **Seagate Technology** | [Edge IoT Engineering Intern, Electronics Design Engineering](https://career41.sapsf.com/career?career_ns=job_listing&company=seagatetec&career_job_req_id=15412) | Taipei, Taiwan |  | 4d |
-| **Nvidia** | [System Level Product Engineer (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Hsinchu/System-Level-Product-Engineer--RDSS-Intern-_JR2024119) | Taiwan, Hsinchu |  | 6d |
-| **Nvidia** | [Server Firmware Developer (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Taipei/Server-Firmware-Developer--RDSS-Intern-_JR2028570) | Taiwan, Taipei |  | 6d |
-| **Nvidia** | [Client System Firmware Engineer (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Taipei/Client-System-Firmware-Engineer--RDSS-Intern-_JR2025560) | Taiwan, Taipei |  | 13d |
-| **Nvidia** | [Enterprise System Firmware Engineer (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Taipei/Enterprise-System-Firmware-Engineer--RDSS-Intern-_JR2026055) | Taiwan, Taipei |  | 13d |
-| **Google** | [Hardware Reliability Intern, PhD, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/82387470938710726) | Taipei, Taiwan |  | 14d |
-| **Google** | [Software Engineering Intern, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/85430979253936838) | Taipei, Taiwan, New Taipei, Banqiao Distric… |  | 18d |
-| **Google** | [Data Center Technician Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/124972939261944518) | Changhua, Dazhu Village, Xihu Township, Cha… |  | 20d |
-| **Google** | [Silicon Engineering Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/94724274870198982) | New Taipei, Banqiao District, New Taipei Ci… |  | 20d |
-| **Google** | [Product Design Engineering Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/90179993312600774) | Taipei, Taiwan, New Taipei, Banqiao Distric… |  | 20d |
-| **Google** | [Hardware Engineering Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/128919086494032582) | Taipei, Taiwan, New Taipei, Banqiao Distric… |  | 20d |
-| **Nvidia** | [System Software Engineer - Base OS (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---Base-OS--RDSS-Intern-_JR2025948) | Taiwan, Taipei |  | 21d |
-| **Nvidia** | [System Software Engineering Intern, GPU and SOC - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineering-Intern--GPU-and-SOC---Summer-2027_JR2026406) | Taiwan, Taipei |  | 23d |
-| **Nvidia** | [Silicon Validation Engineer (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Taipei/Silicon-Validation-Engineer--RDSS-Intern-_JR2026767) | Taiwan, Taipei |  | 27d |
-| **Nvidia** | [Software Engineer, Data Center Compute Software Tools (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Taipei/Software-Engineer--Data-Center-Compute-Software-Tools--RDSS-Intern-_JR2025645) | Taiwan, Taipei |  | 29d |
-| **Tomofunfurbo** | [Data & AI Engineering Intern](https://job-boards.greenhouse.io/tomofunfurbo/jobs/8013772003) | Taipei, Taiwan |  | 29d |
+| **Logitech** | [Spring Internship Program - Software Intern](https://logitech.wd5.myworkdayjobs.com/Logitech/job/Hsinchu-Taiwan/Spring-Internship-Program---Software-Intern_148729) | Hsinchu, Taiwan |  | 0d |
+| **Google** | [Hardware Engineer Intern, Optoelectronics, PhD, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/127174656267297478) | Taipei, Taiwan |  | 0d |
+| **Logitech** | [(Spring Internship) AI Application Intern, 2027](https://logitech.wd5.myworkdayjobs.com/Logitech/job/Hsinchu-Taiwan/AI-Application-Intern--2027_148647-1) | Hsinchu, Taiwan (Hybrid) |  | 1d |
+| **Logitech** | [Spring Internship Program - Field Quality Analyst (Artificial Intellige…](https://logitech.wd5.myworkdayjobs.com/Logitech/job/Hsinchu-Taiwan/Spring-Internship-Program---Field-Quality-Analyst--Artificial-Intelligence-and-System-Integration-_148693) | Hsinchu, Taiwan (Hybrid) |  | 1d |
+| **Logitech** | [(Spring Internship) AI Automation Test Intern Engineer, 2027](https://logitech.wd5.myworkdayjobs.com/Logitech/job/Hsinchu-Taiwan/AI-Automation-Test-Intern-Engineer_148639) | Hsinchu, Taiwan |  | 5d |
+| **Seagate Technology** | [Edge IoT Engineering Intern, Electronics Design Engineering](https://career41.sapsf.com/career?career_ns=job_listing&company=seagatetec&career_job_req_id=15412) | Taipei, Taiwan |  | 5d |
+| **Nvidia** | [System Level Product Engineer (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Hsinchu/System-Level-Product-Engineer--RDSS-Intern-_JR2024119) | Taiwan, Hsinchu |  | 7d |
+| **Nvidia** | [Server Firmware Developer (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Taipei/Server-Firmware-Developer--RDSS-Intern-_JR2028570) | Taiwan, Taipei |  | 7d |
+| **Nvidia** | [Client System Firmware Engineer (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Taipei/Client-System-Firmware-Engineer--RDSS-Intern-_JR2025560) | Taiwan, Taipei |  | 14d |
+| **Nvidia** | [Enterprise System Firmware Engineer (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Taipei/Enterprise-System-Firmware-Engineer--RDSS-Intern-_JR2026055) | Taiwan, Taipei |  | 14d |
+| **Google** | [Hardware Reliability Intern, PhD, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/82387470938710726) | Taipei, Taiwan |  | 15d |
+| **Google** | [Software Engineering Intern, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/85430979253936838) | Taipei, Taiwan, New Taipei, Banqiao Distric… |  | 19d |
+| **Google** | [Data Center Technician Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/124972939261944518) | Changhua, Dazhu Village, Xihu Township, Cha… |  | 21d |
+| **Google** | [Silicon Engineering Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/94724274870198982) | New Taipei, Banqiao District, New Taipei Ci… |  | 21d |
+| **Google** | [Product Design Engineering Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/90179993312600774) | Taipei, Taiwan, New Taipei, Banqiao Distric… |  | 21d |
+| **Google** | [Hardware Engineering Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/128919086494032582) | Taipei, Taiwan, New Taipei, Banqiao Distric… |  | 21d |
+| **Nvidia** | [System Software Engineer - Base OS (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---Base-OS--RDSS-Intern-_JR2025948) | Taiwan, Taipei |  | 22d |
+| **Nvidia** | [System Software Engineering Intern, GPU and SOC - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineering-Intern--GPU-and-SOC---Summer-2027_JR2026406) | Taiwan, Taipei |  | 24d |
+| **Nvidia** | [Silicon Validation Engineer (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Taipei/Silicon-Validation-Engineer--RDSS-Intern-_JR2026767) | Taiwan, Taipei |  | 28d |
+| **Nvidia** | [Software Engineer, Data Center Compute Software Tools (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Taipei/Software-Engineer--Data-Center-Compute-Software-Tools--RDSS-Intern-_JR2025645) | Taiwan, Taipei |  | 1mo |
+| **Tomofunfurbo** | [Data & AI Engineering Intern](https://job-boards.greenhouse.io/tomofunfurbo/jobs/8013772003) | Taipei, Taiwan |  | 1mo |
 | **Nvidia** | [AI Agent Development Engineer (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Taipei/AI-Agent-Development-Engineer--RDSS-Intern-_JR2026971) | 2 Locations |  | 1mo |
 | **Nvidia** | [System Software Engineer - Embedded and Automotive (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---Embedded-and-Automotive--RDSS-Intern-_JR2026965) | Taiwan, Taipei |  | 1mo |
 | **Nvidia** | [Software Engineer – DFT CAD Tools (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Taipei/Software-Engineer---DFT-CAD-Tools--RDSS-Intern-_JR2026878-1) | Taiwan, Taipei |  | 1mo |
@@ -65,10 +68,11 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **Appier** | [Software Engineer Intern, Backend Development](https://job-boards.greenhouse.io/appier/jobs/6820898) | Taipei, Taiwan (Hybrid) |  | 5mo |
 | **Marvell Technology** | [Analog IC Design Intern - Master's Degree](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Hsinchu-City/Analog-IC-Design-Intern---Master-s-Degree_2502406) | Hsinchu City |  | 5mo |
 
-### Other (1)
+### Other (2)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
+| **Logitech** | [Spring Internship Program - User Experience Engineer Intern](https://logitech.wd5.myworkdayjobs.com/Logitech/job/Hsinchu-Taiwan/Spring-Internship-Program---User-Experience-Engineer-Intern_148730) | Hsinchu, Taiwan (Hybrid) |  | 0d |
 | **Philips** | [Intern Data Scientist](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Taipei/Intern-Data-Scientist_592526) | Taipei |  | 1mo |
 
 <!-- TABLE_END -->
