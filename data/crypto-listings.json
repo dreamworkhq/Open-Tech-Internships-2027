@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T00:00:49.721Z",
+  "generatedAt": "2026-11-05T00:17:37.593Z",
   "source": "dreamwork-public-job-index",
   "list": "Open-Tech-Internships-2027",
   "scope": "crypto",
@@ -23,7 +23,7 @@
     },
     {
       "id": "4215c8b1-6676-4df9-a18b-e64e0c031956",
-      "title": "DeFi Quant Trader Intern (Credit)",
+      "title": "DeFi Quant Trader Intern (Credit) - Brussels",
       "company": "Keyrock",
       "companyDomain": "keyrock.com",
       "location": "Brussels",
@@ -33,13 +33,13 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-10-29T13:05:01.114Z",
+      "postedAt": "2026-11-03T14:24:32.021Z",
       "firstIndexedAt": "2026-10-30T06:30:18.650Z",
       "url": "https://jobs.ashbyhq.com/keyrock/6b46ce15-7e6b-4213-9eb4-41cc64577e24"
     },
     {
       "id": "7a684bfc-ce74-48a4-abe2-8a68c6839a9b",
-      "title": "DeFi Quant Research Intern - Digital Assets Market Making",
+      "title": "DeFi Quant Research Intern (Digital Assets Market Making) - Brussels",
       "company": "Keyrock",
       "companyDomain": "keyrock.com",
       "location": "Brussels",
@@ -49,13 +49,13 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-10-28T15:16:10.125Z",
+      "postedAt": "2026-11-03T14:24:00.276Z",
       "firstIndexedAt": "2026-10-30T06:30:18.650Z",
       "url": "https://jobs.ashbyhq.com/keyrock/4cae20e0-f315-4ccb-aa8e-df0e87969313"
     },
     {
       "id": "f98f7355-b869-4574-b3fb-6a330de84d3d",
-      "title": "Innovation Quant Developer: Intern - DeFi/Corporate Development",
+      "title": "Innovation Quant Developer Intern (DeFi/Corporate Development) - Brussels",
       "company": "Keyrock",
       "companyDomain": "keyrock.com",
       "location": "Brussels",
@@ -65,7 +65,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-10-29T15:23:32.489Z",
+      "postedAt": "2026-11-03T14:25:52.226Z",
       "firstIndexedAt": "2026-10-30T06:30:18.650Z",
       "url": "https://jobs.ashbyhq.com/keyrock/d2d0a311-b102-4fda-b537-1a8e926b55c7"
     },
@@ -284,7 +284,7 @@
       "companyDomain": "nxp.com",
       "location": "Sibiu",
       "locationCountryCode": "RO",
-      "functionPrimary": "Engineering",
+      "functionPrimary": "Operations",
       "remoteType": "hybrid",
       "salaryMin": null,
       "salaryMax": null,
