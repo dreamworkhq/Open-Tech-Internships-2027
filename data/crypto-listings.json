@@ -1,10 +1,26 @@
 {
-  "generatedAt": "2026-11-05T00:17:37.593Z",
+  "generatedAt": "2026-11-06T00:14:49.266Z",
   "source": "dreamwork-public-job-index",
   "list": "Open-Tech-Internships-2027",
   "scope": "crypto",
   "count": 34,
   "listings": [
+    {
+      "id": "6bb44c5b-f80a-4312-b074-6e070d964ec3",
+      "title": "STAGE - Mise en oeuvre de la crypto PQC pour le Data Centric Security (F/H)",
+      "company": "Thales",
+      "companyDomain": "thales.com",
+      "location": "Palaiseau",
+      "locationCountryCode": "FR",
+      "functionPrimary": "Engineering",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-11-05T19:12:14.233Z",
+      "firstIndexedAt": "2026-11-05T15:28:25.030Z",
+      "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Palaiseau/STAGE---Mise-en-oeuvre-de-la-crypto-PQC-pour-le-Data-Centric-Security--F-H-_R0344674"
+    },
     {
       "id": "43cea437-ca21-468f-a92e-1af29279bac0",
       "title": "Research Intern, Frontier",
@@ -198,22 +214,6 @@
       "url": "https://job-boards.eu.greenhouse.io/bybit/jobs/4974271101"
     },
     {
-      "id": "6ee05c6f-d712-4d3d-ab8e-ebe69f76b21b",
-      "title": "Data Analyst Intern (Finance) - January to May 2027",
-      "company": "Coinhako",
-      "companyDomain": "coinhako.com",
-      "location": "Singapore",
-      "locationCountryCode": "SG",
-      "functionPrimary": "Data Science",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-09-10T09:41:45.111Z",
-      "firstIndexedAt": "2026-09-12T15:01:12.967Z",
-      "url": "https://jobs.ashbyhq.com/coinhako/ca138875-277c-4045-858c-3ee0cd5b44ed"
-    },
-    {
       "id": "2cd9118e-305a-4351-848a-bbb15de4a451",
       "title": "[Intern] Test Development Engineer Intern",
       "company": "Bybit",
@@ -282,9 +282,9 @@
       "title": "Crypto Quality SW Process Internship",
       "company": "NXP Semiconductors",
       "companyDomain": "nxp.com",
-      "location": "Sibiu",
+      "location": "2 Locations",
       "locationCountryCode": "RO",
-      "functionPrimary": "Operations",
+      "functionPrimary": "Engineering",
       "remoteType": "hybrid",
       "salaryMin": null,
       "salaryMax": null,
