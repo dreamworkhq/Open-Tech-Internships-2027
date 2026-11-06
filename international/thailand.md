@@ -2,22 +2,23 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**13 currently open roles** · Updated **2026-11-05**
+**15 currently open roles** · Updated **2026-11-06**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-12) · 12 roles
-- [Other](#other-1) · 1 roles
+- [Engineering](#engineering-13) · 13 roles
+- [Other](#other-2) · 2 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (12)
+### Engineering (13)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Accenture** | [\[IT One\] SAP CPI (Internship)](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bangkok-Tipco-Tower/XMLNAME--IT-One--SAP-CPI--Internship-_14642576) | Bangkok, Tipco Tower |  | 2d |
-| **Accenture** | [\[IT One\] ABAPer (Internship)](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bangkok-Tipco-Tower/XMLNAME--IT-One--ABAPer--Internship-_14642572) | Bangkok, Tipco Tower |  | 2d |
-| **Accenture** | [\[IT One\] SAP HR-Payroll (Internship)](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bangkok-Tipco-Tower/XMLNAME--IT-One--SAP-HR-Payroll--Internship-_14642567) | Bangkok, Tipco Tower |  | 2d |
+| **Accenture** | [\[IT One\] SAP MM (Internship)](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bangkok-Tipco-Tower/XMLNAME--IT-One--SAP-MM--Internship-_14642542) | Bangkok, Tipco Tower |  | 0d |
+| **Accenture** | [\[IT One\] SAP CPI (Internship)](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bangkok-Tipco-Tower/XMLNAME--IT-One--SAP-CPI--Internship-_14642576) | Bangkok, Tipco Tower |  | 3d |
+| **Accenture** | [\[IT One\] ABAPer (Internship)](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bangkok-Tipco-Tower/XMLNAME--IT-One--ABAPer--Internship-_14642572) | Bangkok, Tipco Tower |  | 3d |
+| **Accenture** | [\[IT One\] SAP HR-Payroll (Internship)](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bangkok-Tipco-Tower/XMLNAME--IT-One--SAP-HR-Payroll--Internship-_14642567) | Bangkok, Tipco Tower |  | 3d |
 | **Sertis** | [Data Engineer Intern](https://job-boards.greenhouse.io/sertis/jobs/8844014002) | Bangkok, Bangkok Metropolis, Thailand |  | 1mo |
 | **NXP Semiconductors** | [Product Test Engineer Intern](https://nxp.wd3.myworkdayjobs.com/careers/job/Bangkok/Product-Test-Engineer-Intern_R-10064150) | Bangkok |  | 1mo |
 | **Western Digital** | [Intern - Technologist, Hardware Development Engineering (Studying Ph.D …](https://jobs.smartrecruiters.com/WesternDigital/744000149229769-intern-technologist-hardware-development-engineering-studying-ph-d-degree-?oga=true) | BangPa-in, PHRA NAKHON SI AYUTTHAYA, Thaila… |  | 1mo |
@@ -28,10 +29,11 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **Bosch** | [Internship 2026, Product Quality Management, Power Solutions (PS/QMM1.2…](https://jobs.smartrecruiters.com/BoschGroup/744000105052049-internship-2026-product-quality-management-power-solutions-ps-qmm1-2-hmjp-?oga=true) | Hemaraj Eastern Seaboard Industrial Estate,… |  | 5mo |
 | **Bosch** | [Internship 2026, Data Analyst Engineer, Power Solutions (HmjP/TEF4)](https://jobs.smartrecruiters.com/BoschGroup/744000119536647-internship-2026-data-analyst-engineer-power-solutions-hmjp-tef4-?oga=true) | Hemaraj Eastern Seaboard Industrial Estate,… |  | 5mo |
 
-### Other (1)
+### Other (2)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
+| **Pwc** | [Data Analytics Intern](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bangkok/Data-Analytics-Intern_772781WD) | Bangkok |  | 0d |
 | **Sertis** | [Data Scientist Intern](https://job-boards.greenhouse.io/sertis/jobs/8843973002) | Bangkok, Bangkok Metropolis, Thailand |  | 1mo |
 
 <!-- TABLE_END -->
