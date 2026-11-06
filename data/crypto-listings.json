@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-06T00:14:49.266Z",
+  "generatedAt": "2026-11-06T23:47:14.536Z",
   "source": "dreamwork-public-job-index",
   "list": "Open-Tech-Internships-2027",
   "scope": "crypto",
-  "count": 34,
+  "count": 33,
   "listings": [
     {
       "id": "6bb44c5b-f80a-4312-b074-6e070d964ec3",
@@ -17,7 +17,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-11-05T19:12:14.233Z",
+      "postedAt": "2026-11-05T19:31:18.450Z",
       "firstIndexedAt": "2026-11-05T15:28:25.030Z",
       "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Palaiseau/STAGE---Mise-en-oeuvre-de-la-crypto-PQC-pour-le-Data-Centric-Security--F-H-_R0344674"
     },
@@ -51,7 +51,7 @@
       "salaryPeriod": null,
       "postedAt": "2026-11-03T14:24:32.021Z",
       "firstIndexedAt": "2026-10-30T06:30:18.650Z",
-      "url": "https://jobs.ashbyhq.com/keyrock/6b46ce15-7e6b-4213-9eb4-41cc64577e24"
+      "url": "https://jobs.ashbyhq.com/Keyrock/6b46ce15-7e6b-4213-9eb4-41cc64577e24"
     },
     {
       "id": "7a684bfc-ce74-48a4-abe2-8a68c6839a9b",
@@ -67,7 +67,7 @@
       "salaryPeriod": null,
       "postedAt": "2026-11-03T14:24:00.276Z",
       "firstIndexedAt": "2026-10-30T06:30:18.650Z",
-      "url": "https://jobs.ashbyhq.com/keyrock/4cae20e0-f315-4ccb-aa8e-df0e87969313"
+      "url": "https://jobs.ashbyhq.com/Keyrock/4cae20e0-f315-4ccb-aa8e-df0e87969313"
     },
     {
       "id": "f98f7355-b869-4574-b3fb-6a330de84d3d",
@@ -83,7 +83,7 @@
       "salaryPeriod": null,
       "postedAt": "2026-11-03T14:25:52.226Z",
       "firstIndexedAt": "2026-10-30T06:30:18.650Z",
-      "url": "https://jobs.ashbyhq.com/keyrock/d2d0a311-b102-4fda-b537-1a8e926b55c7"
+      "url": "https://jobs.ashbyhq.com/Keyrock/d2d0a311-b102-4fda-b537-1a8e926b55c7"
     },
     {
       "id": "acda97e4-5b22-4fee-bf8b-6e082f082b88",
@@ -230,27 +230,11 @@
       "url": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971554101"
     },
     {
-      "id": "e37426e2-d0d1-4600-b0e1-01f2c0236399",
-      "title": "Big Data Development Engineer Intern",
-      "company": "Bybit",
-      "companyDomain": "bybit.com",
-      "location": "Hong Kong SAR",
-      "locationCountryCode": "HK",
-      "functionPrimary": "Engineering",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-09-09T10:13:04.000Z",
-      "firstIndexedAt": "2026-09-09T15:30:43.343Z",
-      "url": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971690101"
-    },
-    {
       "id": "e992f114-b27d-4bed-a249-8fe992a371fd",
       "title": "[Intern] Test Development Engineer Intern",
       "company": "Bybit",
       "companyDomain": "bybit.com",
-      "location": "Kuala Lumpur, Malaysia",
+      "location": "Hong Kong SAR; Kuala Lumpur, Malaysia",
       "locationCountryCode": "MY",
       "functionPrimary": "Engineering",
       "remoteType": "onsite",
@@ -282,9 +266,9 @@
       "title": "Crypto Quality SW Process Internship",
       "company": "NXP Semiconductors",
       "companyDomain": "nxp.com",
-      "location": "2 Locations",
+      "location": "Sibiu",
       "locationCountryCode": "RO",
-      "functionPrimary": "Engineering",
+      "functionPrimary": "Operations",
       "remoteType": "hybrid",
       "salaryMin": null,
       "salaryMax": null,
