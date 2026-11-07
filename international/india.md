@@ -2,49 +2,50 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**64 currently open roles** · Updated **2026-11-06**
+**62 currently open roles** · Updated **2026-11-07**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-47) · 47 roles
+- [Engineering](#engineering-48) · 48 roles
 - [Design](#design-8) · 8 roles
-- [Other](#other-9) · 9 roles
+- [Other](#other-6) · 6 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (47)
+### Engineering (48)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **GEHC External Site** | [Information Technology Development Program - Intern](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Information-Technology-Development-Program---Intern_R4049088-1) | IND19-01-Bengaluru-EPIP 122 (Phase II) |  | 0d |
-| **Honeywell Aerospace** | [Intern Bachelors Embedded Eng](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/127744) | Bengaluru, Karnataka, India |  | 0d |
-| **Revvity** | [Intern - Software Developer](https://revvity.wd103.myworkdayjobs.com/external/job/mumbai/intern---software-developer_jr-045916) | Mumbai |  | 0d |
-| **Silicon Labs** | [Intern - IC Design](https://silabs.wd1.myworkdayjobs.com/internships/job/hyderabad/intern---ic-design_20957) | Hyderabad |  | 0d |
-| **Aerospace** | [Intern Bachelors Software Eng](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/127947) | Bengaluru, Karnataka, India |  | 1d |
-| **Aerospace** | [Intern Bachelors AI](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/127949) | Bengaluru, Karnataka, India |  | 1d |
-| **Honeywell** | [Intern Bachelors AI](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161176) | Bengaluru, Karnataka, India |  | 1d |
-| **Aerospace** | [Intern Bachelors Embedded Eng](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/127933) | Madurai, Tamil Nadu, India |  | 1d |
-| **Aerospace** | [Intern Bachelors Embedded Eng](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/127926) | Bengaluru, Karnataka, India |  | 1d |
-| **Honeywell Aerospace** | [Intern Bachelors Embedded Eng](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/127733) | Madurai, Tamil Nadu, India |  | 1d |
-| **Honeywell Aerospace** | [Intern Bachelors Software Eng](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/127736) | Madurai, Tamil Nadu, India |  | 1d |
-| **Honeywell Aerospace** | [Intern Bachelors Software Eng](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/127641) | Bengaluru, Karnataka, India |  | 1d |
-| **Honeywell Aerospace** | [Intern Bachelors Embedded Eng](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/127726) | Hyderabad, Telangana, India |  | 1d |
-| **Silicon Laboratories** | [Intern - IC Design](https://silabs.wd1.myworkdayjobs.com/siliconlabscareers/job/hyderabad/intern---ic-design_20957-1) | Hyderabad |  | 1d |
-| **Aerospace** | [Intern Bachelors Software Eng](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/127736) | Madurai, Tamil Nadu, India |  | 2d |
-| **Aerospace** | [Intern Bachelors Embedded Eng](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/127726) | Hyderabad, Telangana, India |  | 2d |
-| **Karya** | [Research Engineering Intern, AI Evaluations](https://job-boards.greenhouse.io/karya/jobs/5469564008) | Bengaluru, India |  | 2d |
-| **AtkinsRéalis** | [Data Engineering Intern](https://slihrms.wd3.myworkdayjobs.com/careers/job/atkinsralis---corporate-office-bangalore/data-engineering-intern_r-164535) | AtkinsRéalis - Corporate Office Bangalore |  | 2d |
-| **Acron Aviation** | [Software Engineer Intern - India Site](https://jobs.lever.co/acronaviation/a464b1a4-01f4-4a28-b636-41dc508b3254) | Bengaluru |  | 2d |
-| **Honeywell Aerospace** | [Intern Bachelors Software Eng](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/127572) | Hyderabad, Telangana, India |  | 2d |
-| **Enterpret** | [Machine Learning Intern](https://job-boards.greenhouse.io/enterpret/jobs/7723230003) | Bengaluru (Hybrid) |  | 2d |
-| **HaystackAnalytics** | [Intern - Zoho CRM Developer](https://app.pyjamahr.com/careers?company=HaystackAnalyticsPvtLtd&job_id=423680&company_uuid=96006F861A) | Remote (Navi Mumbai, Maharashtra, India) |  | 3d |
-| **Honeywell** | [Intern Bachelors Software Eng](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161061) | Pune, Maharashtra, India |  | 7d |
-| **Meta** | [ASIC Engineer Intern, Physical Design](https://www.metacareers.com/profile/job_details/1823027662342331) | Bangalore, IndiaData CenterInfrastructureHa… |  | 9d |
-| **Honeywell** | [Intern (Bach) Data Engineering](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160486) | Bengaluru, Karnataka, India |  | 11d |
-| **Honeywell** | [Intern Bachelors Software Eng](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160484) | Bengaluru, Karnataka, India |  | 11d |
-| **Airbus** | [Technical Data Analyst Intern](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Technical-Data-Analyst-Intern_JR10449386) | Bangalore Area |  | 25d |
-| **Airbus** | [Internship - Technical Data](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---Technical-Data_JR10449537) | Bangalore Area |  | 25d |
-| **Airbus** | [Technical Data Authoring Intern - Airframe](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Technical-Data-Authoring-Intern---Airframe_JR10449374) | Bangalore Area |  | 25d |
+| **Honeywell Aerospace** | [Intern Bachelors Software Eng](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/127897) | Bengaluru, Karnataka, India |  | 0d |
+| **GE Healthcare** | [Information Technology Development Program - Intern](https://gehc.wd5.myworkdayjobs.com/gehc_externalsite/job/ind19-01-bengaluru-epip-122-phase-ii/information-technology-development-program---intern_r4049088-1) | IND19-01-Bengaluru-EPIP 122 (Phase II) |  | 0d |
+| **GEHC External Site** | [Information Technology Development Program - Intern](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Information-Technology-Development-Program---Intern_R4049088-1) | IND19-01-Bengaluru-EPIP 122 (Phase II) |  | 1d |
+| **Honeywell Aerospace** | [Intern Bachelors Embedded Eng](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/127744) | Bengaluru, Karnataka, India |  | 1d |
+| **Revvity** | [Intern - Software Developer](https://revvity.wd103.myworkdayjobs.com/external/job/mumbai/intern---software-developer_jr-045916) | Mumbai |  | 1d |
+| **Silicon Labs** | [Intern - IC Design](https://silabs.wd1.myworkdayjobs.com/internships/job/hyderabad/intern---ic-design_20957) | Hyderabad |  | 1d |
+| **Aerospace** | [Intern Bachelors Software Eng](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/127947) | Bengaluru, Karnataka, India |  | 2d |
+| **Aerospace** | [Intern Bachelors AI](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/127949) | Bengaluru, Karnataka, India |  | 2d |
+| **Honeywell** | [Intern Bachelors AI](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161176) | Bengaluru, Karnataka, India |  | 2d |
+| **Aerospace** | [Intern Bachelors Embedded Eng](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/127933) | Madurai, Tamil Nadu, India |  | 2d |
+| **Aerospace** | [Intern Bachelors Embedded Eng](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/127926) | Bengaluru, Karnataka, India |  | 2d |
+| **Honeywell Aerospace** | [Intern Bachelors Embedded Eng](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/127733) | Madurai, Tamil Nadu, India |  | 2d |
+| **Honeywell Aerospace** | [Intern Bachelors Software Eng](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/127736) | Madurai, Tamil Nadu, India |  | 2d |
+| **Honeywell Aerospace** | [Intern Bachelors Embedded Eng](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/127726) | Hyderabad, Telangana, India |  | 2d |
+| **Silicon Laboratories** | [Intern - IC Design](https://silabs.wd1.myworkdayjobs.com/siliconlabscareers/job/hyderabad/intern---ic-design_20957-1) | Hyderabad |  | 2d |
+| **Aerospace** | [Intern Bachelors Software Eng](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/127736) | Madurai, Tamil Nadu, India |  | 3d |
+| **Aerospace** | [Intern Bachelors Embedded Eng](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/127726) | Hyderabad, Telangana, India |  | 3d |
+| **Karya** | [Research Engineering Intern, AI Evaluations](https://job-boards.greenhouse.io/karya/jobs/5469564008) | Bengaluru, India |  | 3d |
+| **AtkinsRéalis** | [Data Engineering Intern](https://slihrms.wd3.myworkdayjobs.com/careers/job/atkinsralis---corporate-office-bangalore/data-engineering-intern_r-164535) | AtkinsRéalis - Corporate Office Bangalore |  | 3d |
+| **Acron Aviation** | [Software Engineer Intern - India Site](https://jobs.lever.co/acronaviation/a464b1a4-01f4-4a28-b636-41dc508b3254) | Bengaluru |  | 3d |
+| **Honeywell Aerospace** | [Intern Bachelors Software Eng](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/127572) | Hyderabad, Telangana, India |  | 3d |
+| **Enterpret** | [Machine Learning Intern](https://job-boards.greenhouse.io/enterpret/jobs/7723230003) | Bengaluru (Hybrid) |  | 3d |
+| **HaystackAnalytics** | [Intern - Zoho CRM Developer](https://app.pyjamahr.com/careers?company=HaystackAnalyticsPvtLtd&job_id=423680&company_uuid=96006F861A) | Remote (Navi Mumbai, Maharashtra, India) |  | 4d |
+| **Honeywell** | [Intern Bachelors Software Eng](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161061) | Pune, Maharashtra, India |  | 8d |
+| **Meta** | [ASIC Engineer Intern, Physical Design](https://www.metacareers.com/profile/job_details/1823027662342331) | Bangalore, IndiaData CenterInfrastructureHa… |  | 10d |
+| **Honeywell** | [Intern (Bach) Data Engineering](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160486) | Bengaluru, Karnataka, India |  | 12d |
+| **Honeywell** | [Intern Bachelors Software Eng](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160484) | Bengaluru, Karnataka, India |  | 12d |
+| **Airbus** | [Technical Data Analyst Intern](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Technical-Data-Analyst-Intern_JR10449386) | Bangalore Area |  | 26d |
+| **Airbus** | [Internship - Technical Data](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---Technical-Data_JR10449537) | Bangalore Area |  | 26d |
+| **Airbus** | [Technical Data Authoring Intern - Airframe](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Technical-Data-Authoring-Intern---Airframe_JR10449374) | Bangalore Area |  | 26d |
 | **Meta** | [ASIC Engineer Intern, Design](https://www.metacareers.com/profile/job_details/1631077978652493) | Bangalore, IndiaData CenterInfrastructureHa… |  | 1mo |
 | **Marvell Technology** | [Research Intern (PhD), FPGA & Silicon Prototyping](https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Hyderabad/Research-Intern--PhD----FPGA---Silicon-Prototyping_2604254) | Hyderabad |  | 1mo |
 | **Hackerrank** | [Software Development Engineer Intern](https://job-boards.greenhouse.io/hackerrank/jobs/8229735) | Onsite in Bangalore |  | 1mo |
@@ -61,33 +62,30 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **Enterpret** | [\[Backend, Onsite\] Software Engineering Intern](https://job-boards.greenhouse.io/enterpret/jobs/7847134003) | Bengaluru, Onsite |  | 2mo |
 | **Merklescience** | [Software Engineer(Intern)- Backend](https://jobs.lever.co/merklescience/e663b69b-264a-4bd7-b04d-fb3c0a824a28) | Bangalore (Hybrid) |  | 2mo |
 | **Valeo** | [Intern - AI](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319) | Chennai |  | 3mo |
-| **Stripe** | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8031833) | Bengaluru |  | 3mo |
+| **Stripe** | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8031833) | Bengaluru |  | 4mo |
 | **Drivetrain** | [Engineering Intern – Gen AI for FP&A Platform](https://jobs.lever.co/drivetrain/bc1c17bc-86ac-4f00-a1e3-0eb85aae4fdc) | India (Hybrid) |  | 5mo |
 
 ### Design (8)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Landor** | [Springboard Internship - Creative 2D](https://boards.greenhouse.io/landor/jobs/8349400) | Mumbai (Hybrid) |  | 1d |
-| **AtkinsRéalis** | [Architecture Intern - ME](https://slihrms.wd3.myworkdayjobs.com/careers/job/atkinsralis---corporate-office-bangalore/architecture-intern---me_r-170667) | AtkinsRéalis - Corporate Office Bangalore (Hybrid) |  | 2d |
-| **AtkinsRéalis** | [Intern](https://slihrms.wd3.myworkdayjobs.com/careers/job/ingurgaondlf-cyber-city/intern_r-167567) | IN.Gurgaon.DLF Cyber City (Hybrid) |  | 2d |
-| **AtkinsRéalis** | [Intern](https://slihrms.wd3.myworkdayjobs.com/careers/job/atkinsralis---corporate-office-bangalore/intern_r-167561) | AtkinsRéalis - Corporate Office Bangalore (Hybrid) |  | 2d |
-| **GalaxEye Space** | [UI/UX Design Intern — Product Design](https://galaxeye-pranitgalaxeyespace.zohorecruit.in/jobs/Careers/214465000006183057) | bangalore, India |  | 6d |
+| **Landor** | [Springboard Internship - Creative 2D](https://boards.greenhouse.io/landor/jobs/8349400) | Mumbai (Hybrid) |  | 2d |
+| **AtkinsRéalis** | [Architecture Intern - ME](https://slihrms.wd3.myworkdayjobs.com/careers/job/atkinsralis---corporate-office-bangalore/architecture-intern---me_r-170667) | AtkinsRéalis - Corporate Office Bangalore (Hybrid) |  | 3d |
+| **AtkinsRéalis** | [Intern](https://slihrms.wd3.myworkdayjobs.com/careers/job/ingurgaondlf-cyber-city/intern_r-167567) | IN.Gurgaon.DLF Cyber City (Hybrid) |  | 3d |
+| **AtkinsRéalis** | [Intern](https://slihrms.wd3.myworkdayjobs.com/careers/job/atkinsralis---corporate-office-bangalore/intern_r-167561) | AtkinsRéalis - Corporate Office Bangalore (Hybrid) |  | 3d |
+| **GalaxEye Space** | [UI/UX Design Intern — Product Design](https://galaxeye-pranitgalaxeyespace.zohorecruit.in/jobs/Careers/214465000006183057) | bangalore, India |  | 7d |
 | **Council on Energy, Environment …** | [Editorial Design Intern](https://ceew.zohorecruit.in/jobs/Careers/12115000013401117) | New Delhi, India (Hybrid) |  | 1mo |
 | **Hevodata** | [UX Design Intern](https://jobs.lever.co/hevodata/433ffdef-3125-48ed-a131-52c697c321ee) | Bangalore, India |  | 4mo |
 | **Glance** | [UX Design - Intern](https://job-boards.greenhouse.io/glance/jobs/7916115) | Bengaluru |  | 5mo |
 
-### Other (9)
+### Other (6)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Voya Financial** | [Intern](https://career8.successfactors.com/career?career_ns=job_listing&company=vfislkglob&career_job_req_id=36586) | India |  | 0d |
-| **Pratt & Whitney** | [Intern](https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/in-ka-bengaluru-northgate--sy-no-22-venkatala-village--sy-no-22-venkatala-village-yelahanka-hobli/intern_01885650) | IN-KA-BENGALURU-NORTHGATE ~ Sy No 2/2 Venka… (Hybrid) |  | 1d |
-| **Rubrik** | [Product Management Intern](https://www.rubrik.com/company/careers/departments/job.8345283?gh_jid=8345283) | Bangalore (Hybrid) |  | 2d |
-| **Marriott** | [Intern, Procurement, South Asia](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26143188) | Mumbai, Maharashtra, India |  | 3d |
-| **DNV** | [Data Science Intern](https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/7950) | Pune, India |  | 5d |
-| **Zybisys Consulting Services Llp** | [SOC Intern](https://zybisys.zohorecruit.in/jobs/careers/193752000003150061) | Bangalore South, Karnataka, 560041, India |  | 5d |
-| **GE Aerospace** | [Data Science Intern](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Bengaluru/Data-Science-Intern_R5040691-1) | Bengaluru |  | 1mo |
+| **Voya Financial** | [Intern](https://career8.successfactors.com/career?career_ns=job_listing&company=vfislkglob&career_job_req_id=36586) | India |  | 1d |
+| **Pratt & Whitney** | [Intern](https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/in-ka-bengaluru-northgate--sy-no-22-venkatala-village--sy-no-22-venkatala-village-yelahanka-hobli/intern_01885650) | IN-KA-BENGALURU-NORTHGATE ~ Sy No 2/2 Venka… (Hybrid) |  | 2d |
+| **Rubrik** | [Product Management Intern](https://www.rubrik.com/company/careers/departments/job.8345283?gh_jid=8345283) | Bangalore (Hybrid) |  | 3d |
+| **Marriott** | [Intern, Procurement, South Asia](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26143188) | Mumbai, Maharashtra, India |  | 4d |
 | **Fampay** | [Security Engineer Intern](https://jobs.lever.co/fampay/bbbbbfd2-1855-4991-82d5-84ef57607c24) | Bengaluru |  | 1mo |
 | **Cloudsek** | [Security Consultant Intern](https://job-boards.greenhouse.io/cloudsek/jobs/6115382004) | Bengaluru, Karnataka, India |  | 3mo |
 

@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**43 currently open roles** · Updated **2026-11-06**
+**43 currently open roles** · Updated **2026-11-07**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -17,15 +17,15 @@ These roles are grouped by their posted work location. Check each listing for wo
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
 | **HPE** | [DevOps Intern (Undergraduate)](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bolzano-Vicentino-Vicenza-Italy/DevOps-Intern--Undergraduate-_1213976) | Bolzano Vicentino, Vicenza, Italy (Hybrid) |  | 3d |
-| **Axelera** | [Hardware Lab Engineer Intern](https://jobs.ashbyhq.com/axelera/cac5f1c7-2eb7-4bfe-b67f-dfc23dc59c16) | Florence (on-site) (Hybrid) |  | 3d |
-| **Pirelli** | [Internship - Maintenance, Automation & Robotics Engineer Settimo T.se P…](https://career5.successfactors.eu/careers?company=Pirelli&career_ns=job_listing&career_job_req_id=23670) | Italy |  | 8d |
-| **Apple** | [PMU Design Verification Intern](https://jobs.apple.com/en-us/details/200691915/pmu-design-verification-intern?team=HRDWR) | Livorno | $43K–$65K | 10d |
-| **Bosch** | [AI Manufacturing Engineer – CURRICULAR INTERNSHIP (m/f/d)](https://jobs.smartrecruiters.com/BoschGroup/744000157442289-ai-manufacturing-engineer-curricular-internship-m-f-d-?oga=true) | Nonantola, Emilia-Romagna, Italy |  | 14d |
-| **Analog Devices** | [AMS Design Verification Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/Italy-Milan-Assago/AMS-Design-Verification-Intern_R267539) | Italy, Milan, Assago |  | 15d |
-| **Analog Devices** | [Digital Design Engineering Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/Italy-Milan-Assago/Digital-Design-Engineering-Intern_R267538) | Italy, Milan, Assago |  | 15d |
-| **Global Campus** | [Cloud Architect Intern - Milano](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Milan/Cloud-Architect-Intern---Milano_768771WD-1) | Milan |  | 17d |
-| **Global Campus** | [Cloud Infrastructure Intern - Milano](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Milan/Cloud-Infrastructure-Intern---Milano_767954WD) | Milan |  | 23d |
-| **Baker Hughes** | [Intern - Generative AI - 2027 (M/F/D)](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Generative-AI---2027--M-F-D-_R170543) | IT-FI-FLORENCE-VIA FELICE MATTEUCCI 2 |  | 23d |
+| **Axelera** | [Hardware Lab Engineer Intern](https://jobs.ashbyhq.com/axelera/cac5f1c7-2eb7-4bfe-b67f-dfc23dc59c16) | Florence (on-site) (Hybrid) |  | 4d |
+| **Pirelli** | [Internship - Maintenance, Automation & Robotics Engineer Settimo T.se P…](https://career5.successfactors.eu/careers?company=Pirelli&career_ns=job_listing&career_job_req_id=23670) | Italy |  | 9d |
+| **Apple** | [PMU Design Verification Intern](https://jobs.apple.com/en-us/details/200691915/pmu-design-verification-intern?team=HRDWR) | Livorno | $43K–$65K | 11d |
+| **Bosch** | [AI Manufacturing Engineer – CURRICULAR INTERNSHIP (m/f/d)](https://jobs.smartrecruiters.com/BoschGroup/744000157442289-ai-manufacturing-engineer-curricular-internship-m-f-d-?oga=true) | Nonantola, Emilia-Romagna, Italy |  | 15d |
+| **Analog Devices** | [AMS Design Verification Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/Italy-Milan-Assago/AMS-Design-Verification-Intern_R267539) | Italy, Milan, Assago |  | 16d |
+| **Analog Devices** | [Digital Design Engineering Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/Italy-Milan-Assago/Digital-Design-Engineering-Intern_R267538) | Italy, Milan, Assago |  | 16d |
+| **Global Campus** | [Cloud Architect Intern - Milano](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Milan/Cloud-Architect-Intern---Milano_768771WD-1) | Milan |  | 18d |
+| **Global Campus** | [Cloud Infrastructure Intern - Milano](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Milan/Cloud-Infrastructure-Intern---Milano_767954WD) | Milan |  | 24d |
+| **Baker Hughes** | [Intern - Generative AI - 2027 (M/F/D)](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Generative-AI---2027--M-F-D-_R170543) | IT-FI-FLORENCE-VIA FELICE MATTEUCCI 2 |  | 24d |
 | **External Career Page** | [Internship - Full Stack Software Developer](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Genova-Genova-Italy/Internship---Full-Stack-Software-Developer_JR00049311) | Genova, Genova, Italy (Hybrid) |  | 1mo |
 | **Global Campus** | [Software Engineer Intern - Milano \[DIG\]](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Milan/Software-Engineer-Intern---Milano--DIG-_765582WD) | Milan |  | 1mo |
 | **Cerved** | [Developer Intern](https://cerved.wd3.myworkdayjobs.com/Cerved/job/San-Donato-Milanese-Italy/Developer-Intern_R-0000003562) | San Donato Milanese, Italy (Hybrid) |  | 1mo |
@@ -50,8 +50,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **GSKCareers** | [Internship: MSAT Digital & Data Science, Italy, 2026](https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Italy---Rosia/Internship--MSAT-Digital---Data-Science--Italy--2026_450063) | Italy - Rosia |  | 13d |
-| **Amazon** | [Business Intelligence Intern Italy](https://www.amazon.jobs/en/jobs/10579728/business-intelligence-intern-italy) | IT, Milan | $24K | 22d |
+| **GSKCareers** | [Internship: MSAT Digital & Data Science, Italy, 2026](https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Italy---Rosia/Internship--MSAT-Digital---Data-Science--Italy--2026_450063) | Italy - Rosia |  | 14d |
+| **Amazon** | [Business Intelligence Intern Italy](https://www.amazon.jobs/en/jobs/10579728/business-intelligence-intern-italy) | IT, Milan | $24K | 23d |
 | **Baker Hughes** | [Intern – Data Analyst – 2027 (M/F/D)](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Data-Analyst---2027--M-F-D-_R170299) | IT-FI-FLORENCE-VIA FELICE MATTEUCCI 2 |  | 1mo |
 | **HPE** | [Data Analytics Intern – Channel Team](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Milan-Milano-Italy/Data-Analytics-Intern---Channel-Team_1210859-2) | Milan, Milano, Italy (Hybrid) |  | 1mo |
 | **Pirelli** | [Internship Data Scientist](https://career5.successfactors.eu/careers?company=Pirelli&career_ns=job_listing&career_job_req_id=23497) | Italy |  | 3mo |
@@ -62,9 +62,9 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **European Space Agency** | [Intern in the Communication Department - Brand Engagement Office](https://career2.successfactors.eu/career?career_ns=job_listing&company=esa&career_job_req_id=20940) | ESRIN, Frascati, Italy |  | 4d |
-| **UNIPOL** | [Intern \| Product Owner Junior](https://hdix.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3306) | MILANO, LOMBARDIA, Italy |  | 7d |
-| **Amazon** | [(Physical) Security Specialist Intern - 2027 Internship](https://www.amazon.jobs/en/jobs/10573018/physical-security-specialist-intern-2027-internship) | IT, Milan |  | 29d |
+| **European Space Agency** | [Intern in the Communication Department - Brand Engagement Office](https://career2.successfactors.eu/career?career_ns=job_listing&company=esa&career_job_req_id=20940) | ESRIN, Frascati, Italy |  | 5d |
+| **UNIPOL** | [Intern \| Product Owner Junior](https://hdix.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3306) | MILANO, LOMBARDIA, Italy |  | 8d |
+| **Amazon** | [(Physical) Security Specialist Intern - 2027 Internship](https://www.amazon.jobs/en/jobs/10573018/physical-security-specialist-intern-2027-internship) | IT, Milan |  | 1mo |
 | **Pirelli** | [Internship Cyber Security and Defence](https://career5.successfactors.eu/careers?company=Pirelli&career_ns=job_listing&career_job_req_id=23529) | Italy |  | 2mo |
 | **Pirelli** | [Internship Product Tread Designer - Moto](https://career5.successfactors.eu/careers?company=Pirelli&career_ns=job_listing&career_job_req_id=23491) | Italy |  | 3mo |
 | **Reply** | [Internship: Secure AI Innovation Engineer](https://career5.successfactors.eu/careers?company=C0004534147P&career_ns=job_listing&career_job_req_id=11228) | Italy |  | 4mo |
