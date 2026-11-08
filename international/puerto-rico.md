@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**7 currently open roles** · Updated **2026-11-07**
+**7 currently open roles** · Updated **2026-11-08**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -15,8 +15,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **HPE** | [Systems/Software Testing Engineer Cloud & On-Premise Intern](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Juan-Puerto-Rico-Puerto-Rico/Systems-Software-Testing-Engineer-Cloud---On-Premise-Intern_1218105) | San Juan, Puerto Rico, Puerto Rico |  | 2d |
-| **HPE** | [Product software development - Internship](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Product-software-development---Internship_1213045) | Aguadilla, Puerto Rico, Puerto Rico (Hybrid) |  | 25d |
+| **HPE** | [Systems/Software Testing Engineer Cloud & On-Premise Intern](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Juan-Puerto-Rico-Puerto-Rico/Systems-Software-Testing-Engineer-Cloud---On-Premise-Intern_1218105) | San Juan, Puerto Rico, Puerto Rico |  | 3d |
+| **HPE** | [Product software development - Internship](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Product-software-development---Internship_1213045) | Aguadilla, Puerto Rico, Puerto Rico (Hybrid) |  | 26d |
 | **HPE** | [Software development - internship](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Software-development---internship_1213413) | Aguadilla, Puerto Rico, Puerto Rico (Hybrid) |  | 1mo |
 | **HPE** | [Software Intern](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Software-Intern_1215275-1) | 2 Locations (Hybrid) |  | 1mo |
 | **HPE** | [Cloud Developer Intern](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Cloud-Developer-Intern_1215274-1) | 2 Locations (Hybrid) |  | 1mo |
