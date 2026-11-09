@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**2 currently open roles** · Updated **2026-11-08**
+**2 currently open roles** · Updated **2026-11-09**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -15,6 +15,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
 | **Pwc** | [ETIC, Cyber Security Summer Internship](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Cairo---ETIC/ETIC--Cyber-Security-Summer-Internship_738819WD) | Cairo - ETIC |  | 4mo |
-| **Pwc** | [ETIC, Summer Internship - Applied AI](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Cairo---ETIC/ETIC--Summer-Internship---Applied-AI_735623WD) | Cairo - ETIC |  | 4mo |
+| **Pwc** | [ETIC, Summer Internship - Applied AI](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Cairo---ETIC/ETIC--Summer-Internship---Applied-AI_735623WD) | Cairo - ETIC |  | 5mo |
 
 <!-- TABLE_END -->

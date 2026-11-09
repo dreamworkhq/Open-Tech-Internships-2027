@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**7 currently open roles** · Updated **2026-11-08**
+**7 currently open roles** · Updated **2026-11-09**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -15,10 +15,10 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **GE Aerospace** | [Artificial Intelligence Intern](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Remote/Artificial-Intelligence-Intern_R5042294-1) | Remote |  | 5d |
-| **Amazon** | [Data Center Infra Engineer - 2027 Internship](https://www.amazon.jobs/en/jobs/10576779/data-center-infra-engineer-2027-internship) | AE, Dubai |  | 26d |
+| **GE Aerospace** | [Artificial Intelligence Intern](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Remote/Artificial-Intelligence-Intern_R5042294-1) | Remote |  | 6d |
+| **Amazon** | [Data Center Infra Engineer - 2027 Internship](https://www.amazon.jobs/en/jobs/10576779/data-center-infra-engineer-2027-internship) | AE, Dubai |  | 27d |
 | **Amazon** | [Data Center Engineering Operations - 2027 Internship , DCEO](https://www.amazon.jobs/en/jobs/10574531/data-center-engineering-operations-2027-internship-dceo) | AE, Dubai |  | 1mo |
-| **Ifm Us** | [AI Engineer Internship – LLM Data](https://jobs.lever.co/ifm-us/08930bb0-7ea7-4ace-a453-2e4cff4a11dc) | Abu Dhabi |  | 1mo |
+| **Ifm Us** | [AI Engineer Internship – LLM Data](https://jobs.lever.co/ifm-us/08930bb0-7ea7-4ace-a453-2e4cff4a11dc) | Abu Dhabi |  | 2mo |
 | **Asula** | [Software Engineer: Intern/New Grad](https://jobs.ashbyhq.com/asula/ef6a983e-6c8c-4344-a4b4-7b05874128ee) | Dubai |  | 5mo |
 
 ### Other (2)
