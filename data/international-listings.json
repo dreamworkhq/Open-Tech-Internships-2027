@@ -1,68 +1,68 @@
 {
-  "generatedAt": "2026-11-09T23:18:44.739Z",
+  "generatedAt": "2026-11-10T20:36:44.168Z",
   "source": "dreamwork-public-job-index",
   "list": "Open-Tech-Internships-2027",
   "scope": "international",
-  "count": 1643,
+  "count": 1655,
   "partial": true,
   "countryCounts": {
-    "AE": 7,
+    "AE": 8,
     "AM": 1,
     "AR": 6,
-    "AT": 10,
-    "AU": 3,
+    "AT": 11,
+    "AU": 4,
     "AZ": 1,
-    "BE": 27,
+    "BE": 25,
     "BG": 4,
     "BR": 24,
-    "CA": 220,
+    "CA": 217,
     "CH": 41,
     "CL": 1,
-    "CN": 118,
-    "CO": 9,
-    "CR": 7,
+    "CN": 120,
+    "CO": 11,
+    "CR": 6,
     "CZ": 20,
-    "DE": 69,
+    "DE": 68,
     "DK": 6,
     "EG": 2,
     "ES": 30,
     "FI": 3,
     "FR": 69,
-    "GB": 94,
+    "GB": 98,
     "GR": 4,
-    "HK": 19,
+    "HK": 20,
     "HR": 1,
     "HU": 10,
     "ID": 15,
     "IE": 20,
-    "IL": 11,
-    "IN": 60,
-    "IT": 38,
+    "IL": 12,
+    "IN": 58,
+    "IT": 40,
     "JP": 4,
     "KH": 1,
     "KR": 7,
     "LK": 9,
     "LT": 1,
-    "LU": 8,
+    "LU": 9,
     "MA": 1,
     "MK": 1,
     "MU": 1,
-    "MX": 34,
-    "MY": 61,
-    "NL": 57,
+    "MX": 35,
+    "MY": 64,
+    "NL": 56,
     "NO": 3,
     "NZ": 6,
     "PE": 9,
     "PH": 17,
-    "PL": 47,
+    "PL": 49,
     "PR": 7,
-    "PT": 19,
+    "PT": 20,
     "QA": 1,
     "RO": 12,
     "RS": 5,
     "RU": 1,
     "SA": 4,
-    "SE": 5,
+    "SE": 4,
     "SG": 220,
     "SK": 4,
     "SR": 1,
@@ -75,6 +75,448 @@
   },
   "globalRemoteCount": 2,
   "listings": [
+    {
+      "id": "0ba7c722-1117-466e-b95c-dfd08d73a3ca",
+      "title": "Software Engineer Intern",
+      "company": "Motorola Solutions",
+      "companyDomain": "motorolasolutions.com",
+      "location": "Penang, Malaysia",
+      "locationCountryCode": "MY",
+      "remoteType": "onsite",
+      "globalRemote": false,
+      "postedAt": "2026-11-10T20:20:32.464Z",
+      "firstIndexedAt": "2026-11-10T20:21:49.138Z",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Software-Engineer-Intern_R70135"
+    },
+    {
+      "id": "b7c95fbb-bc5f-42c6-8113-36e3266b880c",
+      "title": "Intern Software Developer (JavaScript & React)",
+      "company": "Motorola Solutions",
+      "companyDomain": "motorolasolutions.com",
+      "location": "Krakow, Poland",
+      "locationCountryCode": "PL",
+      "remoteType": "hybrid",
+      "globalRemote": false,
+      "postedAt": "2026-11-10T20:20:32.327Z",
+      "firstIndexedAt": "2026-11-10T20:21:49.138Z",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--JavaScript---React-_R70490"
+    },
+    {
+      "id": "d3d9ec14-57ff-4830-a981-ce91e7f49301",
+      "title": "Intern Software Developer (Salesforce)",
+      "company": "Motorola Solutions",
+      "companyDomain": "motorolasolutions.com",
+      "location": "Krakow, Poland",
+      "locationCountryCode": "PL",
+      "remoteType": "hybrid",
+      "globalRemote": false,
+      "postedAt": "2026-11-09T20:20:34.043Z",
+      "firstIndexedAt": "2026-11-10T20:21:49.138Z",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--Salesforce-_R69887"
+    },
+    {
+      "id": "06a2cec6-4b89-4479-a58e-716c980749b3",
+      "title": "Intern EDG - Robotics UM exploration",
+      "company": "Micron",
+      "companyDomain": "micron.com",
+      "location": "Vimercate (MB), Italy",
+      "locationCountryCode": "IT",
+      "remoteType": "onsite",
+      "globalRemote": false,
+      "postedAt": "2026-11-10T20:04:52.372Z",
+      "firstIndexedAt": "2026-11-10T19:51:33.718Z",
+      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Vimercate-MB-Italy/Intern-EDG---Robotics-UM-exploration_JR114721"
+    },
+    {
+      "id": "45f1b2af-f014-40b4-9f96-1b56e9d9146e",
+      "title": "INTERN- DESIGN ENGINEER",
+      "company": "Micron",
+      "companyDomain": "micron.com",
+      "location": "Avezzano (AQ), Italy",
+      "locationCountryCode": "IT",
+      "remoteType": "onsite",
+      "globalRemote": false,
+      "postedAt": "2026-11-10T20:03:26.856Z",
+      "firstIndexedAt": "2026-11-10T19:51:33.718Z",
+      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Avezzano-AQ-Italy/INTERN--DESIGN-ENGINEER_JR117316"
+    },
+    {
+      "id": "4c8f186e-f359-4e53-938f-952abeaf6e53",
+      "title": "Falcon Complete Analyst Intern Graduate (Remote, AUS)",
+      "company": "CrowdStrike",
+      "companyDomain": "crowdstrike.com",
+      "location": "Australia - Remote, VC",
+      "locationCountryCode": "AU",
+      "remoteType": "remote",
+      "globalRemote": false,
+      "postedAt": "2026-11-10T19:15:51.812Z",
+      "firstIndexedAt": "2026-11-10T18:05:36.946Z",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Australia---Remote-VC/Falcon-Complete-Analyst-Intern-Graduate--Remote--AUS-_R30826"
+    },
+    {
+      "id": "35d4b542-60aa-4be2-94b5-6060e7e5d055",
+      "title": "Application Software Developer Co-Op",
+      "company": "Siemens Healthineers",
+      "companyDomain": "siemens-healthineers.com",
+      "location": "YOW B",
+      "locationCountryCode": "CA",
+      "remoteType": null,
+      "globalRemote": false,
+      "postedAt": "2026-11-09T20:19:11.374Z",
+      "firstIndexedAt": "2026-11-10T18:02:19.878Z",
+      "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YOW-B/Application-Software-Developer-Co-Op_R-31984"
+    },
+    {
+      "id": "3f3b60f2-b591-4376-ba3f-b6ea59964176",
+      "title": "Embedded Software Developer Co-Op",
+      "company": "Siemens Healthineers",
+      "companyDomain": "siemens-healthineers.com",
+      "location": "YOW B",
+      "locationCountryCode": "CA",
+      "remoteType": null,
+      "globalRemote": false,
+      "postedAt": "2026-11-09T20:19:11.026Z",
+      "firstIndexedAt": "2026-11-10T18:02:19.878Z",
+      "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YOW-B/Embedded-Software-Developer-Co-Op_R-31985"
+    },
+    {
+      "id": "1866afe7-1f0b-4bad-956f-9881e87f8335",
+      "title": "Intern",
+      "company": "NielsenIQ",
+      "companyDomain": "nielseniq.com",
+      "location": "Santiago, RM, Chile",
+      "locationCountryCode": "CL",
+      "remoteType": "hybrid",
+      "globalRemote": false,
+      "postedAt": "2026-11-10T17:13:06.790Z",
+      "firstIndexedAt": "2026-11-10T17:19:15.997Z",
+      "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000160930411-intern?oga=true"
+    },
+    {
+      "id": "54c74152-22c5-4c70-896a-8753dde03bdf",
+      "title": "Internship Mechanical Design",
+      "company": "GEHC External Site",
+      "companyDomain": "gehc.com",
+      "location": "Zipf",
+      "locationCountryCode": "AT",
+      "remoteType": "onsite",
+      "globalRemote": false,
+      "postedAt": "2026-11-10T18:35:27.519Z",
+      "firstIndexedAt": "2026-11-10T17:17:43.868Z",
+      "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Zipf/Internship-Mechanical-Design_R4048808-1"
+    },
+    {
+      "id": "2cf38e7a-116c-410f-8eb8-2e27df0bb722",
+      "title": "Software Dev Intern",
+      "company": "Amazon",
+      "companyDomain": "amazon.com",
+      "location": "LU, Luxembourg",
+      "locationCountryCode": "LU",
+      "remoteType": "onsite",
+      "globalRemote": false,
+      "postedAt": "2026-11-10T00:00:00.000Z",
+      "firstIndexedAt": "2026-11-10T17:03:40.503Z",
+      "url": "https://www.amazon.jobs/en/jobs/10489527/software-dev-intern"
+    },
+    {
+      "id": "0b93f548-e219-41d0-b49e-4b1dc962a0fb",
+      "title": "Intern - Product Engineering Center (PEC)",
+      "company": "MAS Holdings",
+      "companyDomain": "masholdings.com",
+      "location": "Sri Lanka",
+      "locationCountryCode": "LK",
+      "remoteType": "onsite",
+      "globalRemote": false,
+      "postedAt": "2026-11-10T10:22:38.000Z",
+      "firstIndexedAt": "2026-11-10T14:46:45.755Z",
+      "url": "https://egmh.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/22027"
+    },
+    {
+      "id": "2ba3f3d4-c3c7-4e28-afab-dc40fc6bc48a",
+      "title": "IT Intern - 大模型应用工程师",
+      "company": "Cummins",
+      "companyDomain": "cummins.com",
+      "location": "Beijing, China",
+      "locationCountryCode": "CN",
+      "remoteType": "onsite",
+      "globalRemote": false,
+      "postedAt": "2026-11-10T09:21:45.000Z",
+      "firstIndexedAt": "2026-11-10T14:33:41.287Z",
+      "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1005/job/2442161"
+    },
+    {
+      "id": "5c564049-7df9-4436-9972-68bc25e92344",
+      "title": "IT Intern - 数字员工平台应用工程师",
+      "company": "Cummins",
+      "companyDomain": "cummins.com",
+      "location": "Beijing, China",
+      "locationCountryCode": "CN",
+      "remoteType": "onsite",
+      "globalRemote": false,
+      "postedAt": "2026-11-10T09:24:59.000Z",
+      "firstIndexedAt": "2026-11-10T14:33:41.287Z",
+      "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1005/job/2442162"
+    },
+    {
+      "id": "8801196b-ad1d-4a7f-b68a-89709c277943",
+      "title": "Software Engineering Intern",
+      "company": "State Street",
+      "companyDomain": "statestreet.com",
+      "location": "Hangzhou, China",
+      "locationCountryCode": "CN",
+      "remoteType": null,
+      "globalRemote": false,
+      "postedAt": "2026-11-10T15:17:25.019Z",
+      "firstIndexedAt": "2026-11-10T14:07:29.039Z",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/global/job/Hangzhou-China/Software-Engineering-Intern_R-800779-1"
+    },
+    {
+      "id": "d7dc79ad-dd0d-4ed0-8db0-464f0f0a65bd",
+      "title": "Intern, Design & Estimation Engineering",
+      "company": "JCI",
+      "companyDomain": "johnsoncontrols.com",
+      "location": "Singapore-Singapore-Singapore",
+      "locationCountryCode": "SG",
+      "remoteType": "onsite",
+      "globalRemote": false,
+      "postedAt": "2026-11-10T17:03:09.816Z",
+      "firstIndexedAt": "2026-11-10T12:38:10.659Z",
+      "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Singapore-Singapore-Singapore/Intern--Design---Estimation-Engineering_WD30284733"
+    },
+    {
+      "id": "75431a38-e57c-4f47-8f74-8ed76c388683",
+      "title": "Data Analyst Internship",
+      "company": "InformaGroupPlc",
+      "companyDomain": "informa.com",
+      "location": "Amsterdam, NH, Netherlands",
+      "locationCountryCode": "NL",
+      "remoteType": "hybrid",
+      "globalRemote": false,
+      "postedAt": "2026-11-09T09:39:04.447Z",
+      "firstIndexedAt": "2026-11-10T12:32:41.015Z",
+      "url": "https://jobs.smartrecruiters.com/InformaGroupPlc/744000160567928-data-analyst-internship?oga=true"
+    },
+    {
+      "id": "8d53cdb9-ac90-4d22-a0df-3ac54bf33317",
+      "title": "Intern Residual Value Risk Management (f/m/x)",
+      "company": "BMW AG",
+      "companyDomain": "bmw.com",
+      "location": null,
+      "locationCountryCode": "DE",
+      "remoteType": "hybrid",
+      "globalRemote": false,
+      "postedAt": null,
+      "firstIndexedAt": "2026-11-10T11:46:23.137Z",
+      "url": "https://career5.successfactors.eu/careers?company=bmwag&career_ns=job_listing&career_job_req_id=200040"
+    },
+    {
+      "id": "1f106b5e-e51f-4422-9c5b-635351cb2a75",
+      "title": "Digital AI & Data Science Intern",
+      "company": "Sanofi",
+      "companyDomain": "sanofi.com",
+      "location": "Shanghai",
+      "locationCountryCode": "CN",
+      "remoteType": null,
+      "globalRemote": false,
+      "postedAt": "2026-11-10T12:46:54.982Z",
+      "firstIndexedAt": "2026-11-10T11:32:19.658Z",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Shanghai/Digital-AI---Data-Science-Intern_R2878356"
+    },
+    {
+      "id": "cad2d873-eded-4c9f-8b4f-bf93d6a1aff8",
+      "title": "Professional Internship Information Technology - Client Support (m/f/d)",
+      "company": "BorgWarner",
+      "companyDomain": "borgwarner.com",
+      "location": "Viana do Castelo I - Portugal",
+      "locationCountryCode": "PT",
+      "remoteType": "hybrid",
+      "globalRemote": false,
+      "postedAt": "2026-11-09T13:31:02.692Z",
+      "firstIndexedAt": "2026-11-10T11:01:29.796Z",
+      "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Viana-do-Castelo-I---Portugal/Professional-Internship-Information-Technology---Client-Support--m-f-d-_R2026-4421"
+    },
+    {
+      "id": "190cce3b-d31e-433e-bf73-1ed394e525a5",
+      "title": "Software Testing Intern",
+      "company": "Razer",
+      "companyDomain": "razer.com",
+      "location": "Shenzhen",
+      "locationCountryCode": "CN",
+      "remoteType": "onsite",
+      "globalRemote": false,
+      "postedAt": "2026-11-09T12:15:24.244Z",
+      "firstIndexedAt": "2026-11-10T10:30:34.796Z",
+      "url": "https://razer.wd3.myworkdayjobs.com/Careers/job/Shenzhen/Software-Testing-Intern_JR2026008030"
+    },
+    {
+      "id": "e5b5c139-31ad-4cd6-b96a-9abab4055c03",
+      "title": "Product Application Intern",
+      "company": "Analog Devices",
+      "companyDomain": "analog.com",
+      "location": "India, Bangalore, Nova",
+      "locationCountryCode": "IN",
+      "remoteType": "onsite",
+      "globalRemote": false,
+      "postedAt": "2026-11-09T11:30:55.368Z",
+      "firstIndexedAt": "2026-11-10T10:16:11.832Z",
+      "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/India-Bangalore-Nova/Product-Application-Intern_R267676"
+    },
+    {
+      "id": "f34d400a-7acc-486a-b72e-74134af22cd1",
+      "title": "Analog Design Intern",
+      "company": "Analog Devices",
+      "companyDomain": "analog.com",
+      "location": "India, Bangalore, Nova",
+      "locationCountryCode": "IN",
+      "remoteType": null,
+      "globalRemote": false,
+      "postedAt": "2026-11-09T11:30:55.336Z",
+      "firstIndexedAt": "2026-11-10T10:16:11.832Z",
+      "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/India-Bangalore-Nova/Analog-Design-Intern_R267594"
+    },
+    {
+      "id": "08bd39c7-34d8-475f-ae23-eef16ccb1d80",
+      "title": "Co-op Internship 2027 - Regional Marketing Strategy, UX/UI",
+      "company": "Manulife",
+      "companyDomain": "manulife.com",
+      "location": "Hong Kong, Manulife Tower",
+      "locationCountryCode": "HK",
+      "remoteType": "onsite",
+      "globalRemote": false,
+      "postedAt": "2026-11-10T13:18:18.582Z",
+      "firstIndexedAt": "2026-11-10T09:30:56.018Z",
+      "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Hong-Kong-Manulife-Tower/Co-op-Internship-2027---Regional-Marketing-Strategy--UX-UI_JR26110506"
+    },
+    {
+      "id": "125743ae-3c64-4b27-bfb3-76abd929451b",
+      "title": "Cybersecurity Intern",
+      "company": "Amadeus",
+      "companyDomain": "amadeus.com",
+      "location": "Bogota",
+      "locationCountryCode": "CO",
+      "remoteType": "hybrid",
+      "globalRemote": false,
+      "postedAt": "2026-11-09T09:02:07.292Z",
+      "firstIndexedAt": "2026-11-10T09:00:24.841Z",
+      "url": "https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bogota/Cybersecurity-Intern_R38327"
+    },
+    {
+      "id": "90d89aa7-71e3-4894-be58-0d29817d0f68",
+      "title": "Cloud Intern",
+      "company": "Amadeus",
+      "companyDomain": "amadeus.com",
+      "location": "Bogota",
+      "locationCountryCode": "CO",
+      "remoteType": "hybrid",
+      "globalRemote": false,
+      "postedAt": "2026-11-09T09:02:07.193Z",
+      "firstIndexedAt": "2026-11-10T09:00:24.841Z",
+      "url": "https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bogota/Cloud-Intern_R37676"
+    },
+    {
+      "id": "5517a59d-a27a-4886-859b-fabfdbce107b",
+      "title": "2027 Spring Software Engineer Undergraduate Intern",
+      "company": "Mksinst",
+      "companyDomain": "mks.com",
+      "location": "Israel Jerusalem",
+      "locationCountryCode": "IL",
+      "remoteType": "onsite",
+      "globalRemote": false,
+      "postedAt": "2026-11-09T12:03:08.371Z",
+      "firstIndexedAt": "2026-11-10T08:00:30.031Z",
+      "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Jerusalem/XMLNAME-2027-Spring-Software-Engineer-Undergraduate-Intern_R20637"
+    },
+    {
+      "id": "df616fc9-ce7d-4dc4-94f4-0e93e8e5bd26",
+      "title": "[IT One] SAP MM (Internship)",
+      "company": "Accenture",
+      "companyDomain": "accenture.com",
+      "location": "Bangkok, Tipco Tower",
+      "locationCountryCode": "TH",
+      "remoteType": "onsite",
+      "globalRemote": false,
+      "postedAt": "2026-11-10T20:18:47.517Z",
+      "firstIndexedAt": "2026-11-10T07:49:05.106Z",
+      "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bangkok-Tipco-Tower/XMLNAME--IT-One--SAP-MM--Internship-_14642546"
+    },
+    {
+      "id": "00494bb5-c95e-46b8-84ba-6de720367e90",
+      "title": "Let's begin! Cyber Product Management & Product Marketing Summer Intern",
+      "company": "Moody's",
+      "companyDomain": "moodys.com",
+      "location": "London - Minster Building",
+      "locationCountryCode": "GB",
+      "remoteType": null,
+      "globalRemote": false,
+      "postedAt": "2026-11-09T16:33:36.000Z",
+      "firstIndexedAt": "2026-11-10T02:35:47.703Z",
+      "url": "https://career8.successfactors.com/career?career_ns=job_listing&company=MoodysProd&career_job_req_id=14578"
+    },
+    {
+      "id": "16f52d7e-b64a-440a-a6b0-4052df9e9e43",
+      "title": "HIH - Co-Op/Intern (Non-US Only)",
+      "company": "Cigna Group",
+      "companyDomain": "carepathrx.com",
+      "location": "Hyderabad, India",
+      "locationCountryCode": "IN",
+      "remoteType": "onsite",
+      "globalRemote": false,
+      "postedAt": "2026-11-09T14:12:08.000Z",
+      "firstIndexedAt": "2026-11-10T02:35:03.214Z",
+      "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/hyderabad-india/hih---co-op-intern--non-us-only-_26013373"
+    },
+    {
+      "id": "6cc7170e-cceb-49b3-aa50-4ecf4926a372",
+      "title": "Summer 2027 Intern Program: Global Technical Training - Liverpool, NY",
+      "company": "National Grid",
+      "companyDomain": "nationalgrid.com",
+      "location": "Liverpool 7437 HCB 2",
+      "locationCountryCode": "GB",
+      "remoteType": "onsite",
+      "globalRemote": false,
+      "postedAt": "2026-11-09T12:47:06.000Z",
+      "firstIndexedAt": "2026-11-10T02:32:46.452Z",
+      "url": "https://career4.successfactors.com/career?career_ns=job_listing&company=natgridProd&career_job_req_id=12875"
+    },
+    {
+      "id": "91fbfa23-6e9b-4c35-80b6-cf23751810c2",
+      "title": "Software Function Developer intern",
+      "company": "Bosch",
+      "companyDomain": "bosch.com",
+      "location": "Budapest, , Hungary",
+      "locationCountryCode": "HU",
+      "remoteType": "hybrid",
+      "globalRemote": false,
+      "postedAt": "2026-11-09T15:23:17.685Z",
+      "firstIndexedAt": "2026-11-10T02:17:19.226Z",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160644192-software-function-developer-intern?oga=true"
+    },
+    {
+      "id": "1fc56c4b-8fec-44ff-83f3-73a1429a48a5",
+      "title": "Software Intern- Mission Control Center",
+      "company": "The Exploration Company",
+      "companyDomain": "exploration.company",
+      "location": "Munich, Germany",
+      "locationCountryCode": "DE",
+      "remoteType": null,
+      "globalRemote": false,
+      "postedAt": "2026-11-09T14:33:54.088Z",
+      "firstIndexedAt": "2026-11-10T02:15:18.209Z",
+      "url": "https://jobs.ashbyhq.com/the-exploration-company/bdb17a37-2330-4893-87ba-9ca342bb0748"
+    },
+    {
+      "id": "78738c0f-f5fd-442f-b73e-f4e312ecddfa",
+      "title": "Product Engineer Intern",
+      "company": "Jabil Circuit",
+      "companyDomain": "jabil.com",
+      "location": "Guadalajara",
+      "locationCountryCode": "MX",
+      "remoteType": null,
+      "globalRemote": false,
+      "postedAt": "2026-11-10T05:18:01.531Z",
+      "firstIndexedAt": "2026-11-10T00:49:49.695Z",
+      "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Product-Engineer-Intern_J2471423"
+    },
     {
       "id": "963497aa-6b67-42d2-bcf0-1b1ba66c4558",
       "title": "ICEYE Intern Lab: Product Management",
@@ -97,7 +539,7 @@
       "locationCountryCode": "CZ",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-11-09T19:51:25.112Z",
+      "postedAt": "2026-11-09T10:03:00.397Z",
       "firstIndexedAt": "2026-11-09T19:52:04.345Z",
       "url": "https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Brno-Czechia/Sr-Intern---Data-Analytics---AI-ML--Service-ability_R-01374061"
     },
@@ -110,7 +552,7 @@
       "locationCountryCode": "CZ",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-11-09T19:51:25.380Z",
+      "postedAt": "2026-11-09T10:03:00.403Z",
       "firstIndexedAt": "2026-11-09T19:52:04.345Z",
       "url": "https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Brno-Czechia/Intern---Software-Development_R-01373992"
     },
@@ -123,7 +565,7 @@
       "locationCountryCode": "CZ",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-11-09T19:51:25.509Z",
+      "postedAt": "2026-11-09T10:03:00.474Z",
       "firstIndexedAt": "2026-11-09T19:52:04.345Z",
       "url": "https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Brno-Czechia/Intern---DevOps_R-01374014-1"
     },
@@ -136,7 +578,7 @@
       "locationCountryCode": "CZ",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-11-09T19:51:25.641Z",
+      "postedAt": "2026-11-09T10:03:00.502Z",
       "firstIndexedAt": "2026-11-09T19:52:04.345Z",
       "url": "https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Brno-Czechia/Sr-Systems-Engineer-Intern---Detection-and-Analytics_R-01374034-1"
     },
@@ -149,7 +591,7 @@
       "locationCountryCode": "RO",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-11-09T16:32:54.883Z",
+      "postedAt": "2026-11-10T07:02:40.606Z",
       "firstIndexedAt": "2026-11-09T15:03:00.283Z",
       "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Bucharest/Thales-Technology-Internship--Software-Development--Testing---IT-Operations_R0346859"
     },
@@ -227,7 +669,7 @@
       "locationCountryCode": "IN",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-11-09T22:32:49.696Z",
+      "postedAt": "2026-11-09T20:30:53.311Z",
       "firstIndexedAt": "2026-11-09T08:02:04.969Z",
       "url": "https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Software-Engineer-Intern_R0138921"
     },
@@ -292,7 +734,7 @@
       "locationCountryCode": "SE",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-11-05T12:16:33.235Z",
+      "postedAt": "2026-11-10T14:18:29.848Z",
       "firstIndexedAt": "2026-11-07T20:49:15.385Z",
       "url": "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Stockholm---Zenit/Software-Developer-Intern---Stockholm-Summer-2027_R0027297"
     },
@@ -399,19 +841,6 @@
       "postedAt": "2026-11-05T22:50:45.000Z",
       "firstIndexedAt": "2026-11-07T03:30:45.050Z",
       "url": "https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/679"
-    },
-    {
-      "id": "9a162744-c112-49ca-94b4-57df8907ecbe",
-      "title": "Intern",
-      "company": "NielsenIQ",
-      "companyDomain": "nielseniq.com",
-      "location": "Santiago, RM, Chile",
-      "locationCountryCode": "CL",
-      "remoteType": "hybrid",
-      "globalRemote": false,
-      "postedAt": "2026-11-06T17:12:49.095Z",
-      "firstIndexedAt": "2026-11-07T02:46:56.451Z",
-      "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000160262361-intern?oga=true"
     },
     {
       "id": "06e999ab-985d-4637-beef-57ec42ac5ff7",
@@ -648,19 +1077,6 @@
       "url": "https://job-boards.greenhouse.io/agoda/jobs/8358246"
     },
     {
-      "id": "aaf7dcaf-48fd-41e7-8237-4db121969c13",
-      "title": "Embedded Software Developer Co-op",
-      "company": "Siemens Healthineers",
-      "companyDomain": "siemens-healthineers.com",
-      "location": "YOW B",
-      "locationCountryCode": "CA",
-      "remoteType": null,
-      "globalRemote": false,
-      "postedAt": "2026-11-06T15:46:04.676Z",
-      "firstIndexedAt": "2026-11-07T01:25:44.958Z",
-      "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YOW-B/Embedded-Software-Developer-Co-op_R-31948"
-    },
-    {
       "id": "09f03b46-aa4a-47ca-8bc2-64613cf2b7e5",
       "title": "Software Engineer Intern",
       "company": "Backmarket",
@@ -721,7 +1137,7 @@
       "locationCountryCode": "CN",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-11-06T10:15:58.720Z",
+      "postedAt": "2026-11-06T12:15:24.683Z",
       "firstIndexedAt": "2026-11-06T19:23:48.160Z",
       "url": "https://razer.wd3.myworkdayjobs.com/Careers/job/Chengdu/UI-UX---Visual-Design-Intern_JR2026007854"
     },
@@ -734,9 +1150,9 @@
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-11-07T16:52:17.354Z",
+      "postedAt": "2026-11-07T20:35:04.803Z",
       "firstIndexedAt": "2026-11-06T17:58:48.984Z",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Infrastructure-and-Frameworks-Intern--Cosmos-Lab---2027_JR2029468"
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/China-Shanghai/AI-Infrastructure-and-Frameworks-Intern--Cosmos-Lab---2027_JR2029468"
     },
     {
       "id": "35781367-c6a0-4a13-9c05-374d9aa45c24",
@@ -747,9 +1163,9 @@
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-11-06T16:52:17.856Z",
+      "postedAt": "2026-11-06T20:35:05.269Z",
       "firstIndexedAt": "2026-11-06T17:26:23.149Z",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/System-Software-Engineer-Intern---Autonomous-Vehicles---2027_JR2028135"
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/China-Shanghai/System-Software-Engineer-Intern---Autonomous-Vehicles---2027_JR2028135"
     },
     {
       "id": "65e3acc8-c3ce-4655-8db5-82b33e87a567",
@@ -773,9 +1189,9 @@
       "locationCountryCode": "TW",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-11-06T16:52:18.099Z",
+      "postedAt": "2026-11-06T20:35:05.810Z",
       "firstIndexedAt": "2026-11-06T16:04:28.964Z",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Intern--Embedded-Power-Management---2027_JR2029153"
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Taipei/System-Software-Intern--Embedded-Power-Management---2027_JR2029153"
     },
     {
       "id": "704dd65a-2cf2-4ec8-8e28-48dd73625ffb",
@@ -786,7 +1202,7 @@
       "locationCountryCode": "DE",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-11-06T21:46:32.909Z",
+      "postedAt": "2026-11-06T18:48:04.803Z",
       "firstIndexedAt": "2026-11-06T15:44:45.512Z",
       "url": "https://intel.wd1.myworkdayjobs.com/External/job/Germany-Munich/Software-Design-Engineer-Intern-for-Physical-Design--m-f-d-_JR0288937"
     },
@@ -799,7 +1215,7 @@
       "locationCountryCode": "TH",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-11-06T21:06:50.245Z",
+      "postedAt": "2026-11-06T09:18:55.375Z",
       "firstIndexedAt": "2026-11-06T15:32:37.715Z",
       "url": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bangkok/Data-Analytics-Intern_772781WD"
     },
@@ -825,7 +1241,7 @@
       "locationCountryCode": "PL",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-11-06T17:01:25.071Z",
+      "postedAt": "2026-11-06T20:20:35.619Z",
       "firstIndexedAt": "2026-11-06T14:22:37.804Z",
       "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer-C-C--_R70432"
     },
@@ -955,7 +1371,7 @@
       "locationCountryCode": "FR",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-11-06T08:45:50.897Z",
+      "postedAt": "2026-11-06T09:02:07.407Z",
       "firstIndexedAt": "2026-11-06T09:48:40.841Z",
       "url": "https://amadeus.wd502.myworkdayjobs.com/jobs/job/Nice/Internship---UI-UX-Developer_R38696"
     },
@@ -968,7 +1384,7 @@
       "locationCountryCode": "MX",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-11-05T14:04:19.296Z",
+      "postedAt": "2026-11-05T20:33:45.936Z",
       "firstIndexedAt": "2026-11-06T08:21:47.419Z",
       "url": "https://kiongroup.wd3.myworkdayjobs.com/KIONGroup/job/Guadalupe-Mexico/Planning-Automation-Analytics-Intern_JR-0098613-1"
     },
@@ -997,19 +1413,6 @@
       "postedAt": "2026-11-07T00:15:49.857Z",
       "firstIndexedAt": "2026-11-06T07:37:53.996Z",
       "url": "https://logitech.wd5.myworkdayjobs.com/Logitech/job/Hsinchu-Taiwan/AI-Assisted-Materials-Engineering-Intern_148667"
-    },
-    {
-      "id": "65d206f2-67d7-4e51-b5fb-de238ac2293c",
-      "title": "[IT One] SAP MM (Internship)",
-      "company": "Accenture",
-      "companyDomain": "accenture.com",
-      "location": "Bangkok, Tipco Tower",
-      "locationCountryCode": "TH",
-      "remoteType": "onsite",
-      "globalRemote": false,
-      "postedAt": "2026-11-06T10:48:41.429Z",
-      "firstIndexedAt": "2026-11-06T06:49:25.125Z",
-      "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bangkok-Tipco-Tower/XMLNAME--IT-One--SAP-MM--Internship-_14642542"
     },
     {
       "id": "99cdc0a1-0881-4cce-bf2e-7e3ad4486e93",
@@ -1176,7 +1579,7 @@
       "locationCountryCode": "DE",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-11-05T21:46:36.034Z",
+      "postedAt": "2026-11-05T18:48:06.663Z",
       "firstIndexedAt": "2026-11-06T00:26:27.634Z",
       "url": "https://intel.wd1.myworkdayjobs.com/External/job/Germany-Munich/Middleware-Software-Engineering-Intern--m-f-d-_JR0288635"
     },
@@ -1215,7 +1618,7 @@
       "locationCountryCode": "NL",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-11-06T05:19:49.513Z",
+      "postedAt": "2026-11-05T08:17:18.411Z",
       "firstIndexedAt": "2026-11-05T20:27:11.441Z",
       "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/Netherlands---Breda/Data---Analytics-Intern_R-261001"
     },
@@ -1228,7 +1631,7 @@
       "locationCountryCode": "ES",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-11-06T05:01:10.275Z",
+      "postedAt": "2026-11-05T19:30:24.676Z",
       "firstIndexedAt": "2026-11-05T20:03:32.234Z",
       "url": "https://novanta.wd5.myworkdayjobs.com/novanta-careers/job/Barcelona-Spain---Keonn/Hardware-Developer-Intern_R009900"
     },
@@ -1241,9 +1644,9 @@
       "locationCountryCode": "CH",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-11-05T16:52:21.331Z",
+      "postedAt": "2026-11-05T20:35:09.159Z",
       "firstIndexedAt": "2026-11-05T19:31:27.977Z",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Software-Engineering-Intern--Physics-Simulation---2027_JR2029066"
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Switzerland-Zurich/Software-Engineering-Intern--Physics-Simulation---2027_JR2029066"
     },
     {
       "id": "15c74183-f406-47c7-9e78-f7b0b59b1817",
@@ -1267,7 +1670,7 @@
       "locationCountryCode": "CA",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-11-06T05:17:01.291Z",
+      "postedAt": "2026-11-06T00:03:38.042Z",
       "firstIndexedAt": "2026-11-05T17:43:33.671Z",
       "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/CAN---MISSISSAUGA/Platform-Engineer-Intern--8-month-term-_R23266"
     },
@@ -1319,7 +1722,7 @@
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-11-05T14:03:04.566Z",
+      "postedAt": "2026-11-05T08:01:01.678Z",
       "firstIndexedAt": "2026-11-05T14:33:33.147Z",
       "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SHANGHAI/Intern---Design-Engineering_R56890"
     },
@@ -1332,7 +1735,7 @@
       "locationCountryCode": "CZ",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-11-05T19:51:28.189Z",
+      "postedAt": "2026-11-05T10:03:02.755Z",
       "firstIndexedAt": "2026-11-05T14:27:32.001Z",
       "url": "https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Brno-Czechia/Intern---Systems-Design-Engineering_R-01374041"
     },
@@ -1345,7 +1748,7 @@
       "locationCountryCode": "CZ",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-11-05T19:51:28.174Z",
+      "postedAt": "2026-11-05T10:03:02.805Z",
       "firstIndexedAt": "2026-11-05T14:27:32.001Z",
       "url": "https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Brno-Czechia/Intern---Software-Engineering_R-01374064"
     },
@@ -1358,7 +1761,7 @@
       "locationCountryCode": "CZ",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-11-05T19:51:28.240Z",
+      "postedAt": "2026-11-05T10:03:02.744Z",
       "firstIndexedAt": "2026-11-05T14:27:32.001Z",
       "url": "https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Brno-Czechia/Intern---Systems-Design-Engineering--Vibration-_R-01374039"
     },
@@ -1371,7 +1774,7 @@
       "locationCountryCode": "CZ",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-11-05T19:51:28.598Z",
+      "postedAt": "2026-11-05T10:03:02.890Z",
       "firstIndexedAt": "2026-11-05T14:27:32.001Z",
       "url": "https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Brno-Czechia/Intern---Software-Firmware-Test_R-01374007"
     },
@@ -1384,7 +1787,7 @@
       "locationCountryCode": "NL",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-11-05T19:51:28.358Z",
+      "postedAt": "2026-11-05T10:03:02.915Z",
       "firstIndexedAt": "2026-11-05T14:27:32.001Z",
       "url": "https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Eindhoven-Netherlands/Internship---Build-an-agentic-software-refactoring-workflow_R-01374031-1"
     },
@@ -1462,7 +1865,7 @@
       "locationCountryCode": "ID",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-11-05T23:03:59.527Z",
+      "postedAt": "2026-11-05T18:49:47.283Z",
       "firstIndexedAt": "2026-11-05T11:06:23.638Z",
       "url": "https://nttlimited.wd3.myworkdayjobs.com/ntt_careers/job/Jakarta-Indonesia/Machine-Learning-Engineer--Phyton--Intern_R-152370"
     },
@@ -1475,7 +1878,7 @@
       "locationCountryCode": "ID",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-11-05T23:03:59.696Z",
+      "postedAt": "2026-11-05T18:49:47.374Z",
       "firstIndexedAt": "2026-11-05T11:06:23.638Z",
       "url": "https://nttlimited.wd3.myworkdayjobs.com/ntt_careers/job/Jakarta-Indonesia/Full-Stack-Developer-Intern_R-152364"
     },
@@ -1488,7 +1891,7 @@
       "locationCountryCode": "ID",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-11-05T23:03:59.410Z",
+      "postedAt": "2026-11-05T18:49:47.104Z",
       "firstIndexedAt": "2026-11-05T11:06:23.638Z",
       "url": "https://nttlimited.wd3.myworkdayjobs.com/ntt_careers/job/Jakarta-Indonesia/Developer-Banking-Intern_R-152392"
     },
@@ -1501,7 +1904,7 @@
       "locationCountryCode": "ID",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-11-05T23:03:59.534Z",
+      "postedAt": "2026-11-05T18:49:47.195Z",
       "firstIndexedAt": "2026-11-05T11:06:23.638Z",
       "url": "https://nttlimited.wd3.myworkdayjobs.com/ntt_careers/job/Jakarta-Indonesia/Data-Engineer--ETL-Developer--Intern_R-152390"
     },
@@ -1514,7 +1917,7 @@
       "locationCountryCode": "ID",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-11-05T23:03:59.625Z",
+      "postedAt": "2026-11-05T18:49:47.255Z",
       "firstIndexedAt": "2026-11-05T11:06:23.638Z",
       "url": "https://nttlimited.wd3.myworkdayjobs.com/ntt_careers/job/Jakarta-Indonesia/XMLNAME-NET-Backend-Developer-Intern_R-152368-1"
     },
@@ -1527,7 +1930,7 @@
       "locationCountryCode": "ID",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-11-05T23:03:59.461Z",
+      "postedAt": "2026-11-05T18:49:47.215Z",
       "firstIndexedAt": "2026-11-05T11:06:23.638Z",
       "url": "https://nttlimited.wd3.myworkdayjobs.com/ntt_careers/job/Jakarta-Indonesia/DevOps-Engineer-Intern_R-152372"
     },
@@ -1675,6 +2078,19 @@
       "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/127897"
     },
     {
+      "id": "afe20c26-d040-4b6f-80fa-86e41ba45387",
+      "title": "Intern Bachelors AI",
+      "company": "Aerospace",
+      "companyDomain": "aerospace.org",
+      "location": "Bengaluru, Karnataka, India",
+      "locationCountryCode": "IN",
+      "remoteType": null,
+      "globalRemote": false,
+      "postedAt": "2026-11-05T03:45:23.000Z",
+      "firstIndexedAt": "2026-11-05T06:31:11.624Z",
+      "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/127899"
+    },
+    {
       "id": "1f2db571-0bcb-4bfa-a15b-baf3de0d79b5",
       "title": "Data Analyst Intern",
       "company": "HP Inc.",
@@ -1683,7 +2099,7 @@
       "locationCountryCode": "ES",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-11-04T12:33:17.317Z",
+      "postedAt": "2026-11-04T14:01:59.687Z",
       "firstIndexedAt": "2026-11-05T03:23:03.887Z",
       "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Analyst-Intern_UNI4613-1"
     },
@@ -1943,7 +2359,7 @@
       "locationCountryCode": "MY",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-11-05T00:31:59.407Z",
+      "postedAt": "2026-11-05T07:47:10.824Z",
       "firstIndexedAt": "2026-11-05T02:17:48.940Z",
       "url": "https://aia.wd3.myworkdayjobs.com/External/job/Kuala-Lumpur-AIA-Digital-Malaysia/Intern--Cyber-Security_JR-71821-1"
     },
@@ -1969,7 +2385,7 @@
       "locationCountryCode": "CA",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-11-04T23:00:12.047Z",
+      "postedAt": "2026-11-04T14:19:15.570Z",
       "firstIndexedAt": "2026-11-04T20:17:44.014Z",
       "url": "https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Calgary-Alberta/Intern--Enterprise-Security---Detection---Response_JR-10952"
     },
@@ -1995,7 +2411,7 @@
       "locationCountryCode": "TR",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-11-04T17:16:01.632Z",
+      "postedAt": "2026-11-04T20:34:45.790Z",
       "firstIndexedAt": "2026-11-04T19:18:45.836Z",
       "url": "https://novartis.wd3.myworkdayjobs.com/Internal_Careers_for_Acquired_Entities/job/stanbul-Kurtky/Long-Term-IT-Intern--AI---Power-Platform_REQ-10091870"
     },
@@ -2047,7 +2463,7 @@
       "locationCountryCode": "PR",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-11-05T01:02:52.806Z",
+      "postedAt": "2026-11-04T19:48:02.692Z",
       "firstIndexedAt": "2026-11-04T18:58:50.230Z",
       "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Juan-Puerto-Rico-Puerto-Rico/Systems-Software-Testing-Engineer-Cloud---On-Premise-Intern_1218105"
     },
@@ -2060,7 +2476,7 @@
       "locationCountryCode": "FR",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-11-04T19:31:42.220Z",
+      "postedAt": "2026-11-04T19:04:16.901Z",
       "firstIndexedAt": "2026-11-04T18:31:55.659Z",
       "url": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/France-Bagneux/Data-Analyst---Quality---Internship--H-F-_R10104522"
     },
@@ -2099,7 +2515,7 @@
       "locationCountryCode": "CN",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-11-04T14:03:05.240Z",
+      "postedAt": "2026-11-04T08:01:02.481Z",
       "firstIndexedAt": "2026-11-04T17:21:19.070Z",
       "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BEIJING/Intern-for-analog-circuit-design_R56879"
     },
@@ -2169,19 +2585,6 @@
       "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159679459-extracurricular-internship-product-management-f-m-div-?oga=true"
     },
     {
-      "id": "1439c703-1806-420f-afc7-daa2213cdc5f",
-      "title": "Intern - Process Mining - Financial Sector (f/m/d)",
-      "company": "Deutsche Börse",
-      "companyDomain": "deutsche-boerse.com",
-      "location": null,
-      "locationCountryCode": "DE",
-      "remoteType": null,
-      "globalRemote": false,
-      "postedAt": null,
-      "firstIndexedAt": "2026-11-04T17:00:52.402Z",
-      "url": "https://career5.successfactors.eu/careers?company=Dboerse&career_ns=job_listing&career_job_req_id=27553"
-    },
-    {
       "id": "1ee3b607-9168-4fdf-9e43-97379e9567f2",
       "title": "Big Data Developer Intern",
       "company": "Zurich Insurance",
@@ -2193,19 +2596,6 @@
       "postedAt": null,
       "firstIndexedAt": "2026-11-04T16:30:50.325Z",
       "url": "https://career2.successfactors.eu/careers?company=SF2013&career_ns=job_listing&career_job_req_id=137953"
-    },
-    {
-      "id": "cacaa87c-b033-4cbb-a8f6-c7d8379f3160",
-      "title": "Data Analyst Internship",
-      "company": "InformaGroupPlc",
-      "companyDomain": "informamarkets.com",
-      "location": "Amsterdam, NH, Netherlands",
-      "locationCountryCode": "NL",
-      "remoteType": "hybrid",
-      "globalRemote": false,
-      "postedAt": "2026-11-04T15:33:17.251Z",
-      "firstIndexedAt": "2026-11-04T15:46:05.969Z",
-      "url": "https://jobs.smartrecruiters.com/InformaGroupPlc/744000159666020-data-analyst-internship?oga=true"
     },
     {
       "id": "67c9cf39-255e-44fd-bf8e-e3dda4020d57",
@@ -2320,7 +2710,7 @@
       "locationCountryCode": "CZ",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-11-04T19:51:29.343Z",
+      "postedAt": "2026-11-04T10:03:03.735Z",
       "firstIndexedAt": "2026-11-04T10:51:58.567Z",
       "url": "https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Brno-Czechia/Intern---Data-Analyst_R-01374008-1"
     },
@@ -2489,7 +2879,7 @@
       "locationCountryCode": "RO",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-11-05T10:01:05.494Z",
+      "postedAt": "2026-11-05T11:30:58.005Z",
       "firstIndexedAt": "2026-11-04T03:23:21.921Z",
       "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/Romania-Cluj-Napoca-Decembrie/Embedded-Software-Engineer-Intern_R267116"
     },
@@ -2502,7 +2892,7 @@
       "locationCountryCode": "TR",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-11-03T10:01:06.407Z",
+      "postedAt": "2026-11-03T11:30:59.615Z",
       "firstIndexedAt": "2026-11-04T03:23:21.921Z",
       "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/Turkey-Istanbul-Bilisim-Vadisi/RF-Design-Engineering-Summer-Intern_R266999-1"
     },
@@ -2515,178 +2905,9 @@
       "locationCountryCode": "TR",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-11-03T10:01:06.294Z",
+      "postedAt": "2026-11-03T11:30:59.456Z",
       "firstIndexedAt": "2026-11-04T03:23:21.921Z",
       "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/Turkey-Istanbul-Bilisim-Vadisi/RF-Design-Engineering-Intern_R266998"
-    },
-    {
-      "id": "719836ea-4d9e-497e-8f78-55e97934b54b",
-      "title": "Data Engineering Intern",
-      "company": "AtkinsRéalis",
-      "companyDomain": "atkinsrealis.com",
-      "location": "AtkinsRéalis - Corporate Office Bangalore",
-      "locationCountryCode": "IN",
-      "remoteType": "onsite",
-      "globalRemote": false,
-      "postedAt": "2026-11-03T20:32:33.000Z",
-      "firstIndexedAt": "2026-11-04T03:06:05.861Z",
-      "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/atkinsralis---corporate-office-bangalore/data-engineering-intern_r-164535"
-    },
-    {
-      "id": "8d69ffab-3263-42db-bce5-b3888a1ee580",
-      "title": "Software Engineer Intern - India Site",
-      "company": "Acron Aviation",
-      "companyDomain": "acronaviation.com",
-      "location": "Bengaluru",
-      "locationCountryCode": "IN",
-      "remoteType": "onsite",
-      "globalRemote": false,
-      "postedAt": "2026-11-03T09:59:27.000Z",
-      "firstIndexedAt": "2026-11-04T03:06:03.912Z",
-      "url": "https://jobs.lever.co/acronaviation/a464b1a4-01f4-4a28-b636-41dc508b3254"
-    },
-    {
-      "id": "ece9b342-8166-49ec-acf6-bec92013003b",
-      "title": "IT Intern (TEST - DO NOT APPLY)",
-      "company": "Allyant",
-      "companyDomain": null,
-      "location": "Ottawa, Ontario, K2C 3N2, Canada",
-      "locationCountryCode": "CA",
-      "remoteType": "onsite",
-      "globalRemote": false,
-      "postedAt": "2026-11-03T17:25:21.000Z",
-      "firstIndexedAt": "2026-11-04T03:05:20.824Z",
-      "url": "https://allyant.bamboohr.com/careers/29"
-    },
-    {
-      "id": "1c0c95c5-31d5-4172-8c8b-82fb5e607e0d",
-      "title": "Architecture Intern - ME",
-      "company": "AtkinsRéalis",
-      "companyDomain": "atkinsrealis.com",
-      "location": "AtkinsRéalis - Corporate Office Bangalore",
-      "locationCountryCode": "IN",
-      "remoteType": "hybrid",
-      "globalRemote": false,
-      "postedAt": "2026-11-03T15:57:58.000Z",
-      "firstIndexedAt": "2026-11-04T03:03:33.256Z",
-      "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/atkinsralis---corporate-office-bangalore/architecture-intern---me_r-170667"
-    },
-    {
-      "id": "deafe0ba-49f9-4582-be71-07c75244df04",
-      "title": "Intern Bachelors Software Eng",
-      "company": "Honeywell Aerospace",
-      "companyDomain": "honeywellaerospace.com",
-      "location": "Hyderabad, Telangana, India",
-      "locationCountryCode": "IN",
-      "remoteType": null,
-      "globalRemote": false,
-      "postedAt": "2026-11-03T14:57:50.000Z",
-      "firstIndexedAt": "2026-11-04T03:03:32.114Z",
-      "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/127572"
-    },
-    {
-      "id": "37793fca-e3c6-4820-bbe5-7d50c57e60e9",
-      "title": "Let's begin! Software Engineering Intern",
-      "company": "Moody's",
-      "companyDomain": "moodys.com",
-      "location": "Heredia - East Tower",
-      "locationCountryCode": "CR",
-      "remoteType": null,
-      "globalRemote": false,
-      "postedAt": "2026-11-03T15:57:59.000Z",
-      "firstIndexedAt": "2026-11-04T02:59:42.968Z",
-      "url": "https://career8.successfactors.com/career?career_ns=job_listing&company=MoodysProd&career_job_req_id=14562"
-    },
-    {
-      "id": "76829c5c-aeb7-4af5-9cdf-e290e0ff90de",
-      "title": "Software Engineering Intern (Java & AI)",
-      "company": "Seagate Technology",
-      "companyDomain": "seagate.com",
-      "location": "Woodlands, Singapore, W2",
-      "locationCountryCode": "SG",
-      "remoteType": "onsite",
-      "globalRemote": false,
-      "postedAt": "2026-11-03T11:22:37.000Z",
-      "firstIndexedAt": "2026-11-04T02:59:41.949Z",
-      "url": "https://career41.sapsf.com/career?career_ns=job_listing&company=seagatetec&career_job_req_id=15478"
-    },
-    {
-      "id": "bf698263-c839-41b0-ac05-9efa429d69ab",
-      "title": "IT Intern (Engineering) – Junior Systems Administrator (Azure / Microsoft 365)",
-      "company": "Pathway Communications",
-      "companyDomain": "pathwaycommunications.ca",
-      "location": "Markham, ON, Canada",
-      "locationCountryCode": "CA",
-      "remoteType": "onsite",
-      "globalRemote": false,
-      "postedAt": "2026-11-03T06:25:19.000Z",
-      "firstIndexedAt": "2026-11-04T02:59:39.680Z",
-      "url": "https://pathwaycommunications.applytojob.com/apply/c6HPkFiScW/IT-Intern-Engineering-Junior-Systems-Administrator-Azure-Microsoft-365"
-    },
-    {
-      "id": "2be1552b-47b3-48fd-b055-676db3aaa43b",
-      "title": "Business Analyst Intern, Strategic Supply Planning (All Genders)",
-      "company": "BESTSECRET",
-      "companyDomain": "bestsecret.com",
-      "location": "Best Secret Munich",
-      "locationCountryCode": "DE",
-      "remoteType": "hybrid",
-      "globalRemote": false,
-      "postedAt": "2026-11-03T13:41:40.000Z",
-      "firstIndexedAt": "2026-11-04T02:59:12.904Z",
-      "url": "https://career55.sapsf.eu/career?career_ns=job_listing&company=bestsecret&career_job_req_id=1115"
-    },
-    {
-      "id": "e2c8b4b8-4ac9-4c4a-bcc7-62265a885845",
-      "title": "Graphic Design Assistant (Co-op) - Winter 2027",
-      "company": "Conestoga Students Incorporated",
-      "companyDomain": "conestogastudents.com",
-      "location": "Kitchener, Ontario, N2G 4M4, Canada",
-      "locationCountryCode": "CA",
-      "remoteType": "remote",
-      "globalRemote": false,
-      "postedAt": "2026-11-03T08:56:25.000Z",
-      "firstIndexedAt": "2026-11-04T02:33:49.822Z",
-      "url": "https://conestogac.bamboohr.com/careers/277"
-    },
-    {
-      "id": "349612bd-1131-4ce4-a235-acf65e086ad5",
-      "title": "Quality and Infrastructure, Co-op SmartVu Developer",
-      "company": "Survalent",
-      "companyDomain": "survalent.com",
-      "location": "Mississauga , ON",
-      "locationCountryCode": "CA",
-      "remoteType": null,
-      "globalRemote": false,
-      "postedAt": "2026-11-03T17:38:43.000Z",
-      "firstIndexedAt": "2026-11-04T02:33:01.228Z",
-      "url": "https://fitzii.com/job/101120"
-    },
-    {
-      "id": "9561bcc6-ea2e-4bdf-9d74-e259989ff081",
-      "title": "Intern",
-      "company": "AtkinsRéalis",
-      "companyDomain": "atkinsrealis.com",
-      "location": "IN.Gurgaon.DLF Cyber City",
-      "locationCountryCode": "IN",
-      "remoteType": "hybrid",
-      "globalRemote": false,
-      "postedAt": "2026-11-03T15:10:22.000Z",
-      "firstIndexedAt": "2026-11-04T02:32:48.505Z",
-      "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/ingurgaondlf-cyber-city/intern_r-167567"
-    },
-    {
-      "id": "5abbd685-707e-4ee1-9c5e-8a4edcd2910f",
-      "title": "Intern",
-      "company": "AtkinsRéalis",
-      "companyDomain": "atkinsrealis.com",
-      "location": "AtkinsRéalis - Corporate Office Bangalore",
-      "locationCountryCode": "IN",
-      "remoteType": "hybrid",
-      "globalRemote": false,
-      "postedAt": "2026-11-03T16:36:56.000Z",
-      "firstIndexedAt": "2026-11-04T02:32:45.608Z",
-      "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/atkinsralis---corporate-office-bangalore/intern_r-167561"
     },
     {
       "id": "93db81a2-a098-47da-9b46-d26757cdbc7d",
@@ -2840,7 +3061,7 @@
       "locationCountryCode": "IT",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-11-04T01:02:58.123Z",
+      "postedAt": "2026-11-03T19:48:06.403Z",
       "firstIndexedAt": "2026-11-03T20:13:28.607Z",
       "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bolzano-Vicentino-Vicenza-Italy/DevOps-Intern--Undergraduate-_1213976"
     },
@@ -2853,7 +3074,7 @@
       "locationCountryCode": "BR",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-11-04T03:31:35.987Z",
+      "postedAt": "2026-11-03T18:48:56.978Z",
       "firstIndexedAt": "2026-11-03T19:37:16.282Z",
       "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Sao-Paulo-Edificio-Pedro-Mariz/Intern---IT-System-Development_R0455958"
     },
@@ -2866,9 +3087,9 @@
       "locationCountryCode": "CH",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-11-03T16:52:27.194Z",
+      "postedAt": "2026-11-03T20:35:16.823Z",
       "firstIndexedAt": "2026-11-03T19:18:19.209Z",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/AI-Compiler-Intern--CUDA-Tile-IR---Summer-2027_JR2029069"
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Switzerland-Zurich/AI-Compiler-Intern--CUDA-Tile-IR---Summer-2027_JR2029069"
     },
     {
       "id": "6f76bb71-0a17-4183-a637-877a763b92ce",
@@ -2892,7 +3113,7 @@
       "locationCountryCode": "FR",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-11-03T08:45:51.422Z",
+      "postedAt": "2026-11-03T09:02:07.829Z",
       "firstIndexedAt": "2026-11-03T17:40:40.258Z",
       "url": "https://amadeus.wd502.myworkdayjobs.com/jobs/job/Nice/Internship---Product-Definition-Analyst_R38603"
     },
@@ -2931,7 +3152,7 @@
       "locationCountryCode": "NL",
       "remoteType": "remote",
       "globalRemote": false,
-      "postedAt": "2026-11-03T09:45:32.977Z",
+      "postedAt": "2026-11-03T08:30:21.277Z",
       "firstIndexedAt": "2026-11-03T15:45:10.991Z",
       "url": "https://kramp.wd502.myworkdayjobs.com/Krampcareers/job/Varsseveld---Breukelaarweg/Pricing-AI---Data-Analytics-Intern_REQ0015348"
     },
@@ -3048,7 +3269,7 @@
       "locationCountryCode": "ID",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-11-03T23:04:00.315Z",
+      "postedAt": "2026-11-03T18:49:47.914Z",
       "firstIndexedAt": "2026-11-03T12:49:23.852Z",
       "url": "https://nttlimited.wd3.myworkdayjobs.com/ntt_careers/job/Jakarta-Indonesia/IT-Infrastructure-Intern_R-152282"
     },
@@ -3191,7 +3412,7 @@
       "locationCountryCode": "AE",
       "remoteType": "remote",
       "globalRemote": false,
-      "postedAt": "2026-11-03T23:00:58.342Z",
+      "postedAt": "2026-11-03T15:04:36.552Z",
       "firstIndexedAt": "2026-11-03T02:16:27.377Z",
       "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Remote/Artificial-Intelligence-Intern_R5042294-1"
     },
@@ -3269,7 +3490,7 @@
       "locationCountryCode": "PL",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-11-02T21:46:42.666Z",
+      "postedAt": "2026-11-02T18:48:12.854Z",
       "firstIndexedAt": "2026-11-02T17:01:52.106Z",
       "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/DevOps-Software-Engineering-Intern_JR0288633"
     },
@@ -3464,9 +3685,9 @@
       "locationCountryCode": "CN",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-11-02T16:52:40.105Z",
+      "postedAt": "2026-11-02T20:35:27.409Z",
       "firstIndexedAt": "2026-11-01T16:08:34.210Z",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shenzhen/Manufacturing-Automation-Solution-Intern---2027_JR2028280"
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/China-Shenzhen/Manufacturing-Automation-Solution-Intern---2027_JR2028280"
     },
     {
       "id": "5c984d9b-4f9d-40f5-9684-eac8ee0a8868",
@@ -3477,7 +3698,7 @@
       "locationCountryCode": "SG",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-11-01T12:33:21.432Z",
+      "postedAt": "2026-11-01T14:02:01.375Z",
       "firstIndexedAt": "2026-11-01T12:50:25.500Z",
       "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Data-Analytics-in-Supply-Chain_UNI4031-1"
     },
@@ -3503,7 +3724,7 @@
       "locationCountryCode": "CA",
       "remoteType": "remote",
       "globalRemote": false,
-      "postedAt": "2026-10-30T10:45:37.987Z",
+      "postedAt": "2026-10-30T09:47:38.846Z",
       "firstIndexedAt": "2026-10-31T12:23:33.602Z",
       "url": "https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/UX-Intern_JR-045787"
     },
@@ -3516,7 +3737,7 @@
       "locationCountryCode": "CA",
       "remoteType": "remote",
       "globalRemote": false,
-      "postedAt": "2026-10-30T10:45:38.111Z",
+      "postedAt": "2026-10-30T09:47:38.963Z",
       "firstIndexedAt": "2026-10-31T12:23:33.602Z",
       "url": "https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-stack-AI-Developer-Intern_JR-045791"
     },
@@ -3672,7 +3893,7 @@
       "locationCountryCode": "TR",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-31T10:01:07.188Z",
+      "postedAt": "2026-10-31T11:31:01.322Z",
       "firstIndexedAt": "2026-10-30T21:16:12.849Z",
       "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/Turkey-Istanbul-Bilisim-Vadisi/Software-Engineer-Intern_R267005"
     },
@@ -3763,7 +3984,7 @@
       "locationCountryCode": "GB",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-11-03T21:48:06.345Z",
+      "postedAt": "2026-11-03T20:06:07.521Z",
       "firstIndexedAt": "2026-10-30T15:50:26.082Z",
       "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Software-Engineering-Intern_R5057006-1"
     },
@@ -3789,7 +4010,7 @@
       "locationCountryCode": "CZ",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-30T16:33:01.766Z",
+      "postedAt": "2026-10-31T07:02:47.401Z",
       "firstIndexedAt": "2026-10-30T14:55:03.009Z",
       "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Praha/STAGE---Agentic-AI-to-support-Web-UI-and-API-testing---H-F_R0344862"
     },
@@ -3815,7 +4036,7 @@
       "locationCountryCode": "NL",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-30T19:51:32.887Z",
+      "postedAt": "2026-10-30T10:03:06.413Z",
       "firstIndexedAt": "2026-10-30T14:22:54.338Z",
       "url": "https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Eindhoven-Netherlands/Software-Engineering---AI-Engineering-Intern_R-01374129-1"
     },
@@ -3867,7 +4088,7 @@
       "locationCountryCode": "MY",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-11-06T15:01:12.661Z",
+      "postedAt": "2026-11-06T18:46:53.292Z",
       "firstIndexedAt": "2026-10-30T10:19:30.808Z",
       "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Petaling-Jaya/Intern---Data---Analytics-Specialist_202610-127835"
     },
@@ -3971,7 +4192,7 @@
       "locationCountryCode": "ES",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-29T12:33:23.101Z",
+      "postedAt": "2026-10-29T14:02:02.806Z",
       "firstIndexedAt": "2026-10-30T01:28:41.135Z",
       "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI---Computer-Vision-Engineering-Intern_UNI4780-1"
     },
@@ -3984,7 +4205,7 @@
       "locationCountryCode": "ES",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-29T12:33:23.117Z",
+      "postedAt": "2026-10-29T14:02:02.559Z",
       "firstIndexedAt": "2026-10-30T01:28:41.135Z",
       "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI-Engineering-Intern_UNI4353-1"
     },
@@ -3997,7 +4218,7 @@
       "locationCountryCode": "SG",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-10-29T12:33:22.289Z",
+      "postedAt": "2026-10-29T14:02:02.205Z",
       "firstIndexedAt": "2026-10-30T01:28:41.135Z",
       "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Data-Science_UNI4644-2"
     },
@@ -4010,7 +4231,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-29T12:33:22.281Z",
+      "postedAt": "2026-10-29T14:02:02.218Z",
       "firstIndexedAt": "2026-10-30T01:28:41.135Z",
       "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Hardware-Test-Automation---AI-Engineer_UNI4954-1"
     },
@@ -4023,7 +4244,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-29T12:33:22.611Z",
+      "postedAt": "2026-10-29T14:02:02.719Z",
       "firstIndexedAt": "2026-10-30T01:28:41.135Z",
       "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Electrical-Hardware-Engineering_UNI4952"
     },
@@ -4075,7 +4296,7 @@
       "locationCountryCode": "PH",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-30T00:32:00.153Z",
+      "postedAt": "2026-10-30T07:47:11.643Z",
       "firstIndexedAt": "2026-10-29T22:18:00.942Z",
       "url": "https://aia.wd3.myworkdayjobs.com/External/job/Makati-PH-AIA-Philippines/Data-Analytics-Intern_JR-71444-1"
     },
@@ -4119,19 +4340,6 @@
       "url": "https://jobs.apple.com/en-us/details/200690946/manufacturing-quality-assurance-intern?team=OPMFG"
     },
     {
-      "id": "89da1e1f-f595-4b6a-9932-fd93d3a21575",
-      "title": "Product Engineer Intern",
-      "company": "Jabil Circuit",
-      "companyDomain": "jabil.com",
-      "location": "Guadalajara",
-      "locationCountryCode": "MX",
-      "remoteType": null,
-      "globalRemote": false,
-      "postedAt": "2026-10-29T12:32:51.371Z",
-      "firstIndexedAt": "2026-10-29T17:47:01.339Z",
-      "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Product-Engineer-Intern_J2470106"
-    },
-    {
       "id": "309c9ff5-ac66-4f1e-9929-8aa7001c74fc",
       "title": "Internship: Generative AI Designer (as of January 2027 for 12 months in Rotkreuz)",
       "company": "Roche",
@@ -4140,7 +4348,7 @@
       "locationCountryCode": "CH",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-29T15:01:16.781Z",
+      "postedAt": "2026-10-29T18:46:55.939Z",
       "firstIndexedAt": "2026-10-29T17:15:17.744Z",
       "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Rotkreuz/Internship--Generative-AI-Designer--as-of-January-2027-for-12-months-in-Rotkreuz-_202610-127757"
     },
@@ -4153,7 +4361,7 @@
       "locationCountryCode": "CZ",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-10-30T01:03:10.439Z",
+      "postedAt": "2026-10-29T19:48:19.125Z",
       "firstIndexedAt": "2026-10-29T17:12:31.499Z",
       "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Kutna-Hora-Czech-Republic/AI---Automation-Intern---Product-Engineering---NPI_1216274"
     },
@@ -4218,9 +4426,9 @@
       "locationCountryCode": "TW",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-29T16:53:41.399Z",
+      "postedAt": "2026-10-29T20:36:14.011Z",
       "firstIndexedAt": "2026-10-29T14:18:22.256Z",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/System-Level-Product-Engineer--RDSS-Intern-_JR2024119"
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Hsinchu/System-Level-Product-Engineer--RDSS-Intern-_JR2024119"
     },
     {
       "id": "b19bea6b-71e5-4626-a321-e32c2724c806",
@@ -4231,9 +4439,9 @@
       "locationCountryCode": "TW",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-10-29T16:53:41.399Z",
+      "postedAt": "2026-10-29T20:36:14.011Z",
       "firstIndexedAt": "2026-10-29T14:18:22.256Z",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Server-Firmware-Developer--RDSS-Intern-_JR2028570"
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Taipei/Server-Firmware-Developer--RDSS-Intern-_JR2028570"
     },
     {
       "id": "0680169f-0c67-45a1-8fd4-8fc05fe0a3f9",
@@ -4312,19 +4520,6 @@
       "postedAt": "2026-10-29T00:00:00.000Z",
       "firstIndexedAt": "2026-10-29T10:18:16.315Z",
       "url": "https://www.amazon.jobs/en/jobs/10592105/2027-software-dev-engineer-intern-haifa-israel"
-    },
-    {
-      "id": "096e9f26-b09c-43ed-8f52-196924f2fdc6",
-      "title": "Intern - Product Engineering Center (PEC)",
-      "company": "MAS Holdings",
-      "companyDomain": "masholdings.com",
-      "location": "Sri Lanka",
-      "locationCountryCode": "LK",
-      "remoteType": "onsite",
-      "globalRemote": false,
-      "postedAt": "2026-10-29T03:55:54.000Z",
-      "firstIndexedAt": "2026-10-29T09:15:31.891Z",
-      "url": "https://egmh.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21910"
     },
     {
       "id": "af6dbe19-810d-4b78-9a49-7e25c58e4911",
@@ -4478,7 +4673,7 @@
       "locationCountryCode": "SE",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-28T12:16:33.469Z",
+      "postedAt": "2026-10-28T14:18:32.664Z",
       "firstIndexedAt": "2026-10-28T13:27:13.959Z",
       "url": "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Sweden---Skolgatan---Ume/Software-Developer-Intern---Summer-2027_R0027232"
     },
@@ -4496,19 +4691,6 @@
       "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Products-Working-Internship_R00367736"
     },
     {
-      "id": "9ebb60f5-0367-4af0-9717-049ce5a9ba80",
-      "title": "Software Engineer Intern",
-      "company": "Motorola Solutions",
-      "companyDomain": "motorolasolutions.com",
-      "location": "Penang, Malaysia",
-      "locationCountryCode": "MY",
-      "remoteType": "onsite",
-      "globalRemote": false,
-      "postedAt": "2026-10-28T17:01:35.054Z",
-      "firstIndexedAt": "2026-10-28T12:31:44.272Z",
-      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Software-Engineer-Intern_R70137"
-    },
-    {
       "id": "6b58d62a-ddcb-4a12-80cb-fa5f75017606",
       "title": "Software Engineer Intern",
       "company": "Motorola Solutions",
@@ -4517,7 +4699,7 @@
       "locationCountryCode": "VN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-28T17:01:34.938Z",
+      "postedAt": "2026-10-28T20:20:45.315Z",
       "firstIndexedAt": "2026-10-28T12:31:44.272Z",
       "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ho-Chi-Minh-Vietnam/Software-Engineer-Intern_R69931"
     },
@@ -4751,7 +4933,7 @@
       "locationCountryCode": "CA",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-27T15:01:02.516Z",
+      "postedAt": "2026-10-27T17:30:55.869Z",
       "firstIndexedAt": "2026-10-27T18:54:42.652Z",
       "url": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Geospatial-Product-Engineering-Intern_R58213"
     },
@@ -4777,7 +4959,7 @@
       "locationCountryCode": "PL",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-10-27T17:01:36.701Z",
+      "postedAt": "2026-10-27T20:20:48.463Z",
       "firstIndexedAt": "2026-10-27T18:24:54.428Z",
       "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-DevOps-Engineer_R69906"
     },
@@ -4803,7 +4985,7 @@
       "locationCountryCode": "LU",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-27T10:46:03.341Z",
+      "postedAt": "2026-10-27T13:31:09.171Z",
       "firstIndexedAt": "2026-10-27T17:12:54.088Z",
       "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Bascharage---Luxembourg/IT-Intern_R2026-4069"
     },
@@ -4829,7 +5011,7 @@
       "locationCountryCode": "GB",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-10-26T17:00:48.264Z",
+      "postedAt": "2026-10-26T20:19:12.220Z",
       "firstIndexedAt": "2026-10-27T15:53:34.574Z",
       "url": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship--Cybersecurity_JR260836"
     },
@@ -4842,7 +5024,7 @@
       "locationCountryCode": "GB",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-10-26T17:00:48.236Z",
+      "postedAt": "2026-10-26T20:19:12.404Z",
       "firstIndexedAt": "2026-10-27T15:53:34.574Z",
       "url": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship--Data---Analytics_JR260771"
     },
@@ -4985,7 +5167,7 @@
       "locationCountryCode": "GB",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-10-28T16:01:33.425Z",
+      "postedAt": "2026-10-28T19:15:58.592Z",
       "firstIndexedAt": "2026-10-27T09:15:55.739Z",
       "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Reading/Falcon-Complete-Analyst-Intern-Graduate---Summer-2027--Reading--GBR-_R30675"
     },
@@ -5224,19 +5406,6 @@
       "url": "https://www.amazon.jobs/en/jobs/10588762/2027-software-dev-engineer-intern-machine-learning-uk"
     },
     {
-      "id": "b73d8d87-f9d2-4c46-8a7a-9ff636a0a805",
-      "title": "Internship – Digital Core Architect (Cloud) – as of February 2027",
-      "company": "Accenture",
-      "companyDomain": "accenture.com",
-      "location": "Brussels",
-      "locationCountryCode": "BE",
-      "remoteType": "hybrid",
-      "globalRemote": false,
-      "postedAt": "2026-10-27T00:38:47.370Z",
-      "firstIndexedAt": "2026-10-26T17:35:22.045Z",
-      "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Brussels/Internship---Digital-Core-Architect--Cloud----as-of-February-2027_R00366968"
-    },
-    {
       "id": "f9ab8671-2ae9-4ba4-bf3c-f1f105d6dd6f",
       "title": "Intern Frontend developer",
       "company": "TenThousand",
@@ -5271,9 +5440,9 @@
       "locationCountryCode": "CH",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-10-26T16:53:41.399Z",
+      "postedAt": "2026-10-26T20:36:14.011Z",
       "firstIndexedAt": "2026-10-26T11:49:41.615Z",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/GenAI-Algorithms-Intern---Model-Optimization-for-Inference_JR2028597"
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Switzerland-Zurich/GenAI-Algorithms-Intern---Model-Optimization-for-Inference_JR2028597"
     },
     {
       "id": "0966cc11-9869-4011-8997-e1fff773bda2",
@@ -5354,19 +5523,6 @@
       "url": "https://pernodricard.wd3.myworkdayjobs.com/pernod-ricard/job/Paris/Cloud-and-Infrastructure-Intern---Paris---January-2027_JR-055318"
     },
     {
-      "id": "6fbe2770-359b-4b94-b301-42265f4a8350",
-      "title": "Intern Deployment Engineer - Data & AI",
-      "company": "Celonis",
-      "companyDomain": "celonis.com",
-      "location": "Munich, Germany",
-      "locationCountryCode": "DE",
-      "remoteType": "hybrid",
-      "globalRemote": false,
-      "postedAt": "2026-10-23T15:29:21.000Z",
-      "firstIndexedAt": "2026-10-24T10:45:16.979Z",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7986440003?gh_jid=7986440003"
-    },
-    {
       "id": "0a395ceb-e827-4ba6-b474-bc74c3f55dac",
       "title": "Internship Data & AI / AI-Powered Internal Business Assistant",
       "company": "Avanade",
@@ -5388,7 +5544,7 @@
       "locationCountryCode": "CA",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-23T15:01:03.293Z",
+      "postedAt": "2026-10-23T17:30:58.109Z",
       "firstIndexedAt": "2026-10-24T04:00:47.086Z",
       "url": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Software-Engineering-Intern_R57963"
     },
@@ -5401,7 +5557,7 @@
       "locationCountryCode": "CA",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-27T15:01:02.704Z",
+      "postedAt": "2026-10-27T17:30:56.202Z",
       "firstIndexedAt": "2026-10-24T04:00:47.086Z",
       "url": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Navigation---Machine-Learning-Engineering-Intern--16-Months-_R57980"
     },
@@ -5492,7 +5648,7 @@
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-23T16:53:41.400Z",
+      "postedAt": "2026-10-24T05:08:26.439Z",
       "firstIndexedAt": "2026-10-23T18:59:20.114Z",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--AI-Automation-Infra---2027_JR2028205"
     },
@@ -5505,9 +5661,9 @@
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-23T16:53:41.400Z",
+      "postedAt": "2026-10-23T20:36:14.011Z",
       "firstIndexedAt": "2026-10-23T18:59:20.114Z",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/System-Software-Engineer-Intern--Embedded---2027_JR2028298"
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/China-Shanghai/System-Software-Engineer-Intern--Embedded---2027_JR2028298"
     },
     {
       "id": "af95fbcf-5fe1-4040-9ee4-01bf80b45de4",
@@ -5518,9 +5674,9 @@
       "locationCountryCode": "CN",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-10-23T16:53:41.400Z",
+      "postedAt": "2026-10-23T20:36:14.011Z",
       "firstIndexedAt": "2026-10-23T18:59:20.114Z",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/Software-Engineer-Intern---NVEX--2027_JR2028186"
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/China-Beijing/Software-Engineer-Intern---NVEX--2027_JR2028186"
     },
     {
       "id": "bd25ebd5-54d8-4072-85cc-90e809213cdf",
@@ -5531,9 +5687,9 @@
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-23T16:53:41.400Z",
+      "postedAt": "2026-10-23T20:36:14.011Z",
       "firstIndexedAt": "2026-10-23T18:59:20.114Z",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Computer-Architecture-Intern---2027_JR2026052"
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/China-Shanghai/Computer-Architecture-Intern---2027_JR2026052"
     },
     {
       "id": "05d83918-aa67-449e-b842-048fffdcf9f0",
@@ -5661,7 +5817,7 @@
       "locationCountryCode": "DE",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-23T10:01:10.601Z",
+      "postedAt": "2026-10-23T11:31:01.692Z",
       "firstIndexedAt": "2026-10-23T12:44:33.813Z",
       "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/Germany-Hamburg/Product-Applications---Systems-Pipeline-Intern_R267127"
     },
@@ -5739,7 +5895,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-23T09:31:16.041Z",
+      "postedAt": "2026-10-23T11:01:22.953Z",
       "firstIndexedAt": "2026-10-23T06:17:31.094Z",
       "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Science-Park/Technology-Development-Engineer-Intern--Silicon-Photonics---Jan-Jun-2027-_JR-2604278"
     },
@@ -5843,7 +5999,7 @@
       "locationCountryCode": "DE",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-10-22T21:46:54.572Z",
+      "postedAt": "2026-10-22T18:48:28.532Z",
       "firstIndexedAt": "2026-10-22T20:55:44.056Z",
       "url": "https://intel.wd1.myworkdayjobs.com/External/job/Germany-Munich/Software-Development-Intern--m-f-d-_JR0288215"
     },
@@ -5856,9 +6012,9 @@
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-22T16:53:41.400Z",
+      "postedAt": "2026-10-22T20:36:14.011Z",
       "firstIndexedAt": "2026-10-22T19:23:55.564Z",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/AI-Agent-Engineer-Intern--AI-Enablement-Process---2027_JR2025834-1"
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/China-Beijing/AI-Agent-Engineer-Intern--AI-Enablement-Process---2027_JR2025834-1"
     },
     {
       "id": "3ecf423b-2eac-434e-91d9-3fdd43a825d1",
@@ -5869,7 +6025,7 @@
       "locationCountryCode": "MX",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-10-22T16:33:07.851Z",
+      "postedAt": "2026-10-23T07:02:53.064Z",
       "firstIndexedAt": "2026-10-22T17:45:09.691Z",
       "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Mexico-City/AI-Intern---Business-Efficiency---Mobile-Connectivity-Solutions_R0339389"
     },
@@ -5908,7 +6064,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-22T23:04:40.451Z",
+      "postedAt": "2026-10-22T20:19:36.097Z",
       "firstIndexedAt": "2026-10-22T14:47:16.804Z",
       "url": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/SGP---SINGAPORE/ServiceNow-Developer-Intern_51592061"
     },
@@ -6077,9 +6233,9 @@
       "locationCountryCode": "TW",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-10-22T16:53:41.400Z",
+      "postedAt": "2026-10-22T20:36:14.011Z",
       "firstIndexedAt": "2026-10-22T08:21:03.056Z",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Client-System-Firmware-Engineer--RDSS-Intern-_JR2025560"
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Taipei/Client-System-Firmware-Engineer--RDSS-Intern-_JR2025560"
     },
     {
       "id": "de4f2b3e-1007-4c5a-9207-c52bd81f4753",
@@ -6090,9 +6246,9 @@
       "locationCountryCode": "TW",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-22T16:53:41.400Z",
+      "postedAt": "2026-10-22T20:36:14.011Z",
       "firstIndexedAt": "2026-10-22T08:21:03.056Z",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Enterprise-System-Firmware-Engineer--RDSS-Intern-_JR2026055"
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Taipei/Enterprise-System-Firmware-Engineer--RDSS-Intern-_JR2026055"
     },
     {
       "id": "2225ff09-30de-4bab-be59-14205d531c8a",
@@ -6103,7 +6259,7 @@
       "locationCountryCode": "ES",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-21T10:01:11.353Z",
+      "postedAt": "2026-10-21T11:31:01.692Z",
       "firstIndexedAt": "2026-10-22T01:43:29.926Z",
       "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/Spain-Valencia-Cortes-Valencianas/Product-Applications-Intern_R267089"
     },
@@ -6116,7 +6272,7 @@
       "locationCountryCode": "IT",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-21T10:01:11.499Z",
+      "postedAt": "2026-10-21T11:31:01.692Z",
       "firstIndexedAt": "2026-10-22T01:43:29.926Z",
       "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/Italy-Milan-Assago/AMS-Design-Verification-Intern_R267539"
     },
@@ -6129,7 +6285,7 @@
       "locationCountryCode": "IT",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-21T10:01:11.455Z",
+      "postedAt": "2026-10-21T11:31:01.692Z",
       "firstIndexedAt": "2026-10-22T01:43:29.926Z",
       "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/Italy-Milan-Assago/Digital-Design-Engineering-Intern_R267538"
     },
@@ -6181,7 +6337,7 @@
       "locationCountryCode": "ES",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-21T12:33:26.625Z",
+      "postedAt": "2026-10-21T14:02:06.457Z",
       "firstIndexedAt": "2026-10-21T17:57:59.910Z",
       "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Quality-Intern_UNI4614-2"
     },
@@ -6220,7 +6376,7 @@
       "locationCountryCode": "SG",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-10-22T00:03:26.691Z",
+      "postedAt": "2026-10-21T17:03:25.548Z",
       "firstIndexedAt": "2026-10-21T17:25:38.616Z",
       "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Singapore-Singapore-Singapore/Intern--Data-Analyst_WD30283077"
     },
@@ -6233,7 +6389,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-22T00:03:26.913Z",
+      "postedAt": "2026-10-21T17:03:25.548Z",
       "firstIndexedAt": "2026-10-21T17:25:38.616Z",
       "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Singapore-Singapore-Singapore/Business-Intern--Business-Analytics_WD30283076"
     },
@@ -6246,9 +6402,9 @@
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-21T16:53:41.400Z",
+      "postedAt": "2026-10-21T20:36:14.011Z",
       "firstIndexedAt": "2026-10-21T16:39:53.503Z",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern---2027_JR2026972"
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern---2027_JR2026972"
     },
     {
       "id": "0ef463f8-2c0e-4bab-91f9-9daea6a3d6b7",
@@ -6262,6 +6418,19 @@
       "postedAt": "2026-10-21T15:16:06.134Z",
       "firstIndexedAt": "2026-10-21T16:39:51.996Z",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Bristol/Software-Intern---Embedded-Systems-2027_JR2028274-1"
+    },
+    {
+      "id": "9d9eff83-13eb-412d-871e-09d9912f59be",
+      "title": "AI-Native Game Design Intern",
+      "company": "Tencent",
+      "companyDomain": "tencent.com",
+      "location": "United Kingdom-London",
+      "locationCountryCode": "GB",
+      "remoteType": "onsite",
+      "globalRemote": false,
+      "postedAt": "2026-10-22T06:45:46.899Z",
+      "firstIndexedAt": "2026-10-21T16:24:12.855Z",
+      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/AI-Native-Game-Design-Intern_R108252-1"
     },
     {
       "id": "b64611ed-fe06-49eb-8bde-cb583dda4765",
@@ -6285,7 +6454,7 @@
       "locationCountryCode": "ES",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-21T12:33:26.668Z",
+      "postedAt": "2026-10-21T14:02:06.483Z",
       "firstIndexedAt": "2026-10-21T15:56:16.718Z",
       "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI--Data---Advanced-Manufacturing-Intern_UNI4791-1"
     },
@@ -6298,7 +6467,7 @@
       "locationCountryCode": "ES",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-21T12:33:26.731Z",
+      "postedAt": "2026-10-21T14:02:06.743Z",
       "firstIndexedAt": "2026-10-21T15:56:16.718Z",
       "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Science-Intern_UNI3973-1"
     },
@@ -6324,7 +6493,7 @@
       "locationCountryCode": "PL",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-10-21T21:47:02.227Z",
+      "postedAt": "2026-10-21T18:48:31.844Z",
       "firstIndexedAt": "2026-10-21T14:56:51.044Z",
       "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/Intern-Software-QA-Test-Engineer_JR0288220"
     },
@@ -6376,7 +6545,7 @@
       "locationCountryCode": "PL",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-21T21:47:02.227Z",
+      "postedAt": "2026-10-21T18:48:32.368Z",
       "firstIndexedAt": "2026-10-21T13:17:53.982Z",
       "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/System-Software-Engineering-Intern_JR0288207"
     },
@@ -6402,22 +6571,9 @@
       "locationCountryCode": "PL",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-10-21T21:47:02.227Z",
+      "postedAt": "2026-10-21T18:48:32.710Z",
       "firstIndexedAt": "2026-10-21T10:50:23.475Z",
       "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/Media-AI-Software-Intern_JR0288216"
-    },
-    {
-      "id": "5a587c1e-c569-4433-b4a5-98a6e5b7f7f5",
-      "title": "AI-Native Game Design Intern",
-      "company": "Tencent",
-      "companyDomain": "tencent.com",
-      "location": "United Kingdom-London",
-      "locationCountryCode": "GB",
-      "remoteType": "onsite",
-      "globalRemote": false,
-      "postedAt": "2026-10-21T20:49:23.013Z",
-      "firstIndexedAt": "2026-10-21T10:47:21.945Z",
-      "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/United-Kingdom-London/AI-Native-Game-Design-Intern_R108252"
     },
     {
       "id": "98e9f83a-a67f-400e-b928-6ab363c4d6a9",
@@ -6532,7 +6688,7 @@
       "locationCountryCode": "FR",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-10-20T15:46:13.464Z",
+      "postedAt": "2026-10-20T20:18:43.003Z",
       "firstIndexedAt": "2026-10-21T00:46:50.435Z",
       "url": "https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/Paris/Junior-Quant-Analyst-Intern---EU-Carbon-Markets_R119865-1"
     },
@@ -6545,7 +6701,7 @@
       "locationCountryCode": "PL",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-10-20T09:15:58.045Z",
+      "postedAt": "2026-10-20T16:19:38.347Z",
       "firstIndexedAt": "2026-10-20T22:46:54.439Z",
       "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Katowice-Poland/Business-Intelligence-Intern_R26-6613"
     },
@@ -6597,7 +6753,7 @@
       "locationCountryCode": "PL",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-10-20T21:47:02.227Z",
+      "postedAt": "2026-10-20T18:48:37.249Z",
       "firstIndexedAt": "2026-10-20T17:19:43.336Z",
       "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/Middleware-Software-Engineering-Intern_JR0288213"
     },
@@ -6610,7 +6766,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-23T18:07:45.648Z",
+      "postedAt": "2026-10-23T20:04:33.161Z",
       "firstIndexedAt": "2026-10-20T17:00:46.596Z",
       "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Intern---HIG-HBM-Product-Engineering--Advance-Data-Analytics-_JR114591"
     },
@@ -6662,7 +6818,7 @@
       "locationCountryCode": "FR",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-10-20T13:16:27.973Z",
+      "postedAt": "2026-10-20T19:46:24.646Z",
       "firstIndexedAt": "2026-10-20T15:34:56.190Z",
       "url": "https://relx.wd3.myworkdayjobs.com/relx/job/Paris/Junior-Quant-Analyst-Intern---EU-Carbon-Markets_R119865-2"
     },
@@ -6896,9 +7052,9 @@
       "locationCountryCode": "DE",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-31T16:53:41.398Z",
+      "postedAt": "2026-10-31T20:36:14.009Z",
       "firstIndexedAt": "2026-10-20T13:04:44.412Z",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2028210"
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Germany-Munich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2028210"
     },
     {
       "id": "a4f2a9c4-2ed2-4e9b-be03-11f2640e19cd",
@@ -6912,19 +7068,6 @@
       "postedAt": "2026-10-20T12:17:15.285Z",
       "firstIndexedAt": "2026-10-20T12:35:36.806Z",
       "url": "https://nvent.wd5.myworkdayjobs.com/nVent/job/Prejmer-RO/Business-Intelligence---Data-Analytics-Intern--1-year_R23586"
-    },
-    {
-      "id": "1582556b-9ef9-490b-bf0a-6e20dd8f08a7",
-      "title": "AI Learning Solutions Intern",
-      "company": "Ericsson",
-      "companyDomain": "ericsson.com",
-      "location": "Stockholm, Sweden",
-      "locationCountryCode": "SE",
-      "remoteType": null,
-      "globalRemote": false,
-      "postedAt": "2026-10-27T00:00:00.000Z",
-      "firstIndexedAt": "2026-10-20T12:15:37.182Z",
-      "url": "https://career2.successfactors.eu/careers?company=Ericsson&career_ns=job_listing&career_job_req_id=793086"
     },
     {
       "id": "441aa439-fa17-483b-b747-355ae6f4e0a0",
@@ -6987,7 +7130,7 @@
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-20T21:47:02.227Z",
+      "postedAt": "2026-10-20T18:48:38.489Z",
       "firstIndexedAt": "2026-10-20T07:01:40.578Z",
       "url": "https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/AI-Software-Engineer-Intern_JR0288261"
     },
@@ -7065,7 +7208,7 @@
       "locationCountryCode": "DE",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-10-19T21:47:02.227Z",
+      "postedAt": "2026-10-19T18:48:42.084Z",
       "firstIndexedAt": "2026-10-20T01:48:13.554Z",
       "url": "https://intel.wd1.myworkdayjobs.com/External/job/Germany-Munich/Development-Tools-Software-Engineer-Intern--m-f-d-_JR0288205"
     },
@@ -7169,7 +7312,7 @@
       "locationCountryCode": "GB",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-19T10:01:12.853Z",
+      "postedAt": "2026-10-19T11:31:01.692Z",
       "firstIndexedAt": "2026-10-19T17:17:09.637Z",
       "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Newbury/Analog-Mixed-Signal-Design-Intern_R267108"
     },
@@ -7198,6 +7341,32 @@
       "postedAt": "2026-11-02T13:08:01.074Z",
       "firstIndexedAt": "2026-10-19T14:34:10.327Z",
       "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Lodz/Data---AI-Internship-Program_R00365279"
+    },
+    {
+      "id": "9c06f55d-a724-41e2-9a3b-94562a913c22",
+      "title": "Internship 2027 for Projects, Engineering & Technology, PETRONAS (Bachelor's in Information Technology)",
+      "company": "PETRONAS",
+      "companyDomain": "petronas.com",
+      "location": "Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "locationCountryCode": "MY",
+      "remoteType": null,
+      "globalRemote": false,
+      "postedAt": "2026-11-10T01:45:42.000Z",
+      "firstIndexedAt": "2026-10-19T11:45:35.791Z",
+      "url": "https://epuc.fa.ap1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/job/29494"
+    },
+    {
+      "id": "d5b423c0-ccd0-47ef-8f0c-90ee12249904",
+      "title": "Internship 2027 for Projects, Engineering & Technology, PETRONAS (Bachelor's in Information Technology - UI/UX Designer)",
+      "company": "PETRONAS",
+      "companyDomain": "petronas.com",
+      "location": "Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "locationCountryCode": "MY",
+      "remoteType": null,
+      "globalRemote": false,
+      "postedAt": "2026-11-10T01:48:24.000Z",
+      "firstIndexedAt": "2026-10-19T11:45:35.791Z",
+      "url": "https://epuc.fa.ap1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/job/29499"
     },
     {
       "id": "663b1913-53d4-434b-8e4d-ae1bcdc1e2c4",
@@ -7260,7 +7429,7 @@
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-19T16:53:41.400Z",
+      "postedAt": "2026-10-20T05:08:26.439Z",
       "firstIndexedAt": "2026-10-19T08:49:55.307Z",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--AI-Agent-Test-Development---2027_JR2027478"
     },
@@ -7273,9 +7442,9 @@
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-19T16:53:41.400Z",
+      "postedAt": "2026-10-19T20:36:14.011Z",
       "firstIndexedAt": "2026-10-19T08:49:55.307Z",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Developer-Intern---Interconnect-Hardware-Frontend--2027_JR2027468"
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/China-Shanghai/AI-Developer-Intern---Interconnect-Hardware-Frontend--2027_JR2027468"
     },
     {
       "id": "78a68df6-45e7-4527-94bc-ce49a152c328",
@@ -7286,22 +7455,9 @@
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-19T16:53:41.400Z",
+      "postedAt": "2026-10-19T20:36:14.011Z",
       "firstIndexedAt": "2026-10-19T08:49:55.307Z",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineer-Intern--Robotics---2027_JR2027630"
-    },
-    {
-      "id": "dfe45584-5816-4ac2-950b-f8a8edd145ff",
-      "title": "Talent Pool - Óbuda Job Fair - C# Developer Intern - Manufacturing Area",
-      "company": "Accenture",
-      "companyDomain": "accenture.com",
-      "location": "Budapest",
-      "locationCountryCode": "HU",
-      "remoteType": "remote",
-      "globalRemote": false,
-      "postedAt": "2026-10-19T23:03:33.135Z",
-      "firstIndexedAt": "2026-10-19T08:19:43.119Z",
-      "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Budapest/C--Developer---Intern_R00273549"
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/China-Shanghai/Software-Engineer-Intern--Robotics---2027_JR2027630"
     },
     {
       "id": "1aa59030-2664-41da-9015-088f1b43bc1a",
@@ -7312,7 +7468,7 @@
       "locationCountryCode": "MY",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-19T17:01:48.489Z",
+      "postedAt": "2026-10-19T20:20:56.703Z",
       "firstIndexedAt": "2026-10-19T04:49:49.313Z",
       "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Software-Developer-Intern_R69694"
     },
@@ -7325,7 +7481,7 @@
       "locationCountryCode": "VN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-30T17:01:32.555Z",
+      "postedAt": "2026-10-30T20:20:42.762Z",
       "firstIndexedAt": "2026-10-18T13:35:31.912Z",
       "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ho-Chi-Minh-Vietnam/QA-Automation-Fresher_R69443"
     },
@@ -7455,7 +7611,7 @@
       "locationCountryCode": "GB",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-16T14:31:54.458Z",
+      "postedAt": "2026-10-16T20:05:21.045Z",
       "firstIndexedAt": "2026-10-16T15:27:50.888Z",
       "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Client-Data-and-Engineering-Group-Summer-Internship-Programme-2027-London_JR-0000135782"
     },
@@ -7468,22 +7624,9 @@
       "locationCountryCode": "MY",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-10-16T12:32:51.372Z",
+      "postedAt": "2026-10-17T05:18:19.667Z",
       "firstIndexedAt": "2026-10-16T14:52:00.340Z",
       "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Penang/Intern---Data-Services-Squad--DSS-_J2468608"
-    },
-    {
-      "id": "d1b6eb91-a569-4a58-8eac-bc623760f1af",
-      "title": "Intern, Digitalization and AI Support",
-      "company": "BASF",
-      "companyDomain": "basf.com",
-      "location": "China",
-      "locationCountryCode": "CN",
-      "remoteType": null,
-      "globalRemote": false,
-      "postedAt": null,
-      "firstIndexedAt": "2026-10-16T14:15:21.560Z",
-      "url": "https://career5.successfactors.eu/careers?company=C0000159936P&career_ns=job_listing&career_job_req_id=145524"
     },
     {
       "id": "d6e41692-7aa6-4e88-abb1-953c7935969c",
@@ -7494,9 +7637,9 @@
       "locationCountryCode": "PL",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-10-31T16:53:41.398Z",
+      "postedAt": "2026-10-31T20:36:14.009Z",
       "firstIndexedAt": "2026-10-16T13:50:29.117Z",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Poland-Warsaw/Developer-Tools-DevOps-Engineering-Intern---2027_JR2027826"
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Poland-Warsaw/Developer-Tools-DevOps-Engineering-Intern---2027_JR2027826"
     },
     {
       "id": "1848b0ce-06c4-4e46-8f7f-33a2ad21b1eb",
@@ -7642,19 +7785,6 @@
       "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Gdansk/Intern-Backend-Developer_JR10451110"
     },
     {
-      "id": "d1f9af51-a5fb-4475-9d86-a609ee6de235",
-      "title": "IT Intern - 视频剪辑实习生",
-      "company": "Cummins",
-      "companyDomain": "cummins.com",
-      "location": "Beijing, Beijing, China",
-      "locationCountryCode": "CN",
-      "remoteType": "onsite",
-      "globalRemote": false,
-      "postedAt": "2026-10-16T06:37:38.000Z",
-      "firstIndexedAt": "2026-10-16T10:16:29.960Z",
-      "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1005/job/2440532"
-    },
-    {
       "id": "7a72284d-b86a-4596-822a-963851dc86e6",
       "title": "New Product Development Intern Part-Time 3 Months",
       "company": "Vitaco Health",
@@ -7767,9 +7897,9 @@
       "locationCountryCode": "CH",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-10-15T16:53:41.400Z",
+      "postedAt": "2026-10-15T20:36:14.011Z",
       "firstIndexedAt": "2026-10-15T15:03:52.578Z",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2027949"
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Switzerland-Zurich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2027949"
     },
     {
       "id": "1ffd1546-dbc2-4f24-86e7-1a5a71ef81a2",
@@ -7923,7 +8053,7 @@
       "locationCountryCode": "MY",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-10-15T23:04:40.452Z",
+      "postedAt": "2026-10-15T20:19:40.015Z",
       "firstIndexedAt": "2026-10-15T09:04:33.544Z",
       "url": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MYS---PETALING-JAYA/Business-Intelligence--BI--Intern_51591002"
     },
@@ -8004,6 +8134,19 @@
       "postedAt": "2025-08-20T12:11:52.000Z",
       "firstIndexedAt": "2026-10-15T05:15:21.744Z",
       "url": "https://job-boards.greenhouse.io/lokainc/jobs/4833861007"
+    },
+    {
+      "id": "2e01bbce-ccbe-4055-9e47-b39dc1b6634a",
+      "title": "AI Frameworks Engineer - Intern",
+      "company": "Intel",
+      "companyDomain": "intel.com",
+      "location": "Mexico, Guadalajara",
+      "locationCountryCode": "MX",
+      "remoteType": "hybrid",
+      "globalRemote": false,
+      "postedAt": "2026-11-09T14:17:57.487Z",
+      "firstIndexedAt": "2026-10-15T03:51:55.121Z",
+      "url": "https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/AI-Frameworks-Engineer---Intern_JR0288217"
     },
     {
       "id": "38ed09e6-2b4b-49a4-8ef0-94f938702c4a",
@@ -8144,7 +8287,7 @@
       "locationCountryCode": "VN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-14T17:01:48.490Z",
+      "postedAt": "2026-10-14T20:20:59.345Z",
       "firstIndexedAt": "2026-10-14T11:50:22.396Z",
       "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ho-Chi-Minh-Vietnam/Test-Automation-Intern_R69442"
     },
@@ -8183,7 +8326,7 @@
       "locationCountryCode": "FR",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-14T19:31:52.494Z",
+      "postedAt": "2026-10-14T19:04:33.028Z",
       "firstIndexedAt": "2026-10-14T09:48:50.766Z",
       "url": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/France-Paris/INTERNSHIP---HEAD-OFFICE---DATA---AI-SPECIALIST-IN-PROCUREMENT-M-F_R10102436"
     },
@@ -8196,9 +8339,9 @@
       "locationCountryCode": "TW",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-22T16:53:41.400Z",
+      "postedAt": "2026-10-22T20:36:14.011Z",
       "firstIndexedAt": "2026-10-14T03:18:23.991Z",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---Base-OS--RDSS-Intern-_JR2025948"
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---Base-OS--RDSS-Intern-_JR2025948"
     },
     {
       "id": "4352ec1b-e901-4a35-a644-db299602c545",
@@ -8279,6 +8422,19 @@
       "url": "https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Singapore/Physical-Design-Intern---Master-s-Degree_2604908"
     },
     {
+      "id": "ff8009ff-714a-424d-a5ce-7fd0e744ecb5",
+      "title": "Audit Data Analytics Intern",
+      "company": "Sanofi",
+      "companyDomain": "sanofi.com",
+      "location": "City of Singapore",
+      "locationCountryCode": "SG",
+      "remoteType": null,
+      "globalRemote": false,
+      "postedAt": "2026-11-10T12:46:54.906Z",
+      "firstIndexedAt": "2026-10-13T19:06:57.388Z",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/City-of-Singapore/Audit-Data-Analytics-Intern_R2874778"
+    },
+    {
       "id": "a54fba98-a9ee-4ef5-8294-703079a0ce5a",
       "title": "EE Hardware Intern",
       "company": "Keysight",
@@ -8313,7 +8469,7 @@
       "locationCountryCode": "PL",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-10-13T21:47:02.227Z",
+      "postedAt": "2026-10-13T18:48:49.270Z",
       "firstIndexedAt": "2026-10-13T16:59:27.475Z",
       "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/GPU-Software-Engineering-Intern_JR0287894"
     },
@@ -8352,7 +8508,7 @@
       "locationCountryCode": "CR",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-14T01:03:44.460Z",
+      "postedAt": "2026-10-13T19:49:11.169Z",
       "firstIndexedAt": "2026-10-13T16:26:00.917Z",
       "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Heredia-Heredia-Costa-Rica/Data-Analytics-Intern_1210982"
     },
@@ -8365,7 +8521,7 @@
       "locationCountryCode": "CR",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-14T01:03:44.603Z",
+      "postedAt": "2026-10-13T19:49:11.169Z",
       "firstIndexedAt": "2026-10-13T16:26:00.917Z",
       "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Heredia-Heredia-Costa-Rica/Software-Engineering-Systems--Intern_1210981"
     },
@@ -8378,7 +8534,7 @@
       "locationCountryCode": "PR",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-10-13T01:03:46.523Z",
+      "postedAt": "2026-10-12T19:49:11.169Z",
       "firstIndexedAt": "2026-10-13T16:26:00.917Z",
       "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Product-software-development---Internship_1213045"
     },
@@ -8443,7 +8599,7 @@
       "locationCountryCode": "CA",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-21T21:32:01.962Z",
+      "postedAt": "2026-10-21T13:47:39.187Z",
       "firstIndexedAt": "2026-10-13T12:09:19.664Z",
       "url": "https://aptiv.wd5.myworkdayjobs.com/APTIV_CAREERS/job/CAN-Kanata-2-ON---WR/Software-Engineering-Intern_J000704368-1"
     },
@@ -8560,7 +8716,7 @@
       "locationCountryCode": "MX",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-10-12T18:07:55.380Z",
+      "postedAt": "2026-10-12T20:04:52.372Z",
       "firstIndexedAt": "2026-10-13T04:48:32.683Z",
       "url": "https://micron.wd1.myworkdayjobs.com/External/job/Jalisco-Mexico/DRAM-Product-Engineer-Yield---Quality--Intern-_JR112997-1"
     },
@@ -8586,7 +8742,7 @@
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-13T16:53:41.400Z",
+      "postedAt": "2026-10-14T05:08:26.439Z",
       "firstIndexedAt": "2026-10-13T02:03:53.951Z",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Multi-Agent-Systems---2027_JR2027701-1"
     },
@@ -8599,7 +8755,7 @@
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-13T16:53:41.400Z",
+      "postedAt": "2026-10-14T05:08:26.439Z",
       "firstIndexedAt": "2026-10-13T02:03:53.951Z",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Deep-Learning---2027_JR2027596"
     },
@@ -8612,9 +8768,9 @@
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-13T16:53:41.400Z",
+      "postedAt": "2026-10-13T20:36:14.011Z",
       "firstIndexedAt": "2026-10-13T00:49:13.372Z",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Applied-Deep-Learning-Algorithm-Intern--Autonomous-Driving---2027_JR2027181"
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/China-Shanghai/Applied-Deep-Learning-Algorithm-Intern--Autonomous-Driving---2027_JR2027181"
     },
     {
       "id": "31414648-8c44-4eb3-abb2-00a37c67199d",
@@ -8695,6 +8851,19 @@
       "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155002879-internship-data-analytics?oga=true"
     },
     {
+      "id": "eed8d62f-97b1-4854-bbe1-cb78113d1b85",
+      "title": "Internship 2027 for Health, Safety, Environment & Quality, Projects, Engineering & Technology, PETRONAS (Bachelor's in Information Technology)",
+      "company": "PETRONAS",
+      "companyDomain": "petronas.com",
+      "location": "Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "locationCountryCode": "MY",
+      "remoteType": null,
+      "globalRemote": false,
+      "postedAt": "2026-11-10T09:11:47.000Z",
+      "firstIndexedAt": "2026-10-12T23:45:35.455Z",
+      "url": "https://epuc.fa.ap1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/job/30725"
+    },
+    {
       "id": "79273e7d-1057-4d64-b55b-bfa850638c85",
       "title": "Software Engineering Intern (2027)",
       "company": "Databricks",
@@ -8716,7 +8885,7 @@
       "locationCountryCode": "CA",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-10-22T21:32:00.428Z",
+      "postedAt": "2026-10-22T13:47:34.021Z",
       "firstIndexedAt": "2026-10-12T22:36:00.626Z",
       "url": "https://aptiv.wd5.myworkdayjobs.com/APTIV_CAREERS/job/CAN-Kanata-2-ON---WR/Cloud-Engineer-Intern_J000704376"
     },
@@ -8729,7 +8898,7 @@
       "locationCountryCode": "CA",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-28T21:31:53.484Z",
+      "postedAt": "2026-10-28T13:47:21.483Z",
       "firstIndexedAt": "2026-10-12T22:36:00.626Z",
       "url": "https://aptiv.wd5.myworkdayjobs.com/APTIV_CAREERS/job/CAN-Kanata-2-ON---WR/Cloud-Engineering-Intern_J000704383"
     },
@@ -8742,7 +8911,7 @@
       "locationCountryCode": "CA",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-10-22T21:32:00.362Z",
+      "postedAt": "2026-10-22T13:47:34.391Z",
       "firstIndexedAt": "2026-10-12T22:36:00.626Z",
       "url": "https://aptiv.wd5.myworkdayjobs.com/APTIV_CAREERS/job/CAN-Kanata-2-ON---WR/Cloud-Software-Engineer-Intern_J000704375"
     },
@@ -8807,7 +8976,7 @@
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-12T16:53:41.400Z",
+      "postedAt": "2026-10-13T05:08:26.439Z",
       "firstIndexedAt": "2026-10-12T13:05:05.870Z",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Robotics-Software-Intern--Humanoid-Robotics---2027_JR2026758"
     },
@@ -8820,7 +8989,7 @@
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-12T16:53:41.400Z",
+      "postedAt": "2026-10-13T05:08:26.439Z",
       "firstIndexedAt": "2026-10-12T13:05:05.870Z",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--DGX-Cloud-Test-Development---2027_JR2027479"
     },
@@ -8833,7 +9002,7 @@
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-12T16:53:41.400Z",
+      "postedAt": "2026-10-13T05:08:26.439Z",
       "firstIndexedAt": "2026-10-12T13:05:05.870Z",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/MLOps-Physical-AI-Data-Intern---2027_JR2026544"
     },
@@ -8846,9 +9015,9 @@
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-12T16:53:41.400Z",
+      "postedAt": "2026-10-12T20:36:14.011Z",
       "firstIndexedAt": "2026-10-12T13:05:05.870Z",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Test-Development-Software-Engineering-Intern---2027_JR2027472"
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/China-Shanghai/Test-Development-Software-Engineering-Intern---2027_JR2027472"
     },
     {
       "id": "ceeabb6c-bf85-4e53-b94d-a95b3a6fadf7",
@@ -8859,9 +9028,9 @@
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-12T16:53:41.400Z",
+      "postedAt": "2026-10-12T20:36:14.011Z",
       "firstIndexedAt": "2026-10-12T13:05:05.870Z",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--AI-CI-CD-Infrastructure---2027_JR2026869"
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--AI-CI-CD-Infrastructure---2027_JR2026869"
     },
     {
       "id": "ac2dc067-93ab-4253-afdf-5829a71a5aa1",
@@ -8872,9 +9041,9 @@
       "locationCountryCode": "TW",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-10-12T16:53:41.400Z",
+      "postedAt": "2026-10-12T20:36:14.011Z",
       "firstIndexedAt": "2026-10-12T13:05:05.870Z",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineering-Intern--GPU-and-SOC---Summer-2027_JR2026406"
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineering-Intern--GPU-and-SOC---Summer-2027_JR2026406"
     },
     {
       "id": "0eb9f832-4c2c-4e97-a1c7-9b0b895c02e9",
@@ -8950,7 +9119,7 @@
       "locationCountryCode": "PL",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-11-02T17:01:31.100Z",
+      "postedAt": "2026-11-02T20:20:41.619Z",
       "firstIndexedAt": "2026-10-10T19:33:39.008Z",
       "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--React-JS-_R68879"
     },
@@ -9018,19 +9187,6 @@
       "postedAt": null,
       "firstIndexedAt": "2026-10-10T13:31:20.732Z",
       "url": "https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore-Razer-AI-Center/Generative-AI-Intern_JR2026007735"
-    },
-    {
-      "id": "3d3650fe-1809-4141-a9c5-063525f491d1",
-      "title": "Software Testing Intern",
-      "company": "Razer",
-      "companyDomain": "razer.com",
-      "location": "Shenzhen",
-      "locationCountryCode": "CN",
-      "remoteType": "onsite",
-      "globalRemote": false,
-      "postedAt": null,
-      "firstIndexedAt": "2026-10-10T13:30:51.794Z",
-      "url": "https://razer.wd3.myworkdayjobs.com/Careers/job/Shenzhen/Software-Testing-Intern_JR2026007806"
     },
     {
       "id": "066f5183-ca41-4859-bad2-39b99e810f24",
@@ -9405,7 +9561,7 @@
       "locationCountryCode": "DE",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-11-02T10:01:07.690Z",
+      "postedAt": "2026-11-02T11:31:01.127Z",
       "firstIndexedAt": "2026-10-08T16:15:14.938Z",
       "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/Germany-Munich-Otl-Aicher-Strasse/Analog-Design-Engineering-Intern_R267032-1"
     },
@@ -9446,7 +9602,7 @@
       "globalRemote": false,
       "postedAt": "2026-10-08T20:03:16.807Z",
       "firstIndexedAt": "2026-10-08T14:59:59.182Z",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Silicon-Validation-Engineer--RDSS-Intern-_JR2026767"
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Taiwan-Taipei/Silicon-Validation-Engineer--RDSS-Intern-_JR2026767"
     },
     {
       "id": "9f925da3-dd33-4b24-a594-f95550ee1154",
@@ -9457,7 +9613,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-23T18:07:52.295Z",
+      "postedAt": "2026-10-23T20:04:38.223Z",
       "firstIndexedAt": "2026-10-08T14:11:18.090Z",
       "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---HVM-PEE-Photo--AI-_JR112979"
     },
@@ -9574,7 +9730,7 @@
       "locationCountryCode": "CN",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-10-22T11:32:13.840Z",
+      "postedAt": "2026-10-22T18:47:56.917Z",
       "firstIndexedAt": "2026-10-08T08:52:44.452Z",
       "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Shanghai-Shanghai-China/Vision-Intern_JR00047172"
     },
@@ -9600,7 +9756,7 @@
       "locationCountryCode": "CA",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-10-28T15:46:05.450Z",
+      "postedAt": "2026-10-28T20:19:12.118Z",
       "firstIndexedAt": "2026-10-07T22:27:52.446Z",
       "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YWG-BW/Software-Developer-Co-op---Red-River-College_R-30142"
     },
@@ -9761,6 +9917,19 @@
       "url": "https://careers.amd.com/jobs/93409?lang=en-us"
     },
     {
+      "id": "9d9a5867-4615-4343-a451-18cbeeb1c038",
+      "title": "Summer 2027 Hardware Engineer Intern",
+      "company": "AMD",
+      "companyDomain": "amd.com",
+      "location": "Cambridge, United Kingdom",
+      "locationCountryCode": "GB",
+      "remoteType": "onsite",
+      "globalRemote": false,
+      "postedAt": "2026-10-06T13:37:00.000Z",
+      "firstIndexedAt": "2026-10-07T11:46:33.471Z",
+      "url": "https://careers.amd.com/jobs/93407?lang=en-us"
+    },
+    {
       "id": "351efb7b-c031-4c77-8617-47a920121aca",
       "title": "Intern – Data Analyst – 2027 (M/F/D)",
       "company": "Baker Hughes",
@@ -9808,7 +9977,7 @@
       "locationCountryCode": "IT",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-11-05T11:32:03.418Z",
+      "postedAt": "2026-11-05T18:47:52.230Z",
       "firstIndexedAt": "2026-10-07T10:03:12.743Z",
       "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Genova-Genova-Italy/Internship---Full-Stack-Software-Developer_JR00049311"
     },
@@ -10198,7 +10367,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-23T18:07:45.870Z",
+      "postedAt": "2026-10-23T20:04:33.445Z",
       "firstIndexedAt": "2026-10-07T04:30:39.615Z",
       "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---NAND-Probe-Product-Engineering--Test-Mode-Integration-_JR113345"
     },
@@ -10214,6 +10383,19 @@
       "postedAt": "2026-10-06T13:34:27.000Z",
       "firstIndexedAt": "2026-10-07T04:16:13.477Z",
       "url": "https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20614"
+    },
+    {
+      "id": "5e4ffdec-4ec9-4ee1-9212-95847be59384",
+      "title": "Global Markets Summer Internship 2027 - Product Management intern & Sales Analyst Intern - Dubai, UAE (UAE Nationals Preferred)",
+      "company": "Mastercard",
+      "companyDomain": "mastercard.com",
+      "location": "Dubai, United Arab Emirates",
+      "locationCountryCode": "AE",
+      "remoteType": null,
+      "globalRemote": false,
+      "postedAt": "2026-11-10T19:48:31.485Z",
+      "firstIndexedAt": "2026-10-07T04:09:14.869Z",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dubai-United-Arab-Emirates/Global-Markets-Summer-Internship-2027---Product-Management-intern---Sales-Analyst-Intern---Dubai--UAE--UAE-Nationals-Preferred-_R-287598-2"
     },
     {
       "id": "bf65321e-44ac-4e9d-bae3-6dbe2e5698f3",
@@ -10367,7 +10549,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-23T18:07:52.701Z",
+      "postedAt": "2026-10-23T20:04:38.682Z",
       "firstIndexedAt": "2026-10-06T19:10:34.629Z",
       "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern--PIE-RAM--Agentic-AI-_JR112779"
     },
@@ -10640,7 +10822,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-26T18:07:16.438Z",
+      "postedAt": "2026-10-26T20:04:12.891Z",
       "firstIndexedAt": "2026-10-05T17:51:54.213Z",
       "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---F10-HVM-Photo-PEE_JR110525"
     },
@@ -10705,7 +10887,7 @@
       "locationCountryCode": "AE",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-11-06T16:47:14.915Z",
+      "postedAt": "2026-11-06T19:48:34.275Z",
       "firstIndexedAt": "2026-10-05T10:01:57.111Z",
       "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dubai-United-Arab-Emirates/Product-Management-Intern--Summer-2027---Dubai--UAE--UAE-Nationals-Preferred-_R-287599-1"
     },
@@ -11347,19 +11529,6 @@
       "url": "https://www.amazon.jobs/en/jobs/10567818/physical-security-specialist-intern-2027-internship"
     },
     {
-      "id": "2b0887dd-09be-4e6b-8c13-1882bdcdda81",
-      "title": "Internship – Design & Digital Product - as of February 2027",
-      "company": "Accenture",
-      "companyDomain": "accenture.com",
-      "location": "Brussels",
-      "locationCountryCode": "BE",
-      "remoteType": null,
-      "globalRemote": false,
-      "postedAt": "2026-10-26T12:23:19.740Z",
-      "firstIndexedAt": "2026-10-02T12:51:35.210Z",
-      "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Brussels/Internship---Design---Digital-Product---as-of-February-2027_R00358162"
-    },
-    {
       "id": "e59ade67-86f2-4630-a01e-544ade06d77b",
       "title": "Cloud Support Associate Internship - April 2027 start, Support Engineering",
       "company": "Amazon",
@@ -11420,7 +11589,7 @@
       "locationCountryCode": "MX",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-10-19T12:33:27.550Z",
+      "postedAt": "2026-10-19T14:02:07.961Z",
       "firstIndexedAt": "2026-10-02T04:46:47.018Z",
       "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Tlaquepaque-Jalisco-Mexico/Data-Analysis-and-Systems-Internship_3169469-1"
     },
@@ -11485,7 +11654,7 @@
       "locationCountryCode": "CA",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-11-06T15:48:29.852Z",
+      "postedAt": "2026-11-06T20:06:40.383Z",
       "firstIndexedAt": "2026-10-01T23:01:55.400Z",
       "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Kanata-Ontario-Canada/Software-Developer-Full-Stack---Backend-I--Co-op----Canada_2024208"
     },
@@ -11953,7 +12122,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-23T18:07:52.640Z",
+      "postedAt": "2026-10-23T20:04:38.507Z",
       "firstIndexedAt": "2026-09-30T00:51:02.890Z",
       "url": "https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---STPG-Product-System_JR111189"
     },
@@ -12278,9 +12447,9 @@
       "locationCountryCode": "PL",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-10-31T16:53:41.398Z",
+      "postedAt": "2026-10-31T20:36:14.009Z",
       "firstIndexedAt": "2026-09-29T09:51:25.794Z",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Poland-Warsaw/Image-and-Data-Processing-Libraries-Intern_JR2026569"
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Poland-Warsaw/Image-and-Data-Processing-Libraries-Intern_JR2026569"
     },
     {
       "id": "5474233b-db68-4346-9857-e21fe3271faf",
@@ -12291,9 +12460,9 @@
       "locationCountryCode": "PL",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-31T16:53:41.398Z",
+      "postedAt": "2026-10-31T20:36:14.009Z",
       "firstIndexedAt": "2026-09-29T09:51:25.794Z",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Poland-Warsaw/Image-and-Data-Processing-Libraries-Intern_JR2026517"
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Poland-Warsaw/Image-and-Data-Processing-Libraries-Intern_JR2026517"
     },
     {
       "id": "7ee6805c-cc6a-457b-bcd4-e1ad308033e5",
@@ -12369,7 +12538,7 @@
       "locationCountryCode": "CH",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-10-20T06:01:14.365Z",
+      "postedAt": "2026-10-20T01:30:24.111Z",
       "firstIndexedAt": "2026-09-29T00:45:38.136Z",
       "url": "https://lombardodier.wd3.myworkdayjobs.com/Lombard_Odier_Careers/job/Geneva/Internship---AI-Software-Engineer---AI-Powered-Portfolio-Intelligence--PMS-_R0007628"
     },
@@ -12382,7 +12551,7 @@
       "locationCountryCode": "CA",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-11-06T15:48:29.915Z",
+      "postedAt": "2026-11-06T20:06:40.441Z",
       "firstIndexedAt": "2026-09-28T22:16:38.281Z",
       "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Kanata-Ontario-Canada/Software-Developer-Embedded-Systems-II--Co-op----Canada_2024136"
     },
@@ -12473,7 +12642,7 @@
       "locationCountryCode": "MX",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-30T11:32:07.720Z",
+      "postedAt": "2026-10-30T18:47:56.467Z",
       "firstIndexedAt": "2026-09-26T00:31:55.735Z",
       "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Apodaca-Nuevo-Len-Mexico/Product-Engineering-Internship_JR00047853"
     },
@@ -12876,7 +13045,7 @@
       "locationCountryCode": "CH",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-10-20T06:01:14.069Z",
+      "postedAt": "2026-10-20T01:30:23.740Z",
       "firstIndexedAt": "2026-09-24T13:42:30.435Z",
       "url": "https://lombardodier.wd3.myworkdayjobs.com/Lombard_Odier_Careers/job/Geneva/Internship---Data-Engineer---Accelerating-Adoption-of-Microsoft-Fabric_R0007638"
     },
@@ -12889,7 +13058,7 @@
       "locationCountryCode": "CH",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-10-20T06:01:13.798Z",
+      "postedAt": "2026-10-20T01:30:23.587Z",
       "firstIndexedAt": "2026-09-24T13:42:30.435Z",
       "url": "https://lombardodier.wd3.myworkdayjobs.com/Lombard_Odier_Careers/job/Geneva/Internship---AI-Engineer---AI-in-Enterprise-Java-Application-Frameworks_R0007635"
     },
@@ -12902,7 +13071,7 @@
       "locationCountryCode": "CH",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-10-20T06:01:13.826Z",
+      "postedAt": "2026-10-20T01:30:23.572Z",
       "firstIndexedAt": "2026-09-24T13:42:30.435Z",
       "url": "https://lombardodier.wd3.myworkdayjobs.com/Lombard_Odier_Careers/job/Geneva/Internship---Software-Engineer---Competency-Graph-Administration-Platform-Modernization_R0007643"
     },
@@ -12915,7 +13084,7 @@
       "locationCountryCode": "CH",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-20T06:01:14.213Z",
+      "postedAt": "2026-10-20T01:30:23.929Z",
       "firstIndexedAt": "2026-09-24T13:42:30.435Z",
       "url": "https://lombardodier.wd3.myworkdayjobs.com/Lombard_Odier_Careers/job/Geneva/Internship---Machine-Learning-Engineer---Action-Dashboard-Ranking-Engine_R0007629"
     },
@@ -12928,7 +13097,7 @@
       "locationCountryCode": "CH",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-10-20T06:01:14.247Z",
+      "postedAt": "2026-10-20T01:30:24.139Z",
       "firstIndexedAt": "2026-09-24T13:42:30.435Z",
       "url": "https://lombardodier.wd3.myworkdayjobs.com/Lombard_Odier_Careers/job/Geneva/Internship---Software-engineer---Cash-Management-Tool-Redevelopment_R0007630"
     },
@@ -12941,7 +13110,7 @@
       "locationCountryCode": "CH",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-10-20T06:01:14.312Z",
+      "postedAt": "2026-10-20T01:30:24.073Z",
       "firstIndexedAt": "2026-09-24T13:42:30.435Z",
       "url": "https://lombardodier.wd3.myworkdayjobs.com/Lombard_Odier_Careers/job/Geneva/Internship---Software-Engineer---Global-Markets-Services-AI-Project_R0007627-1"
     },
@@ -12954,7 +13123,7 @@
       "locationCountryCode": "CH",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-10-20T06:01:14.177Z",
+      "postedAt": "2026-10-20T01:30:24.027Z",
       "firstIndexedAt": "2026-09-24T13:42:30.435Z",
       "url": "https://lombardodier.wd3.myworkdayjobs.com/Lombard_Odier_Careers/job/Geneva/Internship---Software-Engineer---Application-Monitoring---Observability_R0007631"
     },
@@ -12967,7 +13136,7 @@
       "locationCountryCode": "CH",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-10-20T06:01:14.209Z",
+      "postedAt": "2026-10-20T01:30:23.862Z",
       "firstIndexedAt": "2026-09-24T13:42:30.435Z",
       "url": "https://lombardodier.wd3.myworkdayjobs.com/Lombard_Odier_Careers/job/Geneva/Internship---AI-Software-Engineer---Contribution-to-the-Design-and-Implementation-of-an-Agentic-Sandbox-Platform_R0007634"
     },
@@ -12980,7 +13149,7 @@
       "locationCountryCode": "CH",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-10-20T06:01:14.281Z",
+      "postedAt": "2026-10-20T01:30:23.985Z",
       "firstIndexedAt": "2026-09-24T13:42:30.435Z",
       "url": "https://lombardodier.wd3.myworkdayjobs.com/Lombard_Odier_Careers/job/Geneva/Internship---AI-Software-Engineer---AI-Driven-Batch-to-Service-Migration-for-Securities-Settlement_R0007632"
     },
@@ -12993,7 +13162,7 @@
       "locationCountryCode": "CH",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-20T06:01:13.942Z",
+      "postedAt": "2026-10-20T01:30:23.624Z",
       "firstIndexedAt": "2026-09-24T13:42:30.435Z",
       "url": "https://lombardodier.wd3.myworkdayjobs.com/Lombard_Odier_Careers/job/Geneva/Internship---AI-Engineer---AI-Powered-CRM---Data-Extraction---KYC-Support_R0007640"
     },
@@ -13006,7 +13175,7 @@
       "locationCountryCode": "CH",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-20T06:01:14.186Z",
+      "postedAt": "2026-10-20T01:30:23.897Z",
       "firstIndexedAt": "2026-09-24T13:42:30.435Z",
       "url": "https://lombardodier.wd3.myworkdayjobs.com/Lombard_Odier_Careers/job/Geneva/Internship---AI-Software-Engineer---AI-Powered-Non-Regression-Test-Case-Generation_R0007633"
     },
@@ -13019,7 +13188,7 @@
       "locationCountryCode": "CH",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-10-20T06:01:13.749Z",
+      "postedAt": "2026-10-20T01:30:23.539Z",
       "firstIndexedAt": "2026-09-24T13:42:30.435Z",
       "url": "https://lombardodier.wd3.myworkdayjobs.com/Lombard_Odier_Careers/job/Geneva/Internship---AI-Engineer---AI-Powered-Software-Migration-Factory_R0007636-1"
     },
@@ -13032,7 +13201,7 @@
       "locationCountryCode": "CH",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-20T06:01:13.795Z",
+      "postedAt": "2026-10-20T01:30:23.586Z",
       "firstIndexedAt": "2026-09-24T13:42:30.435Z",
       "url": "https://lombardodier.wd3.myworkdayjobs.com/Lombard_Odier_Careers/job/Geneva/Internship---Platform-Engineer---Secure-Cloud-Native-Platforms-for-Financial-Services_R0007619"
     },
@@ -13045,7 +13214,7 @@
       "locationCountryCode": "CH",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-20T06:01:13.941Z",
+      "postedAt": "2026-10-20T01:30:23.750Z",
       "firstIndexedAt": "2026-09-24T13:42:30.435Z",
       "url": "https://lombardodier.wd3.myworkdayjobs.com/Lombard_Odier_Careers/job/Geneva/Internship---AI-Engineer---AI-Powered-CRM--Engagement---Churn-Analysis_R0007639"
     },
@@ -13279,7 +13448,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-23T18:07:55.380Z",
+      "postedAt": "2026-10-23T20:04:51.511Z",
       "firstIndexedAt": "2026-09-23T04:40:27.538Z",
       "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---ADTS-ATI-PI_JR112258"
     },
@@ -13331,7 +13500,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-23T18:07:52.786Z",
+      "postedAt": "2026-10-23T20:04:38.667Z",
       "firstIndexedAt": "2026-09-22T12:52:30.341Z",
       "url": "https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--Silicon-Design-Validation-Engineer_JR111158"
     },
@@ -13435,7 +13604,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-11-05T18:06:36.678Z",
+      "postedAt": "2026-11-05T20:03:48.636Z",
       "firstIndexedAt": "2026-09-21T10:34:19.759Z",
       "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---Probe-Automation_JR112385"
     },
@@ -13929,7 +14098,7 @@
       "locationCountryCode": "CA",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-11-06T15:48:29.925Z",
+      "postedAt": "2026-11-06T20:06:40.559Z",
       "firstIndexedAt": "2026-09-16T22:05:21.424Z",
       "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Kanata-Ontario-Canada/Software-Developer-Embedded-Systems-I--Co-op----Canada_2024111"
     },
@@ -14111,7 +14280,7 @@
       "locationCountryCode": "MX",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-10-12T21:47:02.227Z",
+      "postedAt": "2026-10-12T18:48:50.137Z",
       "firstIndexedAt": "2026-09-16T02:44:17.752Z",
       "url": "https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/Silicon-Design---Flows-and-Methodology-Intern_JR0286647"
     },
@@ -14494,7 +14663,7 @@
     },
     {
       "id": "b3bc405e-7efb-43a0-b653-d4af33f1e3e0",
-      "title": "Intern, Full Stack Developer (C#)",
+      "title": "Intern Developer, AI Solutions",
       "company": "Kinaxis",
       "companyDomain": "kinaxis.com",
       "location": "Ottawa, ON, CA",
@@ -14503,7 +14672,7 @@
       "globalRemote": false,
       "postedAt": "2026-10-23T04:00:00.000Z",
       "firstIndexedAt": "2026-09-12T06:15:50.948Z",
-      "url": "https://careers-kinaxis.icims.com/jobs/35343/intern%2c-full-stack-developer-%28c%23%29/job"
+      "url": "https://careers-kinaxis.icims.com/jobs/35343/intern-developer%2c-ai-solutions/job"
     },
     {
       "id": "11ccdf46-188e-4d14-b771-d7fd5bb8511e",
@@ -14995,7 +15164,7 @@
       "locationCountryCode": "GB",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-11-02T14:31:51.181Z",
+      "postedAt": "2026-11-02T20:05:17.505Z",
       "firstIndexedAt": "2026-09-09T19:44:25.969Z",
       "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Glasgow_JR-0000129387"
     },
@@ -15008,7 +15177,7 @@
       "locationCountryCode": "GB",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-11-02T14:31:51.539Z",
+      "postedAt": "2026-11-02T20:05:17.965Z",
       "firstIndexedAt": "2026-09-09T19:44:25.969Z",
       "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Customer-and-Digital---Data-and-Analytics-Summer-Internship-Programme-London_JR-0000129280"
     },
@@ -15021,9 +15190,22 @@
       "locationCountryCode": "GB",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-11-02T14:31:51.507Z",
+      "postedAt": "2026-11-02T20:05:17.806Z",
       "firstIndexedAt": "2026-09-09T19:44:25.969Z",
       "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Customer-and-Digital---Data-and-Analytics-Summer-Internship-Programme-Glasgow_JR-0000129278"
+    },
+    {
+      "id": "9deff040-8b64-4114-ab13-b5b7a82bfb8e",
+      "title": "2027 Technology Cyber and Security Summer Internship Programme Knutsford",
+      "company": "Barclays",
+      "companyDomain": "barclays.co.uk",
+      "location": "Knutsford, Radbroke Hall",
+      "locationCountryCode": "GB",
+      "remoteType": "onsite",
+      "globalRemote": false,
+      "postedAt": "2026-11-02T20:05:17.782Z",
+      "firstIndexedAt": "2026-09-09T19:44:25.969Z",
+      "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Cyber-and-Security-Summer-Internship-Programme-Knutsford_JR-0000129173"
     },
     {
       "id": "9d14633a-092e-415f-9cbf-5ad0a6fa74e4",
@@ -15723,9 +15905,9 @@
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-11-06T16:52:18.751Z",
+      "postedAt": "2026-11-06T20:35:06.200Z",
       "firstIndexedAt": "2026-09-04T16:34:42.196Z",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shenzhen/AI-Developer-Technology-Engineering-Intern---2027_JR2024818"
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/China-Shenzhen/AI-Developer-Technology-Engineering-Intern---2027_JR2024818"
     },
     {
       "id": "841c4e91-5d17-470b-8119-8d01044c8170",
@@ -16222,19 +16404,6 @@
       "url": "https://careers.amd.com/jobs/91360?lang=en-us"
     },
     {
-      "id": "a6de49a6-3846-454d-8a15-e7d8d03fa242",
-      "title": "Generative AI Engineer Intern - SAP Singapore",
-      "company": "SAP",
-      "companyDomain": "sap.com",
-      "location": "Singapore",
-      "locationCountryCode": "SG",
-      "remoteType": "hybrid",
-      "globalRemote": false,
-      "postedAt": "2026-09-01T00:00:00.000Z",
-      "firstIndexedAt": "2026-09-01T15:15:50.421Z",
-      "url": "https://career5.successfactors.eu/careers?company=SAP&career_ns=job_listing&career_job_req_id=459181"
-    },
-    {
       "id": "bc19e912-b9f5-4e13-a0bc-c01e571f79cd",
       "title": "Developer Technology Engineering Intern, HPC and AI - 2027",
       "company": "Nvidia",
@@ -16477,7 +16646,7 @@
       "locationCountryCode": "CZ",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-11-04T11:16:52.048Z",
+      "postedAt": "2026-11-04T12:46:56.566Z",
       "firstIndexedAt": "2026-08-29T20:13:17.995Z",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Praha/Analytics-and-PowerBI-Development-Intern_R2868855"
     },
@@ -17387,7 +17556,7 @@
       "locationCountryCode": "MX",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-10-12T18:07:55.380Z",
+      "postedAt": "2026-10-12T20:04:52.372Z",
       "firstIndexedAt": "2026-08-18T22:55:09.820Z",
       "url": "https://micron.wd1.myworkdayjobs.com/External/job/Jalisco-Mexico/Design-Verification-Engineer-Intern_JR107487"
     },
@@ -17400,7 +17569,7 @@
       "locationCountryCode": "MX",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-12T18:07:55.380Z",
+      "postedAt": "2026-10-12T20:04:52.372Z",
       "firstIndexedAt": "2026-08-18T22:55:09.820Z",
       "url": "https://micron.wd1.myworkdayjobs.com/External/job/Jalisco-Mexico/DRAM-Design-Engineer--Intern-_JR108395"
     },
@@ -17725,7 +17894,7 @@
       "locationCountryCode": "HU",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-10-28T03:33:06.381Z",
+      "postedAt": "2026-10-27T18:35:51.519Z",
       "firstIndexedAt": "2026-08-14T13:16:51.443Z",
       "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/HUN02-01-Budapest-Vaci-Greens-C/Advanced-Visualization-software-engineering-intern_R4044596-1"
     },
@@ -18284,7 +18453,7 @@
       "locationCountryCode": "PT",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-11-06T10:45:55.202Z",
+      "postedAt": "2026-11-06T13:31:03.669Z",
       "firstIndexedAt": "2026-08-04T08:16:36.327Z",
       "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Viana-do-Castelo-II---Portugal/NVH-Product-Engineering-Intern_R2026-3131"
     },
@@ -18817,7 +18986,7 @@
       "locationCountryCode": "SG",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-11-06T16:32:56.216Z",
+      "postedAt": "2026-11-07T07:02:41.918Z",
       "firstIndexedAt": "2026-07-21T18:18:07.950Z",
       "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Singapore/Software-Engineer-Intern---Middleware--IBS-_R0334782"
     },
@@ -18869,7 +19038,7 @@
       "locationCountryCode": "NL",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-29T20:03:39.226Z",
+      "postedAt": "2026-11-10T20:18:47.517Z",
       "firstIndexedAt": "2026-07-15T09:15:16.001Z",
       "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Eindhoven/Internship---Industrial-Design-IX_R00343384"
     },
@@ -19558,7 +19727,7 @@
       "locationCountryCode": "PL",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-11-07T03:32:49.213Z",
+      "postedAt": "2026-11-06T18:35:32.381Z",
       "firstIndexedAt": "2026-07-03T06:09:41.889Z",
       "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Krakow/Software-Engineer-Intern_R4040613"
     },
@@ -20616,19 +20785,6 @@
       "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SHANGHAI/Product-Validation-Intern_R52879"
     },
     {
-      "id": "66efb6e6-aec3-4190-8def-997cb4f6a00c",
-      "title": "Internship Flutter on Embedded Linux with Hardware Acceleration",
-      "company": "Lely1",
-      "companyDomain": "lely.com",
-      "location": "Maassluis, ZH, Netherlands",
-      "locationCountryCode": "NL",
-      "remoteType": "onsite",
-      "globalRemote": false,
-      "postedAt": "2026-01-22T15:56:41.620Z",
-      "firstIndexedAt": "2026-05-28T04:45:35.073Z",
-      "url": "https://jobs.smartrecruiters.com/Lely1/744000104966685-internship-flutter-on-embedded-linux-with-hardware-acceleration?oga=true"
-    },
-    {
       "id": "29588e9c-4e05-45b3-9c05-7e2c5d9c1439",
       "title": "Data Engineer Intern",
       "company": "Careerseng Teleperformance",
@@ -20741,7 +20897,7 @@
       "locationCountryCode": "MY",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-23T00:32:00.529Z",
+      "postedAt": "2026-10-23T07:47:11.972Z",
       "firstIndexedAt": "2026-05-26T01:57:17.262Z",
       "url": "https://aia.wd3.myworkdayjobs.com/External/job/Putrajaya-MY-AIA-Shared-Services-Malaysia/Internship---Technology-Data--Mandarin-Speaking-_JR-66504"
     },
@@ -20754,7 +20910,7 @@
       "locationCountryCode": "MY",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-24T00:32:00.505Z",
+      "postedAt": "2026-10-24T07:47:12.117Z",
       "firstIndexedAt": "2026-05-26T01:57:17.262Z",
       "url": "https://aia.wd3.myworkdayjobs.com/External/job/Putrajaya-MY-AIA-Shared-Services-Malaysia/Internship---Technology-Data_JR-66507"
     },
