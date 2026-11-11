@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**1 currently open roles** · Updated **2026-11-10**
+**1 currently open roles** · Updated **2026-11-11**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **The Citco Group Limited** | [Citco Vilnius Internship Program Autumn/Winter 2026 - Automation Develo…](https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20614) | Vilniaus Apskritis, Lithuania (Hybrid) |  | 1mo |
+| **Eneba** | [Software Engineer (paid internship)](https://jobs.ashbyhq.com/eneba/7165fca1-a4a9-4dde-a4fd-2d2e2a7ada60) | Kaunas |  | 0d |
 
 <!-- TABLE_END -->

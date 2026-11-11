@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**10 currently open roles** · Updated **2026-11-10**
+**10 currently open roles** · Updated **2026-11-11**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -15,10 +15,10 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Bosch** | [Software Function Developer intern](https://jobs.smartrecruiters.com/BoschGroup/744000160644192-software-function-developer-intern?oga=true) | Budapest, , Hungary (Hybrid) |  | 0d |
-| **Cloudera** | [Software Engineering Intern](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/Hungary--Budapest/Software-Engineering-Intern_261521-2) | Hungary > Budapest (Hybrid) |  | 5d |
-| **Silabs** | [Software Development in Test Intern](https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Budapest/Software-Development-in-Test-Intern_21170-2) | Budapest |  | 8d |
-| **Accenture** | [Industrial Automation Engineer Intern](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Budapest-Millennium-Gardens/Talent-Pool---buda-Job-Fair---Electrical-engineer-intern_R00364910) | Budapest, Millennium Gardens |  | 22d |
+| **Bosch** | [Software Function Developer intern](https://jobs.smartrecruiters.com/BoschGroup/744000160644192-software-function-developer-intern?oga=true) | Budapest, , Hungary (Hybrid) |  | 1d |
+| **Cloudera** | [Software Engineering Intern](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/Hungary--Budapest/Software-Engineering-Intern_261521-2) | Hungary > Budapest (Hybrid) |  | 6d |
+| **Silabs** | [Software Development in Test Intern](https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Budapest/Software-Development-in-Test-Intern_21170-2) | Budapest |  | 9d |
+| **Accenture** | [Industrial Automation Engineer Intern](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Budapest-Millennium-Gardens/Talent-Pool---buda-Job-Fair---Electrical-engineer-intern_R00364910) | Budapest, Millennium Gardens |  | 23d |
 | **Formlabs** | [Software Engineer Intern (Full stack)](https://careers.formlabs.com/job/8260955/apply/?gh_jid=8260955) | Budapest, Hungary (Hybrid) |  | 1mo |
 | **PTC** | [Software Developer Intern](https://ptc.wd1.myworkdayjobs.com/PTC/job/Budapest-Hungary/Software-Developer---Intern_JR110893-1) | Budapest, Hungary |  | 1mo |
 | **Aumovio** | [Odometry Algorithm Developer Intern](https://jobs.smartrecruiters.com/Aumovio/744000153538319-odometry-algorithm-developer-intern?oga=true) | Budapest, , Hungary |  | 1mo |
