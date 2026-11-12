@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**20 currently open roles** · Updated **2026-11-11**
+**20 currently open roles** · Updated **2026-11-12**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -15,8 +15,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Schonfeld** | [2027 AI Forward Deployed Engineer Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8311595) | Hong Kong, Hong Kong |  | 14d |
-| **Foresea Technologies** | [Internship - AI Ops Builder & Automatisation](https://jobs.lever.co/foresea-technologies/d5224393-8814-4a1a-9f88-238698df83d9) | Hong Kong SAR |  | 21d |
+| **Schonfeld** | [2027 AI Forward Deployed Engineer Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8311595) | Hong Kong, Hong Kong |  | 15d |
+| **Foresea Technologies** | [Internship - AI Ops Builder & Automatisation](https://jobs.lever.co/foresea-technologies/d5224393-8814-4a1a-9f88-238698df83d9) | Hong Kong SAR |  | 22d |
 | **Schonfeld** | [2027 Quantitative C++ Developer Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8238451) | Hong Kong, Hong Kong |  | 1mo |
 | **Dvtrading** | [2027 Software Developer Intern (DV QES)](https://job-boards.greenhouse.io/dvtrading/jobs/4733880005) | Hong Kong |  | 1mo |
 | **Nex** | [Summer 2027 \| Software Engineer Intern (Developer Experience)](https://job-boards.greenhouse.io/nex/jobs/5420203008) | Hong Kong |  | 2mo |
@@ -33,11 +33,11 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Manulife** | [Co-op Internship 2027 - Regional Marketing Strategy, UX/UI](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Hong-Kong-Manulife-Tower/Co-op-Internship-2027---Regional-Marketing-Strategy--UX-UI_JR26110506) | Hong Kong, Manulife Tower |  | 1d |
-| **Hitachi** | [Data Engineering Intern](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Hong-Kong-Hong-Kong-SAR/Data-Engineering-Intern_R0145808) | Hong Kong, Hong Kong SAR |  | 25d |
-| **BASF** | [Intern, Data Analytics, Dispersions & Resins](https://career5.successfactors.eu/careers?company=C0000159936P&career_ns=job_listing&career_job_req_id=145432) | Hong Kong |  | 28d |
+| **Manulife** | [Co-op Internship 2027 - Regional Marketing Strategy, UX/UI](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Hong-Kong-Manulife-Tower/Co-op-Internship-2027---Regional-Marketing-Strategy--UX-UI_JR26110506) | Hong Kong, Manulife Tower |  | 2d |
+| **Hitachi** | [Data Engineering Intern](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Hong-Kong-Hong-Kong-SAR/Data-Engineering-Intern_R0145808) | Hong Kong, Hong Kong SAR |  | 26d |
+| **BASF** | [Intern, Data Analytics, Dispersions & Resins](https://career5.successfactors.eu/careers?company=C0000159936P&career_ns=job_listing&career_job_req_id=145432) | Hong Kong |  | 29d |
 | **Djeholdings** | [Creative Intern (Art base)](https://djeholdings.wd5.myworkdayjobs.com/edelman-careers-E200/job/Hong-Kong/Design-Intern_JR103415) | Hong Kong |  | 1mo |
-| **Bybit** | [Smart Contract Security Audit Intern (AI Audit)](https://job-boards.eu.greenhouse.io/bybit/jobs/4974605101) | Remote (APAC - Remote; Hong Kong SAR) |  | 1mo |
+| **Bybit** | [Smart Contract Security Audit Intern (AI Audit)](https://job-boards.eu.greenhouse.io/bybit/jobs/4974605101) | Remote (APAC - Remote; Hong Kong SAR) |  | 2mo |
 | **Quberesearchandtechnologies** | [2027 - Internship, Security Engineer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749942002) | Hong Kong |  | 2mo |
 | **Barclays** | [Quantitative Analytics Associate Off Cycle Internship 2027 Hong Kong](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Hong-Kong-Cheung-Kong-Center/Quantitative-Analytics-Associate-Off-Cycle-Internship-2027-Hong-Kong_JR-0000117565) | Hong Kong, Cheung Kong Center |  | 4mo |
 

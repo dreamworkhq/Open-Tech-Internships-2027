@@ -2,45 +2,44 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**47 currently open roles** · Updated **2026-11-11**
+**46 currently open roles** · Updated **2026-11-12**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-41) · 41 roles
+- [Engineering](#engineering-40) · 40 roles
 - [Other](#other-6) · 6 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (41)
+### Engineering (40)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Airbus** | [Site Reliability Intern](https://ag.wd3.myworkdayjobs.com/Airbus/job/Gdansk/Site-Reliability-Intern_JR10456730) | Gdansk |  | 0d |
-| **Motorola Solutions** | [Intern Software Developer (JavaScript & React)](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--JavaScript---React-_R70490) | Krakow, Poland (Hybrid) |  | 1d |
-| **Motorola Solutions** | [Intern Software Developer (Salesforce)](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--Salesforce-_R69887) | Krakow, Poland (Hybrid) |  | 1d |
-| **Motorola Solutions** | [Intern Software Developer C/C++](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer-C-C--_R70432) | Krakow, Poland (Hybrid) |  | 5d |
-| **Motorola Solutions** | [Intern Software Developer (C/C++)](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--C-C---_R70024) | Krakow, Poland (Hybrid) |  | 5d |
-| **Intel** | [DevOps Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/DevOps-Software-Engineering-Intern_JR0288633) | Poland, Gdansk (Hybrid) |  | 9d |
-| **External Career Page** | [Student Internship - Front-End Software Development](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Krakow-Lesser-Poland-Poland/Internship---FrontEnd-Software-Engineer_JR00034867) | Krakow, Lesser Poland, Poland (Hybrid) |  | 12d |
-| **Snowflake** | [Software Engineer Intern AI/ML - Warsaw (2027)](https://jobs.ashbyhq.com/snowflake/418a8f32-1658-47d9-9450-ed3a6e947215) | PL-Warsaw-Lixa C |  | 14d |
-| **Motorola Solutions** | [Intern DevOps Engineer](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-DevOps-Engineer_R69906) | Krakow, Poland (Hybrid) |  | 15d |
-| **Bosch** | [Automation & AI Intern (f/m)](https://jobs.smartrecruiters.com/BoschGroup/744000157422450-automation-ai-intern-f-m-?oga=true) | Warszawa, Województwo mazowieckie, Poland (Hybrid) |  | 19d |
-| **Intel** | [Intern Software QA Test Engineer](https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/Intern-Software-QA-Test-Engineer_JR0288220) | Poland, Gdansk (Hybrid) |  | 21d |
-| **Intel** | [System Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/System-Software-Engineering-Intern_JR0288207) | Poland, Gdansk |  | 21d |
-| **Intel** | [Media AI Software Intern](https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/Media-AI-Software-Intern_JR0288216) | Poland, Gdansk (Hybrid) |  | 21d |
-| **Intel** | [Middleware Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/Middleware-Software-Engineering-Intern_JR0288213) | Poland, Gdansk (Hybrid) |  | 22d |
-| **Nvidia** | [GenAI Algorithms Intern – Model Optimization for Inference](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Poland-Warsaw/GenAI-Algorithms-Intern---Model-Optimization-for-Inference_JR2027377) | 2 Locations | $30K–$52K | 22d |
-| **Accenture** | [Data & AI Internship Program - Łódź/Katowice](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Lodz/Data---AI-Internship-Program_R00365279) | Lodz (Hybrid) |  | 23d |
-| **Nvidia** | [Developer Tools DevOps Engineering Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Poland-Warsaw/Developer-Tools-DevOps-Engineering-Intern---2027_JR2027826) | Poland, Warsaw | $30K–$52K | 26d |
-| **Airbus** | [Intern Backend Developer](https://ag.wd3.myworkdayjobs.com/Airbus/job/Gdansk/Intern-Backend-Developer_JR10451110) | Gdansk |  | 26d |
-| **Airbus** | [Intern System Integration Developer](https://ag.wd3.myworkdayjobs.com/Airbus/job/Gdansk/Intern-System-Integration-Developer_JR10451063) | Gdansk |  | 27d |
-| **Airbus** | [Intern Frontend Developer](https://ag.wd3.myworkdayjobs.com/Airbus/job/Gdansk/Intern-Frontend-Developer_JR10451058) | Gdansk |  | 27d |
-| **Intel** | [GPU Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/GPU-Software-Engineering-Intern_JR0287894) | Poland, Gdansk (Hybrid) |  | 29d |
+| **Airbus** | [Site Reliability Intern](https://ag.wd3.myworkdayjobs.com/Airbus/job/Gdansk/Site-Reliability-Intern_JR10456730) | Gdansk |  | 1d |
+| **Motorola Solutions** | [Intern Software Developer (JavaScript & React)](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--JavaScript---React-_R70490) | Krakow, Poland (Hybrid) |  | 2d |
+| **Motorola Solutions** | [Intern Software Developer (Salesforce)](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--Salesforce-_R69887) | Krakow, Poland (Hybrid) |  | 2d |
+| **Motorola Solutions** | [Intern Software Developer C/C++](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer-C-C--_R70432) | Krakow, Poland (Hybrid) |  | 6d |
+| **Motorola Solutions** | [Intern Software Developer](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--C-C---_R70024) | Krakow, Poland (Hybrid) |  | 6d |
+| **Intel** | [DevOps Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/DevOps-Software-Engineering-Intern_JR0288633) | Poland, Gdansk (Hybrid) |  | 10d |
+| **External Career Page** | [Student Internship - Front-End Software Development](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Krakow-Lesser-Poland-Poland/Internship---FrontEnd-Software-Engineer_JR00034867) | Krakow, Lesser Poland, Poland (Hybrid) |  | 13d |
+| **Snowflake** | [Software Engineer Intern AI/ML - Warsaw (2027)](https://jobs.ashbyhq.com/snowflake/418a8f32-1658-47d9-9450-ed3a6e947215) | PL-Warsaw-Lixa C |  | 15d |
+| **Motorola Solutions** | [Intern DevOps Engineer](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-DevOps-Engineer_R69906) | Krakow, Poland (Hybrid) |  | 16d |
+| **Bosch** | [Automation & AI Intern (f/m)](https://jobs.smartrecruiters.com/BoschGroup/744000157422450-automation-ai-intern-f-m-?oga=true) | Warszawa, Województwo mazowieckie, Poland (Hybrid) |  | 20d |
+| **Intel** | [Intern Software QA Test Engineer](https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/Intern-Software-QA-Test-Engineer_JR0288220) | Poland, Gdansk (Hybrid) |  | 22d |
+| **Intel** | [System Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/System-Software-Engineering-Intern_JR0288207) | Poland, Gdansk |  | 22d |
+| **Intel** | [Media AI Software Intern](https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/Media-AI-Software-Intern_JR0288216) | Poland, Gdansk (Hybrid) |  | 22d |
+| **Intel** | [Middleware Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/Middleware-Software-Engineering-Intern_JR0288213) | Poland, Gdansk (Hybrid) |  | 23d |
+| **Nvidia** | [GenAI Algorithms Intern – Model Optimization for Inference](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Poland-Warsaw/GenAI-Algorithms-Intern---Model-Optimization-for-Inference_JR2027377) | 2 Locations | $30K–$52K | 23d |
+| **Accenture** | [Data & AI Internship Program - Łódź/Katowice](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Lodz/Data---AI-Internship-Program_R00365279) | Lodz (Hybrid) |  | 24d |
+| **Nvidia** | [Developer Tools DevOps Engineering Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Poland-Warsaw/Developer-Tools-DevOps-Engineering-Intern---2027_JR2027826) | Poland, Warsaw | $30K–$52K | 27d |
+| **Airbus** | [Intern Backend Developer](https://ag.wd3.myworkdayjobs.com/Airbus/job/Gdansk/Intern-Backend-Developer_JR10451110) | Gdansk |  | 27d |
+| **Airbus** | [Intern System Integration Developer](https://ag.wd3.myworkdayjobs.com/Airbus/job/Gdansk/Intern-System-Integration-Developer_JR10451063) | Gdansk |  | 28d |
+| **Airbus** | [Intern Frontend Developer](https://ag.wd3.myworkdayjobs.com/Airbus/job/Gdansk/Intern-Frontend-Developer_JR10451058) | Gdansk |  | 28d |
+| **Intel** | [GPU Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/GPU-Software-Engineering-Intern_JR0287894) | Poland, Gdansk (Hybrid) |  | 1mo |
 | **Motorola Solutions** | [Intern Software Developer (React/JS)](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--React-JS-_R68879) | Krakow, Poland |  | 1mo |
 | **Solidigm** | [Undergrad Engineering Internship in Firmware Team](https://jobs.smartrecruiters.com/Solidigm/744000154595052-undergrad-engineering-internship-in-firmware-team?oga=true) | Gdańsk, , Poland |  | 1mo |
 | **Intel** | [AI Software Engineering - Workloads Validation Intern](https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/AI-Software-Engineering---Workloads-Validation-Intern_JR0287890) | Poland, Gdansk (Hybrid) |  | 1mo |
 | **Intel** | [Intern C++ Developer - Graphics Compute Driver (AI, HPC)](https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/Intern-C---Developer---Graphics-Compute-Driver--AI--HPC-_JR0287886) | Poland, Gdansk (Hybrid) |  | 1mo |
-| **Intel** | [GPU Software Performance Intern](https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/GPU-Software-Performance-Intern_JR0287884) | Poland, Gdansk (Hybrid) | $22K | 1mo |
 | **Squarepointcapital** | [Intern Software Developer - Warsaw 2027](https://www.squarepoint-capital.com/open-opportunities?id=8045124&gh_jid=8045124) | Warsaw |  | 1mo |
 | **Nvidia** | [Software Engineering Intern, Nsight Systems - 2026](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Poland-Remote/Software-Engineering-Intern--Nsight-Systems---2026_JR2007248) | Remote (2 Locations) | $30K–$52K | 1mo |
 | **Nvidia** | [Image and Data Processing Libraries Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Poland-Warsaw/Image-and-Data-Processing-Libraries-Intern_JR2026569) | 2 Locations (Hybrid) | $29K–$51K | 1mo |
@@ -61,8 +60,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Amazon** | [Product Manager Intern - Poland](https://www.amazon.jobs/en/jobs/10586354/product-manager-intern-poland) | PL, Warsaw |  | 20d |
-| **Rockwell Automation** | [Business Intelligence Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Katowice-Poland/Business-Intelligence-Intern_R26-6613) | Katowice, Poland (Hybrid) |  | 21d |
+| **Amazon** | [Product Manager Intern - Poland](https://www.amazon.jobs/en/jobs/10586354/product-manager-intern-poland) | PL, Warsaw |  | 21d |
+| **Rockwell Automation** | [Business Intelligence Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Katowice-Poland/Business-Intelligence-Intern_R26-6613) | Katowice, Poland (Hybrid) |  | 22d |
 | **External Career Page** | [Student Internship - UX Designer](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Lodz-Lodz-Poland/Student-Internship---UX-Designer_JR00048119-1) | Lodz, Lodz, Poland |  | 1mo |
 | **Masterborn 2** | [Intern Product Designer (AI Prototyping)](https://jobs.lever.co/masterborn-2/452e0679-85a2-40cd-96a8-ed77d0068ea2) | Wrocław (Hybrid) |  | 2mo |
 | **Google** | [Data Science PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/74389446190867142) | Warsaw, Poland | $48K | 2mo |
