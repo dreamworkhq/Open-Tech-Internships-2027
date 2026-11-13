@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**22 currently open roles** · Updated **2026-11-12**
+**22 currently open roles** · Updated **2026-11-13**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -15,12 +15,12 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Sunlife** | [Software Delivery Internship Student](https://sunlife.wd3.myworkdayjobs.com/Experienced/job/Waterford-Waterford-Ireland/Software-Delivery-Internship-Student_JR00129727) | Waterford, Waterford, Ireland |  | 1d |
-| **Microsoft** | [Software Engineer Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393557038773?l=en_us&pg=1&pgSz=20&o=Recent) | — |  | 4d |
-| **Apple** | [Intern - Software Automation Engineer](https://jobs.apple.com/en-us/details/200693668/intern-software-automation-engineer?team=SFTWR) | Cork |  | 5d |
-| **AMD** | [2027 Analog & Mixed-Signal Design Intern](https://careers.amd.com/jobs/88848?lang=en-us) | Cork, Cork, Ireland |  | 5d |
-| **General Motors** | [Java Software Engineer Intern](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Dublin-Ireland/Java-Software-Engineer-Intern_JR-202619011-1) | Dublin, Ireland (Hybrid) |  | 13d |
-| **MongoDB** | [2027 - Summer Software Engineer Intern, Dublin](https://www.mongodb.com/careers/job/?gh_jid=8267099) | Dublin (Hybrid) |  | 19d |
+| **Sunlife** | [Software Delivery Internship Student](https://sunlife.wd3.myworkdayjobs.com/Experienced/job/Waterford-Waterford-Ireland/Software-Delivery-Internship-Student_JR00129727) | Waterford, Waterford, Ireland |  | 2d |
+| **Microsoft** | [Software Engineer Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393557038773?l=en_us&pg=1&pgSz=20&o=Recent) | — |  | 5d |
+| **Apple** | [Intern - Software Automation Engineer](https://jobs.apple.com/en-us/details/200693668/intern-software-automation-engineer?team=SFTWR) | Cork |  | 6d |
+| **AMD** | [2027 Analog & Mixed-Signal Design Intern](https://careers.amd.com/jobs/88848?lang=en-us) | Cork, Cork, Ireland |  | 6d |
+| **General Motors** | [Java Software Engineer Intern](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Dublin-Ireland/Java-Software-Engineer-Intern_JR-202619011-1) | Dublin, Ireland (Hybrid) |  | 14d |
+| **MongoDB** | [2027 - Summer Software Engineer Intern, Dublin](https://www.mongodb.com/careers/job/?gh_jid=8267099) | Dublin (Hybrid) |  | 20d |
 | **Amazon** | [Data Center Infra Engineer - 2027 Internship, Logistics Team](https://www.amazon.jobs/en/jobs/10576883/data-center-infra-engineer-2027-internship-logistics-team) | IE, D, Dublin |  | 1mo |
 | **MongoDB** | [2027 - Software Engineer Intern, Dublin - 6 Month Internship](https://www.mongodb.com/careers/job/?gh_jid=8258279) | Dublin (Hybrid) |  | 1mo |
 | **Pinterest** | [Machine Learning Intern 2027 (Dublin)](https://www.pinterestcareers.com/jobs/?gh_jid=8244922) | Dublin, IE (Hybrid) | $68K–$85K | 1mo |
@@ -38,8 +38,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Honeywell** | [Intern Masters AI (m/f/d)](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161883) | Dublin, Co. Dublin, Ireland |  | 0d |
-| **Logitech** | [Intern, Engineering](https://logitech.wd5.myworkdayjobs.com/Logitech/job/Cork-Ireland/Intern--Engineering_147916-1) | Cork, Ireland |  | 28d |
+| **Honeywell** | [Intern Masters AI (m/f/d)](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161883) | Dublin, Co. Dublin, Ireland |  | 1d |
+| **Logitech** | [Intern, Engineering](https://logitech.wd5.myworkdayjobs.com/Logitech/job/Cork-Ireland/Intern--Engineering_147916-1) | Cork, Ireland |  | 29d |
 | **Amazon** | [(Physical) Security Specialist Intern - 2027 Internship, DUB West](https://www.amazon.jobs/en/jobs/10576777/physical-security-specialist-intern-2027-internship-dub-west) | IE, Dublin |  | 1mo |
 | **Google** | [Business Analyst MBA Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/82600333812867782) | Dublin, Ireland | $81K | 1mo |
 
