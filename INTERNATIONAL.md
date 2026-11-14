@@ -2,7 +2,7 @@
 
 [← US internships](README.md) · [Business internships](BUSINESS.md) · [Crypto internships](CRYPTO.md)
 
-**1695 country-located roles** across **67 countries** · **2 explicitly global remote** · Updated **2026-11-13**
+**1695 country-located roles** across **68 countries** · **3 explicitly global remote** · Updated **2026-11-14**
 
 This list is partial: 3 of its searches reached the public listings API's 1,000-row limit, so some open roles are missing.
 
@@ -10,41 +10,41 @@ This is the international view of the same verified-open internship corpus. Coun
 
 | Country | Open roles |
 | --- | ---: |
-| [Canada](international/canada.md) | 218 |
-| [Singapore](international/singapore.md) | 215 |
-| [India](international/india.md) | 121 |
-| [China](international/china.md) | 102 |
+| [Singapore](international/singapore.md) | 218 |
+| [Canada](international/canada.md) | 200 |
+| [India](international/india.md) | 135 |
+| [China](international/china.md) | 101 |
 | [United Kingdom](international/united-kingdom.md) | 95 |
-| [France](international/france.md) | 67 |
+| [France](international/france.md) | 68 |
 | [Germany](international/germany.md) | 66 |
 | [Malaysia](international/malaysia.md) | 63 |
 | [Netherlands](international/netherlands.md) | 56 |
+| [Poland](international/poland.md) | 47 |
 | [Italy](international/italy.md) | 46 |
-| [Poland](international/poland.md) | 45 |
 | [Taiwan](international/taiwan.md) | 45 |
 | [Vietnam](international/vietnam.md) | 43 |
 | [Switzerland](international/switzerland.md) | 41 |
-| [Mexico](international/mexico.md) | 33 |
-| [Spain](international/spain.md) | 33 |
-| [Belgium](international/belgium.md) | 28 |
+| [Mexico](international/mexico.md) | 32 |
+| [Spain](international/spain.md) | 32 |
+| [Belgium](international/belgium.md) | 27 |
 | [Thailand](international/thailand.md) | 26 |
 | [Czechia](international/czechia.md) | 25 |
-| [Brazil](international/brazil.md) | 23 |
+| [Brazil](international/brazil.md) | 22 |
 | [Ireland](international/ireland.md) | 22 |
 | [Hong Kong SAR China](international/hong-kong-sar-china.md) | 21 |
 | [Portugal](international/portugal.md) | 17 |
 | [Philippines](international/philippines.md) | 16 |
-| [Indonesia](international/indonesia.md) | 14 |
+| [Indonesia](international/indonesia.md) | 15 |
 | [Romania](international/romania.md) | 13 |
 | [Croatia](international/croatia.md) | 12 |
 | [Ukraine](international/ukraine.md) | 12 |
 | [Colombia](international/colombia.md) | 11 |
 | [Israel](international/israel.md) | 11 |
 | [Hungary](international/hungary.md) | 10 |
+| [Peru](international/peru.md) | 10 |
 | [Austria](international/austria.md) | 9 |
 | [Luxembourg](international/luxembourg.md) | 9 |
-| [Peru](international/peru.md) | 9 |
-| [Sri Lanka](international/sri-lanka.md) | 9 |
+| [Sri Lanka](international/sri-lanka.md) | 8 |
 | [Türkiye](international/turkiye.md) | 8 |
 | [United Arab Emirates](international/united-arab-emirates.md) | 8 |
 | [Puerto Rico](international/puerto-rico.md) | 7 |
@@ -65,6 +65,7 @@ This is the international view of the same verified-open internship corpus. Coun
 | [Norway](international/norway.md) | 3 |
 | [Saudi Arabia](international/saudi-arabia.md) | 3 |
 | [Egypt](international/egypt.md) | 2 |
+| [Lithuania](international/lithuania.md) | 2 |
 | [Qatar](international/qatar.md) | 2 |
 | [Armenia](international/armenia.md) | 1 |
 | [Azerbaijan](international/azerbaijan.md) | 1 |
@@ -72,18 +73,19 @@ This is the international view of the same verified-open internship corpus. Coun
 | [Cambodia](international/cambodia.md) | 1 |
 | [Chile](international/chile.md) | 1 |
 | [Kuwait](international/kuwait.md) | 1 |
-| [Lithuania](international/lithuania.md) | 1 |
+| [Latvia](international/latvia.md) | 1 |
 | [Morocco](international/morocco.md) | 1 |
 | [North Macedonia](international/north-macedonia.md) | 1 |
 | [Russia](international/russia.md) | 1 |
 | [Suriname](international/suriname.md) | 1 |
 
-## Global remote (2)
+## Global remote (3)
 
 Only roles whose listing explicitly says applicants can work from anywhere appear here. A role merely labeled "Remote" is not treated as globally available.
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
+| **DeliveryHero** | [Intern Data Analyst I People Strategy Global HQ](https://jobs.smartrecruiters.com/DeliveryHero/744000152474589-intern-data-analyst-i-people-strategy-global-hq?oga=true) | Remote (Barcelona, , Spain) |  | 1mo |
 | **Yotta** | [Research Engineer Intern - AI Systems](https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3) | Remote (United States) |  | 3mo |
 | **DeliveryHero** | [Data Analyst Intern](https://jobs.smartrecruiters.com/DeliveryHero/744000133574326-data-analyst-intern?oga=true) | Remote (Barcelona, , Spain) |  | 4mo |
 
