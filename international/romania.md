@@ -2,24 +2,22 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**13 currently open roles** · Updated **2026-11-14**
+**12 currently open roles** · Updated **2026-11-15**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-11) · 11 roles
-- [Other](#other-2) · 2 roles
+- [Engineering](#engineering-9) · 9 roles
+- [Other](#other-3) · 3 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (11)
+### Engineering (9)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Analog Devices** | [Embedded Software Engineering Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/Romania-Cluj-Napoca-Decembrie/Embedded-Software-Engineering-Intern_R267120) | Romania, Cluj-Napoca, Decembrie |  | 1d |
-| **Thales** | [Thales Technology Internship: Software Development, Testing & IT Operat…](https://thales.wd3.myworkdayjobs.com/Careers/job/Bucharest/Thales-Technology-Internship--Software-Development--Testing---IT-Operations_R0346859) | Bucharest |  | 5d |
-| **Analog Devices** | [Embedded Software Engineer Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/Romania-Cluj-Napoca-Decembrie/Embedded-Software-Engineer-Intern_R267116) | Romania, Cluj-Napoca, Decembrie |  | 10d |
-| **Honeywell** | [Intern Bachelors - Software Engineering (QA Automation) (1-year full-ti…](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159184) | Bucuresti, Romania |  | 14d |
-| **Adobe** | [2027 Intern- Software Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/XMLNAME-2027-Intern--Software-Engineer_R173018) | Bucharest (Hybrid) | $28K | 25d |
+| **Analog Devices** | [Embedded Software Engineering Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/Romania-Cluj-Napoca-Decembrie/Embedded-Software-Engineering-Intern_R267120) | Romania, Cluj-Napoca, Decembrie |  | 2d |
+| **Thales** | [Thales Technology Internship: Software Development, Testing & IT Operat…](https://thales.wd3.myworkdayjobs.com/Careers/job/Bucharest/Thales-Technology-Internship--Software-Development--Testing---IT-Operations_R0346859) | Bucharest |  | 6d |
+| **Adobe** | [2027 Intern- Software Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/XMLNAME-2027-Intern--Software-Engineer_R173018) | Bucharest (Hybrid) | $28K | 26d |
 | **NXP Semiconductors** | [Software Internship - Systems Engineering](https://nxp.wd3.myworkdayjobs.com/careers/job/Bucharest/Software-Internship---Systems-Engineering_R-10066965) | Bucharest |  | 1mo |
 | **Amazon** | [2027 Software Dev Engineer Intern - Iași, Romania](https://www.amazon.jobs/en/jobs/10554652/2027-software-dev-engineer-intern-ia-i-romania) | RO, Iasi |  | 1mo |
 | **Stripe** | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130807) | Bucharest | $31K | 2mo |
@@ -27,11 +25,12 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **NXP Semiconductors** | [Web Application Developer Intern](https://nxp.wd3.myworkdayjobs.com/careers/job/Sibiu/Web-Application-Developer_R-10062194-1) | Sibiu (Hybrid) |  | 5mo |
 | **NXP Semiconductors** | [Software Intern Student - RealTime Drivers](https://nxp.wd3.myworkdayjobs.com/careers/job/Bucharest/Software-Intern-Student---RealTime-Drivers_R-10062117) | Bucharest (Hybrid) |  | 5mo |
 
-### Other (2)
+### Other (3)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Garrett Advancing Motion** | [Product Management & Data Analysis Intern](https://ehth.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/15236) | BUCUREŞTI, BUCUREŞTI, Romania (Hybrid) |  | 24d |
-| **Nvent** | [Business Intelligence & Data Analytics Intern- 1 year](https://nvent.wd5.myworkdayjobs.com/nVent/job/Prejmer-RO/Business-Intelligence---Data-Analytics-Intern--1-year_R23586) | Prejmer, RO |  | 25d |
+| **Adobe** | [2027 Intern- Security Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/XMLNAME-2027-Intern--Security-Engineer_R172468) | Bucharest (Hybrid) | $28K | 0d |
+| **Garrett Advancing Motion** | [Product Management & Data Analysis Intern](https://ehth.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/15236) | BUCUREŞTI, BUCUREŞTI, Romania (Hybrid) |  | 25d |
+| **Nvent** | [Business Intelligence & Data Analytics Intern- 1 year](https://nvent.wd5.myworkdayjobs.com/nVent/job/Prejmer-RO/Business-Intelligence---Data-Analytics-Intern--1-year_R23586) | Prejmer, RO |  | 26d |
 
 <!-- TABLE_END -->
