@@ -4,27 +4,26 @@ Verified-open crypto, blockchain, and web3 internships worldwide, updated daily.
 
 [← US tech internships](README.md) · [International internships](INTERNATIONAL.md) · [Business internships](BUSINESS.md)
 
-**34 open internships** · **20 companies** · **0 added in the last 24 hours** · Updated **2026-11-14**
+**33 open internships** · **19 companies** · **0 added in the last 24 hours** · Updated **2026-11-15**
 
 Every role links directly to the company's career page. Indexed from company career pages and maintained by [Dreamwork](https://github.com/dreamworkhq), which crawls 2.5M+ live jobs.
 
-- [Engineering](#engineering-22) · 22 roles
+- [Engineering](#engineering-21) · 21 roles
 - [Other](#other-12) · 12 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (22)
+### Engineering (21)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Bybit** | [\[Intern\] Test Development Engineer Intern](https://job-boards.eu.greenhouse.io/bybit/jobs/5034554101) | Hong Kong SAR |  | 1d |
-| **Bybit** | [Mobile Development Engineer Intern](https://job-boards.eu.greenhouse.io/bybit/jobs/5005977101) | Hong Kong SAR; Kuala Lumpur, Malaysia |  | 1d |
-| **General Dynamics Mission Systems** | [Software Test Engineering Intern - Space and Embedded Crypto](https://careers-gdms.icims.com/jobs/75632/software-test-engineering-intern---space-and-embedded-crypto/job) | Scottsdale, AZ, US (Hybrid) |  | 4d |
-| **Thales** | [STAGE - Mise en oeuvre de la crypto PQC pour le Data Centric Security (…](https://thales.wd3.myworkdayjobs.com/Careers/job/Palaiseau/STAGE---Mise-en-oeuvre-de-la-crypto-PQC-pour-le-Data-Centric-Security--F-H-_R0344674) | Palaiseau (Hybrid) |  | 9d |
-| **Keyrock** | [Innovation Quant Developer Intern (DeFi/Corporate Development) - Brusse…](https://jobs.ashbyhq.com/Keyrock/d2d0a311-b102-4fda-b537-1a8e926b55c7) | Brussels |  | 15d |
+| **Bybit** | [\[Intern\] Test Development Engineer Intern](https://job-boards.eu.greenhouse.io/bybit/jobs/5034554101) | Hong Kong SAR |  | 2d |
+| **Bybit** | [Mobile Development Engineer Intern](https://job-boards.eu.greenhouse.io/bybit/jobs/5005977101) | Hong Kong SAR; Kuala Lumpur, Malaysia |  | 2d |
+| **General Dynamics Mission Systems** | [Software Test Engineering Intern - Space and Embedded Crypto](https://careers-gdms.icims.com/jobs/75632/software-test-engineering-intern---space-and-embedded-crypto/job) | Scottsdale, AZ, US (Hybrid) |  | 5d |
+| **Thales** | [STAGE - Mise en oeuvre de la crypto PQC pour le Data Centric Security (…](https://thales.wd3.myworkdayjobs.com/Careers/job/Palaiseau/STAGE---Mise-en-oeuvre-de-la-crypto-PQC-pour-le-Data-Centric-Security--F-H-_R0344674) | Palaiseau (Hybrid) |  | 10d |
+| **Keyrock** | [Innovation Quant Developer Intern (DeFi/Corporate Development) - Brusse…](https://jobs.ashbyhq.com/Keyrock/d2d0a311-b102-4fda-b537-1a8e926b55c7) | Brussels |  | 16d |
 | **General Dynamics Mission Systems** | [Software Engineer Intern for Crypto & Cross Domain Solutions](https://careers-gdms.icims.com/jobs/75477/software-engineer-intern-for-crypto-%26-cross-domain-solutions/job) | Scottsdale, AZ, US (Hybrid) |  | 1mo |
 | **Merklescience** | [Software Engineer - Intern (Frontend)](https://jobs.lever.co/merklescience/20675d00-156c-4f3f-a9bf-4cacee176bc2) | Bangalore |  | 1mo |
-| **ALTEN** | [Stage Innovation : Ingénieur Génie logiciel Frontend / Blockchain](https://jobs.smartrecruiters.com/ALTEN/744000151636128-stage-innovation-ingenieur-genie-logiciel-frontend-blockchain?oga=true) | Rennes, Brittany, France |  | 1mo |
 | **Bybit** | [AI Development Engineer Intern](https://job-boards.eu.greenhouse.io/bybit/jobs/4974271101) | Kuala Lumpur, Malaysia |  | 2mo |
 | **Bybit** | [\[Intern\] Test Development Engineer Intern](https://job-boards.eu.greenhouse.io/bybit/jobs/4971569101) | Hong Kong SAR; Kuala Lumpur, Malaysia |  | 2mo |
 | **Bybit** | [\[Intern\] Big Data Development Engineer Intern](https://job-boards.eu.greenhouse.io/bybit/jobs/4971692101) | Hong Kong SAR |  | 2mo |
@@ -44,10 +43,10 @@ Every role links directly to the company's career page. Indexed from company car
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **a16z Crypto** | [Research Intern, Frontier](https://a16z.com/about/jobs/?gh_jid=8046730003) | New York, New York, United States | $182K–$234K | 13d |
-| **Keyrock** | [DeFi Quant Research Intern (Digital Assets Market Making) - Brussels](https://jobs.ashbyhq.com/Keyrock/4cae20e0-f315-4ccb-aa8e-df0e87969313) | Brussels |  | 15d |
-| **Keyrock** | [DeFi Quant Trader Intern (Credit) - Brussels](https://jobs.ashbyhq.com/Keyrock/6b46ce15-7e6b-4213-9eb4-41cc64577e24) | Brussels |  | 15d |
-| **Bybit** | [Animator Intern](https://weworkremotely.com/remote-jobs/bybit-animator-intern) | Remote |  | 22d |
+| **a16z Crypto** | [Research Intern, Frontier](https://a16z.com/about/jobs/?gh_jid=8046730003) | New York, New York, United States | $182K–$234K | 15d |
+| **Keyrock** | [DeFi Quant Research Intern (Digital Assets Market Making) - Brussels](https://jobs.ashbyhq.com/Keyrock/4cae20e0-f315-4ccb-aa8e-df0e87969313) | Brussels |  | 16d |
+| **Keyrock** | [DeFi Quant Trader Intern (Credit) - Brussels](https://jobs.ashbyhq.com/Keyrock/6b46ce15-7e6b-4213-9eb4-41cc64577e24) | Brussels |  | 16d |
+| **Bybit** | [Animator Intern](https://weworkremotely.com/remote-jobs/bybit-animator-intern) | Remote |  | 23d |
 | **Recrutement Banque De France** | [SG DEFI DEVELOPPEUR - ANALYSTE FINANCIER H/F](https://bdf.wd103.myworkdayjobs.com/recrutement-banque-de-france/job/PARIS/SG-DEFI-DEVELOPPEUR---ANALYSTE-FINANCIER-H-F_JR101484) | PARIS |  | 1mo |
 | **Bybit** | [Smart Contract Security Audit Intern (AI Audit)](https://job-boards.eu.greenhouse.io/bybit/jobs/4974605101) | Remote (APAC - Remote; Hong Kong SAR) |  | 2mo |
 | **Skymavis** | [Security Operations Intern](https://jobs.ashbyhq.com/skymavis/077388d7-385f-46e2-b7f0-e870deecd707) | Vietnam |  | 2mo |

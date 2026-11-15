@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-14T23:03:22.072Z",
+  "generatedAt": "2026-11-15T23:26:47.757Z",
   "source": "dreamwork-public-job-index",
   "list": "Open-Tech-Internships-2027",
   "scope": "crypto",
-  "count": 34,
+  "count": 33,
   "listings": [
     {
       "id": "0330a7d8-520e-4c55-91ba-e9e21e54a051",
@@ -65,7 +65,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-11-05T13:32:36.769Z",
+      "postedAt": "2026-11-05T13:49:26.400Z",
       "firstIndexedAt": "2026-11-05T15:28:25.030Z",
       "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Palaiseau/STAGE---Mise-en-oeuvre-de-la-crypto-PQC-pour-le-Data-Centric-Security--F-H-_R0344674"
     },
@@ -196,22 +196,6 @@
       "postedAt": "2026-09-28T18:34:13.631Z",
       "firstIndexedAt": "2026-09-29T17:31:18.767Z",
       "url": "https://jobs.lever.co/merklescience/20675d00-156c-4f3f-a9bf-4cacee176bc2"
-    },
-    {
-      "id": "7bc9d166-5b88-467b-bc27-7f00ca698333",
-      "title": "Stage Innovation : Ingénieur Génie logiciel Frontend / Blockchain",
-      "company": "ALTEN",
-      "companyDomain": "alten.com",
-      "location": "Rennes, Brittany, France",
-      "locationCountryCode": "FR",
-      "functionPrimary": "Engineering",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-09-24T14:26:16.039Z",
-      "firstIndexedAt": "2026-09-24T20:01:14.123Z",
-      "url": "https://jobs.smartrecruiters.com/ALTEN/744000151636128-stage-innovation-ingenieur-genie-logiciel-frontend-blockchain?oga=true"
     },
     {
       "id": "4609c9f6-4e5c-4a1b-bbc0-cbc2c334b8f3",
