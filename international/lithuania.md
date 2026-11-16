@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**2 currently open roles** · Updated **2026-11-15**
+**2 currently open roles** · Updated **2026-11-16**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,7 +14,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **CGI** | [IT Internship (Insurance field)](https://clients.njoyn.com/corp/xweb/xweb.asp?page=jobdetails&clid=021001&jobid=j1026-1354) | Any - Lithuania, Lithuania |  | 1d |
-| **Eneba** | [Software Engineer (paid internship)](https://jobs.ashbyhq.com/eneba/7165fca1-a4a9-4dde-a4fd-2d2e2a7ada60) | Kaunas |  | 4d |
+| **CGI** | [IT Internship (Insurance field)](https://clients.njoyn.com/corp/xweb/xweb.asp?page=jobdetails&clid=021001&jobid=j1026-1354) | Any - Lithuania, Lithuania |  | 2d |
+| **Eneba** | [Software Engineer (paid internship)](https://jobs.ashbyhq.com/eneba/7165fca1-a4a9-4dde-a4fd-2d2e2a7ada60) | Kaunas |  | 5d |
 
 <!-- TABLE_END -->

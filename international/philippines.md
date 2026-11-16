@@ -2,21 +2,22 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**16 currently open roles** · Updated **2026-11-15**
+**17 currently open roles** · Updated **2026-11-16**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-7) · 7 roles
+- [Engineering](#engineering-8) · 8 roles
 - [Data Science](#data-science-5) · 5 roles
 - [Other](#other-4) · 4 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (7)
+### Engineering (8)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Finastra** | [Technical Solutions Consultant Intern - CyberSecurity](https://finastra.wd3.myworkdayjobs.com/FINC/job/Manila/Technical-Solutions-Consultant-Intern---CyberSecurity_REQ1026_0038307) | Manila (Hybrid) |  | 11d |
+| **Caparal Appliances & Furniture** | [Information Technology & Systems Intern (Salitran)](https://app.dover.com/apply/caparal-store/eb9e3fe9-58cc-4fbb-8ba6-ae0026f9f83a) | Dasmariñas, Philippines |  | 0d |
+| **Finastra** | [Technical Solutions Consultant Intern - CyberSecurity](https://finastra.wd3.myworkdayjobs.com/FINC/job/Manila/Technical-Solutions-Consultant-Intern---CyberSecurity_REQ1026_0038307) | Manila (Hybrid) |  | 13d |
 | **Globe** | [AI Engineer Intern - EDS](https://globe.wd3.myworkdayjobs.com/GLB_Careers/job/19F-The-Globe-Tower/AI-Engineer-Intern---EDS_R0000021961) | 19F The Globe Tower |  | 1mo |
 | **RealPage** | [Intern (Technical Internship) \| Software, Analytics & AI for Property …](https://careers-international-realpagepms.icims.com/jobs/14422/intern-%28technical-internship%29-%7c-software%2c-analytics-%26-ai-for-property-management-operations/job) | Manila, Pasig, PH (Hybrid) |  | 2mo |
 | **QIMA** | [AI Engineer - Internship](https://jobs.smartrecruiters.com/QIMA/744000145906434-ai-engineer-internship?oga=true) | Cebu City, Central Visayas, Philippines |  | 2mo |
@@ -28,8 +29,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **AIA** | [Data Analytics Intern](https://aia.wd3.myworkdayjobs.com/External/job/Makati-PH-AIA-Philippines/Data-Analytics-Intern_JR-71444-1) | Makati, PH-AIA Philippines |  | 16d |
-| **Western Digital** | [Intern - Data Analytics](https://jobs.smartrecruiters.com/WesternDigital/744000157382148-intern-data-analytics?oga=true) | Biñan City, LAGUNA, Philippines |  | 23d |
+| **AIA** | [Data Analytics Intern](https://aia.wd3.myworkdayjobs.com/External/job/Makati-PH-AIA-Philippines/Data-Analytics-Intern_JR-71444-1) | Makati, PH-AIA Philippines |  | 18d |
+| **Western Digital** | [Intern - Data Analytics](https://jobs.smartrecruiters.com/WesternDigital/744000157382148-intern-data-analytics?oga=true) | Biñan City, LAGUNA, Philippines |  | 24d |
 | **Umusic** | [Data Analytics Intern](https://umusic.wd5.myworkdayjobs.com/UMGAPAC/job/Manila-Philippines/Data-Analytics-Intern_UMG-27534) | Manila, Philippines |  | 1mo |
 | **Globe** | [Intern - Customer Data Analytics](https://globe.wd3.myworkdayjobs.com/GLB_Careers/job/22F-The-Globe-Tower/Intern---Customer-Data-Analytics_R0000015418) | 22F The Globe Tower |  | 2mo |
 | **1000** | [\[January 2027 Start Date\] Analytics & Insights Internship](https://pg.wd5.myworkdayjobs.com/1000/job/Taguig-City/XMLNAME--January-2027-Start-Date--Analytics---Insights-Internship_R000158430) | Taguig City |  | 2mo |
@@ -38,8 +39,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Globe** | [Product Owner Intern - EDS](https://globe.wd3.myworkdayjobs.com/GLB_Careers/job/19F-The-Globe-Tower/Product-Owner-Intern---EDS_R0000022034) | 19F The Globe Tower |  | 15d |
-| **AccorHotel** | [Security Intern](https://jobs.smartrecruiters.com/AccorHotel/744000157968754-security-intern?oga=true) | Makati City, NCR, Philippines |  | 19d |
+| **Globe** | [Product Owner Intern - EDS](https://globe.wd3.myworkdayjobs.com/GLB_Careers/job/19F-The-Globe-Tower/Product-Owner-Intern---EDS_R0000022034) | 19F The Globe Tower |  | 17d |
+| **AccorHotel** | [Security Intern](https://jobs.smartrecruiters.com/AccorHotel/744000157968754-security-intern?oga=true) | Makati City, NCR, Philippines |  | 20d |
 | **Trend Micro** | [Cybersecurity Intern](https://trendmicro.wd3.myworkdayjobs.com/External/job/Manila/Cybersecurity-Intern_R0005760) | Manila |  | 2mo |
 | **Amadeus** | [Cybersecurity Intern](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Taguig-Metro-Manila/Cybersecurity-Intern_R31596) | Taguig, Metro Manila |  | 5mo |
 

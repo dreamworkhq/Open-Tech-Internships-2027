@@ -2,20 +2,21 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**6 currently open roles** · Updated **2026-11-15**
+**7 currently open roles** · Updated **2026-11-16**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Other](#other-6) · 6 roles
+- [Other](#other-7) · 7 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Other (6)
+### Other (7)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Sezzle** | [Graphic Design Intern](https://job-boards.greenhouse.io/sezzle/jobs/8195954003) | Remote (Argentina) |  | 11d |
-| **Sezzle** | [Product Manager Intern, ShopX(Rewards)](https://job-boards.greenhouse.io/sezzle/jobs/8044476003) | Remote (Argentina, Remote) |  | 19d |
+| **Red Hat** | [Business Analyst Intern](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Buenos-Aires/Business-Analyst-Intern_R-059102) | Buenos Aires |  | 0d |
+| **Sezzle** | [Graphic Design Intern](https://job-boards.greenhouse.io/sezzle/jobs/8195954003) | Remote (Argentina) |  | 12d |
+| **Sezzle** | [Product Manager Intern, ShopX(Rewards)](https://job-boards.greenhouse.io/sezzle/jobs/8044476003) | Remote (Argentina, Remote) |  | 20d |
 | **Sezzle** | [Product Management Intern](https://job-boards.greenhouse.io/sezzle/jobs/8004009003) | Remote (Argentina, Remote) |  | 1mo |
 | **Marvell Technology** | [Analog Design Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Cordoba-Argentina/Analog-Design-Intern_2602163) | Cordoba, Argentina |  | 5mo |
 | **Marvell Technology** | [Software/Firmware Engineering - Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Cordoba-Argentina/Software-Firmware-Engineering---Intern_2502704-1) | Cordoba, Argentina |  | 5mo |
