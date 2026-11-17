@@ -2,27 +2,24 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**10 currently open roles** · Updated **2026-11-16**
+**7 currently open roles** · Updated **2026-11-17**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Other](#other-10) · 10 roles
+- [Other](#other-7) · 7 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Other (10)
+### Other (7)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Hunt** | [Data Analytics Intern](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/679) | San Vicente de Canete, Lima, Peru |  | 9d |
-| **Sezzle** | [Product Manager Intern, ShopX(Rewards)](https://job-boards.greenhouse.io/sezzle/jobs/8044473003) | Remote (Peru) |  | 20d |
-| **Sezzle** | [Product Design Intern](https://job-boards.greenhouse.io/sezzle/jobs/8044001003) | Remote (Peru) |  | 21d |
-| **Sezzle** | [Multi Media Design Intern](https://job-boards.greenhouse.io/sezzle/jobs/8040759003) | Remote (Peru) |  | 25d |
-| **Sezzle** | [Graphic Design Intern](https://job-boards.greenhouse.io/sezzle/jobs/8040652003) | Remote (Peru) |  | 25d |
-| **Sezzle** | [Graphic Design: Video Editing Intern](https://job-boards.greenhouse.io/sezzle/jobs/8040761003) | Remote (Peru) |  | 25d |
+| **Hunt** | [Data Analytics Intern](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/679) | San Vicente de Canete, Lima, Peru |  | 10d |
+| **Sezzle** | [Product Manager Intern, ShopX(Rewards)](https://job-boards.greenhouse.io/sezzle/jobs/8044473003) | Remote (Peru) |  | 21d |
+| **Sezzle** | [Multi Media Design Intern](https://job-boards.greenhouse.io/sezzle/jobs/8040759003) | Remote (Peru) |  | 26d |
+| **Sezzle** | [Graphic Design Intern](https://job-boards.greenhouse.io/sezzle/jobs/8040652003) | Remote (Peru) |  | 26d |
+| **Sezzle** | [Graphic Design: Video Editing Intern](https://job-boards.greenhouse.io/sezzle/jobs/8040761003) | Remote (Peru) |  | 26d |
 | **Sezzle** | [Product Data Intern](https://job-boards.greenhouse.io/sezzle/jobs/8000825003) | Remote (Peru) |  | 1mo |
-| **Sezzle** | [Product Management Intern](https://job-boards.greenhouse.io/sezzle/jobs/7998740003) | Remote (Peru) |  | 1mo |
-| **Sezzle** | [Security Infrastructure Engineer Intern](https://job-boards.greenhouse.io/sezzle/jobs/7906517003) | Remote (Peru) |  | 2mo |
-| **Sezzle** | [AI Engineering Intern](https://job-boards.greenhouse.io/sezzle/jobs/7906563003) | Remote (Peru) |  | 2mo |
+| **Sezzle** | [Product Management Intern](https://job-boards.greenhouse.io/sezzle/jobs/7998740003) | Remote (Peru) |  | 2mo |
 
 <!-- TABLE_END -->

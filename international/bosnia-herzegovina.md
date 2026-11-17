@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**1 currently open roles** · Updated **2026-11-16**
+**1 currently open roles** · Updated **2026-11-17**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Infobip** | [AI Engineering Intern - Sarajevo](https://infobip.wd3.myworkdayjobs.com/InfobipCareers/job/Sarajevo-BiH/AI-Engineering-Intern---Sarajevo_JR105185) | Sarajevo (BiH) |  | 4d |
+| **Infobip** | [AI Engineering Intern - Sarajevo](https://infobip.wd3.myworkdayjobs.com/InfobipCareers/job/Sarajevo-BiH/AI-Engineering-Intern---Sarajevo_JR105185) | Sarajevo (BiH) |  | 5d |
 
 <!-- TABLE_END -->

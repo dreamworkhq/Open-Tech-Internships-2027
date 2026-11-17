@@ -2,19 +2,18 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**7 currently open roles** · Updated **2026-11-16**
+**6 currently open roles** · Updated **2026-11-17**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Other](#other-7) · 7 roles
+- [Other](#other-6) · 6 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Other (7)
+### Other (6)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Qlub** | [Product Intern, SoftPOS](https://jobs.ashbyhq.com/qlub/98659f5c-811f-42ec-b878-2a8171213aef) | Dubai, UAE |  | 5d |
 | **Amazon** | [Data Center Infra Engineer - 2027 Internship](https://www.amazon.jobs/en/jobs/10576779/data-center-infra-engineer-2027-internship) | AE, Dubai |  | 1mo |
 | **Amazon** | [Data Center Engineering Operations - 2027 Internship , DCEO](https://www.amazon.jobs/en/jobs/10574531/data-center-engineering-operations-2027-internship-dceo) | AE, Dubai |  | 1mo |
 | **Mastercard** | [Global Markets Summer Internship 2027 - Product Management intern & Sal…](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dubai-United-Arab-Emirates/Global-Markets-Summer-Internship-2027---Product-Management-intern---Sales-Analyst-Intern---Dubai--UAE--UAE-Nationals-Preferred-_R-287598-2) | Dubai, United Arab Emirates |  | 1mo |
