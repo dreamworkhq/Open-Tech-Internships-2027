@@ -2,18 +2,19 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**6 currently open roles** · Updated **2026-11-17**
+**7 currently open roles** · Updated **2026-11-18**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Other](#other-6) · 6 roles
+- [Other](#other-7) · 7 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Other (6)
+### Other (7)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
+| **Bybit** | [Animator Intern](https://weworkremotely.com/remote-jobs/bybit-animator-intern) | Remote |  | 0d |
 | **Amazon** | [Data Center Infra Engineer - 2027 Internship](https://www.amazon.jobs/en/jobs/10576779/data-center-infra-engineer-2027-internship) | AE, Dubai |  | 1mo |
 | **Amazon** | [Data Center Engineering Operations - 2027 Internship , DCEO](https://www.amazon.jobs/en/jobs/10574531/data-center-engineering-operations-2027-internship-dceo) | AE, Dubai |  | 1mo |
 | **Mastercard** | [Global Markets Summer Internship 2027 - Product Management intern & Sal…](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dubai-United-Arab-Emirates/Global-Markets-Summer-Internship-2027---Product-Management-intern---Sales-Analyst-Intern---Dubai--UAE--UAE-Nationals-Preferred-_R-287598-2) | Dubai, United Arab Emirates |  | 1mo |

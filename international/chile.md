@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**3 currently open roles** · Updated **2026-11-17**
+**3 currently open roles** · Updated **2026-11-18**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,8 +14,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Red Hat** | [Cloud Services Intern](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Santiago/Cloud-Services-Intern_R-059108) | Santiago |  | 0d |
+| **Red Hat** | [Cloud Services Intern](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Santiago/Cloud-Services-Intern_R-059108) | Santiago |  | 1d |
 | **Toku** | [Software Engineer Intern](https://jobs.ashbyhq.com/Toku/098023ef-b13d-4cdf-bc4f-dc1e61bfe6f1) | Chile (Hybrid) |  | 1d |
-| **NielsenIQ** | [Intern](https://jobs.smartrecruiters.com/NielsenIQ/744000160930411-intern?oga=true) | Santiago, RM, Chile (Hybrid) |  | 7d |
+| **NielsenIQ** | [Intern](https://jobs.smartrecruiters.com/NielsenIQ/744000160930411-intern?oga=true) | Santiago, RM, Chile (Hybrid) |  | 8d |
 
 <!-- TABLE_END -->

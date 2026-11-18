@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**1 currently open roles** · Updated **2026-11-17**
+**1 currently open roles** · Updated **2026-11-18**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **CGI** | [IT Internship (Insurance field)](https://clients.njoyn.com/corp/xweb/xweb.asp?page=jobdetails&clid=021001&jobid=j1026-1350) | Any - Latvia, Latvia |  | 3d |
+| **CGI** | [IT Internship (Insurance field)](https://clients.njoyn.com/corp/xweb/xweb.asp?page=jobdetails&clid=021001&jobid=j1026-1350) | Any - Latvia, Latvia |  | 4d |
 
 <!-- TABLE_END -->
