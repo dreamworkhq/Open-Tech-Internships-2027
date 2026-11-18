@@ -1,10 +1,42 @@
 {
-  "generatedAt": "2026-11-17T02:27:21.540Z",
+  "generatedAt": "2026-11-18T01:33:30.872Z",
   "source": "dreamwork-public-job-index",
   "list": "Open-Tech-Internships-2027",
   "scope": "crypto",
-  "count": 33,
+  "count": 35,
   "listings": [
+    {
+      "id": "d3f8ebfc-5978-4d79-9d18-21135a10223a",
+      "title": "Innovation Quant Developer Intern (DeFi/Corporate Development) - London",
+      "company": "Keyrock",
+      "companyDomain": "keyrock.com",
+      "location": "London",
+      "locationCountryCode": "GB",
+      "functionPrimary": "Engineering",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-11-16T21:34:10.506Z",
+      "firstIndexedAt": "2026-11-17T08:32:49.698Z",
+      "url": "https://jobs.ashbyhq.com/Keyrock/99a38fdd-4250-42b9-a92b-5c0f48d563fd"
+    },
+    {
+      "id": "f6118736-e789-453c-a7ae-298b9a8106d1",
+      "title": "DeFi Quant Trader Intern (Credit) - London",
+      "company": "Keyrock",
+      "companyDomain": "keyrock.com",
+      "location": "London",
+      "locationCountryCode": "GB",
+      "functionPrimary": "Finance",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-11-16T13:02:21.716Z",
+      "firstIndexedAt": "2026-11-17T08:32:49.698Z",
+      "url": "https://jobs.ashbyhq.com/Keyrock/959a9226-816b-4894-80e6-feaa79018d03"
+    },
     {
       "id": "0330a7d8-520e-4c55-91ba-e9e21e54a051",
       "title": "[Intern] Test Development Engineer Intern",
@@ -65,7 +97,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-11-05T13:49:26.400Z",
+      "postedAt": "2026-11-05T22:33:05.666Z",
       "firstIndexedAt": "2026-11-05T15:28:25.030Z",
       "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Palaiseau/STAGE---Mise-en-oeuvre-de-la-crypto-PQC-pour-le-Data-Centric-Security--F-H-_R0344674"
     },
