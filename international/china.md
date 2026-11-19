@@ -2,52 +2,49 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**103 currently open roles** · Updated **2026-11-18**
+**99 currently open roles** · Updated **2026-11-19**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-90) · 90 roles
+- [Engineering](#engineering-87) · 87 roles
 - [Data Science](#data-science-7) · 7 roles
-- [Design](#design-5) · 5 roles
-- [Other](#other-1) · 1 roles
+- [Other](#other-5) · 5 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (90)
+### Engineering (87)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Google** | [Software Engineering Intern, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/95046224276529862) | Shanghai, China |  | 1d |
-| **Cadence Design Systems** | [Intern-Product Validation](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SHANGHAI/Intern-Product-Validation_R57073) | SHANGHAI |  | 2d |
-| **External Career Page** | [AI Software Engineer Intern](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Shanghai-Shanghai-China/AI-Software-Engineer-Intern_JR00052857) | Shanghai, Shanghai, China |  | 5d |
-| **State Street** | [Software Engineering Intern](https://statestreet.wd1.myworkdayjobs.com/global/job/Hangzhou-China/Software-Engineering-Intern_R-800954) | Hangzhou, China |  | 6d |
-| **Nvidia** | [System Software Engineer Intern, Autonomous Vehicles - 2027](https://nvidia-sandbox2.eightfold.ai/careers/job/34497222730641) | China, Shenzhen |  | 6d |
-| **State Street** | [AI Engineer Intern](https://statestreet.wd1.myworkdayjobs.com/global/job/Hangzhou-China/AI-Engineer-Intern_R-800856-2) | Hangzhou, China |  | 7d |
-| **Intel** | [AI GPU Arch Perf Analysis Intern](https://intel.wd1.myworkdayjobs.com/External/job/PRC-Beijing/AI-GPU-Arch-Perf-Analysis-Intern_JR0288972) | PRC, Beijing |  | 7d |
-| **Cummins** | [IT Intern - 大模型应用工程师](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1005/job/2442161) | Beijing, China |  | 8d |
-| **Cummins** | [IT Intern - 数字员工平台应用工程师](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1005/job/2442162) | Beijing, China |  | 8d |
-| **Razer** | [Software Testing Intern](https://razer.wd3.myworkdayjobs.com/Careers/job/Shenzhen/Software-Testing-Intern_JR2026008030) | Shenzhen |  | 8d |
-| **RenesasElectronics** | [Robotic AI Intern](https://jobs.smartrecruiters.com/RenesasElectronics/744000160529969-robotic-ai-intern?oga=true) | Beijing, , China |  | 9d |
-| **RenesasElectronics** | [Robotic AI Intern](https://jobs.smartrecruiters.com/RenesasElectronics/744000160530279-robotic-ai-intern?oga=true) | Shenzhen, , China |  | 9d |
-| **Nvidia** | [AI Infrastructure and Frameworks Intern, Cosmos Lab - 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Infrastructure-and-Frameworks-Intern--Cosmos-Lab---2027_JR2029468) | China, Shanghai |  | 12d |
-| **Nvidia** | [System Software Engineer Intern - Autonomous Vehicles – 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/System-Software-Engineer-Intern---Autonomous-Vehicles---2027_JR2028135) | China, Shanghai |  | 12d |
-| **Ralliant** | [AI Application Development Intern](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx_1001/job/11213) | Shanghai, China |  | 12d |
-| **Cadence Design Systems** | [Intern - Design Engineering](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SHANGHAI/Intern---Design-Engineering_R56890) | SHANGHAI |  | 13d |
-| **Emerson** | [Software Engineering Intern](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/26013296) | Shanghai, Shanghai, China |  | 13d |
-| **Apple** | [Software Engineer Intern (Full-Stack & AI Agents) - Shanghai](https://jobs.apple.com/en-us/details/200690042/software-engineer-intern-full-stack-ai-agents-shanghai?team=STDNT) | Shanghai |  | 14d |
-| **Cadence Design Systems** | [Intern for analog circuit design](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BEIJING/Intern-for-analog-circuit-design_R56881) | BEIJING |  | 14d |
-| **Philips** | [MR Software Intern](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Suzhou/MR-Software-Intern_594544) | Suzhou |  | 15d |
-| **Nvidia** | [Manufacturing Automation Solution Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shenzhen/Manufacturing-Automation-Solution-Intern---2027_JR2028280) | China, Shenzhen |  | 17d |
-| **Ericsson** | [AI Development Intern](https://career2.successfactors.eu/careers?company=Ericsson&career_ns=job_listing&career_job_req_id=789919) | Beijing, China |  | 21d |
-| **Apple** | [Engineering Intern (AI/ML & Automation) for Hardware - Shanghai](https://jobs.apple.com/en-us/details/200688974/engineering-intern-ai-ml-automation-for-hardware-shanghai?team=STDNT) | Shanghai |  | 22d |
-| **Apple** | [Software Engineer Intern - Core OS](https://jobs.apple.com/en-us/details/200690888/software-engineer-intern-core-os?team=SFTWR) | Shanghai |  | 22d |
-| **Nvidia** | [Software Engineering Intern, AI Automation Infra - 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--AI-Automation-Infra---2027_JR2028205) | China, Shanghai |  | 26d |
-| **Nvidia** | [System Software Engineer Intern, Embedded - 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/System-Software-Engineer-Intern--Embedded---2027_JR2028298) | China, Shanghai |  | 26d |
-| **Nvidia** | [Software Engineer Intern - NVEX, 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/Software-Engineer-Intern---NVEX--2027_JR2028186) | China, Beijing |  | 26d |
-| **Nvidia** | [Computer Architecture Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Computer-Architecture-Intern---2027_JR2026052) | 2 Locations |  | 26d |
-| **Nvidia** | [AI Agent Engineer Intern, AI Enablement Process - 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/AI-Agent-Engineer-Intern--AI-Enablement-Process---2027_JR2025834-1) | China, Beijing |  | 27d |
-| **Nvidia** | [Software Engineering Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern---2027_JR2026972) | China, Shanghai |  | 28d |
-| **Intel** | [AI Software Engineer Intern](https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/AI-Software-Engineer-Intern_JR0288261) | PRC, Shanghai |  | 29d |
+| **Apple** | [Software Engineering Intern (Full-Stack & AI Integration) - Shanghai](https://jobs.apple.com/en-us/details/200695373/software-engineering-intern-full-stack-ai-integration-shanghai?team=STDNT) | Shanghai |  | 0d |
+| **Google** | [Software Engineering Intern, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/95046224276529862) | Shanghai, China |  | 2d |
+| **Cadence Design Systems** | [Intern-Product Validation](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SHANGHAI/Intern-Product-Validation_R57073) | SHANGHAI |  | 3d |
+| **External Career Page** | [AI Software Engineer Intern](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Shanghai-Shanghai-China/AI-Software-Engineer-Intern_JR00052857) | Shanghai, Shanghai, China |  | 6d |
+| **State Street** | [Software Engineering Intern](https://statestreet.wd1.myworkdayjobs.com/global/job/Hangzhou-China/Software-Engineering-Intern_R-800954) | Hangzhou, China |  | 7d |
+| **State Street** | [AI Engineer Intern](https://statestreet.wd1.myworkdayjobs.com/global/job/Hangzhou-China/AI-Engineer-Intern_R-800856-2) | Hangzhou, China |  | 8d |
+| **Cummins** | [IT Intern - 大模型应用工程师](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1005/job/2442161) | Beijing, China |  | 9d |
+| **Cummins** | [IT Intern - 数字员工平台应用工程师](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1005/job/2442162) | Beijing, China |  | 9d |
+| **Razer** | [Software Testing Intern](https://razer.wd3.myworkdayjobs.com/Careers/job/Shenzhen/Software-Testing-Intern_JR2026008030) | Shenzhen |  | 9d |
+| **RenesasElectronics** | [Robotic AI Intern](https://jobs.smartrecruiters.com/RenesasElectronics/744000160529969-robotic-ai-intern?oga=true) | Beijing, , China |  | 10d |
+| **RenesasElectronics** | [Robotic AI Intern](https://jobs.smartrecruiters.com/RenesasElectronics/744000160530279-robotic-ai-intern?oga=true) | Shenzhen, , China |  | 10d |
+| **Nvidia** | [AI Infrastructure and Frameworks Intern, Cosmos Lab - 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Infrastructure-and-Frameworks-Intern--Cosmos-Lab---2027_JR2029468) | China, Shanghai |  | 13d |
+| **Nvidia** | [System Software Engineer Intern - Autonomous Vehicles – 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/System-Software-Engineer-Intern---Autonomous-Vehicles---2027_JR2028135) | China, Shanghai |  | 13d |
+| **Cadence Design Systems** | [Intern - Design Engineering](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SHANGHAI/Intern---Design-Engineering_R56890) | SHANGHAI |  | 14d |
+| **Emerson** | [Software Engineering Intern](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/26013296) | Shanghai, Shanghai, China |  | 14d |
+| **Apple** | [Software Engineer Intern (Full-Stack & AI Agents) - Shanghai](https://jobs.apple.com/en-us/details/200690042/software-engineer-intern-full-stack-ai-agents-shanghai?team=STDNT) | Shanghai |  | 15d |
+| **Cadence Design Systems** | [Intern for analog circuit design](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BEIJING/Intern-for-analog-circuit-design_R56881) | BEIJING |  | 15d |
+| **Philips** | [MR Software Intern](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Suzhou/MR-Software-Intern_594544) | Suzhou |  | 16d |
+| **Nvidia** | [Manufacturing Automation Solution Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shenzhen/Manufacturing-Automation-Solution-Intern---2027_JR2028280) | China, Shenzhen |  | 18d |
+| **Ericsson** | [AI Development Intern](https://career2.successfactors.eu/careers?company=Ericsson&career_ns=job_listing&career_job_req_id=789919) | Beijing, China |  | 22d |
+| **Apple** | [Engineering Intern (AI/ML & Automation) for Hardware - Shanghai](https://jobs.apple.com/en-us/details/200688974/engineering-intern-ai-ml-automation-for-hardware-shanghai?team=STDNT) | Shanghai |  | 23d |
+| **Apple** | [Software Engineer Intern - Core OS](https://jobs.apple.com/en-us/details/200690888/software-engineer-intern-core-os?team=SFTWR) | Shanghai |  | 23d |
+| **Nvidia** | [Software Engineering Intern, AI Automation Infra - 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--AI-Automation-Infra---2027_JR2028205) | China, Shanghai |  | 27d |
+| **Nvidia** | [System Software Engineer Intern, Embedded - 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/System-Software-Engineer-Intern--Embedded---2027_JR2028298) | China, Shanghai |  | 27d |
+| **Nvidia** | [Software Engineer Intern - NVEX, 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/Software-Engineer-Intern---NVEX--2027_JR2028186) | China, Beijing |  | 27d |
+| **Nvidia** | [Computer Architecture Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Computer-Architecture-Intern---2027_JR2026052) | 2 Locations |  | 27d |
+| **Nvidia** | [AI Agent Engineer Intern, AI Enablement Process - 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/AI-Agent-Engineer-Intern--AI-Enablement-Process---2027_JR2025834-1) | China, Beijing |  | 28d |
+| **Nvidia** | [Software Engineering Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern---2027_JR2026972) | China, Shanghai |  | 29d |
+| **Intel** | [AI Software Engineer Intern](https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/AI-Software-Engineer-Intern_JR0288261) | PRC, Shanghai |  | 1mo |
 | **Nvidia** | [Software Engineering Intern, AI Agent Test Development - 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--AI-Agent-Test-Development---2027_JR2027478) | China, Shanghai |  | 1mo |
 | **Nvidia** | [AI Developer Intern — Interconnect Hardware Frontend, 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Developer-Intern---Interconnect-Hardware-Frontend--2027_JR2027468) | China, Shanghai |  | 1mo |
 | **Nvidia** | [Software Engineer Intern, Robotics - 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineer-Intern--Robotics---2027_JR2027630) | China, Shanghai |  | 1mo |
@@ -68,7 +65,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **External Career Page** | [Software Development &Testing Intern](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Shanghai-Shanghai-China/Vision-Intern_JR00047172) | Shanghai, Shanghai, China |  | 1mo |
 | **Apple** | [Manufacturing Design Engineer - Intern](https://jobs.apple.com/en-us/details/200686088/manufacturing-design-engineer-intern?team=OPMFG) | Shanghai |  | 1mo |
 | **Nvidia** | [GPU Compiler LLVM Backend Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/GPU-Compiler-LLVM-Backend-Intern---2027_JR2026567) | China, Shanghai |  | 1mo |
-| **Nvidia** | [Deep Learning Performance Software Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/China-Shanghai/Deep-Learning-Performance-Software-Intern---2027_JR2025966) | 2 Locations |  | 1mo |
 | **Nvidia** | [Software Engineer Intern, AI and DL Kernel Libraries - 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineer-Intern--AI-and-DL-Kernel-Libraries---2027_JR2026307) | China, Shanghai |  | 1mo |
 | **Philips** | [Software Engineer Intern 磁共振软件开发实习生](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Suzhou/Software-Engineer-Intern_591952) | Suzhou |  | 1mo |
 | **NXP Semiconductors** | [Analog/Mixed-Signal Design Intern](https://nxp.wd3.myworkdayjobs.com/careers/job/Tianjin-Teda/Analog-Mixed-Signal-Design-Intern_R-10066740) | Tianjin (Teda) |  | 1mo |
@@ -76,10 +72,13 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **Nvidia** | [AI Computing Software Development Intern, LLM Inference - 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Computing-Software-Development-Intern--LLM-Inference---2027_JR2026173) | 2 Locations |  | 1mo |
 | **Nvidia** | [Performance Software Intern, Deep Learning Libraries - 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Performance-Software-Intern--Deep-Learning-Libraries---2027_JR2026171) | 2 Locations |  | 1mo |
 | **Nvidia** | [AI Computing Software Development Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Computing-Software-Development-Intern---2027_JR2026164) | 2 Locations |  | 1mo |
+| **Nvidia** | [Software Engineering Intern, DLFW Comms - 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--DLFW-Comms---2027_JR2025701) | 3 Locations |  | 2mo |
 | **Apple** | [Product Design Engineering Intern-Watch](https://jobs.apple.com/en-us/details/200683472/product-design-engineering-intern-watch?team=HRDWR) | Shanghai |  | 2mo |
 | **Apple** | [Product Design Engineering Intern-iPhone](https://jobs.apple.com/en-us/details/200683459/product-design-engineering-intern-iphone?team=HRDWR) | Shanghai |  | 2mo |
 | **Apple** | [Instrument Hardware Develop Intern](https://jobs.apple.com/en-us/details/200683720/instrument-hardware-develop-intern?team=HRDWR) | Shanghai |  | 2mo |
-| **Solidigm** | [2027 Graduate Electrical & Product Engineering Internships – China](https://jobs.smartrecruiters.com/Solidigm/744000147725166-2027-graduate-electrical-product-engineering-internships-china?oga=true) | Shanghai, Shanghai, China |  | 2mo |
+| **Nvidia** | [Silicon Co-design Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Silicon-Co-design-Intern---2027_JR2025055-1) | China, Shanghai |  | 2mo |
+| **Nvidia** | [Physical Design Intern, VLSI - 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/Physical-Design-Intern--VLSI---2027_JR2025022-1) | 2 Locations |  | 2mo |
+| **Nvidia** | [System Software Intern, Video Chips - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/System-Software-Intern--Video-Chips---Summer-2027_JR2025179) | China, Shanghai |  | 2mo |
 | **NXP Semiconductors** | [Software Intern - Linux/Yocto](https://nxp.wd3.myworkdayjobs.com/careers/job/Shanghai-Pudong/Software-Intern---Linux-Yocto_R-10066605-1) | 2 Locations |  | 2mo |
 | **NXP Semiconductors** | [Software Intern: Linux/Yocto](https://nxp.wd3.myworkdayjobs.com/careers/job/Shanghai-Pudong/Software-Intern--Linux-Yocto_R-10066617) | 2 Locations |  | 2mo |
 | **Nvidia** | [AI Developer Technology Engineering Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shenzhen/AI-Developer-Technology-Engineering-Intern---2027_JR2024818) | 3 Locations |  | 2mo |
@@ -87,23 +86,20 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **Marvell Technology** | [Optical Module Software/Firmware Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Shanghai/Optical-Module-Software-Firmware-Intern_2604216) | Shanghai |  | 2mo |
 | **Marvell Technology** | [Optical Module Hardware FAE Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/CN---Wuhan/Optical-Module-Hardware-FAE-Intern_2604217) | CN - Wuhan |  | 2mo |
 | **Cummins** | [IT Intern - Prompt Engineer Intern](https://fa-espx-test-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/2426193) | Beijing, Beijing, China |  | 2mo |
-| **Apple** | [Hardware System Integration Engineer Intern - AirPods](https://jobs.apple.com/en-us/details/200676914/hardware-system-integration-engineer-intern-airpods?team=HRDWR) | Shanghai |  | 3mo |
 | **Optiverus** | [2027 Shanghai FPGA Developer Summer Internship](https://www.optiver.com/join-us/jobs/8644364002/?gh_jid=8644364002) | Shanghai, China |  | 3mo |
 | **Optiverus** | [2027 Shanghai Machine Learning Engineer Summer Internship](https://www.optiver.com/join-us/jobs/8633966002/?gh_jid=8633966002) | Shanghai, China |  | 3mo |
 | **Apple** | [Software Engineering Intern - AI Tools for Hardware Engineering PM](https://jobs.apple.com/en-us/details/200675600/software-engineering-intern-ai-tools-for-hardware-engineering-pm?team=SFTWR) | Shanghai |  | 3mo |
-| **Grab** | [Software Engineer Intern](https://jobs.smartrecruiters.com/Grab/744000140389140-software-engineer-intern?oga=true) | Beijing, , China |  | 3mo |
 | **Getwingapp** | [AI & Tech Internship Program (Software, Product, Ops, GTM)](https://jobs.lever.co/getwingapp/749ebeca-a4aa-4351-9634-edddfd485f1a) | Remote (China) |  | 3mo |
 | **Getwingapp** | [AI & Tech Internship Program (Software, Product, Ops, GTM)](https://jobs.lever.co/getwingapp/6280db51-b402-4c94-8b10-90875af8c0c3) | Remote (Beijing) |  | 3mo |
 | **Getwingapp** | [AI & Tech Internship Program (Software, Product, Ops, GTM)](https://jobs.lever.co/getwingapp/7cca4ddf-6fbd-4789-bdbb-eb472eeaaf7c) | Remote (Shenzhen) |  | 3mo |
 | **Covestro** | [Full-Stack Software Development Intern](https://covestro.wd3.myworkdayjobs.com/cov_external/job/Pudong-Shanghai-China/Full-Stack-Software-Development-Intern_JR-2026-01407) | Pudong, Shanghai, China |  | 3mo |
-| **Apple** | [Software Engineer Intern(Core OS)-Shanghai](https://jobs.apple.com/en-us/details/200494844/software-engineer-intern-core-os-shanghai?team=SFTWR) | Shanghai |  | 3mo |
-| **Apple** | [Product Design Engineer Intern (Mechanical) - Shenzhen](https://jobs.apple.com/en-us/details/200494621/product-design-engineer-intern-mechanical-shenzhen?team=HRDWR) | Shenzhen |  | 3mo |
+| **Apple** | [Software Engineer Intern(Core OS)-Shanghai](https://jobs.apple.com/en-us/details/200494844/software-engineer-intern-core-os-shanghai?team=SFTWR) | Shanghai |  | 4mo |
 | **Global Campus** | [FY22 Junior Software Engineer (CS-ORCL&WD+technical intern+SH)](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Shanghai/FY22-Junior-Software-Engineer---CS-ORCL-WD-technical-intern-SH-_280979WD) | Shanghai |  | 4mo |
 | **NXP Semiconductors** | [2027 Intern - Analog Design Engineer](https://nxp.wd3.myworkdayjobs.com/careers/job/Suzhou/XMLNAME-2027-Intern---Analog-Design-Engineer_R-10064636) | Suzhou |  | 4mo |
 | **SAP** | [SAP China iXp Intern - Quality Engineer for Web Application - Xi'an](https://career5.successfactors.eu/careers?company=SAP&career_ns=job_listing&career_job_req_id=454157) | Xi 'an, China (Hybrid) |  | 4mo |
 | **Cadence Design Systems** | [Product validation engineer Intern](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SHANGHAI/Product-validation-engineer-Intern_R45768) | SHANGHAI |  | 4mo |
 | **Aumovio** | [AI Engineer Intern (AI Agent Development & Database)](https://jobs.smartrecruiters.com/Aumovio/744000134167099-ai-engineer-intern-ai-agent-development-database-?oga=true) | Shanghai, YANGPU, China |  | 4mo |
-| **Logitech** | [Intern, Engineering, Software & Gaming](https://logitech.wd5.myworkdayjobs.com/Logitech/job/Suzhou-China/Intern--Engineering--Software---Gaming_146535) | Suzhou, China |  | 4mo |
+| **Logitech** | [Intern, Engineering, Software & Gaming](https://logitech.wd5.myworkdayjobs.com/Logitech/job/Suzhou-China/Intern--Engineering--Software---Gaming_146535) | Suzhou, China |  | 5mo |
 | **Scientech Research** | [Quantitative Developer Intern](https://jobs.ashbyhq.com/scientech-research/5f8ecd5a-6970-4cb8-a9f9-031d68a0f446) | Shanghai |  | 5mo |
 | **Artefact** | [Intern Data Engineer](https://job-boards.greenhouse.io/artefact/jobs/4593319002) | The Roof, Room 201, Building D, No. 458 Mad… |  | 5mo |
 | **Marvell Technology** | [Field Application Engineer Intern (Hardware)](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Shanghai/Field-Application-Engineer-Intern--Hardware-_2601507) | Shanghai |  | 6mo |
@@ -112,28 +108,22 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Sanofi** | [Digital AI & Data Science Intern](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Shanghai/Digital-AI---Data-Science-Intern_R2878356) | Shanghai |  | 8d |
-| **Apple** | [Manufacturing Quality Assurance Intern](https://jobs.apple.com/en-us/details/200690946/manufacturing-quality-assurance-intern?team=OPMFG) | Shanghai |  | 20d |
-| **Apple** | [Subject Matter Expert - Data Science, Intern](https://jobs.apple.com/en-us/details/200689651/subject-matter-expert-data-science-intern?team=OPMFG) | Shenzhen |  | 20d |
+| **Sanofi** | [Digital AI & Data Science Intern](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Shanghai/Digital-AI---Data-Science-Intern_R2878356) | Shanghai |  | 9d |
+| **Apple** | [Manufacturing Quality Assurance Intern](https://jobs.apple.com/en-us/details/200690946/manufacturing-quality-assurance-intern?team=OPMFG) | Shanghai |  | 21d |
+| **Apple** | [Subject Matter Expert - Data Science, Intern](https://jobs.apple.com/en-us/details/200689651/subject-matter-expert-data-science-intern?team=OPMFG) | Shenzhen |  | 21d |
 | **Cummins** | [AI Intern - LLM](https://fa-espx-test-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/2426554) | Beijing, Beijing, China |  | 2mo |
 | **Elekta** | [Data Processing Intern](https://elekta.wd3.myworkdayjobs.com/Elekta_Careers/job/Shanghai/Data-Processing-Intern_R2026-1237) | Shanghai |  | 3mo |
 | **Worldquant** | [Data Science Intern](https://job-boards.greenhouse.io/worldquant/jobs/4069460006) | Beijing OR Shanghai |  | 5mo |
 | **Artefact** | [Intern - Data Consultant](https://job-boards.greenhouse.io/artefact/jobs/7797496002) | The Roof, Room 201, Building D, No. 458 Mad… |  | 5mo |
 
-### Design (5)
+### Other (5)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Arcadis** | [Intern Architect](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/46004) | Shanghai, Shanghai, China |  | 1d |
-| **thatgamecompany** | [Game Designer Intern](https://jobs.ashbyhq.com/thatgamecompany/b4b954bd-475a-422f-85fc-b47c32c55c19) | China - Shanghai |  | 11d |
-| **Razer** | [UI/UX & Visual Design Intern](https://razer.wd3.myworkdayjobs.com/Careers/job/Chengdu/UI-UX---Visual-Design-Intern_JR2026007854) | Chengdu |  | 12d |
+| **Arcadis** | [Intern Architect](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/46004) | Shanghai, Shanghai, China |  | 2d |
+| **thatgamecompany** | [Game Designer Intern](https://jobs.ashbyhq.com/thatgamecompany/b4b954bd-475a-422f-85fc-b47c32c55c19) | China - Shanghai |  | 12d |
 | **Apple** | [Audio Product Design Intern](https://jobs.apple.com/en-us/details/200669923/audio-product-design-intern?team=HRDWR) | Shanghai |  | 4mo |
-| **Apple** | [Mac Product Design Intern](https://jobs.apple.com/en-us/details/200660092/mac-product-design-intern?team=HRDWR) | Shanghai |  | 6mo |
-
-### Other (1)
-
-| Company | Role | Location | Pay | Added |
-| --- | --- | --- | --- | --- |
 | **Cadence Design Systems** | [Product Validation Intern](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SHANGHAI/Product-Validation-Intern_R52879) | SHANGHAI |  | 5mo |
+| **Apple** | [Mac Product Design Intern](https://jobs.apple.com/en-us/details/200660092/mac-product-design-intern?team=HRDWR) | Shanghai |  | 6mo |
 
 <!-- TABLE_END -->

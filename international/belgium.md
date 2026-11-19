@@ -2,34 +2,33 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**28 currently open roles** · Updated **2026-11-18**
+**27 currently open roles** · Updated **2026-11-19**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-21) · 21 roles
+- [Engineering](#engineering-20) · 20 roles
 - [Other](#other-7) · 7 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (21)
+### Engineering (20)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Keysight** | [R&D Software Engineer C++/Python Internship](https://jobs.keysight.com/jobs/54266?lang=en-us) | Gent, West Vlaanderen, Belgium |  | 1d |
-| **SQLI1** | [Software Testing & QA Internship](https://jobs.smartrecruiters.com/SQLI1/744000160904189-software-testing-qa-internship?oga=true) | Diepenbeek, Vlaanderen, Belgium |  | 3d |
-| **SQLI1** | [DevOps & Cloud Engineering Internship](https://jobs.smartrecruiters.com/SQLI1/744000160901719-devops-cloud-engineering-internship?oga=true) | Diepenbeek, Vlaanderen, Belgium |  | 3d |
-| **Robert Bosch NV/SA** | [Internship - Digitalization & AI for Wiper Blade Testing](https://europa.eu/eures/portal/jv-se/jv-details/YTZmZDY1NmEtMjdiNS00YmRhLTllM2MtYjc2YmY2MDI4YzdjIDM) | Flemish Brabant, Belgium |  | 5d |
-| **Bosch** | [Internship - Digitalization & AI for Wiper Blade Testing](https://europa.eu/eures/portal/jv-se/jv-details/YTZmZDY1NmEtMjdiNS00YmRhLTllM2MtYjc2YmY2MDI4YzdjIDM) | Flemish Brabant, Belgium |  | 5d |
-| **Bosch** | [Internship - Digitalization & AI for Wiper Blade Testing](https://jobs.smartrecruiters.com/BoschGroup/744000161264139-internship-digitalization-ai-for-wiper-blade-testing-?oga=true) | Tienen, Vlaanderen, Belgium |  | 6d |
-| **Keyrock** | [Innovation Quant Developer Intern (DeFi/Corporate Development) - Brusse…](https://jobs.ashbyhq.com/Keyrock/d2d0a311-b102-4fda-b537-1a8e926b55c7) | Brussels |  | 19d |
-| **Avanade** | [Internship Data & AI / AI-Powered Internal Business Assistant](https://accenture.wd103.myworkdayjobs.com/AvanadeCareers/job/Brussels/Internship-Data---AI---AI-Powered-Internal-Business-Assistant_R00366217) | Brussels |  | 25d |
+| **Keysight** | [Digital ASIC Design & DSP Internship](https://jobs.keysight.com/jobs/54295?lang=en-us) | Leuven, Leuven, Belgium |  | 0d |
+| **Keysight** | [R&D Software Engineer C++/Python Internship](https://jobs.keysight.com/jobs/54266?lang=en-us) | Gent, West Vlaanderen, Belgium |  | 2d |
+| **SQLI1** | [Software Testing & QA Internship](https://jobs.smartrecruiters.com/SQLI1/744000160904189-software-testing-qa-internship?oga=true) | Diepenbeek, Vlaanderen, Belgium |  | 4d |
+| **SQLI1** | [DevOps & Cloud Engineering Internship](https://jobs.smartrecruiters.com/SQLI1/744000160901719-devops-cloud-engineering-internship?oga=true) | Diepenbeek, Vlaanderen, Belgium |  | 4d |
+| **Robert Bosch NV/SA** | [Internship - Digitalization & AI for Wiper Blade Testing](https://europa.eu/eures/portal/jv-se/jv-details/YTZmZDY1NmEtMjdiNS00YmRhLTllM2MtYjc2YmY2MDI4YzdjIDM) | Flemish Brabant, Belgium |  | 6d |
+| **Bosch** | [Internship - Digitalization & AI for Wiper Blade Testing](https://europa.eu/eures/portal/jv-se/jv-details/YTZmZDY1NmEtMjdiNS00YmRhLTllM2MtYjc2YmY2MDI4YzdjIDM) | Flemish Brabant, Belgium |  | 6d |
+| **Bosch** | [Internship - Digitalization & AI for Wiper Blade Testing](https://jobs.smartrecruiters.com/BoschGroup/744000161264139-internship-digitalization-ai-for-wiper-blade-testing-?oga=true) | Tienen, Vlaanderen, Belgium |  | 7d |
+| **Keyrock** | [Innovation Quant Developer Intern (DeFi/Corporate Development) - Brusse…](https://jobs.ashbyhq.com/Keyrock/d2d0a311-b102-4fda-b537-1a8e926b55c7) | Brussels |  | 20d |
+| **Avanade** | [Internship Data & AI / AI-Powered Internal Business Assistant](https://accenture.wd103.myworkdayjobs.com/AvanadeCareers/job/Brussels/Internship-Data---AI---AI-Powered-Internal-Business-Assistant_R00366217) | Brussels |  | 26d |
 | **Avanade** | [Graduation Internship in Customer Engagement: AI Powered Power Platform…](https://accenture.wd103.myworkdayjobs.com/AvanadeCareers/job/Brussels/Graduation-Internship-in-Customer--Engagement--AI-Powered-Power-Platform--Solution-Governance_R00363212) | Brussels |  | 1mo |
 | **Avanade** | [Internship: Software Engineer Avanade Agentic Engineering Factory](https://accenture.wd103.myworkdayjobs.com/AvanadeCareers/job/Brussels/Internship--Software-Engineer-Avanade-Agentic-Engineering-Factory_R00363529) | Brussels |  | 1mo |
 | **Avanade** | [Internship: Azure Platform Engineer Avanade Agentic Engineering Factory](https://accenture.wd103.myworkdayjobs.com/AvanadeCareers/job/Brussels/Internship--Azure-Platform-Engineer-Avanade-Agentic-Engineering-Factory_R00363280) | Brussels |  | 1mo |
 | **Avanade** | [Graduation Internship in Dynamics 365 Contact Center and Power Platform](https://accenture.wd103.myworkdayjobs.com/AvanadeCareers/job/Brussels/Graduation-Internship-in-Dynamics-365--Contact-Center-and-Power-Platform_R00363123) | Brussels |  | 1mo |
 | **Keysight** | [Intern HPC/Design Cloud](https://jobs.keysight.com/jobs/54634?lang=en-us) | Gent, West Vlaanderen, Belgium |  | 1mo |
-| **Google** | [Data Center Facilities Technician Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/102057291577991878) | Saint-Ghislain, Belgium | $48K | 1mo |
-| **Google** | [Data Center Technician Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/129378231382876870) | Saint-Ghislain, Belgium | $48K | 1mo |
 | **Global Campus** | [School Internship in Technology & AI (2026-2027)](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Brussels/School-Internship-in-Technology---AI--2026-2027-_764001WD) | Brussels |  | 1mo |
 | **team blue** | [Internship/Stage Full Stack Developer (Java & React)](https://teamblue.teamtailor.com/jobs/8462962-internship-stage-full-stack-developer-java-react) | Gent, Belgium |  | 1mo |
 | **Devoteam** | [Internship Platform for containerized applications](https://jobs.smartrecruiters.com/Devoteam/744000151568394-internship-platform-for-containerized-applications?oga=true) | Machelen, Vlaams Gewest, Belgium (Hybrid) |  | 1mo |
@@ -41,12 +40,12 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Jj** | [Internship - Integrated Data Analytics and Reporting](https://jj.wd5.myworkdayjobs.com/JJ/job/Beerse-Antwerp-Belgium/Internship---Integrated-Data-Analytics-and-Reporting_R-109909) | Beerse, Antwerp, Belgium (Hybrid) |  | 7d |
-| **Match Group** | [Data Science Internship](https://jobs.lever.co/matchgroup/72a9642b-a289-4c49-bc9b-53880c1dc870) | Ghent, Belgium (Hybrid) |  | 12d |
-| **Match Group** | [Product Internship](https://jobs.lever.co/matchgroup/ea935282-60f4-4fbf-a955-32002ccc74e1) | Ghent, Belgium |  | 12d |
-| **Match Group** | [Product Design Internship](https://jobs.lever.co/matchgroup/de73e4f5-36d3-4b32-9474-e063aa5f585d) | Ghent, Belgium |  | 12d |
-| **European Space Agency** | [Intern in the ESA Education Office - STEM Education, Didactics and E-Le…](https://career2.successfactors.eu/careers?company=esa&career_ns=job_listing&career_job_req_id=21004) | — |  | 16d |
-| **Accenture** | [Internship – Data&AI Tech – as of February 2027](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Brussels/Internship---Data-AI-Tech---as-of-February-2027_R00356309) | Brussels |  | 24d |
+| **Jj** | [Internship - Integrated Data Analytics and Reporting](https://jj.wd5.myworkdayjobs.com/JJ/job/Beerse-Antwerp-Belgium/Internship---Integrated-Data-Analytics-and-Reporting_R-109909) | Beerse, Antwerp, Belgium (Hybrid) |  | 8d |
+| **Match Group** | [Data Science Internship](https://jobs.lever.co/matchgroup/72a9642b-a289-4c49-bc9b-53880c1dc870) | Ghent, Belgium (Hybrid) |  | 13d |
+| **Match Group** | [Product Internship](https://jobs.lever.co/matchgroup/ea935282-60f4-4fbf-a955-32002ccc74e1) | Ghent, Belgium |  | 13d |
+| **Match Group** | [Product Design Internship](https://jobs.lever.co/matchgroup/de73e4f5-36d3-4b32-9474-e063aa5f585d) | Ghent, Belgium |  | 13d |
+| **European Space Agency** | [Intern in the ESA Education Office - STEM Education, Didactics and E-Le…](https://career2.successfactors.eu/careers?company=esa&career_ns=job_listing&career_job_req_id=21004) | — |  | 17d |
+| **Accenture** | [Internship – Data&AI Tech – as of February 2027](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Brussels/Internship---Data-AI-Tech---as-of-February-2027_R00356309) | Brussels |  | 25d |
 | **1000** | [Data Science Internship](https://pg.wd5.myworkdayjobs.com/1000/job/Brussels/Data-Science-Internship_R000145698) | Brussels | $31K | 4mo |
 
 <!-- TABLE_END -->

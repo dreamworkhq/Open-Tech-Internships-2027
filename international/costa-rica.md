@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**5 currently open roles** · Updated **2026-11-18**
+**5 currently open roles** · Updated **2026-11-19**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,8 +14,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Workday** | [Intern, UI/UX Product Manager](https://workday.wd5.myworkdayjobs.com/Workday/job/Costa-Rica/Intern--UI-UX-Product-Manager_JR-0111665) | Costa Rica |  | 1d |
-| **Moody's** | [Let's begin! Data Engineering Intern](https://career8.successfactors.com/career?career_ns=job_listing&company=MoodysProd&career_job_req_id=14630) | Heredia - East Tower |  | 3d |
+| **Workday** | [Intern, UI/UX Product Manager](https://workday.wd5.myworkdayjobs.com/Workday/job/Costa-Rica/Intern--UI-UX-Product-Manager_JR-0111665) | Costa Rica |  | 2d |
+| **Moody's** | [Let's begin! Data Engineering Intern](https://career8.successfactors.com/career?career_ns=job_listing&company=MoodysProd&career_job_req_id=14630) | Heredia - East Tower |  | 4d |
 | **HPE** | [Software Engineering(Systems) Intern](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Heredia-Heredia-Costa-Rica/Software-Engineering-Systems--Intern_1210981) | Heredia, Heredia, Costa Rica |  | 1mo |
 | **HPE** | [Data Analytics Intern](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Heredia-Heredia-Costa-Rica/Data-Analytics-Intern_1210982) | Heredia, Heredia, Costa Rica |  | 1mo |
 | **HPE** | [Embedded Software Engineer Internship](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Heredia-Heredia-Costa-Rica/Embedded-Software-Engineer-Internship_1214117) | Heredia, Heredia, Costa Rica |  | 1mo |

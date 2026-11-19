@@ -2,33 +2,34 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**40 currently open roles** · Updated **2026-11-18**
+**42 currently open roles** · Updated **2026-11-19**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-32) · 32 roles
-- [Other](#other-8) · 8 roles
+- [Engineering](#engineering-33) · 33 roles
+- [Other](#other-9) · 9 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (32)
+### Engineering (33)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Hitachi** | [Embedded/ Edge AI Intern](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Da-Nang--Nng-Vietnam/Embedded--Edge-AI-Intern_R0148766) | Da Nang, Đà Nẵng, Vietnam |  | 1d |
-| **Hitachi** | [(C#/.NET) Full-Stack Developer Internship](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Da-Nang--Nng-Vietnam/XMLNAME--C--NET--Full-Stack-Developer-Internship_R0148630) | Da Nang, Đà Nẵng, Vietnam |  | 7d |
-| **Bosch** | [\[Internship Program Q1 2027\] AI Engineer Intern](https://jobs.smartrecruiters.com/BoschGroup/744000159329040--internship-program-q1-2027-ai-engineer-intern?oga=true) | Ho Chi Minh, , Vietnam |  | 15d |
-| **Bosch** | [\[Internship Program Q1 2027\] Fullstack Engineer Intern (Java/NodeJS/P…](https://jobs.smartrecruiters.com/BoschGroup/744000159328650--internship-program-q1-2027-fullstack-engineer-intern-java-nodejs-python-django-react-net-?oga=true) | Ho Chi Minh, , Vietnam |  | 15d |
-| **Bosch** | [\[Internship Program Q1 2027\] Automation Test Engineer Intern (Seleniu…](https://jobs.smartrecruiters.com/BoschGroup/744000159329649--internship-program-q1-2027-automation-test-engineer-intern-selenium-?oga=true) | Ho Chi Minh, , Vietnam |  | 15d |
-| **Bosch** | [\[Internship Program Q1 2027\] Embedded Software Engineer Intern (C/C++…](https://jobs.smartrecruiters.com/BoschGroup/744000159327431--internship-program-q1-2027-embedded-software-engineer-intern-c-c-linux-?oga=true) | Ho Chi Minh, , Vietnam |  | 15d |
-| **Bosch** | [\[Internship Program Q1 2027\] DevOps Engineer Intern](https://jobs.smartrecruiters.com/BoschGroup/744000159327500--internship-program-q1-2027-devops-engineer-intern?oga=true) | Ho Chi Minh, , Vietnam |  | 15d |
-| **Hitachi** | [Embedded Internship](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ho-Chi-Minh-City-Ho-Chi-Minh-Vietnam/Embedded-Internship_R0142220-1) | Ho Chi Minh City, Ho Chi Minh, Vietnam |  | 15d |
-| **Bosch** | [\[BD\] Software Developer Intern (Backend/ JavaScript / APIs / CI/CD )](https://jobs.smartrecruiters.com/BoschGroup/744000158706539--bd-software-developer-intern-backend-javascript-apis-ci-cd-?oga=true) | Ho Chi Minh, , Vietnam |  | 19d |
-| **Opswat** | [Software Engineering Intern - MetaDefender Cloud](https://www.opswat.com/jobs/4746888005?gh_jid=4746888005) | Ho Chi Minh City, Ho Chi Minh City, Vietnam |  | 20d |
-| **Motorola Solutions** | [Software Engineer Intern](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ho-Chi-Minh-Vietnam/Software-Engineer-Intern_R69931) | Ho Chi Minh, Vietnam |  | 21d |
-| **Bosch** | [\[BD\] JavaScript Developer Intern (6-month fulltime internship)](https://jobs.smartrecruiters.com/BoschGroup/744000157957589--bd-javascript-developer-intern-6-month-fulltime-internship-?oga=true) | Ho Chi Minh, , Vietnam |  | 22d |
-| **Hitachi** | [AI-Driven Full Stack Intern (Java/C#/NodeJS)](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Da-Nang--Nng-Vietnam/AI-Driven-Full-Stack-Intern_R0148657) | Da Nang, Đà Nẵng, Vietnam |  | 28d |
-| **Hitachi** | [Cloud & DevOps Intern](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Da-Nang--Nng-Vietnam/Cloud---DevOps-Intern_R0148763) | Da Nang, Đà Nẵng, Vietnam |  | 28d |
+| **Socotec** | [Data Entry Intern](https://jobs.smartrecruiters.com/Socotec/744000162460956-data-entry-intern?oga=true) | Cầu Giấy, Hà Nội, Vietnam (Hybrid) |  | 0d |
+| **Hitachi** | [Embedded/ Edge AI Intern](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Da-Nang--Nng-Vietnam/Embedded--Edge-AI-Intern_R0148766) | Da Nang, Đà Nẵng, Vietnam |  | 2d |
+| **Hitachi** | [(C#/.NET) Full-Stack Developer Internship](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Da-Nang--Nng-Vietnam/XMLNAME--C--NET--Full-Stack-Developer-Internship_R0148630) | Da Nang, Đà Nẵng, Vietnam |  | 8d |
+| **Bosch** | [\[Internship Program Q1 2027\] AI Engineer Intern](https://jobs.smartrecruiters.com/BoschGroup/744000159329040--internship-program-q1-2027-ai-engineer-intern?oga=true) | Ho Chi Minh, , Vietnam |  | 16d |
+| **Bosch** | [\[Internship Program Q1 2027\] Fullstack Engineer Intern (Java/NodeJS/P…](https://jobs.smartrecruiters.com/BoschGroup/744000159328650--internship-program-q1-2027-fullstack-engineer-intern-java-nodejs-python-django-react-net-?oga=true) | Ho Chi Minh, , Vietnam |  | 16d |
+| **Bosch** | [\[Internship Program Q1 2027\] Automation Test Engineer Intern (Seleniu…](https://jobs.smartrecruiters.com/BoschGroup/744000159329649--internship-program-q1-2027-automation-test-engineer-intern-selenium-?oga=true) | Ho Chi Minh, , Vietnam |  | 16d |
+| **Bosch** | [\[Internship Program Q1 2027\] Embedded Software Engineer Intern (C/C++…](https://jobs.smartrecruiters.com/BoschGroup/744000159327431--internship-program-q1-2027-embedded-software-engineer-intern-c-c-linux-?oga=true) | Ho Chi Minh, , Vietnam |  | 16d |
+| **Bosch** | [\[Internship Program Q1 2027\] DevOps Engineer Intern](https://jobs.smartrecruiters.com/BoschGroup/744000159327500--internship-program-q1-2027-devops-engineer-intern?oga=true) | Ho Chi Minh, , Vietnam |  | 16d |
+| **Hitachi** | [Embedded Internship](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ho-Chi-Minh-City-Ho-Chi-Minh-Vietnam/Embedded-Internship_R0142220-1) | Ho Chi Minh City, Ho Chi Minh, Vietnam |  | 16d |
+| **Bosch** | [\[BD\] Software Developer Intern (Backend/ JavaScript / APIs / CI/CD )](https://jobs.smartrecruiters.com/BoschGroup/744000158706539--bd-software-developer-intern-backend-javascript-apis-ci-cd-?oga=true) | Ho Chi Minh, , Vietnam |  | 20d |
+| **Opswat** | [Software Engineering Intern - MetaDefender Cloud](https://www.opswat.com/jobs/4746888005?gh_jid=4746888005) | Ho Chi Minh City, Ho Chi Minh City, Vietnam |  | 21d |
+| **Motorola Solutions** | [Software Engineer Intern](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ho-Chi-Minh-Vietnam/Software-Engineer-Intern_R69931) | Ho Chi Minh, Vietnam |  | 22d |
+| **Bosch** | [\[BD\] JavaScript Developer Intern (6-month fulltime internship)](https://jobs.smartrecruiters.com/BoschGroup/744000157957589--bd-javascript-developer-intern-6-month-fulltime-internship-?oga=true) | Ho Chi Minh, , Vietnam |  | 23d |
+| **Hitachi** | [AI-Driven Full Stack Intern (Java/C#/NodeJS)](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Da-Nang--Nng-Vietnam/AI-Driven-Full-Stack-Intern_R0148657) | Da Nang, Đà Nẵng, Vietnam |  | 29d |
+| **Hitachi** | [Cloud & DevOps Intern](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Da-Nang--Nng-Vietnam/Cloud---DevOps-Intern_R0148763) | Da Nang, Đà Nẵng, Vietnam |  | 29d |
 | **Motorola Solutions** | [QA Automation Intern](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ho-Chi-Minh-Vietnam/QA-Automation-Fresher_R69443) | Ho Chi Minh, Vietnam |  | 1mo |
 | **Hitachi** | [AI-Driven Full Stack Intern](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ho-Chi-Minh-City-Ho-Chi-Minh-Vietnam/AI-Driven-Full-Stack-Intern_R0142772) | Ho Chi Minh City, Ho Chi Minh, Vietnam (Hybrid) |  | 1mo |
 | **Motorola Solutions** | [Test Automation Intern](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ho-Chi-Minh-Vietnam/Test-Automation-Intern_R69442) | Ho Chi Minh, Vietnam |  | 1mo |
@@ -43,18 +44,19 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **Bosch** | [\[EDA\] Intern for Embedded Software](https://jobs.smartrecruiters.com/BoschGroup/744000143758952--eda-intern-for-embedded-software?oga=true) | Hanoi, , Vietnam |  | 3mo |
 | **Bosch** | [\[Internship\] IT Support Intern](https://jobs.smartrecruiters.com/BoschGroup/744000143439069--internship-it-support-intern?oga=true) | Đồng Nai, , Vietnam |  | 3mo |
 | **Bosch** | [\[BD\] Internship - SAP Developer (JS, Java, ABAP, Fiori, BTP)](https://jobs.smartrecruiters.com/BoschGroup/744000143222859--bd-internship-sap-developer-js-java-abap-fiori-btp-?oga=true) | Ho Chi Minh city, , Vietnam |  | 3mo |
-| **Bosch** | [Hanoi - Embedded Intern](https://jobs.smartrecruiters.com/BoschGroup/744000139076169-hanoi-embedded-intern?oga=true) | Hanoi, , Vietnam |  | 3mo |
+| **Bosch** | [Hanoi - Embedded Intern](https://jobs.smartrecruiters.com/BoschGroup/744000139076169-hanoi-embedded-intern?oga=true) | Hanoi, , Vietnam |  | 4mo |
 | **Bosch** | [\[SO\] Intern Software Engineer](https://jobs.smartrecruiters.com/BoschGroup/744000129654279--so-intern-software-engineer?oga=true) | Thành phố Hồ Chí Minh, Hồ Chí Minh, Vietnam |  | 5mo |
 | **Bosch** | [\[Bosch R&D - Internship\] Java Web Developing Intern](https://jobs.smartrecruiters.com/BoschGroup/744000128399769--bosch-r-d-internship-java-web-developing-intern?oga=true) | Ho Chi Minh City, , Vietnam |  | 5mo |
 | **Bosch** | [\[EMC\] Intern for Embedded SW Developer (C/C++/Linux) (Japanese-Speaki…](https://jobs.smartrecruiters.com/BoschGroup/744000121379410--emc-intern-for-embedded-sw-developer-c-c-linux-japanese-speaking-?oga=true) | Ho Chi Minh, , Vietnam |  | 6mo |
 
-### Other (8)
+### Other (9)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Bosch** | [\[Internship\] AI & Automatization Intern](https://jobs.smartrecruiters.com/BoschGroup/744000162263579--internship-ai-automatization-intern?oga=true) | Thu Duc City, , Vietnam |  | 0d |
-| **Corsair** | [Data Analyst Intern](https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8978) | Viet Nam |  | 18d |
-| **Global Campus** | [Intern, Cybersecurity & Privacy Services (Data privacy focus)](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Hanoi/Intern--Cybersecurity---Privacy-Services--Data-privacy-focus-_769911WD) | Hanoi |  | 22d |
+| **Gameloft** | [Sound Designer Intern](https://jobs.smartrecruiters.com/gameloft/744000162228144) | Ho Chi Minh City, Vietnam |  | 0d |
+| **Bosch** | [\[Internship\] AI & Automatization Intern](https://jobs.smartrecruiters.com/BoschGroup/744000162263579--internship-ai-automatization-intern?oga=true) | Thu Duc City, , Vietnam |  | 1d |
+| **Corsair** | [Data Analyst Intern](https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8978) | Viet Nam |  | 19d |
+| **Global Campus** | [Intern, Cybersecurity & Privacy Services (Data privacy focus)](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Hanoi/Intern--Cybersecurity---Privacy-Services--Data-privacy-focus-_769911WD) | Hanoi |  | 23d |
 | **Ubisoft** | [VFX Artist Intern](https://jobs.smartrecruiters.com/Ubisoft2/744000154392949-vfx-artist-intern?oga=true) | Da Nang, , Vietnam |  | 1mo |
 | **1000** | [P&G LEAD GEN - Data & Automation Intern](https://pg.wd5.myworkdayjobs.com/1000/job/HO-CHI-MINH-CITY-OFFICE/P-G-LEAD-GEN---Data---Automation-Intern_R000160369) | HO CHI MINH CITY OFFICE |  | 1mo |
 | **Bosch** | [\[SO\] IT Security Governance Intern](https://jobs.smartrecruiters.com/BoschGroup/744000145890409--so-it-security-governance-intern?oga=true) | Thành phố Hồ Chí Minh, Hồ Chí Minh, Vietnam |  | 2mo |

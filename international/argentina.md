@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**7 currently open roles** · Updated **2026-11-18**
+**7 currently open roles** · Updated **2026-11-19**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,11 +14,11 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Red Hat** | [Business Analyst Intern](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Buenos-Aires/Business-Analyst-Intern_R-059102) | Buenos Aires |  | 1d |
-| **Sezzle** | [Graphic Design Intern](https://job-boards.greenhouse.io/sezzle/jobs/8195954003) | Remote (Argentina) |  | 14d |
-| **Sezzle** | [Product Manager Intern, ShopX(Rewards)](https://job-boards.greenhouse.io/sezzle/jobs/8044476003) | Remote (Argentina, Remote) |  | 22d |
+| **Red Hat** | [Business Analyst Intern](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Buenos-Aires/Business-Analyst-Intern_R-059102) | Buenos Aires |  | 2d |
+| **Sezzle** | [Graphic Design Intern](https://job-boards.greenhouse.io/sezzle/jobs/8195954003) | Remote (Argentina) |  | 15d |
+| **Sezzle** | [Product Manager Intern, ShopX(Rewards)](https://job-boards.greenhouse.io/sezzle/jobs/8044476003) | Remote (Argentina, Remote) |  | 23d |
 | **Sezzle** | [Product Management Intern](https://job-boards.greenhouse.io/sezzle/jobs/8004009003) | Remote (Argentina, Remote) |  | 1mo |
-| **Marvell Technology** | [Analog Design Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Cordoba-Argentina/Analog-Design-Intern_2602163) | Cordoba, Argentina |  | 5mo |
+| **Marvell Technology** | [Analog Design Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Cordoba-Argentina/Analog-Design-Intern_2602163) | Cordoba, Argentina |  | 6mo |
 | **Marvell Technology** | [Software/Firmware Engineering - Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Cordoba-Argentina/Software-Firmware-Engineering---Intern_2502704-1) | Cordoba, Argentina |  | 6mo |
 | **Marvell Technology** | [Physical Design Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Cordoba-Argentina/Physical-Design-Intern_2601502) | Cordoba, Argentina |  | 6mo |
 
