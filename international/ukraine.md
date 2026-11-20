@@ -2,24 +2,25 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**12 currently open roles** · Updated **2026-11-19**
+**13 currently open roles** · Updated **2026-11-20**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-11) · 11 roles
+- [Engineering](#engineering-12) · 12 roles
 - [Other](#other-1) · 1 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (11)
+### Engineering (12)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **QATestLab** | [Intern QA Engineer (Game)](https://djinni.co/jobs/858960-intern-qa-engineer-game/) | Rivne, Khmelnytskyi, Ukraine (Hybrid) |  | 0d |
-| **Swipex** | [Trainee React Native Developer (Internship)](https://djinni.co/jobs/856741-trainee-react-native-developer-internship/) | Lviv, Ukraine |  | 14d |
-| **Swipex** | [Trainee Node.js (Next.js) Developer (Internship)](https://djinni.co/jobs/856739-trainee-node-js-next-js-developer-internship/) | Lviv, Ukraine |  | 14d |
-| **Playtech** | [QA Engineer (Intern)](https://jobs.smartrecruiters.com/Playtech/744000158069569-qa-engineer-intern-?oga=true) | Kyiv, , Ukraine |  | 22d |
-| **TenThousand** | [Intern Frontend developer](https://djinni.co/jobs/855021-intern-frontend-developer/) | Remote (Europe) |  | 24d |
+| **TenThousand** | [Intern Fullstack developer](https://djinni.co/jobs/859103-intern-fullstack-developer/) | Kyiv, Ukraine |  | 0d |
+| **QATestLab** | [Intern QA Engineer (Game)](https://djinni.co/jobs/858960-intern-qa-engineer-game/) | Rivne, Khmelnytskyi, Ukraine (Hybrid) |  | 1d |
+| **Swipex** | [Trainee React Native Developer (Internship)](https://djinni.co/jobs/856741-trainee-react-native-developer-internship/) | Lviv, Ukraine |  | 15d |
+| **Swipex** | [Trainee Node.js (Next.js) Developer (Internship)](https://djinni.co/jobs/856739-trainee-node-js-next-js-developer-internship/) | Lviv, Ukraine |  | 15d |
+| **Playtech** | [QA Engineer (Intern)](https://jobs.smartrecruiters.com/Playtech/744000158069569-qa-engineer-intern-?oga=true) | Kyiv, , Ukraine |  | 23d |
+| **TenThousand** | [Intern Frontend developer](https://djinni.co/jobs/855021-intern-frontend-developer/) | Remote (Europe) |  | 25d |
 | **RenesasElectronics** | [Intern, Product Engineering](https://jobs.smartrecruiters.com/RenesasElectronics/744000155551520-intern-product-engineering?oga=true) | Lviv, , Ukraine |  | 1mo |
 | **Playtech** | [QA Engineer (Intern)](https://djinni.co/jobs/848356-qa-engineer-intern/) | Kyiv, Ukraine |  | 2mo |
 | **King Group** | [Intern QA Manual](https://djinni.co/jobs/840677-intern-qa-manual/) | Kyiv, Ukraine |  | 3mo |
@@ -31,6 +32,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **King Group** | [Intern Motion Designer](https://djinni.co/jobs/855229-intern-motion-designer/) | Kyiv, Ukraine |  | 23d |
+| **King Group** | [Intern Motion Designer](https://djinni.co/jobs/855229-intern-motion-designer/) | Kyiv, Ukraine |  | 24d |
 
 <!-- TABLE_END -->

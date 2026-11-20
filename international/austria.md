@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**9 currently open roles** · Updated **2026-11-19**
+**9 currently open roles** · Updated **2026-11-20**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -15,10 +15,10 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Apple** | [Cellular RF Receiver Silicon Validation Engineering Intern](https://jobs.apple.com/en-us/details/200688714/cellular-rf-receiver-silicon-validation-engineering-intern?team=HRDWR) | Linz | $34K–$51K | 2d |
-| **Bitmovin** | [AI Intern - Product, Business & Marketing - Summer 2027 (AI & Beyond In…](https://bitmovin.com/careers/8916614002?gh_jid=8916614002) | Vienna; Klagenfurt; Berlin |  | 23d |
-| **Bitmovin** | [Software Engineer Intern - Summer 2027 (AI & Beyond Incubator)](https://bitmovin.com/careers/8916523002?gh_jid=8916523002) | Vienna; Klagenfurt; Berlin |  | 23d |
-| **NXP Semiconductors** | [Internship: Software Toolchain & Debugger Development (f/m/d)](https://nxp.wd3.myworkdayjobs.com/careers/job/Gratkorn/Student-Position--Software-Toolchain---Debugger-Development--f-m-d-_R-10064613) | Gratkorn (Hybrid) | $38K | 23d |
+| **Apple** | [Cellular RF Receiver Silicon Validation Engineering Intern](https://jobs.apple.com/en-us/details/200688714/cellular-rf-receiver-silicon-validation-engineering-intern?team=HRDWR) | Linz | $34K–$51K | 3d |
+| **Bitmovin** | [AI Intern - Product, Business & Marketing - Summer 2027 (AI & Beyond In…](https://bitmovin.com/careers/8916614002?gh_jid=8916614002) | Vienna; Klagenfurt; Berlin |  | 24d |
+| **Bitmovin** | [Software Engineer Intern - Summer 2027 (AI & Beyond Incubator)](https://bitmovin.com/careers/8916523002?gh_jid=8916523002) | Vienna; Klagenfurt; Berlin |  | 24d |
+| **NXP Semiconductors** | [Internship: Software Toolchain & Debugger Development (f/m/d)](https://nxp.wd3.myworkdayjobs.com/careers/job/Gratkorn/Student-Position--Software-Toolchain---Debugger-Development--f-m-d-_R-10064613) | Gratkorn (Hybrid) | $38K | 24d |
 | **NXP Semiconductors** | [Internship: Software Engineer (m/f/d) - Java & Python Tools Development…](https://nxp.wd3.myworkdayjobs.com/careers/job/Gratkorn/Internship--Software-Engineer--m-f-d----Java---Python-Tools-Development-for-Trust-Provisioning_R-10066936-1) | Gratkorn (Hybrid) | $38K | 1mo |
 | **Sentry** | [Software Engineer, Intern (Summer 2027)](https://jobs.ashbyhq.com/sentry/fa522ac5-fc9f-4ce1-a191-842496a235a2) | Vienna, Austria (Hybrid) | $43K | 2mo |
 | **NXP Semiconductors** | [Internship: Digital Design Team Support (m/f/d)](https://nxp.wd3.myworkdayjobs.com/careers/job/Gratkorn/Internship--Digital-Design-Team-Support--m-f-d-_R-10064594) | Gratkorn (Hybrid) | $36K | 3mo |
