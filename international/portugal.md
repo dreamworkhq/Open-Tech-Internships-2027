@@ -2,12 +2,12 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**20 currently open roles** · Updated **2026-11-20**
+**21 currently open roles** · Updated **2026-11-21**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
 - [Engineering](#engineering-17) · 17 roles
-- [Other](#other-3) · 3 roles
+- [Other](#other-4) · 4 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
@@ -15,14 +15,14 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Bosch** | [Extracurricular Internship: Lab Engineer within Heat Pump Development -…](https://jobs.smartrecruiters.com/BoschGroup/744000162572110-extracurricular-internship-lab-engineer-within-heat-pump-development-automation-f-m-div-?oga=true) | Aveiro, , Portugal (Hybrid) |  | 1d |
-| **Bosch** | [Extracurricular Internship: iOS Developer (f/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000162492837-extracurricular-internship-ios-developer-f-m-div-?oga=true) | Aveiro, , Portugal (Hybrid) |  | 1d |
-| **Bosch** | [Extracurricular Internship: Android Developer (f/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000162493309-extracurricular-internship-android-developer-f-m-div-?oga=true) | Aveiro, , Portugal (Hybrid) |  | 1d |
-| **Bosch** | [Extracurricular Internship: AI Software Engineer (f/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000162244270-extracurricular-internship-ai-software-engineer-f-m-div-?oga=true) | Aveiro, , Portugal (Hybrid) |  | 2d |
-| **BorgWarner** | [Professional Internship Information Technology - Client Support (m/f/d)](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Viana-do-Castelo-I---Portugal/Professional-Internship-Information-Technology---Client-Support--m-f-d-_R2026-4421) | Viana do Castelo I - Portugal (Hybrid) |  | 10d |
-| **Bosch** | [Extracurricular Internship: Data Engineering - Cloud Platform (f/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000160598089-extracurricular-internship-data-engineering-cloud-platform-f-m-div-?oga=true) | Aveiro, , Portugal (Hybrid) |  | 11d |
-| **Bosch** | [Extracurricular Internship – DevOps & GenAI Engineer for Quality (f/m/d…](https://jobs.smartrecruiters.com/BoschGroup/744000158794999-extracurricular-internship-devops-genai-engineer-for-quality-f-m-div-?oga=true) | Braga, Braga, Portugal (Hybrid) |  | 21d |
-| **Bosch** | [Extracurricular Internship: AI-Assisted Software Engineering Intern (f/…](https://jobs.smartrecruiters.com/BoschGroup/744000156523049-extracurricular-internship-ai-assisted-software-engineering-intern-f-m-div-?oga=true) | Ovar, , Portugal (Hybrid) |  | 29d |
+| **Bosch** | [Extracurricular Internship: Lab Engineer within Heat Pump Development -…](https://jobs.smartrecruiters.com/BoschGroup/744000162572110-extracurricular-internship-lab-engineer-within-heat-pump-development-automation-f-m-div-?oga=true) | Aveiro, , Portugal (Hybrid) |  | 2d |
+| **Bosch** | [Extracurricular Internship: iOS Developer (f/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000162492837-extracurricular-internship-ios-developer-f-m-div-?oga=true) | Aveiro, , Portugal (Hybrid) |  | 2d |
+| **Bosch** | [Extracurricular Internship: Android Developer (f/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000162493309-extracurricular-internship-android-developer-f-m-div-?oga=true) | Aveiro, , Portugal (Hybrid) |  | 2d |
+| **Bosch** | [Extracurricular Internship: AI Software Engineer (f/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000162244270-extracurricular-internship-ai-software-engineer-f-m-div-?oga=true) | Aveiro, , Portugal (Hybrid) |  | 3d |
+| **BorgWarner** | [Professional Internship Information Technology - Client Support (m/f/d)](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Viana-do-Castelo-I---Portugal/Professional-Internship-Information-Technology---Client-Support--m-f-d-_R2026-4421) | Viana do Castelo I - Portugal (Hybrid) |  | 11d |
+| **Bosch** | [Extracurricular Internship: Data Engineering - Cloud Platform (f/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000160598089-extracurricular-internship-data-engineering-cloud-platform-f-m-div-?oga=true) | Aveiro, , Portugal (Hybrid) |  | 12d |
+| **Bosch** | [Extracurricular Internship – DevOps & GenAI Engineer for Quality (f/m/d…](https://jobs.smartrecruiters.com/BoschGroup/744000158794999-extracurricular-internship-devops-genai-engineer-for-quality-f-m-div-?oga=true) | Braga, Braga, Portugal (Hybrid) |  | 22d |
+| **Bosch** | [Extracurricular Internship: AI-Assisted Software Engineering Intern (f/…](https://jobs.smartrecruiters.com/BoschGroup/744000156523049-extracurricular-internship-ai-assisted-software-engineering-intern-f-m-div-?oga=true) | Ovar, , Portugal (Hybrid) |  | 1mo |
 | **Bosch** | [Extracurricular Internship: Gateway Firmware Engineer (f/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000155702622-extracurricular-internship-gateway-firmware-engineer-f-m-div-?oga=true) | Aveiro, , Portugal (Hybrid) |  | 1mo |
 | **Cloudflare** | [Software Engineer Intern (2027)](https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197) | In-Office | $33K | 1mo |
 | **Bosch** | [Extracurricular Internship: C# Developer (f/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000152107800-extracurricular-internship-c-developer-f-m-div-?oga=true) | Ovar, , Portugal (Hybrid) |  | 1mo |
@@ -33,12 +33,13 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **BorgWarner** | [Mechanical Product Engineering Intern (M/F/D)](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Viana-do-Castelo-II---Portugal/NVH-Product-Engineering-Intern_R2026-3131) | Viana do Castelo II - Portugal |  | 3mo |
 | **Transperfect** | [Data Engineering \| Intern \| Lisbon](https://transperfect.com/o/data-engineering-intern-lisbon-3) | Lisbon, Lisboa, Portugal (Hybrid) |  | 4mo |
 
-### Other (3)
+### Other (4)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Bosch** | [Extracurricular Internship: Product Management (f/m/div)](https://jobs.smartrecruiters.com/BoschGroup/744000159679459-extracurricular-internship-product-management-f-m-div-?oga=true) | Aveiro, , Portugal |  | 16d |
-| **Cloudflare** | [Product Manager Intern (2027) - Lisbon, PT](https://boards.greenhouse.io/cloudflare/jobs/8332008?gh_jid=8332008) | In-Office | $33K | 22d |
+| **Devoteam** | [Devoteam Cyber Trust \| Cybersecurity Engineer (IAM) \| IEFP Internship](https://jobs.smartrecruiters.com/Devoteam/744000162699719-devoteam-cyber-trust-cybersecurity-engineer-iam-iefp-internship?oga=true) | Lisboa, Lisboa, Portugal (Hybrid) |  | 0d |
+| **Bosch** | [Extracurricular Internship: Product Management (f/m/div)](https://jobs.smartrecruiters.com/BoschGroup/744000159679459-extracurricular-internship-product-management-f-m-div-?oga=true) | Aveiro, , Portugal |  | 17d |
+| **Cloudflare** | [Product Manager Intern (2027) - Lisbon, PT](https://boards.greenhouse.io/cloudflare/jobs/8332008?gh_jid=8332008) | In-Office | $33K | 23d |
 | **1000** | [Data Engineer Internship (m/f/x)](https://pg.wd5.myworkdayjobs.com/1000/job/LISBON-GENERAL-OFFICE/Data-Engineer-Internship--m-f-x-_R000161204) | LISBON GENERAL OFFICE |  | 1mo |
 
 <!-- TABLE_END -->
