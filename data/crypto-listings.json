@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-21T00:34:48.835Z",
+  "generatedAt": "2026-11-21T23:56:17.190Z",
   "source": "dreamwork-public-job-index",
   "list": "Open-Tech-Internships-2027",
   "scope": "crypto",
-  "count": 34,
+  "count": 33,
   "listings": [
     {
       "id": "910f0abe-5b8b-481a-91e8-2211baa449f7",
@@ -276,22 +276,6 @@
       "postedAt": "2026-09-09T09:57:37.000Z",
       "firstIndexedAt": "2026-09-09T15:30:43.343Z",
       "url": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971692101"
-    },
-    {
-      "id": "b38d8f84-ee4a-4a39-9b75-e74cad9658e7",
-      "title": "Crypto Quality SW Process Internship",
-      "company": "NXP Semiconductors",
-      "companyDomain": "nxp.com",
-      "location": "2 Locations",
-      "locationCountryCode": "RO",
-      "functionPrimary": "Engineering",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-08-31T22:04:36.442Z",
-      "firstIndexedAt": "2026-09-01T21:52:21.114Z",
-      "url": "https://nxp.wd3.myworkdayjobs.com/careers/job/Sibiu/Crypto-Quality-SW-Process-Internship_R-10066282"
     },
     {
       "id": "1bb44a90-20df-4241-b362-17d3fa82b84a",
