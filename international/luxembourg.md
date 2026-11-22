@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**9 currently open roles** · Updated **2026-11-21**
+**9 currently open roles** · Updated **2026-11-22**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,10 +14,10 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Amazon** | [Business Intelligence Intern Luxembourg](https://www.amazon.jobs/en/jobs/10609138/business-intelligence-intern-luxembourg) | LU, Luxembourg |  | 2d |
-| **Amazon** | [Data Engineer Internship](https://www.amazon.jobs/en/jobs/10602204/data-engineer-internship) | LU, Luxembourg (Hybrid) |  | 10d |
-| **Accenture** | [Internship – Cybersecurity Lux – as of February 2027](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Luxembourg/Internship---Cybersecurity-Lux---as-of-February-2027_R00365078-1) | Luxembourg |  | 15d |
-| **BorgWarner** | [IT Intern](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Bascharage---Luxembourg/IT-Intern_R2026-4069) | Bascharage - Luxembourg |  | 25d |
+| **Amazon** | [Business Intelligence Intern Luxembourg](https://www.amazon.jobs/en/jobs/10609138/business-intelligence-intern-luxembourg) | LU, Luxembourg |  | 3d |
+| **Amazon** | [Data Engineer Internship](https://www.amazon.jobs/en/jobs/10602204/data-engineer-internship) | LU, Luxembourg (Hybrid) |  | 11d |
+| **Accenture** | [Internship – Cybersecurity Lux – as of February 2027](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Luxembourg/Internship---Cybersecurity-Lux---as-of-February-2027_R00365078-1) | Luxembourg |  | 16d |
+| **BorgWarner** | [IT Intern](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Bascharage---Luxembourg/IT-Intern_R2026-4069) | Bascharage - Luxembourg |  | 26d |
 | **Amazon** | [Technical Program Manager Intern 2027](https://www.amazon.jobs/en/jobs/10530151/technical-program-manager-intern-2027) | LU, Luxembourg |  | 1mo |
 | **Nttlimited** | [Next-Generation Access Control Platform with Cisco ISE Internship](https://nttlimited.wd3.myworkdayjobs.com/Internal_employees_not_on_Workday/job/Capellen-Luxembourg/Next-Generation-Access-Control-Platform-with-Cisco-ISE-Internship_R-151212) | Capellen, Luxembourg |  | 1mo |
 | **Amazon** | [UX Design Intern Luxembourg, Interaction Design](https://www.amazon.jobs/en/jobs/10582414/ux-design-intern-luxembourg-interaction-design) | LU, Luxembourg |  | 1mo |
