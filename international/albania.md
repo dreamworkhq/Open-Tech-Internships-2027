@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **BIP** | [Software Engineer-Internship](https://fa-etjb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1004/job/2617) | Tirana, Albania |  | 6d |
+| **BIP** | [Software Engineer-Internship](https://fa-etjb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1004/job/2617) | Tirana, Albania |  | 7d |
 
 <!-- TABLE_END -->

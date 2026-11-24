@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Infobip** | [AI Engineering Intern - Sarajevo](https://infobip.wd3.myworkdayjobs.com/InfobipCareers/job/Sarajevo-BiH/AI-Engineering-Intern---Sarajevo_JR105185) | Sarajevo (BiH) |  | 11d |
+| **Infobip** | [AI Engineering Intern - Sarajevo](https://infobip.wd3.myworkdayjobs.com/InfobipCareers/job/Sarajevo-BiH/AI-Engineering-Intern---Sarajevo_JR105185) | Sarajevo (BiH) |  | 12d |
 
 <!-- TABLE_END -->

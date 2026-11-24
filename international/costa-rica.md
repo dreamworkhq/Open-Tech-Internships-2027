@@ -14,7 +14,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Workday** | [Intern, UI/UX Product Manager](https://workday.wd5.myworkdayjobs.com/Workday/job/Costa-Rica/Intern--UI-UX-Product-Manager_JR-0111665) | Costa Rica |  | 6d |
+| **Workday** | [Intern, UI/UX Product Manager](https://workday.wd5.myworkdayjobs.com/Workday/job/Costa-Rica/Intern--UI-UX-Product-Manager_JR-0111665) | Costa Rica |  | 7d |
 | **HPE** | [Data Analytics Intern](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Heredia-Heredia-Costa-Rica/Data-Analytics-Intern_1210982) | Heredia, Heredia, Costa Rica |  | 1mo |
 | **HPE** | [Software Engineering(Systems) Intern](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Heredia-Heredia-Costa-Rica/Software-Engineering-Systems--Intern_1210981) | Heredia, Heredia, Costa Rica |  | 1mo |
 | **HPE** | [Embedded Software Engineer Internship](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Heredia-Heredia-Costa-Rica/Embedded-Software-Engineer-Internship_1214117) | Heredia, Heredia, Costa Rica |  | 1mo |

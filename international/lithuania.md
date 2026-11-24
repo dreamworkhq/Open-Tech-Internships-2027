@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Kiongroup** | [Java Software Engineer Intern](https://kiongroup.wd3.myworkdayjobs.com/KIONGroup/job/Kaunas-Lithuania/Java-Software-Engineer-Intern_JR-0099045-1) | Kaunas, Lithuania (Hybrid) |  | 2d |
+| **Kiongroup** | [Java Software Engineer Intern](https://kiongroup.wd3.myworkdayjobs.com/KIONGroup/job/Kaunas-Lithuania/Java-Software-Engineer-Intern_JR-0099045-1) | Kaunas, Lithuania (Hybrid) |  | 3d |
 
 <!-- TABLE_END -->

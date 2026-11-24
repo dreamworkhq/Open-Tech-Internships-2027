@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Roche** | [Cybersecurity & Digital Solution Assistant Engineer Intern (12 months)](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Kuwait/Cybersecurity---Digital-Solution-Assistant-Engineer-Intern--12-months-_202611-128979) | Kuwait |  | 11d |
+| **Roche** | [Cybersecurity & Digital Solution Assistant Engineer Intern (12 months)](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Kuwait/Cybersecurity---Digital-Solution-Assistant-Engineer-Intern--12-months-_202611-128979) | Kuwait |  | 12d |
 
 <!-- TABLE_END -->

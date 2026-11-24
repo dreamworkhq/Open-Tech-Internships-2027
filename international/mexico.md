@@ -2,28 +2,30 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**31 currently open roles** · Updated **2026-11-24**
+**32 currently open roles** · Updated **2026-11-24**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-21) · 21 roles
-- [Other](#other-10) · 10 roles
+- [Engineering](#engineering-22) · 22 roles
+- [Data Science](#data-science-5) · 5 roles
+- [Other](#other-5) · 5 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (21)
+### Engineering (22)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Capital Becarios** | [Data Engineering Intern](https://capitalbecarios.zohorecruit.com/jobs/careers/813630000005078002) | Ciudad de México, Mexico City, 06600 |  | 3d |
+| **Capital Becarios** | [Data Engineering Intern](https://capitalbecarios.zohorecruit.com/jobs/careers/813630000005078002) | Ciudad de México, Mexico City, 06600 |  | 4d |
 | **Jabil Circuit** | [Product Engineer Intern](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Product-Engineer-Intern_J2471423) | Guadalajara |  | 14d |
-| **Honeywell** | [Intern - Embedded Systems](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160031) | CMX, Mexico (Hybrid) |  | 27d |
+| **Honeywell** | [Intern - Embedded Systems](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160031) | CMX, Mexico (Hybrid) |  | 28d |
 | **Honeywell** | [Intern (Bachelors) Automation Engineer](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159964) | Juarez, CHH, Mexico (Hybrid) |  | 1mo |
 | **Honeywell** | [Automation Engineering Intern](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159960) | Juarez, CHH, Mexico |  | 1mo |
 | **Aerospace** | [Intern Bachelors – Mechanical Design Engineer](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/99124880) | Mexicali, BCN, Mexico |  | 1mo |
 | **Thales** | [AI Intern - Business Efficiency - Mobile Connectivity Solutions](https://thales.wd3.myworkdayjobs.com/Careers/job/Mexico-City/AI-Intern---Business-Efficiency---Mobile-Connectivity-Solutions_R0339389) | Mexico City (Hybrid) |  | 1mo |
 | **Amazon** | [Software Development Engineer Intern, Amazon University Talent Acquisit…](https://www.amazon.jobs/en/jobs/10574927/software-development-engineer-intern-amazon-university-talent-acquisition) | MX, Zapopan |  | 1mo |
 | **Micron** | [DRAM Product Engineer Yield & Quality (Intern)](https://micron.wd1.myworkdayjobs.com/External/job/Jalisco-Mexico/DRAM-Product-Engineer-Yield---Quality--Intern-_JR112997-1) | Jalisco, Mexico |  | 1mo |
+| **General Motors** | [Engineering Intern \| New Product Launches](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Silao-Guanajuato-Mexico/Transmissions-execution-Intern_JR-202621402) | Silao, Guanajuato, Mexico |  | 1mo |
 | **Amazon** | [Software Development Engineer Intern, Amazon University Talent Acquisit…](https://www.amazon.jobs/en/jobs/10574925/software-development-engineer-intern-amazon-university-talent-acquisition) | MX, DIF, Mexico City |  | 1mo |
 | **C3iot** | [QA Engineer - Intern (Summer 2027)](https://c3.ai/job-description/8739266002?gh_jid=8739266002) | Guadalajara, Jalisco, Mexico |  | 1mo |
 | **C3iot** | [Software Engineer - Intern (Summer 2027)](https://c3.ai/job-description/8739323002?gh_jid=8739323002) | Guadalajara, Jalisco, Mexico |  | 1mo |
@@ -37,19 +39,24 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **Micron** | [DRAM Design Engineer (Intern)](https://micron.wd1.myworkdayjobs.com/External/job/Jalisco-Mexico/DRAM-Design-Engineer--Intern-_JR108395) | Jalisco, Mexico |  | 3mo |
 | **1000** | [IT Data & Analytics Engineering Internship - Interlomas](https://pg.wd5.myworkdayjobs.com/1000/job/MEXICO-CITY-GENERAL-OFFICE/IT-Data---Analytics-Engineering-_R000156708) | MEXICO CITY GENERAL OFFICE |  | 3mo |
 
-### Other (10)
+### Data Science (5)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Sezzle** | [Graphic Design Intern](https://job-boards.greenhouse.io/sezzle/jobs/8195952003) | Remote (Mexico) |  | 19d |
-| **Sezzle** | [Product Manager Intern, ShopX(Rewards)](https://job-boards.greenhouse.io/sezzle/jobs/8044475003) | Remote (Mexico, Remote) |  | 27d |
-| **IFF** | [Fine Fragrance SDM Assistant Intern](https://iff.wd5.myworkdayjobs.com/IFF_Careers/job/Tlalnepantla-Mexico/Fine-Fragrance-SDM-Assistant-Intern_R22178) | Tlalnepantla, Mexico |  | 1mo |
+| **1000** | [Data Specialist Intern - Interlomas´ General Offices](https://pg.wd5.myworkdayjobs.com/1000/job/MEXICO-CITY-GENERAL-OFFICE/Data-Specialist-Intern---Interlomas--General-Offices_R000162522) | MEXICO CITY GENERAL OFFICE |  | 0d |
 | **Abbott** | [Business Intelligence Intern](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Mexico---Cuidad-de-Mexico---Cuidad-de-Mexico/Business-Intelligence-Intern_31165640) | Mexico - Cuidad de Mexico - Cuidad de Mexico |  | 1mo |
-| **Honeywell** | [UX/Product Design Intern](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160056) | CMX, Mexico (Hybrid) |  | 1mo |
 | **HP Inc.** | [Data Analysis and Systems Internship](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Tlaquepaque-Jalisco-Mexico/Data-Analysis-and-Systems-Internship_3169469-1) | Tlaquepaque, Jalisco, Mexico |  | 1mo |
-| **Sezzle** | [Product Management Intern](https://job-boards.greenhouse.io/sezzle/jobs/8003977003) | Remote (Mexico, Remote) |  | 1mo |
 | **NielsenIQ** | [Intern - Data Science](https://jobs.smartrecruiters.com/NielsenIQ/744000147557559-intern-data-science?oga=true) | Mexico City, CDMX, Mexico (Hybrid) |  | 2mo |
 | **Ingredion** | [SCH Data Analytics Intern](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Guadalajara-JAL/SCH-Data-Analytics-Intern_Req-20946) | Guadalajara, JAL |  | 6mo |
+
+### Other (5)
+
+| Company | Role | Location | Pay | Added |
+| --- | --- | --- | --- | --- |
+| **Sezzle** | [Graphic Design Intern](https://job-boards.greenhouse.io/sezzle/jobs/8195952003) | Remote (Mexico) |  | 20d |
+| **Sezzle** | [Product Manager Intern, ShopX(Rewards)](https://job-boards.greenhouse.io/sezzle/jobs/8044475003) | Remote (Mexico, Remote) |  | 28d |
+| **IFF** | [Fine Fragrance SDM Assistant Intern](https://iff.wd5.myworkdayjobs.com/IFF_Careers/job/Tlalnepantla-Mexico/Fine-Fragrance-SDM-Assistant-Intern_R22178) | Tlalnepantla, Mexico |  | 1mo |
+| **Sezzle** | [Product Management Intern](https://job-boards.greenhouse.io/sezzle/jobs/8003977003) | Remote (Mexico, Remote) |  | 2mo |
 | **Amazon** | [Program Manager Intern](https://www.amazon.jobs/en/jobs/10410587/program-manager-intern) | MX, DIF, Mexico City |  | 6mo |
 
 <!-- TABLE_END -->

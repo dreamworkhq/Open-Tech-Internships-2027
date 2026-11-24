@@ -14,8 +14,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Red Hat** | [Cloud Services Intern](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Santiago/Cloud-Services-Intern_R-059108) | Santiago |  | 7d |
-| **Toku** | [Software Engineer Intern](https://jobs.ashbyhq.com/Toku/098023ef-b13d-4cdf-bc4f-dc1e61bfe6f1) | Chile (Hybrid) |  | 7d |
-| **NielsenIQ** | [Intern](https://jobs.smartrecruiters.com/NielsenIQ/744000160930411-intern?oga=true) | Santiago, RM, Chile (Hybrid) |  | 13d |
+| **Red Hat** | [Cloud Services Intern](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Santiago/Cloud-Services-Intern_R-059108) | Santiago |  | 8d |
+| **Toku** | [Software Engineer Intern](https://jobs.ashbyhq.com/Toku/098023ef-b13d-4cdf-bc4f-dc1e61bfe6f1) | Chile (Hybrid) |  | 8d |
+| **NielsenIQ** | [Intern](https://jobs.smartrecruiters.com/NielsenIQ/744000160930411-intern?oga=true) | Santiago, RM, Chile (Hybrid) |  | 14d |
 
 <!-- TABLE_END -->

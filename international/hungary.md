@@ -2,21 +2,22 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**7 currently open roles** · Updated **2026-11-24**
+**8 currently open roles** · Updated **2026-11-24**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-6) · 6 roles
+- [Engineering](#engineering-7) · 7 roles
 - [Other](#other-1) · 1 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (6)
+### Engineering (7)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Cloudera** | [Software Engineering Intern – Cloud and Platform Systems](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/Hungary--Budapest/Software-Engineering-Intern_261521-2) | Hungary > Budapest (Hybrid) |  | 18d |
-| **Silabs** | [Software Development in Test Intern](https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Budapest/Software-Development-in-Test-Intern_21170-2) | Budapest |  | 21d |
+| **Aumovio** | [Road Infrastructure Annotation Intern (3D) - Fixed-term until February …](https://jobs.smartrecruiters.com/Aumovio/744000163440095-road-infrastructure-annotation-intern-3d-fixed-term-until-february-2027?oga=true) | Budapest, , Hungary |  | 0d |
+| **Cloudera** | [Software Engineering Intern – Cloud and Platform Systems (Hungary based…](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/Hungary--Budapest/Software-Engineering-Intern_261521-2) | Hungary > Budapest (Hybrid) |  | 19d |
+| **Silabs** | [Software Development in Test Intern](https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Budapest/Software-Development-in-Test-Intern_21170-2) | Budapest |  | 22d |
 | **Formlabs** | [Software Engineer Intern (Full stack)](https://careers.formlabs.com/job/8260955/apply/?gh_jid=8260955) | Budapest, Hungary (Hybrid) |  | 1mo |
 | **PTC** | [Software Developer Intern](https://ptc.wd1.myworkdayjobs.com/PTC/job/Budapest-Hungary/Software-Developer---Intern_JR110893-1) | Budapest, Hungary |  | 1mo |
 | **Aumovio** | [Odometry Algorithm Developer Intern](https://jobs.smartrecruiters.com/Aumovio/744000153538319-odometry-algorithm-developer-intern?oga=true) | Budapest, , Hungary |  | 1mo |

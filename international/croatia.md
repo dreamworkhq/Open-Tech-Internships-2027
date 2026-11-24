@@ -15,22 +15,22 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Infobip** | [Software Engineering Intern - Rijeka](https://infobip.wd3.myworkdayjobs.com/InfobipCareers/job/Rijeka-Croatia/Software-Engineering-Intern---Rijeka_JR105167) | Rijeka (Croatia) |  | 11d |
-| **Infobip** | [DevOps Engineering Intern - Zagreb](https://infobip.wd3.myworkdayjobs.com/InfobipCareers/job/Zagreb-Croatia/DevOps-Engineering-Intern---Zagreb_JR105162) | Zagreb (Croatia) |  | 11d |
-| **Infobip** | [AI Engineering Intern - Split](https://infobip.wd3.myworkdayjobs.com/InfobipCareers/job/Split-Croatia/AI-Engineering-Intern---Split_JR105223) | Split (Croatia) |  | 11d |
-| **Infobip** | [Software Engineering Intern - Vodnjan](https://infobip.wd3.myworkdayjobs.com/InfobipCareers/job/Vodnjan-Croatia/Software-Engineering-Intern---Vodnjan_JR105163) | Vodnjan (Croatia) |  | 11d |
-| **Infobip** | [Solutions Engineering Intern](https://infobip.wd3.myworkdayjobs.com/InfobipCareers/job/Zagreb-Croatia/Solutions-Engineer-Intern_JR105176) | Zagreb (Croatia) |  | 11d |
-| **Infobip** | [Software Engineering Intern - Zagreb](https://infobip.wd3.myworkdayjobs.com/InfobipCareers/job/Zagreb-Croatia/Software-Engineering-Intern---Zagreb_JR105157) | Zagreb (Croatia) |  | 11d |
-| **Infobip** | [AI Engineering Intern - Zagreb](https://infobip.wd3.myworkdayjobs.com/InfobipCareers/job/Zagreb-Croatia/AI-Engineering-Intern---Zagreb_JR105180) | Zagreb (Croatia) |  | 11d |
-| **Infobip** | [System Infrastructure Engineering Intern](https://infobip.wd3.myworkdayjobs.com/InfobipCareers/job/Zagreb-Croatia/System-Infrastructure-Engineer-Intern-_JR105169) | Zagreb (Croatia) |  | 11d |
-| **Infobip** | [DevOps Engineering Intern - Split](https://infobip.wd3.myworkdayjobs.com/InfobipCareers/job/Split-Croatia/DevOps-Engineering-Intern---Split_JR105210) | Split (Croatia) |  | 11d |
-| **DeltaElectronics** | [Electrical Engineer Intern - Modular Data Center Solutions](https://jobs.smartrecruiters.com/DeltaElectronics/744000159827687-electrical-engineer-intern-modular-data-center-solutions?oga=true) | Zagreb, , Croatia |  | 18d |
+| **Infobip** | [Software Engineering Intern - Rijeka](https://infobip.wd3.myworkdayjobs.com/InfobipCareers/job/Rijeka-Croatia/Software-Engineering-Intern---Rijeka_JR105167) | Rijeka (Croatia) |  | 12d |
+| **Infobip** | [DevOps Engineering Intern - Zagreb](https://infobip.wd3.myworkdayjobs.com/InfobipCareers/job/Zagreb-Croatia/DevOps-Engineering-Intern---Zagreb_JR105162) | Zagreb (Croatia) |  | 12d |
+| **Infobip** | [AI Engineering Intern - Split](https://infobip.wd3.myworkdayjobs.com/InfobipCareers/job/Split-Croatia/AI-Engineering-Intern---Split_JR105223) | Split (Croatia) |  | 12d |
+| **Infobip** | [Software Engineering Intern - Vodnjan](https://infobip.wd3.myworkdayjobs.com/InfobipCareers/job/Vodnjan-Croatia/Software-Engineering-Intern---Vodnjan_JR105163) | Vodnjan (Croatia) |  | 12d |
+| **Infobip** | [Solutions Engineering Intern](https://infobip.wd3.myworkdayjobs.com/InfobipCareers/job/Zagreb-Croatia/Solutions-Engineer-Intern_JR105176) | Zagreb (Croatia) |  | 12d |
+| **Infobip** | [Software Engineering Intern - Zagreb](https://infobip.wd3.myworkdayjobs.com/InfobipCareers/job/Zagreb-Croatia/Software-Engineering-Intern---Zagreb_JR105157) | Zagreb (Croatia) |  | 12d |
+| **Infobip** | [AI Engineering Intern - Zagreb](https://infobip.wd3.myworkdayjobs.com/InfobipCareers/job/Zagreb-Croatia/AI-Engineering-Intern---Zagreb_JR105180) | Zagreb (Croatia) |  | 12d |
+| **Infobip** | [System Infrastructure Engineering Intern](https://infobip.wd3.myworkdayjobs.com/InfobipCareers/job/Zagreb-Croatia/System-Infrastructure-Engineer-Intern-_JR105169) | Zagreb (Croatia) |  | 12d |
+| **Infobip** | [DevOps Engineering Intern - Split](https://infobip.wd3.myworkdayjobs.com/InfobipCareers/job/Split-Croatia/DevOps-Engineering-Intern---Split_JR105210) | Split (Croatia) |  | 12d |
+| **DeltaElectronics** | [Electrical Engineer Intern - Modular Data Center Solutions](https://jobs.smartrecruiters.com/DeltaElectronics/744000159827687-electrical-engineer-intern-modular-data-center-solutions?oga=true) | Zagreb, , Croatia |  | 19d |
 
 ### Other (2)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Infobip** | [Data Science Intern](https://infobip.wd3.myworkdayjobs.com/InfobipCareers/job/Zagreb-Croatia/Data-Science-Intern_JR105173) | Zagreb (Croatia) |  | 11d |
-| **Infobip** | [Business Analytics Intern](https://infobip.wd3.myworkdayjobs.com/InfobipCareers/job/Zagreb-Croatia/Business-Analytics-Intern_JR105171) | Zagreb (Croatia) |  | 11d |
+| **Infobip** | [Data Science Intern](https://infobip.wd3.myworkdayjobs.com/InfobipCareers/job/Zagreb-Croatia/Data-Science-Intern_JR105173) | Zagreb (Croatia) |  | 12d |
+| **Infobip** | [Business Analytics Intern](https://infobip.wd3.myworkdayjobs.com/InfobipCareers/job/Zagreb-Croatia/Business-Analytics-Intern_JR105171) | Zagreb (Croatia) |  | 12d |
 
 <!-- TABLE_END -->

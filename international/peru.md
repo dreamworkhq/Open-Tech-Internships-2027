@@ -14,8 +14,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Hunt** | [Data Analytics Intern](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/679) | San Vicente de Canete, Lima, Peru |  | 16d |
-| **Sezzle** | [Product Manager Intern, ShopX(Rewards)](https://job-boards.greenhouse.io/sezzle/jobs/8044473003) | Remote (Peru) |  | 27d |
+| **Hunt** | [Data Analytics Intern](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/679) | San Vicente de Canete, Lima, Peru |  | 17d |
+| **Sezzle** | [Product Manager Intern, ShopX(Rewards)](https://job-boards.greenhouse.io/sezzle/jobs/8044473003) | Remote (Peru) |  | 28d |
 | **Sezzle** | [Multi Media Design Intern](https://job-boards.greenhouse.io/sezzle/jobs/8040759003) | Remote (Peru) |  | 1mo |
 | **Sezzle** | [Graphic Design Intern](https://job-boards.greenhouse.io/sezzle/jobs/8040652003) | Remote (Peru) |  | 1mo |
 | **Sezzle** | [Graphic Design: Video Editing Intern](https://job-boards.greenhouse.io/sezzle/jobs/8040761003) | Remote (Peru) |  | 1mo |
