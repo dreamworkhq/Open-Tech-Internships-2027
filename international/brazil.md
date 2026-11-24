@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**28 currently open roles** · Updated **2026-11-22**
+**28 currently open roles** · Updated **2026-11-24**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -16,20 +16,20 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Cssmerge** | [Robotics & Autonomous Systems Intern - AHS Operations & Diagnostics](https://job-boards.greenhouse.io/cssmerge/jobs/8952896002) | Nova Lima, BRA |  | 1d |
-| **Cssmerge** | [Mechanical Engineering & Technical Documentation Intern - Hardware Syst…](https://job-boards.greenhouse.io/cssmerge/jobs/8952983002) | Nova Lima, Brazil |  | 1d |
-| **Pronto** | [Mechanical Engineering & Technical Documentation Intern - Hardware Syst…](https://job-boards.greenhouse.io/pronto/jobs/8952981002) | Nova Lima, Brazil |  | 1d |
-| **Pronto** | [Robotics & Autonomous Systems Intern - AHS Operations & Diagnostics](https://job-boards.greenhouse.io/pronto/jobs/8952276002) | Nova Lima, Brazil |  | 2d |
-| **Red Hat** | [Cloud Services Intern](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Sao-Paulo/Cloud-Services-Intern_R-059109) | Sao Paulo |  | 5d |
-| **Brex** | [Software Engineer, Internship - 2027](https://www.brex.com/careers/8935242002?gh_jid=8935242002) | São Paulo, São Paulo, Brazil (Hybrid) |  | 7d |
-| **Amazon** | [Software Development Engineer Intern, Amazon University Talent Acquisit…](https://www.amazon.jobs/en/jobs/10590270/software-development-engineer-intern-amazon-university-talent-acquisition) | BR, SP, Sao Paulo |  | 18d |
-| **Deutsche Bank** | [Intern - IT System Development](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Sao-Paulo-Edificio-Pedro-Mariz/Intern---IT-System-Development_R0455958) | Sao Paulo Edificio Pedro Mariz (Hybrid) |  | 19d |
-| **HP Inc.** | [Machine Learning Development Intern](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Porto-Alegre-Rio-Grande-do-Sul-Brazil/Machine-Learning-Development-Intern_UNI5016) | Porto Alegre, Rio Grande do Sul, Brazil |  | 23d |
+| **Cssmerge** | [Robotics & Autonomous Systems Intern - AHS Operations & Diagnostics](https://job-boards.greenhouse.io/cssmerge/jobs/8952896002) | Nova Lima, BRA |  | 2d |
+| **Cssmerge** | [Mechanical Engineering & Technical Documentation Intern - Hardware Syst…](https://job-boards.greenhouse.io/cssmerge/jobs/8952983002) | Nova Lima, Brazil |  | 2d |
+| **Pronto** | [Mechanical Engineering & Technical Documentation Intern - Hardware Syst…](https://job-boards.greenhouse.io/pronto/jobs/8952981002) | Nova Lima, Brazil |  | 3d |
+| **Pronto** | [Robotics & Autonomous Systems Intern - AHS Operations & Diagnostics](https://job-boards.greenhouse.io/pronto/jobs/8952276002) | Nova Lima, Brazil |  | 3d |
+| **Red Hat** | [Cloud Services Intern](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Sao-Paulo/Cloud-Services-Intern_R-059109) | Sao Paulo |  | 7d |
+| **Brex** | [Software Engineer, Internship - 2027](https://www.brex.com/careers/8935242002?gh_jid=8935242002) | São Paulo, São Paulo, Brazil (Hybrid) |  | 8d |
+| **Amazon** | [Software Development Engineer Intern, Amazon University Talent Acquisit…](https://www.amazon.jobs/en/jobs/10590270/software-development-engineer-intern-amazon-university-talent-acquisition) | BR, SP, Sao Paulo |  | 19d |
+| **Deutsche Bank** | [Intern - IT System Development](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Sao-Paulo-Edificio-Pedro-Mariz/Intern---IT-System-Development_R0455958) | Sao Paulo Edificio Pedro Mariz (Hybrid) |  | 20d |
+| **HP Inc.** | [Machine Learning Development Intern](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Porto-Alegre-Rio-Grande-do-Sul-Brazil/Machine-Learning-Development-Intern_UNI5016) | Porto Alegre, Rio Grande do Sul, Brazil |  | 24d |
 | **Diebold** | [Intern - Software Developer C, C++, Java (São Paulo, SP)](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/19250) | SAO PAULO, SP, Brazil (Hybrid) |  | 1mo |
 | **Fa Evmr Saasfaprod1** | [Developer DevOps Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40736) | Brazil (Hybrid) |  | 1mo |
 | **Cadence Design Systems** | [Intern Product Validation Engineering: AI Quality Assurance (QA)](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BELO-HORIZONTE/Intern-Product-Validation-Engineering--AI-Quality-Assurance--QA-_R56591) | BELO HORIZONTE |  | 1mo |
-| **Aveva** | [Software Developer Intern - Brazil](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Sao-Paulo-Brazil/Software-Developer-Intern---Brazil_R015054) | Sao Paulo, Brazil (Hybrid) |  | 1mo |
-| **Cadence Design Systems** | [Intern: Software Engineering: Hardware Verification R&D](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BELO-HORIZONTE/Intern--Software-Engineering--Hardware-Verification-R-D_R56477) | BELO HORIZONTE |  | 1mo |
+| **Aveva** | [Software Developer Intern - Brazil](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Sao-Paulo-Brazil/Software-Developer-Intern---Brazil_R015054) | Sao Paulo, Brazil (Hybrid) |  | 2mo |
+| **Cadence Design Systems** | [Intern: Software Engineering: Hardware Verification R&D](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BELO-HORIZONTE/Intern--Software-Engineering--Hardware-Verification-R-D_R56477) | BELO HORIZONTE |  | 2mo |
 | **Telus Digital** | [Software Engineering Intern (Brazil) - Year Round 2027](https://jobs.ashbyhq.com/telus-digital/98495440-1a32-4c7e-8183-f38beebfd1d0) | Porto Alegre, Brazil (Hybrid) |  | 3mo |
 | **Legrand Group Opportunities Joi…** | [Intern Hardware Engineer](https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/509) | Blumenau, SC, Brazil |  | 3mo |
 | **Cadence Design Systems** | [Intern: Software Engineering Jasper R&D](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BELO-HORIZONTE/Intern--Software-Engineering-Jasper-R-D_R55530) | BELO HORIZONTE |  | 4mo |
@@ -39,8 +39,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Shifttechnology** | [Data Science internship (english speaker)](https://job-boards.greenhouse.io/shifttechnology/jobs/7984415003) | Brazil - Sao Paulo (Hybrid) |  | 2d |
-| **Amazon** | [Amazon Intern Program 2027 \| Data & Analytics](https://www.amazon.jobs/en/jobs/10592140/amazon-intern-program-2027-data-analytics) | BR, SP, Sao Paulo |  | 24d |
+| **Shifttechnology** | [Data Science internship (english speaker)](https://job-boards.greenhouse.io/shifttechnology/jobs/7984415003) | Brazil - Sao Paulo (Hybrid) |  | 3d |
+| **Amazon** | [Amazon Intern Program 2027 \| Data & Analytics](https://www.amazon.jobs/en/jobs/10592140/amazon-intern-program-2027-data-analytics) | BR, SP, Sao Paulo |  | 25d |
 | **Telus Digital** | [Data & AI Intern (Brazil) - Year Round 2027](https://jobs.ashbyhq.com/telus-digital/89730055-fa03-444d-aa05-0058946fa436) | Porto Alegre, Brazil (Hybrid) |  | 2mo |
 | **Shifttechnology** | [Data Scientist Intern (English Speaker)](https://job-boards.greenhouse.io/shifttechnology/jobs/7794260003) | Brazil - Sao Paulo (Hybrid) |  | 4mo |
 | **Enova** | [Data Analytics Intern (Hybrid)](https://job-boards.greenhouse.io/enova/jobs/8023514) | São Paulo, São Paulo, Brazil (Hybrid) |  | 5mo |
@@ -49,9 +49,9 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Sezzle** | [Graphic Design Intern](https://job-boards.greenhouse.io/sezzle/jobs/8195951003) | Remote (Brazil) |  | 18d |
-| **Amazon** | [Amazon Intern Program 2027 \| Business & Product Management](https://www.amazon.jobs/en/jobs/10592138/amazon-intern-program-2027-business-product-management) | BR, SP, Sao Paulo |  | 24d |
-| **Sezzle** | [Product Manager Intern, ShopX(Rewards)](https://job-boards.greenhouse.io/sezzle/jobs/8044474003) | Remote (Brazil, Remote) |  | 26d |
+| **Sezzle** | [Graphic Design Intern](https://job-boards.greenhouse.io/sezzle/jobs/8195951003) | Remote (Brazil) |  | 19d |
+| **Amazon** | [Amazon Intern Program 2027 \| Business & Product Management](https://www.amazon.jobs/en/jobs/10592138/amazon-intern-program-2027-business-product-management) | BR, SP, Sao Paulo |  | 25d |
+| **Sezzle** | [Product Manager Intern, ShopX(Rewards)](https://job-boards.greenhouse.io/sezzle/jobs/8044474003) | Remote (Brazil, Remote) |  | 27d |
 | **Toradex** | [Intern - Product Manager Software](https://job-boards.greenhouse.io/toradex/jobs/8004517003) | Campinas, São Paulo, Brazil |  | 1mo |
 | **Sezzle** | [Product Management Intern](https://job-boards.greenhouse.io/sezzle/jobs/8003948003) | Remote (Brazil, Remote) |  | 1mo |
 
