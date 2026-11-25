@@ -2,22 +2,22 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**20 currently open roles** · Updated **2026-11-24**
+**21 currently open roles** · Updated **2026-11-25**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-16) · 16 roles
-- [Other](#other-4) · 4 roles
+- [Engineering](#engineering-15) · 15 roles
+- [Other](#other-6) · 6 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (16)
+### Engineering (15)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **QIMA** | [AI Engineer - Internship (F/M)](https://jobs.smartrecruiters.com/QIMA/744000162217144-ai-engineer-internship-f-m-?oga=true) | Hong Kong, , Hong Kong |  | 6d |
-| **Schonfeld** | [2027 Software Engineering Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8346891) | Hong Kong, Hong Kong |  | 9d |
-| **Schonfeld** | [2027 AI Forward Deployed Engineer Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8311595) | Hong Kong, Hong Kong |  | 27d |
+| **QIMA** | [AI Engineer - Internship (F/M)](https://jobs.smartrecruiters.com/QIMA/744000162217144-ai-engineer-internship-f-m-?oga=true) | Hong Kong, , Hong Kong |  | 7d |
+| **Schonfeld** | [2027 Software Engineering Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8346891) | Hong Kong, Hong Kong |  | 10d |
+| **Schonfeld** | [2027 AI Forward Deployed Engineer Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8311595) | Hong Kong, Hong Kong |  | 28d |
 | **Foresea Technologies** | [Internship - AI Ops Builder & Automation](https://jobs.lever.co/foresea-technologies/d5224393-8814-4a1a-9f88-238698df83d9) | Hong Kong SAR |  | 1mo |
 | **Schonfeld** | [2027 Quantitative C++ Developer Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8238451) | Hong Kong, Hong Kong |  | 1mo |
 | **Dvtrading** | [2027 Software Developer Intern (DV QES)](https://job-boards.greenhouse.io/dvtrading/jobs/4733880005) | Hong Kong |  | 2mo |
@@ -27,18 +27,19 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **Nex** | [Summer 2027 \| Software Engineer Intern - Game Development (Creative & …](https://job-boards.greenhouse.io/nex/jobs/5420003008) | Hong Kong |  | 2mo |
 | **Nex** | [Summer 2027 \| Software Engineer Intern (Engineering, Core Technology)](https://job-boards.greenhouse.io/nex/jobs/5419756008) | Hong Kong |  | 2mo |
 | **Nex** | [Summer 2027 \| Software Engineer Intern - Game Development (Sports & Ac…](https://job-boards.greenhouse.io/nex/jobs/5420802008) | Hong Kong |  | 2mo |
-| **Bybit** | [\[Intern\] Big Data Development Engineer Intern](https://job-boards.eu.greenhouse.io/bybit/jobs/4971692101) | Hong Kong SAR |  | 2mo |
 | **Jump Trading** | [Campus C++ Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027860) | Hong Kong; Shanghai |  | 2mo |
 | **Jump Trading** | [Campus Python Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027923) | Hong Kong; Shanghai |  | 2mo |
 | **Imc** | [Software Engineer Intern 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4941206101) | Hong Kong, Hong Kong |  | 3mo |
 
-### Other (4)
+### Other (6)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Manulife** | [Co-op Internship 2027 - Regional Marketing Strategy, UX/UI](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Hong-Kong-Manulife-Tower/Co-op-Internship-2027---Regional-Marketing-Strategy--UX-UI_JR26110506) | Hong Kong, Manulife Tower |  | 14d |
+| **Manulife** | [Co-op Internship 2027 - Regional Marketing Strategy, UX/UI](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Hong-Kong-Manulife-Tower/Co-op-Internship-2027---Regional-Marketing-Strategy--UX-UI_JR26110506) | Hong Kong, Manulife Tower |  | 15d |
 | **BASF** | [Intern, Data Analytics, Dispersions & Resins](https://career5.successfactors.eu/careers?company=C0000159936P&career_ns=job_listing&career_job_req_id=145432) | Hong Kong |  | 1mo |
-| **Quberesearchandtechnologies** | [2027 - Internship, Security Engineer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749942002) | Hong Kong |  | 2mo |
+| **Bybit** | [\[Intern\] Big Data Development Engineer Intern](https://job-boards.eu.greenhouse.io/bybit/jobs/4971692101) | Hong Kong SAR |  | 2mo |
+| **Quberesearchandtechnologies** | [2027 - Internship, Security Engineer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749942002) | Hong Kong |  | 3mo |
+| **Lalamove** | [Information Security Specialist (Part time Internship)](https://jobs.lever.co/lalamove/de55266a-b824-46bf-ba5a-35f22f783a3d) | Hong Kong SAR |  | 4mo |
 | **Barclays** | [Quantitative Analytics Associate Off Cycle Internship 2027 Hong Kong](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Hong-Kong-Cheung-Kong-Center/Quantitative-Analytics-Associate-Off-Cycle-Internship-2027-Hong-Kong_JR-0000117565) | Hong Kong, Cheung Kong Center |  | 4mo |
 
 <!-- TABLE_END -->

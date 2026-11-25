@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**4 currently open roles** · Updated **2026-11-24**
+**4 currently open roles** · Updated **2026-11-25**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,7 +14,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Jobs Onsemi** | [DESIGN ENGINEER - Intern](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506967) | Bratislavsky kraj, Slovakia |  | 0d |
+| **Jobs Onsemi** | [DESIGN ENGINEER - Intern](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506967) | Bratislavsky kraj, Slovakia |  | 1d |
 | **Fa Evmr Saasfaprod1** | [Internship Software Engineer](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40494) | Slovakia (Hybrid) |  | 1mo |
 | **KanadeviaInova** | [Engineering Data Analyst-Energy Industry (Intern)](https://jobs.smartrecruiters.com/KanadeviaInova/744000150310959-engineering-data-analyst-energy-industry-intern-?oga=true) | Levice, Nitriansky kraj, Slovakia (Slovak R… (Hybrid) | $20K | 2mo |
 | **KanadeviaInova** | [Engineering Data Analyst-Energy Industry (Intern)](https://jobs.smartrecruiters.com/KanadeviaInova/744000150310513-engineering-data-analyst-energy-industry-intern-?oga=true) | Remote (Petržalka, Bratislavský kraj, Slovakia …) | $20K | 2mo |

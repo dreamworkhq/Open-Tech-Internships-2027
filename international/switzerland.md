@@ -2,31 +2,32 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**46 currently open roles** · Updated **2026-11-24**
+**47 currently open roles** · Updated **2026-11-25**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-39) · 39 roles
+- [Engineering](#engineering-40) · 40 roles
 - [Other](#other-7) · 7 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (39)
+### Engineering (40)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Roche** | [AI & Automation Intern, Data Access and Sharing (Basel, 6 months)](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/AI---Automation-Intern--Data-Access-and-Sharing--Basel--6-months-_202610-127145) | Basel (Hybrid) |  | 0d |
-| **Harmattan Ai** | [Machine Learning Engineer Intern - Computer Vision](https://jobs.ashbyhq.com/harmattan-ai/8050180e-047d-4b10-af6f-d4a33d8ba21f) | Lausanne |  | 6d |
-| **Gravisrobotics** | [Software Engineer Intern - Robotics Platform](https://jobs.lever.co/gravisrobotics/3cc54f41-f1cd-4534-b2ba-09e11fbc9eba) | Zurich |  | 9d |
-| **Marvell Technology** | [Silicon Photonics Test & Characterisation Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/CH---Adliswil/Silicon-Photonics-Test---Characterisation-Intern_2605240) | CH - Adliswil |  | 9d |
-| **Marvell Technology** | [Silicon Photonic Design Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/CH---Adliswil/Silicon-Photonic-Design-Intern_2605294) | CH - Adliswil |  | 9d |
-| **Nvidia** | [Software Engineering Intern, Physics Simulation - 2027](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Switzerland-Zurich/Software-Engineering-Intern--Physics-Simulation---2027_JR2029066) | Switzerland, Zurich |  | 19d |
-| **Nvidia** | [AI Compiler Intern, CUDA Tile IR - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Switzerland-Zurich/AI-Compiler-Intern--CUDA-Tile-IR---Summer-2027_JR2029069) | Switzerland, Zurich |  | 21d |
-| **Amazon** | [SLAM / Computer Vision Intern, RIVR](https://www.amazon.jobs/en/jobs/10595274/slam-computer-vision-intern-rivr) | CH, Zurich |  | 21d |
-| **KanadeviaInova** | [Internship (6 months) - Data Analysis and Correlations for Tender Engin…](https://jobs.smartrecruiters.com/KanadeviaInova/744000158765980-internship-6-months-data-analysis-and-correlations-for-tender-engineering?oga=true) | Zürich, ZH, Switzerland (Hybrid) |  | 25d |
-| **Nestlé** | [Software Engineering Intern](https://career2.successfactors.eu/careers?company=nestleHRprdBX&career_ns=job_listing&career_job_req_id=425626) | Switzerland |  | 25d |
-| **Skydio** | [Autonomy Engineer Intern, Simulation & Robotics, 2027 (Zurich)](https://jobs.ashbyhq.com/skydio/05f020b1-9023-49c5-bac4-42dbd8552d3a) | Zurich, Switzerland | $98K | 28d |
-| **Nvidia** | [GenAI Algorithms Intern – Model Optimization for Inference](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Switzerland-Zurich/GenAI-Algorithms-Intern---Model-Optimization-for-Inference_JR2028597) | Switzerland, Zurich |  | 29d |
+| **Gravisrobotics** | [Data Engineer Intern](https://jobs.lever.co/gravisrobotics/8a4a157c-7569-43e6-82b1-56e84033641d) | Zurich |  | 0d |
+| **Roche** | [AI & Automation Intern, Data Access and Sharing (Basel, 6 months)](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/AI---Automation-Intern--Data-Access-and-Sharing--Basel--6-months-_202610-127145) | Basel (Hybrid) |  | 1d |
+| **Harmattan Ai** | [Machine Learning Engineer Intern - Computer Vision](https://jobs.ashbyhq.com/harmattan-ai/8050180e-047d-4b10-af6f-d4a33d8ba21f) | Lausanne |  | 7d |
+| **Gravisrobotics** | [Software Engineer Intern - Robotics Platform](https://jobs.lever.co/gravisrobotics/3cc54f41-f1cd-4534-b2ba-09e11fbc9eba) | Zurich |  | 10d |
+| **Marvell Technology** | [Silicon Photonics Test & Characterisation Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/CH---Adliswil/Silicon-Photonics-Test---Characterisation-Intern_2605240) | CH - Adliswil |  | 10d |
+| **Marvell Technology** | [Silicon Photonic Design Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/CH---Adliswil/Silicon-Photonic-Design-Intern_2605294) | CH - Adliswil |  | 10d |
+| **Nvidia** | [Software Engineering Intern, Physics Simulation - 2027](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Switzerland-Zurich/Software-Engineering-Intern--Physics-Simulation---2027_JR2029066) | Switzerland, Zurich |  | 20d |
+| **Nvidia** | [AI Compiler Intern, CUDA Tile IR - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Switzerland-Zurich/AI-Compiler-Intern--CUDA-Tile-IR---Summer-2027_JR2029069) | Switzerland, Zurich |  | 22d |
+| **Amazon** | [SLAM / Computer Vision Intern, RIVR](https://www.amazon.jobs/en/jobs/10595274/slam-computer-vision-intern-rivr) | CH, Zurich |  | 22d |
+| **KanadeviaInova** | [Internship (6 months) - Data Analysis and Correlations for Tender Engin…](https://jobs.smartrecruiters.com/KanadeviaInova/744000158765980-internship-6-months-data-analysis-and-correlations-for-tender-engineering?oga=true) | Zürich, ZH, Switzerland (Hybrid) |  | 26d |
+| **Nestlé** | [Software Engineering Intern](https://career2.successfactors.eu/careers?company=nestleHRprdBX&career_ns=job_listing&career_job_req_id=425626) | Switzerland |  | 26d |
+| **Skydio** | [Autonomy Engineer Intern, Simulation & Robotics, 2027 (Zurich)](https://jobs.ashbyhq.com/skydio/05f020b1-9023-49c5-bac4-42dbd8552d3a) | Zurich, Switzerland | $98K | 29d |
+| **Nvidia** | [GenAI Algorithms Intern – Model Optimization for Inference](https://nvidia.wd5.myworkdayjobs.com/NvidiaExternalCareerSite/job/Switzerland-Zurich/GenAI-Algorithms-Intern---Model-Optimization-for-Inference_JR2028597) | Switzerland, Zurich |  | 1mo |
 | **Adobe** | [2027 Intern- Software Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Basel/XMLNAME-2027-Intern--Software-Engineer_R173015) | Basel (Hybrid) | $115K | 1mo |
 | **Nvidia** | [Developer Technology Engineering Intern - Compute Performance](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2027949) | 2 Locations |  | 1mo |
 | **Lombardodier** | [Generative AI Intern](https://lombardodier.wd3.myworkdayjobs.com/Lombard_Odier_Careers/job/Geneva/Generative-AI-Intern_R0007656) | Geneva |  | 1mo |
@@ -59,9 +60,9 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **due to several reasons.** | [Data Science - PhD Internship Opportunities](https://microsoft.eightfold.ai/careers/job/1970393557072640) | Switzerland, Zürich, Zürich |  | 4d |
-| **Microsoft** | [Data Science - PhD Internship OpportunitiesSwitzerland, Zürich, Zürich](https://apply.careers.microsoft.com/careers/job/1970393557072640?l=en_us&pg=1&pgSz=20&o=Recent) | — |  | 5d |
-| **Swissquote** | [Digital Designer Intern](https://jobs.smartrecruiters.com/Swissquote/744000161750331-digital-designer-intern?oga=true) | Gland, VD, Switzerland |  | 8d |
+| **due to several reasons.** | [Data Science - PhD Internship Opportunities](https://microsoft.eightfold.ai/careers/job/1970393557072640) | Switzerland, Zürich, Zürich |  | 5d |
+| **Microsoft** | [Data Science - PhD Internship OpportunitiesSwitzerland, Zürich, Zürich](https://apply.careers.microsoft.com/careers/job/1970393557072640?l=en_us&pg=1&pgSz=20&o=Recent) | — |  | 6d |
+| **Swissquote** | [Digital Designer Intern](https://jobs.smartrecruiters.com/Swissquote/744000161750331-digital-designer-intern?oga=true) | Gland, VD, Switzerland |  | 9d |
 | **Bosch** | [Internship - Global Product Management REF297536H](https://jobs.smartrecruiters.com/BoschGroup/744000152931867-internship-global-product-management-ref297536h?oga=true) | Solothurn/Zuchwil, , Switzerland |  | 1mo |
 | **Lombardodier** | [Internship – Data Engineer - Accelerating Adoption of Microsoft Fabric](https://lombardodier.wd3.myworkdayjobs.com/Lombard_Odier_Careers/job/Geneva/Internship---Data-Engineer---Accelerating-Adoption-of-Microsoft-Fabric_R0007638) | Geneva |  | 2mo |
 | **Bosch** | [Internship – Design Sustainable Packaging REF296423S](https://jobs.smartrecruiters.com/BoschGroup/744000149893909-internship-design-sustainable-packaging-ref296423s?oga=true) | Solothurn/Zuchwil, , Switzerland |  | 2mo |

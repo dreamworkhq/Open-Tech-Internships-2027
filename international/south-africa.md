@@ -2,18 +2,20 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**4 currently open roles** · Updated **2026-11-24**
+**6 currently open roles** · Updated **2026-11-25**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Other](#other-4) · 4 roles
+- [Other](#other-6) · 6 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Other (4)
+### Other (6)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
+| **Fa Evmr Saasfaprod1** | [Student Intern - Data Viz & UX](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40388) | South Africa |  | 0d |
+| **Fa Evmr Saasfaprod1** | [Student Intern – AI and Innovation](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40392) | South Africa |  | 0d |
 | **Amazon** | [2027 Software Dev Engineer Intern - ZAF](https://www.amazon.jobs/en/jobs/10576864/2027-software-dev-engineer-intern-zaf) | ZA, Cape Town |  | 1mo |
 | **Amazon** | [Cloud Support Associate Internship - April 2027 start, Support Engineer…](https://www.amazon.jobs/en/jobs/10567708/cloud-support-associate-internship-april-2027-start-support-engineering) | ZA, Cape Town |  | 1mo |
 | **Amazon** | [Data Center Engineering Operations - 2027 Internship](https://www.amazon.jobs/en/jobs/10566414/data-center-engineering-operations-2027-internship) | ZA, Cape Town |  | 1mo |
