@@ -4,16 +4,16 @@ Verified-open crypto, blockchain, and web3 internships worldwide, updated daily.
 
 [← US tech internships](README.md) · [International internships](INTERNATIONAL.md) · [Business internships](BUSINESS.md)
 
-**69 open internships** · **20 companies** · **34 added in the last 24 hours** · Updated **2026-11-26**
+**70 open internships** · **20 companies** · **1 added in the last 24 hours** · Updated **2026-11-27**
 
-Every role links directly to the company's career page. Indexed from company career pages and maintained by [Dreamwork](https://github.com/dreamworkhq), which crawls 2.9M+ live jobs.
+Every role links directly to the company's career page. Indexed from company career pages and maintained by [Dreamwork](https://github.com/dreamworkhq), which crawls 3.1M+ live jobs.
 
 - [Engineering](#engineering-22) · 22 roles
 - [Operations](#operations-13) · 13 roles
 - [Marketing](#marketing-11) · 11 roles
 - [Research](#research-6) · 6 roles
 - [Sales](#sales-5) · 5 roles
-- [Other](#other-12) · 12 roles
+- [Other](#other-13) · 13 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
@@ -21,14 +21,14 @@ Every role links directly to the company's career page. Indexed from company car
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Brave** | [Software Development Intern - Waterloo University - Web3 Core](https://job-boards.greenhouse.io/brave/jobs/8412532) | Remote (Canada) | $51K | 1d |
-| **Ritual** | [Software Engineer Intern](https://weworkremotely.com/remote-jobs/ritual-software-engineer-intern) | Remote |  | 1d |
-| **General Dynamics Mission Systems** | [Software Test Engineering Intern - Space and Embedded Crypto](https://careers-gdms.icims.com/jobs/75633/software-test-engineering-intern---space-and-embedded-crypto/job) | Scottsdale, AZ, US (Hybrid) |  | 6d |
-| **Keyrock** | [Innovation Quant Developer Intern (DeFi/Corporate Development) - London](https://jobs.ashbyhq.com/Keyrock/99a38fdd-4250-42b9-a92b-5c0f48d563fd) | London |  | 8d |
-| **Bybit** | [\[Intern\] Test Development Engineer Intern](https://job-boards.eu.greenhouse.io/bybit/jobs/5034554101) | Hong Kong SAR |  | 12d |
-| **Bybit** | [Mobile Development Engineer Intern](https://job-boards.eu.greenhouse.io/bybit/jobs/5016935101) | Hong Kong SAR; Kuala Lumpur, Malaysia |  | 12d |
-| **Thales** | [STAGE - Mise en oeuvre de la crypto PQC pour le Data Centric Security (…](https://thales.wd3.myworkdayjobs.com/Careers/job/Palaiseau/STAGE---Mise-en-oeuvre-de-la-crypto-PQC-pour-le-Data-Centric-Security--F-H-_R0344674) | Palaiseau (Hybrid) |  | 20d |
-| **Keyrock** | [Innovation Quant Developer Intern (DeFi/Corporate Development) - Brusse…](https://jobs.ashbyhq.com/Keyrock/d2d0a311-b102-4fda-b537-1a8e926b55c7) | Brussels |  | 26d |
+| **Brave** | [Software Development Intern - Waterloo University - Web3 Core](https://job-boards.greenhouse.io/brave/jobs/8412532) | Remote (Canada) | $51K | 2d |
+| **Ritual** | [Software Engineer Intern](https://weworkremotely.com/remote-jobs/ritual-software-engineer-intern) | Remote |  | 2d |
+| **General Dynamics Mission Systems** | [Software Test Engineering Intern - Space and Embedded Crypto](https://careers-gdms.icims.com/jobs/75633/software-test-engineering-intern---space-and-embedded-crypto/job) | Scottsdale, AZ, US (Hybrid) |  | 7d |
+| **Keyrock** | [Innovation Quant Developer Intern (DeFi/Corporate Development) - London](https://jobs.ashbyhq.com/Keyrock/99a38fdd-4250-42b9-a92b-5c0f48d563fd) | London |  | 9d |
+| **Bybit** | [\[Intern\] Test Development Engineer Intern](https://job-boards.eu.greenhouse.io/bybit/jobs/5034554101) | Hong Kong SAR |  | 13d |
+| **Bybit** | [Mobile Development Engineer Intern](https://job-boards.eu.greenhouse.io/bybit/jobs/5016935101) | Hong Kong SAR; Kuala Lumpur, Malaysia |  | 13d |
+| **Thales** | [STAGE - Mise en oeuvre de la crypto PQC pour le Data Centric Security (…](https://thales.wd3.myworkdayjobs.com/Careers/job/Palaiseau/STAGE---Mise-en-oeuvre-de-la-crypto-PQC-pour-le-Data-Centric-Security--F-H-_R0344674) | Palaiseau (Hybrid) |  | 21d |
+| **Keyrock** | [Innovation Quant Developer Intern (DeFi/Corporate Development) - Brusse…](https://jobs.ashbyhq.com/Keyrock/d2d0a311-b102-4fda-b537-1a8e926b55c7) | Brussels |  | 27d |
 | **General Dynamics Mission Systems** | [Software Engineer Intern for Crypto & Cross Domain Solutions](https://careers-gdms.icims.com/jobs/75477/software-engineer-intern-for-crypto-%26-cross-domain-solutions/job) | Scottsdale, AZ, US (Hybrid) |  | 1mo |
 | **Merklescience** | [Software Engineer - Intern (Frontend)](https://jobs.lever.co/merklescience/20675d00-156c-4f3f-a9bf-4cacee176bc2) | Bangalore |  | 1mo |
 | **Bybit** | [AI Development Engineer Intern](https://job-boards.eu.greenhouse.io/bybit/jobs/4974271101) | Kuala Lumpur, Malaysia |  | 2mo |
@@ -48,44 +48,44 @@ Every role links directly to the company's career page. Indexed from company car
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Binance** | [Binance Accelerator Program - VIP User Operations](https://job-boards.eu.greenhouse.io/binance/jobs/5017518101) | Remote (Hong Kong) |  | 0d |
-| **Binance** | [Binance Accelerator Program - CRM Operations (APAC Based)](https://job-boards.eu.greenhouse.io/binance/jobs/5028190101) | Remote (Hong Kong; Malaysia; Singapore; Taiwan) |  | 0d |
-| **Binance** | [Binance Accelerator Program - User Growth - Lifecycle Operations](https://job-boards.eu.greenhouse.io/binance/jobs/5013438101) | Remote (Hong Kong) |  | 0d |
-| **Binance** | [Binance Accelerator Program- Monitorship](https://job-boards.eu.greenhouse.io/binance/jobs/5002421101) | Remote (Hong Kong; Mexico; Singapore) |  | 0d |
-| **Binance** | [Binance Accelerator Program -Earn Operations](https://job-boards.eu.greenhouse.io/binance/jobs/5007956101) | Remote (Hong Kong) |  | 0d |
-| **Binance** | [Binance Accelerator Program - VIP Institutional Growth & Operations](https://job-boards.eu.greenhouse.io/binance/jobs/5018739101) | Remote (Hong Kong; Singapore) |  | 0d |
-| **Binance** | [Binance Accelerator Program - Compliance Training (AI)](https://job-boards.eu.greenhouse.io/binance/jobs/5024608101) | Remote (Australia; Bahrain; Hong Kong; New Zeal…) |  | 0d |
-| **Binance** | [Binance Accelerator Programme - Campaigns Operations, Binance Square](https://job-boards.eu.greenhouse.io/binance/jobs/5002557101) | Hong Kong; Malaysia; Singapore; Taiwan |  | 0d |
-| **Binance** | [Binance Accelerator Program - Affiliate Operations](https://job-boards.eu.greenhouse.io/binance/jobs/5010675101) | Remote (Indonesia; Malaysia; Philippines; Singa…) |  | 0d |
-| **Binance** | [Binance Accelerator Program - Global Swag](https://job-boards.eu.greenhouse.io/binance/jobs/5002445101) | Remote (Hong Kong) |  | 0d |
-| **Binance** | [Binance Accelerator Program - Growth Operations (BigPay)](https://job-boards.eu.greenhouse.io/binance/jobs/5033076101) | Remote (Hong Kong; Malaysia; Singapore; Taiwan) |  | 0d |
-| **Binance** | [Binance Accelerator Program - User Communications Specialist (Chinese C…](https://job-boards.eu.greenhouse.io/binance/jobs/5044142101) | Remote (Hong Kong; Malaysia; Singapore) |  | 0d |
-| **Binance** | [Binance Accelerator Program -Language Operations](https://job-boards.eu.greenhouse.io/binance/jobs/5006615101) | Remote (Hong Kong) |  | 0d |
+| **Binance** | [Binance Accelerator Program - VIP User Operations](https://job-boards.eu.greenhouse.io/binance/jobs/5017518101) | Remote (Hong Kong) |  | 1d |
+| **Binance** | [Binance Accelerator Program - CRM Operations (APAC Based)](https://job-boards.eu.greenhouse.io/binance/jobs/5028190101) | Remote (Hong Kong; Malaysia; Singapore; Taiwan) |  | 1d |
+| **Binance** | [Binance Accelerator Program - User Growth - Lifecycle Operations](https://job-boards.eu.greenhouse.io/binance/jobs/5013438101) | Remote (Hong Kong) |  | 1d |
+| **Binance** | [Binance Accelerator Program- Monitorship](https://job-boards.eu.greenhouse.io/binance/jobs/5002421101) | Remote (Hong Kong; Mexico; Singapore) |  | 1d |
+| **Binance** | [Binance Accelerator Program -Earn Operations](https://job-boards.eu.greenhouse.io/binance/jobs/5007956101) | Remote (Hong Kong) |  | 1d |
+| **Binance** | [Binance Accelerator Program - VIP Institutional Growth & Operations](https://job-boards.eu.greenhouse.io/binance/jobs/5018739101) | Remote (Hong Kong; Singapore) |  | 1d |
+| **Binance** | [Binance Accelerator Program - Compliance Training (AI)](https://job-boards.eu.greenhouse.io/binance/jobs/5024608101) | Remote (Australia; Bahrain; Hong Kong; New Zeal…) |  | 1d |
+| **Binance** | [Binance Accelerator Programme - Campaigns Operations, Binance Square](https://job-boards.eu.greenhouse.io/binance/jobs/5002557101) | Hong Kong; Malaysia; Singapore; Taiwan |  | 1d |
+| **Binance** | [Binance Accelerator Program - Affiliate Operations](https://job-boards.eu.greenhouse.io/binance/jobs/5010675101) | Remote (Indonesia; Malaysia; Philippines; Singa…) |  | 1d |
+| **Binance** | [Binance Accelerator Program - Global Swag](https://job-boards.eu.greenhouse.io/binance/jobs/5002445101) | Remote (Hong Kong) |  | 1d |
+| **Binance** | [Binance Accelerator Program - Growth Operations (BigPay)](https://job-boards.eu.greenhouse.io/binance/jobs/5033076101) | Remote (Hong Kong; Malaysia; Singapore; Taiwan) |  | 1d |
+| **Binance** | [Binance Accelerator Program - User Communications Specialist (Chinese C…](https://job-boards.eu.greenhouse.io/binance/jobs/5044142101) | Remote (Hong Kong; Malaysia; Singapore) |  | 1d |
+| **Binance** | [Binance Accelerator Program -Language Operations](https://job-boards.eu.greenhouse.io/binance/jobs/5006615101) | Remote (Hong Kong) |  | 1d |
 
 ### Marketing (11)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Binance** | [Binance Accelerator Program - Brand Partnerships](https://job-boards.eu.greenhouse.io/binance/jobs/5002491101) | Remote (Hong Kong; Taiwan) |  | 0d |
-| **Binance** | [Binance Accelerator Program - Affiliate BD](https://job-boards.eu.greenhouse.io/binance/jobs/5002599101) | Remote (Kazakhstan; Singapore; United Arab Emir…) |  | 0d |
-| **Binance** | [Binance Accelerator Program - Marketing (South East Asia)](https://job-boards.eu.greenhouse.io/binance/jobs/5015084101) | Remote (Philippines) |  | 0d |
-| **Binance** | [Binance Accelerator Program - Events](https://job-boards.eu.greenhouse.io/binance/jobs/5002319101) | Hong Kong; Malaysia; Singapore |  | 0d |
-| **Binance** | [Binance Accelerator Program - CIS Growth Marketing](https://job-boards.eu.greenhouse.io/binance/jobs/5036865101) | Remote (CIS & CEE; Kazakhstan) |  | 0d |
-| **Binance** | [Binance Accelerator Program - Paid Ads (Greater China)](https://job-boards.eu.greenhouse.io/binance/jobs/5002621101) | Remote (Hong Kong; Taiwan) |  | 0d |
-| **Binance** | [Binance Accelerator Program - Ads Implementation](https://job-boards.eu.greenhouse.io/binance/jobs/5002743101) | Remote (Hong Kong; India; Malaysia; Taiwan; Uni…) |  | 0d |
-| **Binance** | [Binance Accelerator Program - Social & Content](https://job-boards.eu.greenhouse.io/binance/jobs/5026804101) | Remote (Philippines) |  | 0d |
-| **Binance** | [Binance Accelerator Program - Growth Marketing (Vietnam)](https://job-boards.eu.greenhouse.io/binance/jobs/5020869101) | Remote (Vietnam) |  | 0d |
-| **Binance** | [Binance Accelerator Program - Public Relations](https://job-boards.eu.greenhouse.io/binance/jobs/5012687101) | Remote (United Arab Emirates) |  | 0d |
-| **Binance** | [Binance Accelerator Program - Community & Events (Africa)](https://job-boards.eu.greenhouse.io/binance/jobs/5002317101) | Remote (South Africa) |  | 0d |
+| **Binance** | [Binance Accelerator Program - Brand Partnerships](https://job-boards.eu.greenhouse.io/binance/jobs/5002491101) | Remote (Hong Kong; Taiwan) |  | 1d |
+| **Binance** | [Binance Accelerator Program - Affiliate BD](https://job-boards.eu.greenhouse.io/binance/jobs/5002599101) | Remote (Kazakhstan; Singapore; United Arab Emir…) |  | 1d |
+| **Binance** | [Binance Accelerator Program - Marketing (South East Asia)](https://job-boards.eu.greenhouse.io/binance/jobs/5015084101) | Remote (Philippines) |  | 1d |
+| **Binance** | [Binance Accelerator Program - Events](https://job-boards.eu.greenhouse.io/binance/jobs/5002319101) | Hong Kong; Malaysia; Singapore; United Arab… |  | 1d |
+| **Binance** | [Binance Accelerator Program - CIS Growth Marketing](https://job-boards.eu.greenhouse.io/binance/jobs/5036865101) | Remote (CIS & CEE; Kazakhstan) |  | 1d |
+| **Binance** | [Binance Accelerator Program - Paid Ads (Greater China)](https://job-boards.eu.greenhouse.io/binance/jobs/5002621101) | Remote (Hong Kong; Taiwan) |  | 1d |
+| **Binance** | [Binance Accelerator Program - Ads Implementation](https://job-boards.eu.greenhouse.io/binance/jobs/5002743101) | Remote (Hong Kong; India; Malaysia; Taiwan; Uni…) |  | 1d |
+| **Binance** | [Binance Accelerator Program - Social & Content](https://job-boards.eu.greenhouse.io/binance/jobs/5026804101) | Remote (Philippines) |  | 1d |
+| **Binance** | [Binance Accelerator Program - Growth Marketing (Vietnam)](https://job-boards.eu.greenhouse.io/binance/jobs/5020869101) | Remote (Vietnam) |  | 1d |
+| **Binance** | [Binance Accelerator Program - Public Relations](https://job-boards.eu.greenhouse.io/binance/jobs/5012687101) | Remote (United Arab Emirates) |  | 1d |
+| **Binance** | [Binance Accelerator Program - Community & Events (Africa)](https://job-boards.eu.greenhouse.io/binance/jobs/5002317101) | Remote (South Africa) |  | 1d |
 
 ### Research (6)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Binance** | [Binance Accelerator Program - Research Data Analyst](https://job-boards.eu.greenhouse.io/binance/jobs/5002563101) | Remote (Hong Kong; Malaysia; Singapore) |  | 0d |
-| **Ritual** | [Research Intern](https://weworkremotely.com/remote-jobs/ritual-research-intern) | Remote |  | 2d |
-| **a16z Crypto** | [Research Intern, Frontier](https://a16z.com/about/jobs/?gh_jid=8046730003) | New York, New York, United States | $182K–$234K | 25d |
-| **Keyrock** | [DeFi Quant Research Intern (Digital Assets Market Making) - Brussels](https://jobs.ashbyhq.com/Keyrock/4cae20e0-f315-4ccb-aa8e-df0e87969313) | Brussels |  | 26d |
+| **Binance** | [Binance Accelerator Program - Research Data Analyst](https://job-boards.eu.greenhouse.io/binance/jobs/5002563101) | Remote (Hong Kong; Malaysia; Singapore) |  | 1d |
+| **Ritual** | [Research Intern](https://weworkremotely.com/remote-jobs/ritual-research-intern) | Remote |  | 3d |
+| **a16z Crypto** | [Research Intern, Frontier](https://a16z.com/about/jobs/?gh_jid=8046730003) | New York, New York, United States | $182K–$234K | 26d |
+| **Keyrock** | [DeFi Quant Research Intern (Digital Assets Market Making) - Brussels](https://jobs.ashbyhq.com/Keyrock/4cae20e0-f315-4ccb-aa8e-df0e87969313) | Brussels |  | 27d |
 | **Jump Trading** | [Campus Crypto Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7362318) | London |  | 6mo |
 | **Jump Trading** | [Campus Crypto Researcher (Full-Time)](https://www.jumptrading.com/hr/job?gh_jid=7217856) | London |  | 6mo |
 
@@ -93,22 +93,23 @@ Every role links directly to the company's career page. Indexed from company car
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Binance** | [Binance Accelerator Program - VIP Sales operation](https://job-boards.eu.greenhouse.io/binance/jobs/5005247101) | Remote (Hong Kong) |  | 0d |
-| **Binance** | [Binance Accelerator Program- VIP & Institutional Sales](https://job-boards.eu.greenhouse.io/binance/jobs/5020282101) | Remote (United Arab Emirates) |  | 0d |
-| **Binance** | [Binance Accelerator Program - Affiliate BD (Greater China)](https://job-boards.eu.greenhouse.io/binance/jobs/5002633101) | Remote (Hong Kong; Taiwan) |  | 0d |
-| **Binance** | [Binance Accelerator Program - TradFI Business Development](https://job-boards.eu.greenhouse.io/binance/jobs/5002315101) | Remote (Hong Kong; Malaysia; United Arab Emirat…) |  | 0d |
-| **Binance** | [Binance Accelerator Program - VIP Sales](https://job-boards.eu.greenhouse.io/binance/jobs/5002283101) | Remote (Brazil; Colombia; Mexico; United Arab E…) |  | 0d |
+| **Binance** | [Binance Accelerator Program - VIP Sales operation](https://job-boards.eu.greenhouse.io/binance/jobs/5005247101) | Remote (Hong Kong) |  | 1d |
+| **Binance** | [Binance Accelerator Program- VIP & Institutional Sales](https://job-boards.eu.greenhouse.io/binance/jobs/5020282101) | Remote (United Arab Emirates) |  | 1d |
+| **Binance** | [Binance Accelerator Program - Affiliate BD (Greater China)](https://job-boards.eu.greenhouse.io/binance/jobs/5002633101) | Remote (Hong Kong; Taiwan) |  | 1d |
+| **Binance** | [Binance Accelerator Program - TradFI Business Development](https://job-boards.eu.greenhouse.io/binance/jobs/5002315101) | Remote (Hong Kong; Malaysia; United Arab Emirat…) |  | 1d |
+| **Binance** | [Binance Accelerator Program - VIP Sales](https://job-boards.eu.greenhouse.io/binance/jobs/5002283101) | Remote (Brazil; Colombia; Mexico; United Arab E…) |  | 1d |
 
-### Other (12)
+### Other (13)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Binance** | [Binance Accelerator Program- Business Intelligence Analyst](https://job-boards.eu.greenhouse.io/binance/jobs/5015528101) | Remote (Hong Kong) |  | 0d |
-| **Binance** | [Binance Acceleration Program - Product Data Analyst](https://job-boards.eu.greenhouse.io/binance/jobs/5013528101) | Remote (Hong Kong; Singapore; Taiwan) |  | 0d |
-| **Binance** | [Binance Accelerator Program - Internal Audit (Technology)](https://job-boards.eu.greenhouse.io/binance/jobs/5002254101) | Remote (Hong Kong; Singapore; Taiwan; United Ar…) |  | 0d |
-| **Binance** | [Binance Accelerator Program - Brand Design](https://job-boards.eu.greenhouse.io/binance/jobs/5025885101) | Remote (Australia; Malaysia; Singapore; United …) |  | 0d |
-| **Keyrock** | [DeFi Quant Trader Intern (Credit) - London](https://jobs.ashbyhq.com/Keyrock/959a9226-816b-4894-80e6-feaa79018d03) | London (Hybrid) |  | 8d |
-| **Keyrock** | [DeFi Quant Trader Intern (Credit) - Brussels](https://jobs.ashbyhq.com/Keyrock/6b46ce15-7e6b-4213-9eb4-41cc64577e24) | Brussels |  | 26d |
+| **Binance** | [Binance Accelerator Program - Strategy Product Manager](https://job-boards.eu.greenhouse.io/binance/jobs/5040940101) | Remote (Singapore) |  | 0d |
+| **Binance** | [Binance Accelerator Program- Business Intelligence Analyst](https://job-boards.eu.greenhouse.io/binance/jobs/5015528101) | Remote (Hong Kong) |  | 1d |
+| **Binance** | [Binance Acceleration Program - Product Data Analyst](https://job-boards.eu.greenhouse.io/binance/jobs/5013528101) | Remote (Hong Kong; Singapore; Taiwan) |  | 1d |
+| **Binance** | [Binance Accelerator Program - Internal Audit (Technology)](https://job-boards.eu.greenhouse.io/binance/jobs/5002254101) | Remote (Hong Kong; Singapore; Taiwan; United Ar…) |  | 1d |
+| **Binance** | [Binance Accelerator Program - Brand Design](https://job-boards.eu.greenhouse.io/binance/jobs/5025885101) | Remote (Australia; Malaysia; Singapore; United …) |  | 1d |
+| **Keyrock** | [DeFi Quant Trader Intern (Credit) - London](https://jobs.ashbyhq.com/Keyrock/959a9226-816b-4894-80e6-feaa79018d03) | London (Hybrid) |  | 9d |
+| **Keyrock** | [DeFi Quant Trader Intern (Credit) - Brussels](https://jobs.ashbyhq.com/Keyrock/6b46ce15-7e6b-4213-9eb4-41cc64577e24) | Brussels |  | 27d |
 | **Recrutement Banque De France** | [SG DEFI DEVELOPPEUR - ANALYSTE FINANCIER H/F](https://bdf.wd103.myworkdayjobs.com/recrutement-banque-de-france/job/PARIS/SG-DEFI-DEVELOPPEUR---ANALYSTE-FINANCIER-H-F_JR101484) | PARIS |  | 1mo |
 | **Bybit** | [\[Intern\] Big Data Development Engineer Intern](https://job-boards.eu.greenhouse.io/bybit/jobs/4971692101) | Hong Kong SAR |  | 2mo |
 | **Skymavis** | [Security Operations Intern](https://jobs.ashbyhq.com/skymavis/077388d7-385f-46e2-b7f0-e870deecd707) | Vietnam |  | 3mo |
